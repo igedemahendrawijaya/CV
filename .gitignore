@@ -1,0 +1,29 @@
+# Ignore everything by default
+*
+
+# Allow directories so git can traverse them
+!*/
+
+# Explicitly ignore dependencies, build folder, and personal backup folders
+node_modules/
+dist/
+Certificate/
+Jus Mangga/
+
+# Whitelist configurations and source files in root
+!.gitignore
+!package.json
+!package-lock.json
+!vite.config.js
+!index.html
+!script.js
+!style.css
+!data.js
+
+# Whitelist public folder and all of its contents
+!public/
+!public/**
+
+# Whitelist .github workflows
+!.github/
+!.github/**
