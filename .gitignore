@@ -19,6 +19,7 @@ Jus Mangga/
 !script.js
 !style.css
 !data.js
+!deploy.bat
 
 # Whitelist public folder and all of its contents
 !public/
