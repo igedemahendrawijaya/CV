@@ -19,10 +19,17 @@ export const cvData = {
     ],
     experience: [
       {
+        role: "Head of Technical Workstream",
+        company: "PT Aksi Mitigasi Iklim (GHG Actions)",
+        location: "Denpasar (Hybrid Bali & Papua)",
+        period: "June 2026 – Present",
+        description: "Leading the technical workstream under the new organizational structure, primarily managing technical reporting for compliance with both international and national carbon business requirements and standards."
+      },
+      {
         role: "Project Manager - GHG Actions & Marine Ecosystem Restoration",
         company: "PT Aksi Mitigasi Iklim (GHG Actions)",
         location: "Denpasar (Hybrid Bali & Papua)",
-        period: "February 2023 – Present",
+        period: "February 2023 – June 2026",
         description: "Overseeing and managing terrestrial and marine ecosystem restoration projects from initiation to completion, including project management, monitoring and evaluation, risk and impact management (environmental and social), contingency planning, and stakeholder collaboration with government agencies, NGOs, local communities, and indigenous peoples to build support and ensure project success by referring to relevant environmental regulations and policies."
       },
       {
@@ -961,10 +968,17 @@ export const cvData = {
     ],
     experience: [
       {
+        role: "Head of Technical Workstream",
+        company: "PT Aksi Mitigasi Iklim (GHG Actions)",
+        location: "Denpasar (Hibrida Bali & Papua)",
+        period: "Juni 2026 – Sekarang",
+        description: "Memimpin workstream teknis di bawah struktur organisasi baru perusahaan, dengan fokus utama mengelola pelaporan teknis untuk pemenuhan persyaratan bisnis karbon di tingkat nasional maupun internasional."
+      },
+      {
         role: "Manajer Proyek - Aksi GRK & Restorasi Ekosistem Laut",
         company: "PT Aksi Mitigasi Iklim (GHG Actions)",
         location: "Denpasar (Hibrida Bali & Papua)",
-        period: "Februari 2023 – Sekarang",
+        period: "Februari 2023 – Juni 2026",
         description: "Mengawasi dan mengelola proyek restorasi ekosistem darat dan laut dari inisiasi hingga selesai, termasuk manajemen proyek, monitoring dan evaluasi, manajemen risiko dan dampak (lingkungan dan sosial), perencanaan kontinjensi, serta kolaborasi pemangku kepentingan dengan instansi pemerintah, LSM, masyarakat lokal, dan masyarakat adat untuk membangun dukungan dan memastikan keberhasilan proyek dengan merujuk pada peraturan dan kebijakan lingkungan yang relevan."
       },
       {
