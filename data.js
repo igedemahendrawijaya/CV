@@ -23,7 +23,7 @@ export const cvData = {
         company: "PT Aksi Mitigasi Iklim (GHG Actions)",
         location: "Denpasar (Hybrid Bali & Papua)",
         period: "June 2026 – Present",
-        description: "Leading the technical workstream under the new organizational structure, primarily managing technical reporting for compliance with both international and national carbon business requirements and standards."
+        description: "Leading the technical workstream under the new organizational structure to manage technical reporting for compliance with international and national carbon standards (such as Verra, SRUK Indonesia, and JCM) and carbon ratings. Ensuring baseline reporting compliance to generate defensible, high-quality carbon credits, as well as applying nature-based frameworks to support biodiversity credits."
       },
       {
         role: "Project Manager - GHG Actions & Marine Ecosystem Restoration",
@@ -972,7 +972,7 @@ export const cvData = {
         company: "PT Aksi Mitigasi Iklim (GHG Actions)",
         location: "Denpasar (Hibrida Bali & Papua)",
         period: "Juni 2026 – Sekarang",
-        description: "Memimpin workstream teknis di bawah struktur organisasi baru perusahaan, dengan fokus utama mengelola pelaporan teknis untuk pemenuhan persyaratan bisnis karbon di tingkat nasional maupun internasional."
+        description: "Memimpin workstream teknis di bawah struktur organisasi baru perusahaan untuk mengelola pelaporan teknis guna memenuhi standar karbon internasional dan nasional (seperti Verra, SRUK Indonesia, dan JCM) serta peringkat karbon (carbon rating). Hal ini bertujuan untuk memenuhi pelaporan dasar agar patuh (comply) dan menghasilkan kredit karbon berkualitas tinggi yang dapat dipertanggungjawabkan (defensible, high-quality carbon credits), serta menerapkan nature framework untuk kredit keanekaragaman hayati (biodiversity credits)."
       },
       {
         role: "Manajer Proyek - Aksi GRK & Restorasi Ekosistem Laut",
