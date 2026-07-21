@@ -228,6 +228,7 @@ export const cvData = {
         category: "marine",
         tags: ["Octopus Fishery", "Fisheries Trade", "Marine Assessment", "Restricted Access"],
         description: "Technical report providing a comprehensive status assessment of octopus fisheries, supply chain dynamics, and international trade flow in Indonesia.",
+        image: "/reports/octopus.png",
         restricted: true
       },
       {
@@ -237,6 +238,7 @@ export const cvData = {
         category: "marine",
         tags: ["Ecosystem Valuation", "Pelagic Ecosystems", "Ocean Economy", "Restricted Access"],
         description: "Economic and ecological evaluation of pelagic ecosystem services, ocean resource productivity, and marine natural capital in Indonesia.",
+        image: "/reports/pelagic_ecosystem.png",
         restricted: true
       },
       {
@@ -246,6 +248,7 @@ export const cvData = {
         category: "marine",
         tags: ["Tongkol Supply Chain", "Tuna Fishery", "Market Analysis", "Restricted Access"],
         description: "In-depth investigation into the Tongkol (Eastern Little Tuna) supply chain, market flow, post-harvest losses, and coastal livelihoods in Indonesia.",
+        image: "/reports/tongkol_supply_chain.png",
         restricted: true
       },
       {
@@ -255,6 +258,7 @@ export const cvData = {
         category: "marine",
         tags: ["Marine Mammals", "Bioacoustics", "Interaction Mitigation", "Restricted Access"],
         description: "Scientific investigation on marine mammal interaction risks, acoustic disturbance, and mitigation protocols during offshore marine operations.",
+        image: "/reports/marine_mammals.png",
         restricted: true
       },
       {
@@ -264,6 +268,7 @@ export const cvData = {
         category: "marine",
         tags: ["Tuna Investment", "WFF", "Fisheries Governance", "Restricted Access"],
         description: "Strategic investment roadmap and market intervention strategies for sustainable tuna fisheries management in Indonesia.",
+        image: "/reports/tuna_wff.png",
         restricted: true
       },
       {
@@ -273,6 +278,7 @@ export const cvData = {
         category: "marine",
         tags: ["Biodiversity Survey", "Anambas Islands", "Coral Reefs", "Restricted Access"],
         description: "Baseline survey and long-term ecological monitoring report of coral reef ecosystems, fish biomass, and marine biodiversity in the Anambas archipelago.",
+        image: "/reports/anambas_biodiversity.png",
         restricted: true
       },
       {
@@ -282,6 +288,7 @@ export const cvData = {
         category: "aquaculture",
         tags: ["Aquaculture Scoping", "Smart Farming", "Sustainable Growth", "Restricted Access"],
         description: "Scoping study evaluating investment potential, technological readiness, and environmental safeguards for sustainable aquaculture expansion in Indonesia.",
+        image: "/reports/aquaculture_scoping.png",
         restricted: true
       },
       {
@@ -291,6 +298,7 @@ export const cvData = {
         category: "marine",
         tags: ["Purse Seine", "Tuna FIP", "Fisheries Reform", "Restricted Access"],
         description: "Comprehensive sector review of tuna purse seine operations to support MSC certification readiness and national Fisheries Improvement Program (FIP) goals.",
+        image: "/reports/purse_seine_fip.png",
         restricted: true
       },
       {
@@ -300,6 +308,7 @@ export const cvData = {
         category: "marine",
         tags: ["Lucipara Islands", "Marine Wildlife", "Conservation Options", "Restricted Access"],
         description: "Feasibility study and policy recommendations for establishing marine wildlife protection mechanisms in the remote Lucipara Islands.",
+        image: "/reports/lucipara_conservation.png",
         restricted: true
       },
       {
@@ -309,6 +318,7 @@ export const cvData = {
         category: "marine",
         tags: ["Coastal Policy", "Blue Investment", "Governance Note", "Restricted Access"],
         description: "High-level policy review and analytical note identifying strategic investment entry points for sustainable coastal and marine growth.",
+        image: "/reports/coastal_policy_investment.png",
         restricted: true
       },
       {
@@ -318,6 +328,7 @@ export const cvData = {
         category: "marine",
         tags: ["Oceans MDTF", "KKPD Alor", "PPP Gap Analysis", "Restricted Access"],
         description: "Gap analysis assessing Public-Private Partnership (PPP) models for sustainable financing and co-management of the Alor Marine Protected Area (KKPD Alor).",
+        image: "/reports/alor_ppp_gap_analysis.png",
         restricted: true
       },
       {
@@ -327,6 +338,7 @@ export const cvData = {
         category: "marine",
         tags: ["RZWP3K", "Coastal Zoning", "NTT Province", "Restricted Access"],
         description: "Diagnostic report analyzing regulatory, institutional, and spatial gaps in implementing provincial coastal zoning plans (RZWP3K) in NTT.",
+        image: "/reports/rzwp3k_ntt_gaps.png",
         restricted: true
       },
       {
@@ -336,6 +348,7 @@ export const cvData = {
         category: "environment",
         tags: ["ESIA", "Eco Fishing Port", "Kendari", "AFD", "Restricted Access"],
         description: "Full Environmental and Social Impact Assessment (ESIA) for the USD 111M AFD-funded Kendari eco-fishing port expansion project.",
+        image: "/reports/kendari_port_esia.png",
         restricted: true
       },
       {
@@ -345,6 +358,7 @@ export const cvData = {
         category: "marine",
         tags: ["Coral Bond", "Law Enforcement", "Marine Conservation", "Restricted Access"],
         description: "Assessment of marine law enforcement capacity, governance risks, and institutional frameworks supporting the Coral Bond Investment Project Financing (IPF).",
+        image: "/reports/coral_bond_law.png",
         restricted: true
       },
       {
@@ -354,6 +368,7 @@ export const cvData = {
         category: "environment",
         tags: ["PPS Cilacap", "Socio-Economic", "Eco Fishing Port", "Restricted Access"],
         description: "Detailed socio-economic baseline, stakeholder impacts, and gender action plan for the PPS Cilacap eco-fishing port modernization initiative.",
+        image: "/reports/cilacap_socio_economic.png",
         restricted: true
       },
       {
@@ -363,6 +378,7 @@ export const cvData = {
         category: "marine",
         tags: ["Kolepom MPA", "UNDP", "Zoning Plan", "Papua", "Restricted Access"],
         description: "Draft zoning plan and spatial management document for the Kolepom Island Marine Protected Area in Merauke District, South Papua.",
+        image: "/reports/kolepom_mpa_zoning.png",
         restricted: true
       }
     ],
@@ -1361,6 +1377,7 @@ export const cvData = {
         category: "marine",
         tags: ["Perikanan Gurita", "Perdagangan Perikanan", "Penilaian Laut", "Akses Terbatas"],
         description: "Laporan teknis komprehensif mengenai penilaian status perikanan gurita, dinamika rantai pasok, dan arus perdagangan internasional di Indonesia.",
+        image: "/reports/octopus.png",
         restricted: true
       },
       {
@@ -1370,6 +1387,7 @@ export const cvData = {
         category: "marine",
         tags: ["Valuasi Ekosistem", "Ekosistem Pelagis", "Ekonomi Kelautan", "Akses Terbatas"],
         description: "Evaluasi ekonomi dan ekologis dari layanan ekosistem pelagis, produktivitas sumber daya laut, dan modal alam laut di Indonesia.",
+        image: "/reports/pelagic_ecosystem.png",
         restricted: true
       },
       {
@@ -1379,6 +1397,7 @@ export const cvData = {
         category: "marine",
         tags: ["Rantai Pasok Tongkol", "Perikanan Tuna", "Analisis Pasar", "Akses Terbatas"],
         description: "Investigasi mendalam mengenai rantai pasok ikan tongkol, alur pasar, susut pascapanen, dan mata pencaharian masyarakat pesisir di Indonesia.",
+        image: "/reports/tongkol_supply_chain.png",
         restricted: true
       },
       {
@@ -1388,6 +1407,7 @@ export const cvData = {
         category: "marine",
         tags: ["Mamalia Laut", "Bioakustik", "Mitigasi Interaksi", "Akses Terbatas"],
         description: "Investigasi ilmiah mengenai risiko interaksi mamalia laut, gangguan akustik, dan protokol mitigasi selama operasi kelautan lepas pantai.",
+        image: "/reports/marine_mammals.png",
         restricted: true
       },
       {
@@ -1397,6 +1417,7 @@ export const cvData = {
         category: "marine",
         tags: ["Investasi Tuna", "WFF", "Tata Kelola Perikanan", "Akses Terbatas"],
         description: "Peta jalan investasi strategis dan strategi intervensi pasar untuk pengelolaan perikanan tuna yang berkelanjutan di Indonesia.",
+        image: "/reports/tuna_wff.png",
         restricted: true
       },
       {
@@ -1406,6 +1427,7 @@ export const cvData = {
         category: "marine",
         tags: ["Survei Keanekaragaman", "Kepulauan Anambas", "Terumbu Karang", "Akses Terbatas"],
         description: "Survei rona awal dan laporan pemantauan ekologis jangka panjang ekosistem terumbu karang, biomassa ikan, dan keanekaragaman hayati laut di Anambas.",
+        image: "/reports/anambas_biodiversity.png",
         restricted: true
       },
       {
@@ -1415,6 +1437,7 @@ export const cvData = {
         category: "aquaculture",
         tags: ["Scoping Akuakultur", "Pertanian Pintar", "Pertumbuhan Berkelanjutan", "Akses Terbatas"],
         description: "Studi penjajakan yang mengevaluasi potensi investasi, kesiapan teknologi, dan perlindungan lingkungan untuk ekspansi akuakultur berkelanjutan di Indonesia.",
+        image: "/reports/aquaculture_scoping.png",
         restricted: true
       },
       {
@@ -1424,6 +1447,7 @@ export const cvData = {
         category: "marine",
         tags: ["Purse Seine", "FIP Tuna", "Reformasi Perikanan", "Akses Terbatas"],
         description: "Kajian sektor komprehensif operasi pukat cincin (purse seine) tuna untuk mendukung kesiapan sertifikasi MSC dan target FIP nasional.",
+        image: "/reports/purse_seine_fip.png",
         restricted: true
       },
       {
@@ -1433,6 +1457,7 @@ export const cvData = {
         category: "marine",
         tags: ["Kepulauan Lucipara", "Satwa Laut", "Opsi Konservasi", "Akses Terbatas"],
         description: "Studi kelayakan dan rekomendasi kebijakan untuk pembentukan mekanisme perlindungan satwa liar laut di Kepulauan Lucipara.",
+        image: "/reports/lucipara_conservation.png",
         restricted: true
       },
       {
@@ -1442,6 +1467,7 @@ export const cvData = {
         category: "marine",
         tags: ["Kebijakan Pesisir", "Investasi Biru", "Catatan Tata Kelola", "Akses Terbatas"],
         description: "Tinjauan kebijakan tingkat tinggi dan catatan analitis yang mengidentifikasi titik masuk investasi strategis untuk pertumbuhan pesisir dan laut.",
+        image: "/reports/coastal_policy_investment.png",
         restricted: true
       },
       {
@@ -1451,6 +1477,7 @@ export const cvData = {
         category: "marine",
         tags: ["Oceans MDTF", "KKPD Alor", "Kesenjangan KPBU", "Akses Terbatas"],
         description: "Analisis kesenjangan yang mengevaluasi model Kerjasama Pemerintah dan Badan Usaha (KPBU) untuk pendanaan berkelanjutan dan pengelolaan bersama KKP Alor.",
+        image: "/reports/alor_ppp_gap_analysis.png",
         restricted: true
       },
       {
@@ -1460,6 +1487,7 @@ export const cvData = {
         category: "marine",
         tags: ["RZWP3K", "Zonasi Pesisir", "Provinsi NTT", "Akses Terbatas"],
         description: "Laporan diagnostik yang menganalisis kesenjangan regulasi, institusional, dan tata ruang dalam mengimplementasikan rencana zonasi pesisir (RZWP3K) di NTT.",
+        image: "/reports/rzwp3k_ntt_gaps.png",
         restricted: true
       },
       {
@@ -1469,6 +1497,7 @@ export const cvData = {
         category: "environment",
         tags: ["ESIA", "Eco Fishing Port", "Kendari", "AFD", "Akses Terbatas"],
         description: "Penilaian Impact Lingkungan dan Sosial (ESIA) penuh untuk proyek perluasan pelabuhan perikanan ramah lingkungan Kendari senilai USD 111 juta yang didanai AFD.",
+        image: "/reports/kendari_port_esia.png",
         restricted: true
       },
       {
@@ -1478,6 +1507,7 @@ export const cvData = {
         category: "marine",
         tags: ["Coral Bond", "Penegakan Hukum", "Konservasi Laut", "Akses Terbatas"],
         description: "Penilaian kapasitas penegakan hukum laut, risiko tata kelola, dan kerangka kerja institusional yang mendukung pembiayaan proyek Coral Bond (IPF).",
+        image: "/reports/coral_bond_law.png",
         restricted: true
       },
       {
@@ -1487,6 +1517,7 @@ export const cvData = {
         category: "environment",
         tags: ["PPS Cilacap", "Sosial-Ekonomi", "Eco Fishing Port", "Akses Terbatas"],
         description: "Rona awal sosial-ekonomi mendalam, dampak pemangku kepentingan, dan rencana aksi gender untuk inisiatif modernisasi pelabuhan eco-fishing PPS Cilacap.",
+        image: "/reports/cilacap_socio_economic.png",
         restricted: true
       },
       {
@@ -1496,6 +1527,7 @@ export const cvData = {
         category: "marine",
         tags: ["KKP Kolepom", "UNDP", "Rencana Zonasi", "Papua", "Akses Terbatas"],
         description: "Draf dokumen rencana zonasi dan pengelolaan tata ruang untuk Kawasan Konservasi Perairan Pulau Kolepom di Kabupaten Merauke, Papua Selatan.",
+        image: "/reports/kolepom_mpa_zoning.png",
         restricted: true
       }
     ],
