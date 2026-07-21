@@ -229,7 +229,7 @@ export const cvData = {
         category: "aquaculture",
         tags: ["Aquaculture", "HCD", "Vocational Curriculum"],
         description: "Developed blended learning vocational curriculum and online quality control solutions for shrimp aquaculture using HCD methods with over 30 farmers.",
-        image: "https://images.unsplash.com/photo-1535591273668-578e31182c4f?auto=format&fit=crop&w=800&q=80"
+        image: "https://images.unsplash.com/photo-1565680018434-b513d5e5fd47?auto=format&fit=crop&w=1000&q=80"
       },
       {
         title: "HCD for 4.0 Aquaculture Application",
@@ -238,7 +238,7 @@ export const cvData = {
         category: "aquaculture",
         tags: ["Smart Farming", "IoT Hardware", "Mobile App"],
         description: "Built minimum viable hardware and software for online quality control in shrimp aquaculture.",
-        image: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80"
+        image: "https://images.unsplash.com/photo-1559742811-822863cc4c7e?auto=format&fit=crop&w=1000&q=80"
       },
       {
         title: "Current Status of Octopus Fishery and Trade in Indonesia",
@@ -287,7 +287,7 @@ export const cvData = {
         category: "marine",
         tags: ["Tuna Investment", "WFF", "Fisheries Governance", "Restricted Access"],
         description: "Strategic investment roadmap and market intervention strategies for sustainable tuna fisheries management in Indonesia.",
-        image: "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1000&q=80",
+        image: "https://images.unsplash.com/photo-1534043464124-3be32fe000c9?auto=format&fit=crop&w=1000&q=80",
         restricted: true
       },
       {
@@ -297,7 +297,7 @@ export const cvData = {
         category: "marine",
         tags: ["Biodiversity Survey", "Anambas Islands", "Coral Reefs", "Restricted Access"],
         description: "Baseline survey and long-term ecological monitoring report of coral reef ecosystems, fish biomass, and marine biodiversity in the Anambas archipelago.",
-        image: "https://images.unsplash.com/photo-1506929562872-bb421503ef21?auto=format&fit=crop&w=1000&q=80",
+        image: "https://images.unsplash.com/photo-1546026423-cc4642628d2b?auto=format&fit=crop&w=1000&q=80",
         restricted: true
       },
       {
@@ -307,7 +307,7 @@ export const cvData = {
         category: "aquaculture",
         tags: ["Aquaculture Scoping", "Smart Farming", "Sustainable Growth", "Restricted Access"],
         description: "Scoping study evaluating investment potential, technological readiness, and environmental safeguards for sustainable aquaculture expansion in Indonesia.",
-        image: "https://images.unsplash.com/photo-1535591273668-578e31182c4f?auto=format&fit=crop&w=1000&q=80",
+        image: "https://images.unsplash.com/photo-1565680018434-b513d5e5fd47?auto=format&fit=crop&w=1000&q=80",
         restricted: true
       },
       {
@@ -1397,7 +1397,7 @@ export const cvData = {
         category: "aquaculture",
         tags: ["Akuakultur", "HCD", "Kurikulum Vokasi"],
         description: "Mengembangkan kurikulum vokasi blended learning dan solusi kontrol kualitas online untuk budidaya udang dengan metode HCD bersama lebih dari 30 pembudidaya.",
-        image: "https://images.unsplash.com/photo-1535591273668-578e31182c4f?auto=format&fit=crop&w=800&q=80"
+        image: "https://images.unsplash.com/photo-1565680018434-b513d5e5fd47?auto=format&fit=crop&w=1000&q=80"
       },
       {
         title: "Penerapan HCD untuk Aplikasi Akuakultur 4.0",
@@ -1406,7 +1406,7 @@ export const cvData = {
         category: "aquaculture",
         tags: ["Pertanian Pintar", "IoT Perangkat Keras", "Aplikasi Ponsel"],
         description: "Membangun perangkat keras dan lunak minimum viable (MVP) untuk kontrol kualitas air online dalam budidaya udang.",
-        image: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80"
+        image: "https://images.unsplash.com/photo-1559742811-822863cc4c7e?auto=format&fit=crop&w=1000&q=80"
       },
       {
         title: "Status Terkini Perikanan dan Perdagangan Gurita di Indonesia",
@@ -1455,7 +1455,7 @@ export const cvData = {
         category: "marine",
         tags: ["Investasi Tuna", "WFF", "Tata Kelola Perikanan", "Akses Terbatas"],
         description: "Peta jalan investasi strategis dan strategi intervensi pasar untuk pengelolaan perikanan tuna yang berkelanjutan di Indonesia.",
-        image: "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=1000&q=80",
+        image: "https://images.unsplash.com/photo-1534043464124-3be32fe000c9?auto=format&fit=crop&w=1000&q=80",
         restricted: true
       },
       {
@@ -1465,7 +1465,7 @@ export const cvData = {
         category: "marine",
         tags: ["Survei Keanekaragaman", "Kepulauan Anambas", "Terumbu Karang", "Akses Terbatas"],
         description: "Survei rona awal dan laporan pemantauan ekologis jangka panjang ekosistem terumbu karang, biomassa ikan, dan keanekaragaman hayati laut di Anambas.",
-        image: "https://images.unsplash.com/photo-1506929562872-bb421503ef21?auto=format&fit=crop&w=1000&q=80",
+        image: "https://images.unsplash.com/photo-1546026423-cc4642628d2b?auto=format&fit=crop&w=1000&q=80",
         restricted: true
       },
       {
@@ -1475,7 +1475,7 @@ export const cvData = {
         category: "aquaculture",
         tags: ["Scoping Akuakultur", "Pertanian Pintar", "Pertumbuhan Berkelanjutan", "Akses Terbatas"],
         description: "Studi penjajakan yang mengevaluasi potensi investasi, kesiapan teknologi, dan perlindungan lingkungan untuk ekspansi akuakultur berkelanjutan di Indonesia.",
-        image: "https://images.unsplash.com/photo-1535591273668-578e31182c4f?auto=format&fit=crop&w=1000&q=80",
+        image: "https://images.unsplash.com/photo-1565680018434-b513d5e5fd47?auto=format&fit=crop&w=1000&q=80",
         restricted: true
       },
       {
