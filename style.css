@@ -367,8 +367,7 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: radial-gradient(ellipse at center, rgba(244, 249, 248, 0.6) 0%, var(--bg-deep) 100%),
-              url('https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&q=80&w=2000') no-repeat center center/cover;
+  background: url('./images/coral_reef.jpg') no-repeat center center/cover;
   padding-top: var(--header-height);
   overflow: hidden;
 }
@@ -559,11 +558,14 @@ a {
 
 /* --- Stats Counter Section --- */
 .stats-section {
-  background: #ffffff;
+  position: relative;
+  background: linear-gradient(135deg, rgba(13, 148, 136, 0.92) 0%, rgba(2, 132, 199, 0.92) 100%),
+              url('./images/pelagic_fish.jpg') no-repeat center center/cover;
   border-top: 1px solid rgba(14, 148, 136, 0.15);
   border-bottom: 1px solid rgba(14, 148, 136, 0.15);
-  padding: 60px 0;
-  box-shadow: 0 4px 20px rgba(15, 23, 42, 0.03);
+  padding: 65px 0;
+  box-shadow: 0 4px 20px rgba(15, 23, 42, 0.05);
+  color: #ffffff;
 }
 
 .stats-container {
@@ -574,19 +576,19 @@ a {
 }
 
 .stat-item h3 {
-  font-size: 3rem;
+  font-size: 3.2rem;
   font-weight: 800;
-  background: var(--grad-primary);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #ffffff;
+  background: none;
+  -webkit-text-fill-color: #ffffff;
   margin-bottom: 5px;
 }
 
 .stat-item p {
-  color: var(--text-secondary);
+  color: rgba(255, 255, 255, 0.92);
   font-family: var(--font-heading);
-  font-size: 1rem;
-  font-weight: 500;
+  font-size: 0.95rem;
+  font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
@@ -680,6 +682,13 @@ a {
 }
 
 /* --- Projects Section --- */
+.projects-section {
+  position: relative;
+  background: linear-gradient(180deg, rgba(244, 249, 248, 0.94) 0%, rgba(255, 255, 255, 0.96) 100%),
+              url('./images/coastal_fisheries.jpg') no-repeat center center/cover;
+  background-attachment: fixed;
+}
+
 .project-filters {
   display: flex;
   justify-content: center;
@@ -835,6 +844,13 @@ a {
 }
 
 /* --- Certifications Section --- */
+.certificates-section {
+  position: relative;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.94) 0%, rgba(244, 249, 248, 0.96) 100%),
+              url('./images/mangrove.jpg') no-repeat center center/cover;
+  background-attachment: fixed;
+}
+
 .search-container {
   position: relative;
   max-width: 500px;
@@ -1107,10 +1123,11 @@ a {
 
 /* --- Footer --- */
 .footer {
-  background: #0f172a;
+  background: linear-gradient(180deg, rgba(15, 23, 42, 0.94) 0%, rgba(15, 23, 42, 0.98) 100%),
+              url('./images/rainforest.jpg') no-repeat center center/cover;
   color: #f8fafc;
   border-top: 1px solid rgba(255, 255, 255, 0.08);
-  padding: 60px 0 30px;
+  padding: 65px 0 30px;
 }
 
 .declaration-box {

@@ -150,10 +150,6 @@ function renderCertificates(lang, query = '') {
     const titleHtml = cert.link 
       ? `<a href="${cert.link}" target="_blank" class="cert-link">${cert.name} <i class="fa-solid fa-arrow-up-right-from-square" style="font-size: 0.75rem; margin-left: 6px; color: var(--primary-teal);"></i></a>`
       : cert.name;
-      
-    const descHtml = cert.description 
-      ? `<p class="cert-desc">${cert.description}</p>`
-      : '';
 
     return `
       <div class="certificate-card glass${cert.link ? ' has-link' : ''}">
@@ -162,7 +158,6 @@ function renderCertificates(lang, query = '') {
           <i class="fa-solid fa-certificate"></i>
         </div>
         <h3>${titleHtml}</h3>
-        ${descHtml}
         <div class="cert-issuer">
           <i class="fa-solid fa-award"></i> <span>${cert.issuer}</span>
         </div>
