@@ -65,6 +65,13 @@ function renderTimeline(lang) {
 }
 
 // Render Key Projects
+function resolveImgUrl(path) {
+  if (!path) return '';
+  if (path.startsWith('http')) return path;
+  const cleanPath = path.startsWith('/') ? path.slice(1) : path;
+  return './' + cleanPath;
+}
+
 function renderProjects(lang, filter = 'all') {
   if (!projectsGrid) return;
   const projects = cvData[lang].projects;
@@ -75,7 +82,7 @@ function renderProjects(lang, filter = 'all') {
   projectsGrid.innerHTML = filteredProjects.map(proj => `
     <div class="project-card glass${proj.restricted ? ' is-restricted' : ''}">
       <div class="card-glow"></div>
-      ${proj.image ? `<div class="project-image-container"><img src="${proj.image}" alt="${proj.title}" class="project-cover-img" loading="lazy"></div>` : ''}
+      ${proj.image ? `<div class="project-image-container"><img src="${resolveImgUrl(proj.image)}" alt="${proj.title}" class="project-cover-img" loading="lazy"></div>` : ''}
       <div class="project-card-body">
         <div class="project-card-top">
           <span class="project-category-badge">${cvData[lang].ui[`project${capitalize(proj.category)}`] || proj.category}</span>

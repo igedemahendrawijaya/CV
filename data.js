@@ -75,7 +75,8 @@ export const cvData = {
         period: "June - August 2023",
         category: "carbon",
         tags: ["Carbon", "Stakeholder Analysis", "Papua"],
-        description: "Pre-socialization reporting and stakeholder analysis for forest licensing activities in Southwest Papua at both district and provincial levels."
+        description: "Pre-socialization reporting and stakeholder analysis for forest licensing activities in Southwest Papua at both district and provincial levels.",
+        image: "https://images.unsplash.com/photo-1511497584788-876761c119ef?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Scoping Study for Preliminary Assessment",
@@ -83,7 +84,8 @@ export const cvData = {
         period: "March - June 2023",
         category: "carbon",
         tags: ["Carbon Scoping", "Feasibility Study", "Papua"],
-        description: "Scoping study for preliminary carbon concession assessments in Papua Barat Daya and Papua Barat Provinces."
+        description: "Scoping study for preliminary carbon concession assessments in Papua Barat Daya and Papua Barat Provinces.",
+        image: "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "High Carbon Stock Approach (HCSA) Assessments",
@@ -91,7 +93,8 @@ export const cvData = {
         period: "September 2022 - January 2023",
         category: "carbon",
         tags: ["HCSA", "HCV", "Social Expert"],
-        description: "Technical support as Social Expert in HCV and HCSA full assessments for three APRIL Group supply partners in the North Region."
+        description: "Technical support as Social Expert in HCV and HCSA full assessments for three APRIL Group supply partners in the North Region.",
+        image: "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Strategic Environmental and Social Assessment (SESA) for ETM",
@@ -99,7 +102,8 @@ export const cvData = {
         period: "August 2022 - January 2023",
         category: "carbon",
         tags: ["SESA", "Energy Transition", "ADB"],
-        description: "High-level scoping, baseline and regulatory framework assessment, and SESA workshop support for the Energy Transition Mechanism (ETM) in Indonesia."
+        description: "High-level scoping, baseline and regulatory framework assessment, and SESA workshop support for the Energy Transition Mechanism (ETM) in Indonesia.",
+        image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Establishment of Marine Protected Area (MPA) in Kolepom Island",
@@ -107,7 +111,8 @@ export const cvData = {
         period: "November 2021 - September 2022",
         category: "marine",
         tags: ["MPA", "UNDP", "Kolepom Island"],
-        description: "Facilitation of Working Group (POKJA) for the establishment of Kolepom Island MPA in Merauke District, featuring technical assistance to government and local community engagement."
+        description: "Facilitation of Working Group (POKJA) for the establishment of Kolepom Island MPA in Merauke District, featuring technical assistance to government and local community engagement.",
+        image: "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Fisheries Management & Coastal Community Livelihood (LAUTRA Phase 1)",
@@ -115,7 +120,8 @@ export const cvData = {
         period: "September 2020 - September 2022",
         category: "marine",
         tags: ["LAUTRA", "World Bank", "Fisheries Governance"],
-        description: "Preparation study addressing fisheries governance and coastal poverty to prepare the LAUTRA project phase one."
+        description: "Preparation study addressing fisheries governance and coastal poverty to prepare the LAUTRA project phase one.",
+        image: "https://images.unsplash.com/photo-1534777367038-9404f45b869a?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Pre-Feasibility Study: Management and Retrieval of ALDFG",
@@ -123,7 +129,8 @@ export const cvData = {
         period: "August 2020 - August 2022",
         category: "marine",
         tags: ["ALDFG", "Aquaculture", "World Bank"],
-        description: "Assessment on retrieval and recycling of Abandoned, Lost and Discarded Fishing Gear (ALDFG) and plastic waste inventory in aquaculture."
+        description: "Assessment on retrieval and recycling of Abandoned, Lost and Discarded Fishing Gear (ALDFG) and plastic waste inventory in aquaculture.",
+        image: "https://images.unsplash.com/photo-1621451537084-482c73073a0f?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "World Bank Coastal Fisheries Initiative Challenge Fund (CFI-CF)",
@@ -131,7 +138,8 @@ export const cvData = {
         period: "June 2020 - September 2022",
         category: "marine",
         tags: ["CFI-CF", "Sustainable Fisheries", "Business Plans"],
-        description: "Developed and supported sustainable fisheries business plans and investment opportunities under the Indonesia Sustainable Oceans Program (ISOP)."
+        description: "Developed and supported sustainable fisheries business plans and investment opportunities under the Indonesia Sustainable Oceans Program (ISOP).",
+        image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Transboundary Diagnostic Analysis for Indonesia Seas (TDA ISLME)",
@@ -139,7 +147,8 @@ export const cvData = {
         period: "June 2020 - March 2022",
         category: "marine",
         tags: ["FAO", "TDA", "Large Marine Ecosystem"],
-        description: "Thematic studies and reviews on environment, socio-economics, governance, and ecosystem services in the Indonesian Seas Large Marine Ecosystem."
+        description: "Thematic studies and reviews on environment, socio-economics, governance, and ecosystem services in the Indonesian Seas Large Marine Ecosystem.",
+        image: "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Evaluation of the Marine Programme of WWF Malaysia",
@@ -147,7 +156,8 @@ export const cvData = {
         period: "March 2020 - December 2021",
         category: "marine",
         tags: ["WWF", "M&E", "Marine Spatial Planning"],
-        description: "Monitoring and evaluation of marine spatial planning, sustainable fisheries, and community development programs."
+        description: "Monitoring and evaluation of marine spatial planning, sustainable fisheries, and community development programs.",
+        image: "https://images.unsplash.com/photo-1582967788606-a171c1080cb0?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Outer Ring Fishing Ports Development Project (Eco fishing Ports)",
@@ -155,7 +165,8 @@ export const cvData = {
         period: "March 2021 - October 2022",
         category: "marine",
         tags: ["Eco Fishing Ports", "AFD", "Safeguards"],
-        description: "Preparation studies for USD 111M eco fishing ports project, covering environmental, social, gender, and climate safeguards."
+        description: "Preparation studies for USD 111M eco fishing ports project, covering environmental, social, gender, and climate safeguards.",
+        image: "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Benefit Story Development for IPP Low-Cost Technology Pilot Project",
@@ -163,7 +174,8 @@ export const cvData = {
         period: "December 2021 - March 2022",
         category: "digital",
         tags: ["VMS", "Inmarsat", "MMAF"],
-        description: "Developed benefit stories for low-cost VMS pilot project integrating quotes from Ministry of Marine Affairs and Fisheries (MMAF) and fisherman survey data."
+        description: "Developed benefit stories for low-cost VMS pilot project integrating quotes from Ministry of Marine Affairs and Fisheries (MMAF) and fisherman survey data.",
+        image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "New VMS System Development, Implementation, and Migration",
@@ -171,7 +183,8 @@ export const cvData = {
         period: "August 2018 - October 2019",
         category: "digital",
         tags: ["VMS Development", "Tech Migration", "Fishing Vessels"],
-        description: "Backend scalability and end-user capability enhancements for 400 fishing vessels (20-30 GT and >30 GT)."
+        description: "Backend scalability and end-user capability enhancements for 400 fishing vessels (20-30 GT and >30 GT).",
+        image: "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Geofencing System Development (Phases 1 & 2)",
@@ -179,7 +192,8 @@ export const cvData = {
         period: "October 2017 - October 2019",
         category: "digital",
         tags: ["Geofencing", "Web Application", "Vessel Tracking"],
-        description: "Web-based VMS geofencing application integrating vessel positions relative to Marine Protected Areas (MPAs)."
+        description: "Web-based VMS geofencing application integrating vessel positions relative to Marine Protected Areas (MPAs).",
+        image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Independent Environmental & Social Consultant (Block 3 CCPP Tambak Lorok)",
@@ -187,7 +201,8 @@ export const cvData = {
         period: "January - November 2022",
         category: "environment",
         tags: ["ESAP", "Power Plant", "Compliance Monitoring"],
-        description: "ESAP compliance monitoring and consulting for the Block 3 CCPP Tambak Lorok Project in Semarang."
+        description: "ESAP compliance monitoring and consulting for the Block 3 CCPP Tambak Lorok Project in Semarang.",
+        image: "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Operational and Scientific Monitoring Plan (OSMP) Support",
@@ -195,7 +210,8 @@ export const cvData = {
         period: "October 2021 - January 2022",
         category: "environment",
         tags: ["OSMP", "Fauna Assessment", "Drilling Campaign"],
-        description: "Support for Carnavon Buffalo-10 Drilling Campaign, covering shoreline cleanup assessment technique (SCAT) and fauna assessment (reptiles, seabirds, cetaceans) in Indonesia and Timor-Leste."
+        description: "Support for Carnavon Buffalo-10 Drilling Campaign, covering shoreline cleanup assessment technique (SCAT) and fauna assessment (reptiles, seabirds, cetaceans) in Indonesia and Timor-Leste.",
+        image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Patimban Port Construction Marine Monitoring Program",
@@ -203,7 +219,8 @@ export const cvData = {
         period: "July 2018 - August 2019",
         category: "environment",
         tags: ["Patimban Port", "Marine Parameters", "Baseline Survey"],
-        description: "Conducted baseline survey and monthly monitoring for marine parameters (water quality, sediment, benthos, nekton)."
+        description: "Conducted baseline survey and monthly monitoring for marine parameters (water quality, sediment, benthos, nekton).",
+        image: "https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Shrimp Aquaculture Vocational Curriculum & Quality Control Solution",
@@ -211,7 +228,8 @@ export const cvData = {
         period: "August 2019 - January 2022",
         category: "aquaculture",
         tags: ["Aquaculture", "HCD", "Vocational Curriculum"],
-        description: "Developed blended learning vocational curriculum and online quality control solutions for shrimp aquaculture using HCD methods with over 30 farmers."
+        description: "Developed blended learning vocational curriculum and online quality control solutions for shrimp aquaculture using HCD methods with over 30 farmers.",
+        image: "https://images.unsplash.com/photo-1535591273668-578e31182c4f?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "HCD for 4.0 Aquaculture Application",
@@ -219,7 +237,8 @@ export const cvData = {
         period: "August 2018 - January 2021",
         category: "aquaculture",
         tags: ["Smart Farming", "IoT Hardware", "Mobile App"],
-        description: "Built minimum viable hardware and software for online quality control in shrimp aquaculture."
+        description: "Built minimum viable hardware and software for online quality control in shrimp aquaculture.",
+        image: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Current Status of Octopus Fishery and Trade in Indonesia",
@@ -228,7 +247,7 @@ export const cvData = {
         category: "marine",
         tags: ["Octopus Fishery", "Fisheries Trade", "Marine Assessment", "Restricted Access"],
         description: "Technical report providing a comprehensive status assessment of octopus fisheries, supply chain dynamics, and international trade flow in Indonesia.",
-        image: "/reports/octopus.png",
+        image: "reports/octopus.png",
         restricted: true
       },
       {
@@ -238,7 +257,7 @@ export const cvData = {
         category: "marine",
         tags: ["Ecosystem Valuation", "Pelagic Ecosystems", "Ocean Economy", "Restricted Access"],
         description: "Economic and ecological evaluation of pelagic ecosystem services, ocean resource productivity, and marine natural capital in Indonesia.",
-        image: "/reports/pelagic_ecosystem.png",
+        image: "reports/pelagic_ecosystem.png",
         restricted: true
       },
       {
@@ -248,7 +267,7 @@ export const cvData = {
         category: "marine",
         tags: ["Tongkol Supply Chain", "Tuna Fishery", "Market Analysis", "Restricted Access"],
         description: "In-depth investigation into the Tongkol (Eastern Little Tuna) supply chain, market flow, post-harvest losses, and coastal livelihoods in Indonesia.",
-        image: "/reports/tongkol_supply_chain.png",
+        image: "reports/tongkol_supply_chain.png",
         restricted: true
       },
       {
@@ -258,7 +277,7 @@ export const cvData = {
         category: "marine",
         tags: ["Marine Mammals", "Bioacoustics", "Interaction Mitigation", "Restricted Access"],
         description: "Scientific investigation on marine mammal interaction risks, acoustic disturbance, and mitigation protocols during offshore marine operations.",
-        image: "/reports/marine_mammals.png",
+        image: "reports/marine_mammals.png",
         restricted: true
       },
       {
@@ -268,7 +287,7 @@ export const cvData = {
         category: "marine",
         tags: ["Tuna Investment", "WFF", "Fisheries Governance", "Restricted Access"],
         description: "Strategic investment roadmap and market intervention strategies for sustainable tuna fisheries management in Indonesia.",
-        image: "/reports/tuna_wff.png",
+        image: "reports/tuna_wff.png",
         restricted: true
       },
       {
@@ -278,7 +297,7 @@ export const cvData = {
         category: "marine",
         tags: ["Biodiversity Survey", "Anambas Islands", "Coral Reefs", "Restricted Access"],
         description: "Baseline survey and long-term ecological monitoring report of coral reef ecosystems, fish biomass, and marine biodiversity in the Anambas archipelago.",
-        image: "/reports/anambas_biodiversity.png",
+        image: "reports/anambas_biodiversity.png",
         restricted: true
       },
       {
@@ -288,7 +307,7 @@ export const cvData = {
         category: "aquaculture",
         tags: ["Aquaculture Scoping", "Smart Farming", "Sustainable Growth", "Restricted Access"],
         description: "Scoping study evaluating investment potential, technological readiness, and environmental safeguards for sustainable aquaculture expansion in Indonesia.",
-        image: "/reports/aquaculture_scoping.png",
+        image: "reports/aquaculture_scoping.png",
         restricted: true
       },
       {
@@ -298,7 +317,7 @@ export const cvData = {
         category: "marine",
         tags: ["Purse Seine", "Tuna FIP", "Fisheries Reform", "Restricted Access"],
         description: "Comprehensive sector review of tuna purse seine operations to support MSC certification readiness and national Fisheries Improvement Program (FIP) goals.",
-        image: "/reports/purse_seine_fip.png",
+        image: "reports/purse_seine_fip.png",
         restricted: true
       },
       {
@@ -308,7 +327,7 @@ export const cvData = {
         category: "marine",
         tags: ["Lucipara Islands", "Marine Wildlife", "Conservation Options", "Restricted Access"],
         description: "Feasibility study and policy recommendations for establishing marine wildlife protection mechanisms in the remote Lucipara Islands.",
-        image: "/reports/lucipara_conservation.png",
+        image: "reports/lucipara_conservation.png",
         restricted: true
       },
       {
@@ -318,7 +337,7 @@ export const cvData = {
         category: "marine",
         tags: ["Coastal Policy", "Blue Investment", "Governance Note", "Restricted Access"],
         description: "High-level policy review and analytical note identifying strategic investment entry points for sustainable coastal and marine growth.",
-        image: "/reports/coastal_policy_investment.png",
+        image: "reports/coastal_policy_investment.png",
         restricted: true
       },
       {
@@ -328,7 +347,7 @@ export const cvData = {
         category: "marine",
         tags: ["Oceans MDTF", "KKPD Alor", "PPP Gap Analysis", "Restricted Access"],
         description: "Gap analysis assessing Public-Private Partnership (PPP) models for sustainable financing and co-management of the Alor Marine Protected Area (KKPD Alor).",
-        image: "/reports/alor_ppp_gap_analysis.png",
+        image: "reports/alor_ppp_gap_analysis.png",
         restricted: true
       },
       {
@@ -338,7 +357,7 @@ export const cvData = {
         category: "marine",
         tags: ["RZWP3K", "Coastal Zoning", "NTT Province", "Restricted Access"],
         description: "Diagnostic report analyzing regulatory, institutional, and spatial gaps in implementing provincial coastal zoning plans (RZWP3K) in NTT.",
-        image: "/reports/rzwp3k_ntt_gaps.png",
+        image: "reports/rzwp3k_ntt_gaps.png",
         restricted: true
       },
       {
@@ -348,7 +367,7 @@ export const cvData = {
         category: "environment",
         tags: ["ESIA", "Eco Fishing Port", "Kendari", "AFD", "Restricted Access"],
         description: "Full Environmental and Social Impact Assessment (ESIA) for the USD 111M AFD-funded Kendari eco-fishing port expansion project.",
-        image: "/reports/kendari_port_esia.png",
+        image: "reports/kendari_port_esia.png",
         restricted: true
       },
       {
@@ -358,7 +377,7 @@ export const cvData = {
         category: "marine",
         tags: ["Coral Bond", "Law Enforcement", "Marine Conservation", "Restricted Access"],
         description: "Assessment of marine law enforcement capacity, governance risks, and institutional frameworks supporting the Coral Bond Investment Project Financing (IPF).",
-        image: "/reports/coral_bond_law.png",
+        image: "reports/coral_bond_law.png",
         restricted: true
       },
       {
@@ -368,7 +387,7 @@ export const cvData = {
         category: "environment",
         tags: ["PPS Cilacap", "Socio-Economic", "Eco Fishing Port", "Restricted Access"],
         description: "Detailed socio-economic baseline, stakeholder impacts, and gender action plan for the PPS Cilacap eco-fishing port modernization initiative.",
-        image: "/reports/cilacap_socio_economic.png",
+        image: "reports/cilacap_socio_economic.png",
         restricted: true
       },
       {
@@ -378,7 +397,7 @@ export const cvData = {
         category: "marine",
         tags: ["Kolepom MPA", "UNDP", "Zoning Plan", "Papua", "Restricted Access"],
         description: "Draft zoning plan and spatial management document for the Kolepom Island Marine Protected Area in Merauke District, South Papua.",
-        image: "/reports/kolepom_mpa_zoning.png",
+        image: "reports/kolepom_mpa_zoning.png",
         restricted: true
       }
     ],
@@ -1224,7 +1243,8 @@ export const cvData = {
         period: "Juni - Agustus 2023",
         category: "carbon",
         tags: ["Karbon", "Analisis Stakeholder", "Papua"],
-        description: "Pembuatan laporan pra-sosialisasi dan analisis pemangku kepentingan untuk kegiatan perizinan kehutanan di Papua Barat Daya pada tingkat kabupaten dan provinsi."
+        description: "Pembuatan laporan pra-sosialisasi dan analisis pemangku kepentingan untuk kegiatan perizinan kehutanan di Papua Barat Daya pada tingkat kabupaten dan provinsi.",
+        image: "https://images.unsplash.com/photo-1511497584788-876761c119ef?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Studi Penjajakan untuk Penilaian Awal",
@@ -1232,7 +1252,8 @@ export const cvData = {
         period: "Maret - Juni 2023",
         category: "carbon",
         tags: ["Studi Karbon", "Studi Kelayakan", "Papua"],
-        description: "Studi penjajakan untuk penilaian awal konsesi karbon di Provinsi Papua Barat Daya dan Papua Barat."
+        description: "Studi penjajakan untuk penilaian awal konsesi karbon di Provinsi Papua Barat Daya dan Papua Barat.",
+        image: "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Penilaian Pendekatan Stok Karbon Tinggi (HCSA)",
@@ -1240,7 +1261,8 @@ export const cvData = {
         period: "September 2022 - Januari 2023",
         category: "carbon",
         tags: ["HCSA", "HCV", "Ahli Sosial"],
-        description: "Dukungan teknis sebagai Ahli Sosial dalam penilaian penuh HCV dan HCSA untuk tiga mitra pemasok APRIL Group di Wilayah Utara."
+        description: "Dukungan teknis sebagai Ahli Sosial dalam penilaian penuh HCV dan HCSA untuk tiga mitra pemasok APRIL Group di Wilayah Utara.",
+        image: "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Penilaian Lingkungan dan Sosial Strategis (SESA) untuk ETM",
@@ -1248,7 +1270,8 @@ export const cvData = {
         period: "Agustus 2022 - Januari 2023",
         category: "carbon",
         tags: ["SESA", "Transisi Energi", "ADB"],
-        description: "Studi penjajakan tingkat tinggi, penilaian kerangka peraturan dan rona awal, serta dukungan lokakarya SESA untuk Mekanisme Transisi Energi (ETM) di Indonesia."
+        description: "Studi penjajakan tingkat tinggi, penilaian kerangka peraturan dan rona awal, serta dukungan lokakarya SESA untuk Mekanisme Transisi Energi (ETM) di Indonesia.",
+        image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Fasilitasi Pokja Pembentukan Kawasan Konservasi Perairan (KKP) Pulau Kolepom",
@@ -1256,7 +1279,8 @@ export const cvData = {
         period: "November 2021 - September 2022",
         category: "marine",
         tags: ["KKP/MPA", "UNDP", "Pulau Kolepom"],
-        description: "Fasilitasi Kelompok Kerja (POKJA) untuk pembentukan KKP Pulau Kolepom di Kabupaten Merauke - bantuan teknis untuk pemerintah dan pelibatan masyarakat lokal."
+        description: "Fasilitasi Kelompok Kerja (POKJA) untuk pembentukan KKP Pulau Kolepom di Kabupaten Merauke - bantuan teknis untuk pemerintah dan pelibatan masyarakat lokal.",
+        image: "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Studi Pengelolaan Perikanan dan Mata Pencaharian Masyarakat Pesisir (LAUTRA Tahap 1)",
@@ -1264,7 +1288,8 @@ export const cvData = {
         period: "September 2020 - September 2022",
         category: "marine",
         tags: ["LAUTRA", "Bank Dunia", "Tata Kelola Perikanan"],
-        description: "Studi persiapan yang membahas tata kelola perikanan dan kemiskinan pesisir guna menyiapkan proyek LAUTRA tahap satu."
+        description: "Studi persiapan yang membahas tata kelola perikanan dan kemiskinan pesisir guna menyiapkan proyek LAUTRA tahap satu.",
+        image: "https://images.unsplash.com/photo-1534777367038-9404f45b869a?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Studi Pra-Kelayakan: Pengelolaan dan Pengambilan Alat Tangkap yang Hilang (ALDFG)",
@@ -1272,7 +1297,8 @@ export const cvData = {
         period: "Agustus 2020 - Agustus 2022",
         category: "marine",
         tags: ["ALDFG", "Akuakultur", "Bank Dunia"],
-        description: "Penilaian penarikan dan daur ulang Alat Penangkapan Ikan yang Dibuang, Hilang, atau Tidak Digunakan Lagi (ALDFG) serta inventarisasi sampah plastik budidaya."
+        description: "Penilaian penarikan dan daur ulang Alat Penangkapan Ikan yang Dibuang, Hilang, atau Tidak Digunakan Lagi (ALDFG) serta inventarisasi sampah plastik budidaya.",
+        image: "https://images.unsplash.com/photo-1621451537084-482c73073a0f?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "World Bank Coastal Fisheries Initiative Challenge Fund (CFI-CF)",
@@ -1280,7 +1306,8 @@ export const cvData = {
         period: "Juni 2020 - September 2022",
         category: "marine",
         tags: ["CFI-CF", "Perikanan Berkelanjutan", "Rencana Bisnis"],
-        description: "Mengembangkan dan mendukung rencana bisnis perikanan berkelanjutan dan peluang investasi di bawah Program Laut Berkelanjutan Indonesia (ISOP)."
+        description: "Mengembangkan dan mendukung rencana bisnis perikanan berkelanjutan dan peluang investasi di bawah Program Laut Berkelanjutan Indonesia (ISOP).",
+        image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Analisis Diagnostik Lintas Batas Laut Indonesia (TDA ISLME)",
@@ -1288,7 +1315,8 @@ export const cvData = {
         period: "Juni 2020 - Maret 2022",
         category: "marine",
         tags: ["FAO", "TDA", "Ekosistem Laut Besar"],
-        description: "Studi tematis dan tinjauan tentang lingkungan, sosial-ekonomi, tata kelola, dan layanan ekosistem di Ekosistem Laut Besar Indonesia."
+        description: "Studi tematis dan tinjauan tentang lingkungan, sosial-ekonomi, tata kelola, dan layanan ekosistem di Ekosistem Laut Besar Indonesia.",
+        image: "https://images.unsplash.com/photo-1518837695005-2083093ee35b?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Evaluasi Program Kelautan WWF Malaysia",
@@ -1296,7 +1324,8 @@ export const cvData = {
         period: "Maret 2020 - Desember 2021",
         category: "marine",
         tags: ["WWF", "M&E", "Tata Ruang Laut"],
-        description: "Monitoring dan evaluasi tata ruang laut, perikanan berkelanjutan, dan program pengembangan masyarakat."
+        description: "Monitoring dan evaluasi tata ruang laut, perikanan berkelanjutan, dan program pengembangan masyarakat.",
+        image: "https://images.unsplash.com/photo-1582967788606-a171c1080cb0?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Studi Persiapan Implementasi Proyek Pelabuhan Perikanan Ramah Lingkungan",
@@ -1304,7 +1333,8 @@ export const cvData = {
         period: "Maret 2021 - Oktober 2022",
         category: "marine",
         tags: ["Pelabuhan Hijau", "AFD", "Perlindungan Sosial"],
-        description: "Studi persiapan proyek pelabuhan perikanan ramah lingkungan senilai USD 111 juta, mencakup perlindungan lingkungan, sosial, gender, dan iklim."
+        description: "Studi persiapan proyek pelabuhan perikanan ramah lingkungan senilai USD 111 juta, mencakup perlindungan lingkungan, sosial, gender, dan iklim.",
+        image: "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Penyusunan Cerita Dampak untuk Proyek Percontohan Teknologi VMS Murah",
@@ -1312,7 +1342,8 @@ export const cvData = {
         period: "Desember 2021 - Maret 2022",
         category: "digital",
         tags: ["VMS", "Inmarsat", "KKP"],
-        description: "Menyusun kisah sukses penggunaan VMS berbiaya rendah dengan mengintegrasikan kutipan Kementerian Kelautan dan Perikanan (KKP) serta data survei nelayan."
+        description: "Menyusun kisah sukses penggunaan VMS berbiaya rendah dengan mengintegrasikan kutipan Kementerian Kelautan dan Perikanan (KKP) serta data survei nelayan.",
+        image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Pengembangan, Implementasi, dan Migrasi Sistem VMS Baru",
@@ -1320,7 +1351,8 @@ export const cvData = {
         period: "Agustus 2018 - Oktober 2019",
         category: "digital",
         tags: ["VMS Baru", "Migrasi Teknologi", "Kapal Perikanan"],
-        description: "Peningkatan skalabilitas backend dan kemampuan pengguna akhir untuk 400 kapal perikanan (20-30 GT dan >30 GT)."
+        description: "Peningkatan skalabilitas backend dan kemampuan pengguna akhir untuk 400 kapal perikanan (20-30 GT dan >30 GT).",
+        image: "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Pengembangan Sistem Pembatasan Wilayah Geofencing (Tahap 1 & 2)",
@@ -1328,7 +1360,8 @@ export const cvData = {
         period: "Oktober 2017 - Oktober 2019",
         category: "digital",
         tags: ["Geofencing", "Aplikasi Web", "Pelacakan Kapal"],
-        description: "Aplikasi geofencing VMS berbasis web yang mengintegrasikan posisi kapal relatif terhadap Kawasan Konservasi Perairan (KKP)."
+        description: "Aplikasi geofencing VMS berbasis web yang mengintegrasikan posisi kapal relatif terhadap Kawasan Konservasi Perairan (KKP).",
+        image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Konsultan Lingkungan & Sosial Independen (PLTGU Tambak Lorok Blok 3)",
@@ -1336,7 +1369,8 @@ export const cvData = {
         period: "Januari - November 2022",
         category: "environment",
         tags: ["ESAP", "Pembangkit Listrik", "Pemantauan Kepatuhan"],
-        description: "Pemantauan kepatuhan ESAP dan konsultasi untuk Proyek PLTGU Tambak Lorok Blok 3 di Semarang."
+        description: "Pemantauan kepatuhan ESAP dan konsultasi untuk Proyek PLTGU Tambak Lorok Blok 3 di Semarang.",
+        image: "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Dukungan Rencana Pemantauan Operasional dan Ilmiah (OSMP)",
@@ -1344,7 +1378,8 @@ export const cvData = {
         period: "Oktober 2021 - Januari 2022",
         category: "environment",
         tags: ["OSMP", "Penilaian Fauna", "Kampanye Pengeboran"],
-        description: "Dukungan untuk Kampanye Pengeboran Carnavon Buffalo-10, mencakup teknik penilaian pembersihan pantai (SCAT) dan penilaian fauna (reptil, burung laut, cetacea) di Indonesia dan Timor-Leste."
+        description: "Dukungan untuk Kampanye Pengeboran Carnavon Buffalo-10, mencakup teknik penilaian pembersihan pantai (SCAT) dan penilaian fauna (reptil, burung laut, cetacea) di Indonesia dan Timor-Leste.",
+        image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Program Pemantauan Laut Proyek Konstruksi Pelabuhan Patimban",
@@ -1352,7 +1387,8 @@ export const cvData = {
         period: "Juli 2018 - Agustus 2019",
         category: "environment",
         tags: ["Pelabuhan Patimban", "Parameter Laut", "Rona Awal"],
-        description: "Melakukan survei rona awal kelautan dan pemantauan bulanan untuk parameter laut (kualitas air, sedimen, benthos, nekton)."
+        description: "Melakukan survei rona awal kelautan dan pemantauan bulanan untuk parameter laut (kualitas air, sedimen, benthos, nekton).",
+        image: "https://images.unsplash.com/photo-1578575437130-527eed3abbec?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Pengembangan Kurikulum Vokasi Blended Learning & QC Budidaya Udang",
@@ -1360,7 +1396,8 @@ export const cvData = {
         period: "Agustus 2019 - Januari 2022",
         category: "aquaculture",
         tags: ["Akuakultur", "HCD", "Kurikulum Vokasi"],
-        description: "Mengembangkan kurikulum vokasi blended learning dan solusi kontrol kualitas online untuk budidaya udang dengan metode HCD bersama lebih dari 30 pembudidaya."
+        description: "Mengembangkan kurikulum vokasi blended learning dan solusi kontrol kualitas online untuk budidaya udang dengan metode HCD bersama lebih dari 30 pembudidaya.",
+        image: "https://images.unsplash.com/photo-1535591273668-578e31182c4f?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Penerapan HCD untuk Aplikasi Akuakultur 4.0",
@@ -1368,7 +1405,8 @@ export const cvData = {
         period: "Agustus 2018 - Januari 2021",
         category: "aquaculture",
         tags: ["Pertanian Pintar", "IoT Perangkat Keras", "Aplikasi Ponsel"],
-        description: "Membangun perangkat keras dan lunak minimum viable (MVP) untuk kontrol kualitas air online dalam budidaya udang."
+        description: "Membangun perangkat keras dan lunak minimum viable (MVP) untuk kontrol kualitas air online dalam budidaya udang.",
+        image: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80"
       },
       {
         title: "Status Terkini Perikanan dan Perdagangan Gurita di Indonesia",
@@ -1377,7 +1415,7 @@ export const cvData = {
         category: "marine",
         tags: ["Perikanan Gurita", "Perdagangan Perikanan", "Penilaian Laut", "Akses Terbatas"],
         description: "Laporan teknis komprehensif mengenai penilaian status perikanan gurita, dinamika rantai pasok, dan arus perdagangan internasional di Indonesia.",
-        image: "/reports/octopus.png",
+        image: "reports/octopus.png",
         restricted: true
       },
       {
@@ -1387,7 +1425,7 @@ export const cvData = {
         category: "marine",
         tags: ["Valuasi Ekosistem", "Ekosistem Pelagis", "Ekonomi Kelautan", "Akses Terbatas"],
         description: "Evaluasi ekonomi dan ekologis dari layanan ekosistem pelagis, produktivitas sumber daya laut, dan modal alam laut di Indonesia.",
-        image: "/reports/pelagic_ecosystem.png",
+        image: "reports/pelagic_ecosystem.png",
         restricted: true
       },
       {
@@ -1397,7 +1435,7 @@ export const cvData = {
         category: "marine",
         tags: ["Rantai Pasok Tongkol", "Perikanan Tuna", "Analisis Pasar", "Akses Terbatas"],
         description: "Investigasi mendalam mengenai rantai pasok ikan tongkol, alur pasar, susut pascapanen, dan mata pencaharian masyarakat pesisir di Indonesia.",
-        image: "/reports/tongkol_supply_chain.png",
+        image: "reports/tongkol_supply_chain.png",
         restricted: true
       },
       {
@@ -1407,7 +1445,7 @@ export const cvData = {
         category: "marine",
         tags: ["Mamalia Laut", "Bioakustik", "Mitigasi Interaksi", "Akses Terbatas"],
         description: "Investigasi ilmiah mengenai risiko interaksi mamalia laut, gangguan akustik, dan protokol mitigasi selama operasi kelautan lepas pantai.",
-        image: "/reports/marine_mammals.png",
+        image: "reports/marine_mammals.png",
         restricted: true
       },
       {
@@ -1417,7 +1455,7 @@ export const cvData = {
         category: "marine",
         tags: ["Investasi Tuna", "WFF", "Tata Kelola Perikanan", "Akses Terbatas"],
         description: "Peta jalan investasi strategis dan strategi intervensi pasar untuk pengelolaan perikanan tuna yang berkelanjutan di Indonesia.",
-        image: "/reports/tuna_wff.png",
+        image: "reports/tuna_wff.png",
         restricted: true
       },
       {
@@ -1427,7 +1465,7 @@ export const cvData = {
         category: "marine",
         tags: ["Survei Keanekaragaman", "Kepulauan Anambas", "Terumbu Karang", "Akses Terbatas"],
         description: "Survei rona awal dan laporan pemantauan ekologis jangka panjang ekosistem terumbu karang, biomassa ikan, dan keanekaragaman hayati laut di Anambas.",
-        image: "/reports/anambas_biodiversity.png",
+        image: "reports/anambas_biodiversity.png",
         restricted: true
       },
       {
@@ -1437,7 +1475,7 @@ export const cvData = {
         category: "aquaculture",
         tags: ["Scoping Akuakultur", "Pertanian Pintar", "Pertumbuhan Berkelanjutan", "Akses Terbatas"],
         description: "Studi penjajakan yang mengevaluasi potensi investasi, kesiapan teknologi, dan perlindungan lingkungan untuk ekspansi akuakultur berkelanjutan di Indonesia.",
-        image: "/reports/aquaculture_scoping.png",
+        image: "reports/aquaculture_scoping.png",
         restricted: true
       },
       {
@@ -1447,7 +1485,7 @@ export const cvData = {
         category: "marine",
         tags: ["Purse Seine", "FIP Tuna", "Reformasi Perikanan", "Akses Terbatas"],
         description: "Kajian sektor komprehensif operasi pukat cincin (purse seine) tuna untuk mendukung kesiapan sertifikasi MSC dan target FIP nasional.",
-        image: "/reports/purse_seine_fip.png",
+        image: "reports/purse_seine_fip.png",
         restricted: true
       },
       {
@@ -1457,7 +1495,7 @@ export const cvData = {
         category: "marine",
         tags: ["Kepulauan Lucipara", "Satwa Laut", "Opsi Konservasi", "Akses Terbatas"],
         description: "Studi kelayakan dan rekomendasi kebijakan untuk pembentukan mekanisme perlindungan satwa liar laut di Kepulauan Lucipara.",
-        image: "/reports/lucipara_conservation.png",
+        image: "reports/lucipara_conservation.png",
         restricted: true
       },
       {
@@ -1467,7 +1505,7 @@ export const cvData = {
         category: "marine",
         tags: ["Kebijakan Pesisir", "Investasi Biru", "Catatan Tata Kelola", "Akses Terbatas"],
         description: "Tinjauan kebijakan tingkat tinggi dan catatan analitis yang mengidentifikasi titik masuk investasi strategis untuk pertumbuhan pesisir dan laut.",
-        image: "/reports/coastal_policy_investment.png",
+        image: "reports/coastal_policy_investment.png",
         restricted: true
       },
       {
@@ -1477,7 +1515,7 @@ export const cvData = {
         category: "marine",
         tags: ["Oceans MDTF", "KKPD Alor", "Kesenjangan KPBU", "Akses Terbatas"],
         description: "Analisis kesenjangan yang mengevaluasi model Kerjasama Pemerintah dan Badan Usaha (KPBU) untuk pendanaan berkelanjutan dan pengelolaan bersama KKP Alor.",
-        image: "/reports/alor_ppp_gap_analysis.png",
+        image: "reports/alor_ppp_gap_analysis.png",
         restricted: true
       },
       {
@@ -1487,7 +1525,7 @@ export const cvData = {
         category: "marine",
         tags: ["RZWP3K", "Zonasi Pesisir", "Provinsi NTT", "Akses Terbatas"],
         description: "Laporan diagnostik yang menganalisis kesenjangan regulasi, institusional, dan tata ruang dalam mengimplementasikan rencana zonasi pesisir (RZWP3K) di NTT.",
-        image: "/reports/rzwp3k_ntt_gaps.png",
+        image: "reports/rzwp3k_ntt_gaps.png",
         restricted: true
       },
       {
@@ -1497,7 +1535,7 @@ export const cvData = {
         category: "environment",
         tags: ["ESIA", "Eco Fishing Port", "Kendari", "AFD", "Akses Terbatas"],
         description: "Penilaian Impact Lingkungan dan Sosial (ESIA) penuh untuk proyek perluasan pelabuhan perikanan ramah lingkungan Kendari senilai USD 111 juta yang didanai AFD.",
-        image: "/reports/kendari_port_esia.png",
+        image: "reports/kendari_port_esia.png",
         restricted: true
       },
       {
@@ -1507,7 +1545,7 @@ export const cvData = {
         category: "marine",
         tags: ["Coral Bond", "Penegakan Hukum", "Konservasi Laut", "Akses Terbatas"],
         description: "Penilaian kapasitas penegakan hukum laut, risiko tata kelola, dan kerangka kerja institusional yang mendukung pembiayaan proyek Coral Bond (IPF).",
-        image: "/reports/coral_bond_law.png",
+        image: "reports/coral_bond_law.png",
         restricted: true
       },
       {
@@ -1517,7 +1555,7 @@ export const cvData = {
         category: "environment",
         tags: ["PPS Cilacap", "Sosial-Ekonomi", "Eco Fishing Port", "Akses Terbatas"],
         description: "Rona awal sosial-ekonomi mendalam, dampak pemangku kepentingan, dan rencana aksi gender untuk inisiatif modernisasi pelabuhan eco-fishing PPS Cilacap.",
-        image: "/reports/cilacap_socio_economic.png",
+        image: "reports/cilacap_socio_economic.png",
         restricted: true
       },
       {
@@ -1527,7 +1565,7 @@ export const cvData = {
         category: "marine",
         tags: ["KKP Kolepom", "UNDP", "Rencana Zonasi", "Papua", "Akses Terbatas"],
         description: "Draf dokumen rencana zonasi dan pengelolaan tata ruang untuk Kawasan Konservasi Perairan Pulau Kolepom di Kabupaten Merauke, Papua Selatan.",
-        image: "/reports/kolepom_mpa_zoning.png",
+        image: "reports/kolepom_mpa_zoning.png",
         restricted: true
       }
     ],
