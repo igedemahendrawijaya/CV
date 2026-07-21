@@ -181,7 +181,7 @@ function renderReferences(lang) {
         <h3>${ref.name}</h3>
         <p class="ref-role">${ref.role}</p>
         <p class="ref-company">${ref.company}</p>
-        <p class="ref-contact">${ref.contact}</p>
+        <p class="ref-contact"><i class="fa-solid fa-user-shield" style="font-size: 0.8rem; margin-right: 6px; color: var(--primary-teal);"></i> ${ref.contact}</p>
       </div>
     </div>
   `).join('');

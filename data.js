@@ -1120,13 +1120,13 @@ export const cvData = {
         name: "Lida Pet-Soede",
         role: "Director of Marine Unit Service",
         company: "Hatfield Consultant",
-        contact: "Email: lpetsoede@hatfieldgroup.com"
+        contact: "Contact available upon request"
       },
       {
         name: "Dr. Wayan Nurjaya",
         role: "Head of Department of Marine Science and Technology",
         company: "IPB University",
-        contact: "Email: i.wayan.nurjaya@ipb.ac.id"
+        contact: "Contact available upon request"
       }
     ],
     ui: {
@@ -2288,13 +2288,13 @@ export const cvData = {
         name: "Lida Pet-Soede",
         role: "Direktur Layanan Unit Kelautan",
         company: "Hatfield Consultant",
-        contact: "Email: lpetsoede@hatfieldgroup.com"
+        contact: "Kontak tersedia atas permintaan"
       },
       {
         name: "Dr. Wayan Nurjaya",
         role: "Kepala Departemen Sains dan Teknologi Kelautan",
         company: "IPB University",
-        contact: "Email: i.wayan.nurjaya@ipb.ac.id"
+        contact: "Kontak tersedia atas permintaan"
       }
     ],
     ui: {
