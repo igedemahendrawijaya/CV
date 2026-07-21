@@ -220,6 +220,150 @@ export const cvData = {
         category: "aquaculture",
         tags: ["Smart Farming", "IoT Hardware", "Mobile App"],
         description: "Built minimum viable hardware and software for online quality control in shrimp aquaculture."
+      },
+      {
+        title: "Current Status of Octopus Fishery and Trade in Indonesia",
+        client: "PT Hatfield Indonesia / Marine & Fisheries Partners",
+        period: "2021 - 2022",
+        category: "marine",
+        tags: ["Octopus Fishery", "Fisheries Trade", "Marine Assessment", "Restricted Access"],
+        description: "Technical report providing a comprehensive status assessment of octopus fisheries, supply chain dynamics, and international trade flow in Indonesia.",
+        restricted: true
+      },
+      {
+        title: "Valuation of Pelagic Ecosystem Services and Marine Resources",
+        client: "PT Hatfield Indonesia / Marine Partners",
+        period: "2021 - 2022",
+        category: "marine",
+        tags: ["Ecosystem Valuation", "Pelagic Ecosystems", "Ocean Economy", "Restricted Access"],
+        description: "Economic and ecological evaluation of pelagic ecosystem services, ocean resource productivity, and marine natural capital in Indonesia.",
+        restricted: true
+      },
+      {
+        title: "Tongkol (Eastern Little Tuna) Supply Chain & Market Analysis",
+        client: "PT Hatfield Indonesia / Marine & Fisheries Partners",
+        period: "2020 - 2022",
+        category: "marine",
+        tags: ["Tongkol Supply Chain", "Tuna Fishery", "Market Analysis", "Restricted Access"],
+        description: "In-depth investigation into the Tongkol (Eastern Little Tuna) supply chain, market flow, post-harvest losses, and coastal livelihoods in Indonesia.",
+        restricted: true
+      },
+      {
+        title: "Marine Mammals Interactions with Marine Operations & Fisheries",
+        client: "PT Hatfield Indonesia / Conservation Partners",
+        period: "2019 - 2021",
+        category: "marine",
+        tags: ["Marine Mammals", "Bioacoustics", "Interaction Mitigation", "Restricted Access"],
+        description: "Scientific investigation on marine mammal interaction risks, acoustic disturbance, and mitigation protocols during offshore marine operations.",
+        restricted: true
+      },
+      {
+        title: "Tuna Investment Strategies for Walton Family Foundation (WFF)",
+        client: "Walton Family Foundation / PT Hatfield Indonesia",
+        period: "2020 - 2022",
+        category: "marine",
+        tags: ["Tuna Investment", "WFF", "Fisheries Governance", "Restricted Access"],
+        description: "Strategic investment roadmap and market intervention strategies for sustainable tuna fisheries management in Indonesia.",
+        restricted: true
+      },
+      {
+        title: "Marine Biodiversity Survey and Ecological Monitoring in Anambas Islands",
+        client: "PT Hatfield Indonesia / Conservation Partners",
+        period: "2019 - 2021",
+        category: "marine",
+        tags: ["Biodiversity Survey", "Anambas Islands", "Coral Reefs", "Restricted Access"],
+        description: "Baseline survey and long-term ecological monitoring report of coral reef ecosystems, fish biomass, and marine biodiversity in the Anambas archipelago.",
+        restricted: true
+      },
+      {
+        title: "Rapid Scoping of Growth Projects for Indonesia Sustainable Aquaculture",
+        client: "PT Hatfield Indonesia / Aquaculture Development Partners",
+        period: "2020 - 2021",
+        category: "aquaculture",
+        tags: ["Aquaculture Scoping", "Smart Farming", "Sustainable Growth", "Restricted Access"],
+        description: "Scoping study evaluating investment potential, technological readiness, and environmental safeguards for sustainable aquaculture expansion in Indonesia.",
+        restricted: true
+      },
+      {
+        title: "Review of Indonesian Tuna Purse Seine Sector for Fisheries Improvement Program",
+        client: "PT Hatfield Indonesia / FIP Partners",
+        period: "2020 - 2022",
+        category: "marine",
+        tags: ["Purse Seine", "Tuna FIP", "Fisheries Reform", "Restricted Access"],
+        description: "Comprehensive sector review of tuna purse seine operations to support MSC certification readiness and national Fisheries Improvement Program (FIP) goals.",
+        restricted: true
+      },
+      {
+        title: "Options to Conserve Marine Wildlife and Ecosystems in Lucipara Islands",
+        client: "PT Hatfield Indonesia / Marine Conservation Partners",
+        period: "2019 - 2021",
+        category: "marine",
+        tags: ["Lucipara Islands", "Marine Wildlife", "Conservation Options", "Restricted Access"],
+        description: "Feasibility study and policy recommendations for establishing marine wildlife protection mechanisms in the remote Lucipara Islands.",
+        restricted: true
+      },
+      {
+        title: "Background Note on Coastal Policy and Sustainable Blue Investment Opportunities",
+        client: "PT Hatfield Indonesia / Policy Partners",
+        period: "2021 - 2022",
+        category: "marine",
+        tags: ["Coastal Policy", "Blue Investment", "Governance Note", "Restricted Access"],
+        description: "High-level policy review and analytical note identifying strategic investment entry points for sustainable coastal and marine growth.",
+        restricted: true
+      },
+      {
+        title: "Oceans MDTF Report: Gap Analysis of PPP Schemes in KKPD Alor MPA",
+        client: "Oceans MDTF / World Bank / PT Hatfield Indonesia",
+        period: "2021 - 2022",
+        category: "marine",
+        tags: ["Oceans MDTF", "KKPD Alor", "PPP Gap Analysis", "Restricted Access"],
+        description: "Gap analysis assessing Public-Private Partnership (PPP) models for sustainable financing and co-management of the Alor Marine Protected Area (KKPD Alor).",
+        restricted: true
+      },
+      {
+        title: "Gaps & Challenges of Implementing RZWP3K Coastal Zoning in NTT Province",
+        client: "PT Hatfield Indonesia / Regional Coastal Partners",
+        period: "2020 - 2022",
+        category: "marine",
+        tags: ["RZWP3K", "Coastal Zoning", "NTT Province", "Restricted Access"],
+        description: "Diagnostic report analyzing regulatory, institutional, and spatial gaps in implementing provincial coastal zoning plans (RZWP3K) in NTT.",
+        restricted: true
+      },
+      {
+        title: "AFD Kendari Eco-Fishing Port Expansion ESIA Assessment",
+        client: "Agence Française de Développement (AFD) / PT Hatfield Indonesia",
+        period: "2021 - 2022",
+        category: "environment",
+        tags: ["ESIA", "Eco Fishing Port", "Kendari", "AFD", "Restricted Access"],
+        description: "Full Environmental and Social Impact Assessment (ESIA) for the USD 111M AFD-funded Kendari eco-fishing port expansion project.",
+        restricted: true
+      },
+      {
+        title: "Coral Bond IPF: Marine Conservation & Law Enforcement Capacity Assessment",
+        client: "World Bank Group / PT Hatfield Indonesia",
+        period: "2021 - 2022",
+        category: "marine",
+        tags: ["Coral Bond", "Law Enforcement", "Marine Conservation", "Restricted Access"],
+        description: "Assessment of marine law enforcement capacity, governance risks, and institutional frameworks supporting the Coral Bond Investment Project Financing (IPF).",
+        restricted: true
+      },
+      {
+        title: "Socio-Economic Analysis for Eco-Fishing Port Development in PPS Cilacap",
+        client: "AFD / PT Hatfield Indonesia",
+        period: "2021 - 2022",
+        category: "environment",
+        tags: ["PPS Cilacap", "Socio-Economic", "Eco Fishing Port", "Restricted Access"],
+        description: "Detailed socio-economic baseline, stakeholder impacts, and gender action plan for the PPS Cilacap eco-fishing port modernization initiative.",
+        restricted: true
+      },
+      {
+        title: "UNDP Kolepom Marine Protected Area Zoning & Spatial Management Plan",
+        client: "UNDP / PT Hatfield Indonesia",
+        period: "2021 - 2022",
+        category: "marine",
+        tags: ["Kolepom MPA", "UNDP", "Zoning Plan", "Papua", "Restricted Access"],
+        description: "Draft zoning plan and spatial management document for the Kolepom Island Marine Protected Area in Merauke District, South Papua.",
+        restricted: true
       }
     ],
     publications: [
@@ -249,6 +393,46 @@ export const cvData = {
       }
     ],
     certificates: [
+    {
+        "name": "Palo Alto Networks Course Certificate of Completion",
+        "issuer": "Palo Alto Networks",
+        "date": "2026",
+        "tags": [
+            "Cybersecurity",
+            "Network Security",
+            "Palo Alto"
+        ]
+    },
+    {
+        "name": "ESG & Sustainability Job Simulation Certificate",
+        "issuer": "Forage / Global Corporate ESG",
+        "date": "2024",
+        "tags": [
+            "ESG",
+            "Sustainability",
+            "Corporate Governance"
+        ]
+    },
+    {
+        "name": "Protected Area Technician Training: Infrastructure Fundamentals",
+        "issuer": "Connected Conservation",
+        "date": "2024",
+        "tags": [
+            "Conservation",
+            "Infrastructure",
+            "Protected Area"
+        ]
+    },
+    {
+        "name": "Financial Management Essentials Certificate",
+        "issuer": "DisasterReady / HPass",
+        "date": "2024",
+        "tags": [
+            "Financial Management",
+            "Humanitarian",
+            "Project Finance"
+        ]
+    },
     {
         "name": "Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance (Ongoing)",
         "issuer": "UNITAR",
@@ -1169,6 +1353,150 @@ export const cvData = {
         category: "aquaculture",
         tags: ["Pertanian Pintar", "IoT Perangkat Keras", "Aplikasi Ponsel"],
         description: "Membangun perangkat keras dan lunak minimum viable (MVP) untuk kontrol kualitas air online dalam budidaya udang."
+      },
+      {
+        title: "Status Terkini Perikanan dan Perdagangan Gurita di Indonesia",
+        client: "PT Hatfield Indonesia / Mitra Kelautan & Perikanan",
+        period: "2021 - 2022",
+        category: "marine",
+        tags: ["Perikanan Gurita", "Perdagangan Perikanan", "Penilaian Laut", "Akses Terbatas"],
+        description: "Laporan teknis komprehensif mengenai penilaian status perikanan gurita, dinamika rantai pasok, dan arus perdagangan internasional di Indonesia.",
+        restricted: true
+      },
+      {
+        title: "Valuasi Layanan Ekosistem Pelagis dan Sumber Daya Laut",
+        client: "PT Hatfield Indonesia / Mitra Kelautan",
+        period: "2021 - 2022",
+        category: "marine",
+        tags: ["Valuasi Ekosistem", "Ekosistem Pelagis", "Ekonomi Kelautan", "Akses Terbatas"],
+        description: "Evaluasi ekonomi dan ekologis dari layanan ekosistem pelagis, produktivitas sumber daya laut, dan modal alam laut di Indonesia.",
+        restricted: true
+      },
+      {
+        title: "Analisis Rantai Pasok & Pasar Ikan Tongkol di Indonesia",
+        client: "PT Hatfield Indonesia / Mitra Kelautan & Perikanan",
+        period: "2020 - 2022",
+        category: "marine",
+        tags: ["Rantai Pasok Tongkol", "Perikanan Tuna", "Analisis Pasar", "Akses Terbatas"],
+        description: "Investigasi mendalam mengenai rantai pasok ikan tongkol, alur pasar, susut pascapanen, dan mata pencaharian masyarakat pesisir di Indonesia.",
+        restricted: true
+      },
+      {
+        title: "Interaksi Mamalia Laut dengan Operasi Kelautan & Perikanan",
+        client: "PT Hatfield Indonesia / Mitra Konservasi",
+        period: "2019 - 2021",
+        category: "marine",
+        tags: ["Mamalia Laut", "Bioakustik", "Mitigasi Interaksi", "Akses Terbatas"],
+        description: "Investigasi ilmiah mengenai risiko interaksi mamalia laut, gangguan akustik, dan protokol mitigasi selama operasi kelautan lepas pantai.",
+        restricted: true
+      },
+      {
+        title: "Strategi Investasi Perikanan Tuna untuk Walton Family Foundation (WFF)",
+        client: "Walton Family Foundation / PT Hatfield Indonesia",
+        period: "2020 - 2022",
+        category: "marine",
+        tags: ["Investasi Tuna", "WFF", "Tata Kelola Perikanan", "Akses Terbatas"],
+        description: "Peta jalan investasi strategis dan strategi intervensi pasar untuk pengelolaan perikanan tuna yang berkelanjutan di Indonesia.",
+        restricted: true
+      },
+      {
+        title: "Survei Keanekaragaman Hayati Laut & Pemantauan Ekologis di Kepulauan Anambas",
+        client: "PT Hatfield Indonesia / Mitra Konservasi",
+        period: "2019 - 2021",
+        category: "marine",
+        tags: ["Survei Keanekaragaman", "Kepulauan Anambas", "Terumbu Karang", "Akses Terbatas"],
+        description: "Survei rona awal dan laporan pemantauan ekologis jangka panjang ekosistem terumbu karang, biomassa ikan, dan keanekaragaman hayati laut di Anambas.",
+        restricted: true
+      },
+      {
+        title: "Scoping Cepat Proyek Pertumbuhan Budidaya Udang & Akuakultur Berkelanjutan",
+        client: "PT Hatfield Indonesia / Mitra Akuakultur",
+        period: "2020 - 2021",
+        category: "aquaculture",
+        tags: ["Scoping Akuakultur", "Pertanian Pintar", "Pertumbuhan Berkelanjutan", "Akses Terbatas"],
+        description: "Studi penjajakan yang mengevaluasi potensi investasi, kesiapan teknologi, dan perlindungan lingkungan untuk ekspansi akuakultur berkelanjutan di Indonesia.",
+        restricted: true
+      },
+      {
+        title: "Kajian Sektor Tuna Purse Seine Indonesia untuk Program Perbaikan Perikanan (FIP)",
+        client: "PT Hatfield Indonesia / Mitra FIP",
+        period: "2020 - 2022",
+        category: "marine",
+        tags: ["Purse Seine", "FIP Tuna", "Reformasi Perikanan", "Akses Terbatas"],
+        description: "Kajian sektor komprehensif operasi pukat cincin (purse seine) tuna untuk mendukung kesiapan sertifikasi MSC dan target FIP nasional.",
+        restricted: true
+      },
+      {
+        title: "Opsi Konservasi Satwa Liar & Ekosistem Laut di Kepulauan Lucipara",
+        client: "PT Hatfield Indonesia / Mitra Konservasi Laut",
+        period: "2019 - 2021",
+        category: "marine",
+        tags: ["Kepulauan Lucipara", "Satwa Laut", "Opsi Konservasi", "Akses Terbatas"],
+        description: "Studi kelayakan dan rekomendasi kebijakan untuk pembentukan mekanisme perlindungan satwa liar laut di Kepulauan Lucipara.",
+        restricted: true
+      },
+      {
+        title: "Catatan Latar Belakang Kebijakan Pesisir & Peluang Investasi Ekonomi Biru",
+        client: "PT Hatfield Indonesia / Mitra Kebijakan",
+        period: "2021 - 2022",
+        category: "marine",
+        tags: ["Kebijakan Pesisir", "Investasi Biru", "Catatan Tata Kelola", "Akses Terbatas"],
+        description: "Tinjauan kebijakan tingkat tinggi dan catatan analitis yang mengidentifikasi titik masuk investasi strategis untuk pertumbuhan pesisir dan laut.",
+        restricted: true
+      },
+      {
+        title: "Laporan Oceans MDTF: Analisis Kesenjangan Skema KPBU di KKPD Alor",
+        client: "Oceans MDTF / Bank Dunia / PT Hatfield Indonesia",
+        period: "2021 - 2022",
+        category: "marine",
+        tags: ["Oceans MDTF", "KKPD Alor", "Kesenjangan KPBU", "Akses Terbatas"],
+        description: "Analisis kesenjangan yang mengevaluasi model Kerjasama Pemerintah dan Badan Usaha (KPBU) untuk pendanaan berkelanjutan dan pengelolaan bersama KKP Alor.",
+        restricted: true
+      },
+      {
+        title: "Kesenjangan & Tantangan Implementasi Zonasi Pesisir RZWP3K di Provinsi NTT",
+        client: "PT Hatfield Indonesia / Mitra Pesisir Daerah",
+        period: "2020 - 2022",
+        category: "marine",
+        tags: ["RZWP3K", "Zonasi Pesisir", "Provinsi NTT", "Akses Terbatas"],
+        description: "Laporan diagnostik yang menganalisis kesenjangan regulasi, institusional, dan tata ruang dalam mengimplementasikan rencana zonasi pesisir (RZWP3K) di NTT.",
+        restricted: true
+      },
+      {
+        title: "Penilaian ESIA Perluasan Pelabuhan Perikanan Ramah Lingkungan (Eco-Fishing Port) Kendari AFD",
+        client: "Agence Française de Développement (AFD) / PT Hatfield Indonesia",
+        period: "2021 - 2022",
+        category: "environment",
+        tags: ["ESIA", "Eco Fishing Port", "Kendari", "AFD", "Akses Terbatas"],
+        description: "Penilaian Impact Lingkungan dan Sosial (ESIA) penuh untuk proyek perluasan pelabuhan perikanan ramah lingkungan Kendari senilai USD 111 juta yang didanai AFD.",
+        restricted: true
+      },
+      {
+        title: "Coral Bond IPF: Penilaian Kapasitas Penegakan Hukum & Konservasi Laut",
+        client: "Grup Bank Dunia / PT Hatfield Indonesia",
+        period: "2021 - 2022",
+        category: "marine",
+        tags: ["Coral Bond", "Penegakan Hukum", "Konservasi Laut", "Akses Terbatas"],
+        description: "Penilaian kapasitas penegakan hukum laut, risiko tata kelola, dan kerangka kerja institusional yang mendukung pembiayaan proyek Coral Bond (IPF).",
+        restricted: true
+      },
+      {
+        title: "Analisis Sosial-Ekonomi untuk Pengembangan Pelabuhan Eco-Fishing Port di PPS Cilacap",
+        client: "AFD / PT Hatfield Indonesia",
+        period: "2021 - 2022",
+        category: "environment",
+        tags: ["PPS Cilacap", "Sosial-Ekonomi", "Eco Fishing Port", "Akses Terbatas"],
+        description: "Rona awal sosial-ekonomi mendalam, dampak pemangku kepentingan, dan rencana aksi gender untuk inisiatif modernisasi pelabuhan eco-fishing PPS Cilacap.",
+        restricted: true
+      },
+      {
+        title: "Dokumen Rencana Zonasi & Pengelolaan Ruang Kawasan Konservasi Perairan Kolepom UNDP",
+        client: "UNDP / PT Hatfield Indonesia",
+        period: "2021 - 2022",
+        category: "marine",
+        tags: ["KKP Kolepom", "UNDP", "Rencana Zonasi", "Papua", "Akses Terbatas"],
+        description: "Draf dokumen rencana zonasi dan pengelolaan tata ruang untuk Kawasan Konservasi Perairan Pulau Kolepom di Kabupaten Merauke, Papua Selatan.",
+        restricted: true
       }
     ],
     publications: [
@@ -1198,6 +1526,46 @@ export const cvData = {
       }
     ],
     certificates: [
+    {
+        "name": "Sertifikat Kelulusan Kursus Palo Alto Networks",
+        "issuer": "Palo Alto Networks",
+        "date": "2026",
+        "tags": [
+            "Keamanan Siber",
+            "Keamanan Jaringan",
+            "Palo Alto"
+        ]
+    },
+    {
+        "name": "Sertifikat Simulasi Kerja ESG & Keberlanjutan",
+        "issuer": "Forage / Global Corporate ESG",
+        "date": "2024",
+        "tags": [
+            "ESG",
+            "Keberlanjutan",
+            "Tata Kelola Perusahaan"
+        ]
+    },
+    {
+        "name": "Pelatihan Teknisi Kawasan Konservasi: Dasar-Dasar Infrastruktur",
+        "issuer": "Connected Conservation",
+        "date": "2024",
+        "tags": [
+            "Konservasi",
+            "Infrastruktur",
+            "Kawasan Konservasi"
+        ]
+    },
+    {
+        "name": "Sertifikat Dasar-Dasar Manajemen Keuangan",
+        "issuer": "DisasterReady / HPass",
+        "date": "2024",
+        "tags": [
+            "Manajemen Keuangan",
+            "Kemanusiaan",
+            "Keuangan Proyek"
+        ]
+    },
     {
         "name": "Akselerasi Ekonomi Hijau: Program Strategis Jepang-ASEAN untuk Keuangan Hijau Berkelanjutan (Sedang Berjalan)",
         "issuer": "UNITAR",

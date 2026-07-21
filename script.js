@@ -73,10 +73,13 @@ function renderProjects(lang, filter = 'all') {
     : projects.filter(p => p.category === filter);
   
   projectsGrid.innerHTML = filteredProjects.map(proj => `
-    <div class="project-card glass">
+    <div class="project-card glass${proj.restricted ? ' is-restricted' : ''}">
       <div class="card-glow"></div>
       <div class="project-card-body">
-        <span class="project-category-badge">${cvData[lang].ui[`project${capitalize(proj.category)}`] || proj.category}</span>
+        <div class="project-card-top">
+          <span class="project-category-badge">${cvData[lang].ui[`project${capitalize(proj.category)}`] || proj.category}</span>
+          ${proj.restricted ? `<span class="restricted-badge"><i class="fa-solid fa-lock"></i> ${lang === 'id' ? 'Akses Terbatas' : 'Restricted'}</span>` : ''}
+        </div>
         <h3>${proj.title}</h3>
         <div class="project-client">
           <i class="fa-solid fa-briefcase"></i> <span>${proj.client} (${proj.period})</span>
@@ -85,9 +88,24 @@ function renderProjects(lang, filter = 'all') {
         <div class="project-tags">
           ${proj.tags.map(tag => `<span class="project-tag">#${tag}</span>`).join('')}
         </div>
+        ${proj.restricted ? `
+          <div class="project-actions">
+            <button class="btn btn-secondary btn-sm btn-request-access" data-report="${encodeURIComponent(proj.title)}">
+              <i class="fa-solid fa-lock"></i> ${lang === 'id' ? 'Minta Akses Laporan' : 'Request Access'}
+            </button>
+          </div>
+        ` : ''}
       </div>
     </div>
   `).join('');
+
+  // Bind click handlers to request access buttons
+  document.querySelectorAll('.btn-request-access').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      const reportTitle = decodeURIComponent(e.currentTarget.getAttribute('data-report'));
+      openRequestAccessModal(reportTitle);
+    });
+  });
 }
 
 // Render Publications
@@ -372,6 +390,73 @@ function setupContactForm() {
   });
 }
 
+// --- Modal Request Access Logic ---
+const requestModal = document.getElementById('request-access-modal');
+const closeModalBtn = document.getElementById('close-access-modal');
+const requestForm = document.getElementById('request-access-form');
+const modalReportTitle = document.getElementById('modal-report-title');
+const modalReportInput = document.getElementById('modal-report-title-input');
+const modalStatusMsg = document.getElementById('modal-status-msg');
+
+function openRequestAccessModal(reportTitle) {
+  if (!requestModal) return;
+  if (modalReportTitle) modalReportTitle.textContent = reportTitle;
+  if (modalReportInput) modalReportInput.value = reportTitle;
+  if (modalStatusMsg) {
+    modalStatusMsg.innerHTML = '';
+    modalStatusMsg.className = 'form-message-status';
+  }
+  requestModal.style.display = 'flex';
+  document.body.style.overflow = 'hidden';
+}
+
+function closeRequestAccessModal() {
+  if (!requestModal) return;
+  requestModal.style.display = 'none';
+  document.body.style.overflow = 'auto';
+}
+
+function setupModalLogic() {
+  if (closeModalBtn) {
+    closeModalBtn.addEventListener('click', closeRequestAccessModal);
+  }
+
+  if (requestModal) {
+    requestModal.addEventListener('click', (e) => {
+      if (e.target === requestModal) {
+        closeRequestAccessModal();
+      }
+    });
+  }
+
+  if (requestForm) {
+    requestForm.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const name = document.getElementById('modal-requester-name').value;
+      const email = document.getElementById('modal-requester-email').value;
+      const purpose = document.getElementById('modal-requester-purpose').value;
+      const report = modalReportInput ? modalReportInput.value : 'Report Access Request';
+
+      const subject = encodeURIComponent(`[Report Access Request] ${report}`);
+      const body = encodeURIComponent(`Hello Gede,\n\nI am writing to request access to the following restricted technical report:\n"${report}"\n\nRequester Information:\n- Name / Organization: ${name}\n- Work Email: ${email}\n\nPurpose of Request:\n${purpose}\n\nBest regards,\n${name}`);
+
+      window.location.href = `mailto:gedemahendrawijaya@gmail.com?subject=${subject}&body=${body}`;
+
+      if (modalStatusMsg) {
+        modalStatusMsg.className = 'form-message-status success';
+        modalStatusMsg.textContent = currentLang === 'id' 
+          ? 'Permintaan akses berhasil disiapkan! Email permohonan telah dibuka untuk dikirim.'
+          : 'Access request prepared! Request email launched for author review.';
+      }
+
+      setTimeout(() => {
+        closeRequestAccessModal();
+        requestForm.reset();
+      }, 3000);
+    });
+  }
+}
+
 // --- Initialization ---
 document.addEventListener('DOMContentLoaded', () => {
   setupLanguageSwitcher();
@@ -380,4 +465,5 @@ document.addEventListener('DOMContentLoaded', () => {
   setupProjectFilters();
   setupCertificateSearch();
   setupContactForm();
+  setupModalLogic();
 });
