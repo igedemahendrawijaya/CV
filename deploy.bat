@@ -14,7 +14,7 @@ git commit -m "Pembaruan CV otomatis pada %date% %time%"
 
 :: Push to GitHub
 echo [3/3] Mengunggah file ke GitHub...
-git push origin main
+git push origin main --force
 
 echo.
 echo ===================================================
