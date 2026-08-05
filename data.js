@@ -599,39 +599,19 @@ export const cvData = {
     ],
     "certificates": [
       {
-        "name": "BSAFE Certification",
-        "issuer": "UNDSS",
-        "date": "2026",
-        "tags": [
-          "UNDSS",
-          "Certification"
-        ],
-        "link": "certificates/BSAFE_Certificate.pdf"
-      },
-      {
-        "name": "Protected Area Technician Training: Infrastructure Fundamentals",
+        "name": "Ocean Governance Capacity Building (Elective Modules)",
         "issuer": "Various Organizations",
-        "date": "2026",
+        "date": "Jul 2026",
         "tags": [
           "Various",
           "Certification"
         ],
-        "link": "certificates/Certificate_Protected_Area_Technician_Training_Course_-_Infrastructure_Fundamentals.pdf"
-      },
-      {
-        "name": "Protected Area Technician Training: Tools for Informed Decision Making",
-        "issuer": "Various Organizations",
-        "date": "2026",
-        "tags": [
-          "Various",
-          "Certification"
-        ],
-        "link": "certificates/Certificate_Protected_Area_Technician_Training_Course_-_Tools_for_Informed_Decision_Making.pdf"
+        "link": "certificates/Certificate_Ocean_Governance_Elective_Modules.pdf"
       },
       {
         "name": "Blue Carbon Academy - Module 3: Project Design & Development (PDD)",
         "issuer": "Various Organizations",
-        "date": "2026",
+        "date": "May 2026",
         "tags": [
           "Various",
           "Certification"
@@ -639,9 +619,19 @@ export const cvData = {
         "link": "certificates/Certificate_WBG_Blue_Carbon.pdf"
       },
       {
+        "name": "BSAFE Certification",
+        "issuer": "UNDSS",
+        "date": "Feb 2026",
+        "tags": [
+          "UNDSS",
+          "Certification"
+        ],
+        "link": "certificates/BSAFE_Certificate.pdf"
+      },
+      {
         "name": "Acoustic Analysis in Kaleidoscope (Part 2): Batch Processing",
         "issuer": "Wildlife Acoustics",
-        "date": "2026",
+        "date": "Feb 2026",
         "tags": [
           "Wildlife",
           "Certification"
@@ -651,7 +641,7 @@ export const cvData = {
       {
         "name": "Introduction to Kaleidoscope for Bat Sound Analysis (Beginner)",
         "issuer": "Wildlife Acoustics",
-        "date": "2026",
+        "date": "Feb 2026",
         "tags": [
           "Wildlife",
           "Certification"
@@ -661,7 +651,7 @@ export const cvData = {
       {
         "name": "How to Use Bat Auto-ID in Kaleidoscope Pro (Advanced)",
         "issuer": "Wildlife Acoustics",
-        "date": "2026",
+        "date": "Feb 2026",
         "tags": [
           "Wildlife",
           "Certification"
@@ -671,7 +661,7 @@ export const cvData = {
       {
         "name": "How to Start a General Survey with Kaleidoscope Pro (Advanced)",
         "issuer": "Wildlife Acoustics",
-        "date": "2026",
+        "date": "Feb 2026",
         "tags": [
           "Wildlife",
           "Certification"
@@ -681,7 +671,7 @@ export const cvData = {
       {
         "name": "Intro to Acoustic Indices for Biodiversity Monitoring (Intermediate)",
         "issuer": "Various Organizations",
-        "date": "2026",
+        "date": "Feb 2026",
         "tags": [
           "Various",
           "Certification"
@@ -691,7 +681,7 @@ export const cvData = {
       {
         "name": "How to Perform a Targeted Search with Kaleidoscope Pro (Advanced)",
         "issuer": "Wildlife Acoustics",
-        "date": "2026",
+        "date": "Feb 2026",
         "tags": [
           "Wildlife",
           "Certification"
@@ -701,7 +691,7 @@ export const cvData = {
       {
         "name": "Kaleidoscope Lite for Bat Analysis",
         "issuer": "Wildlife Acoustics",
-        "date": "2026",
+        "date": "Feb 2026",
         "tags": [
           "Wildlife",
           "Certification"
@@ -709,19 +699,9 @@ export const cvData = {
         "link": "certificates/certificate-kaleidoscope-lite-for-bat-analysis-651c2fdee341d6500b0b310c.pdf"
       },
       {
-        "name": "Ocean Governance Capacity Building (Elective Modules)",
-        "issuer": "Various Organizations",
-        "date": "2026",
-        "tags": [
-          "Various",
-          "Certification"
-        ],
-        "link": "certificates/Certificate_Ocean_Governance_Elective_Modules.pdf"
-      },
-      {
         "name": "Preparing and Responding to Active Shooter Incidents",
         "issuer": "UNDSS",
-        "date": "2026",
+        "date": "Feb 2026",
         "tags": [
           "UNDSS",
           "Certification"
@@ -729,19 +709,9 @@ export const cvData = {
         "link": "certificates/Certificate_UNDSS.pdf"
       },
       {
-        "name": "Project Management Essentials",
-        "issuer": "Cornerstone OnDemand Foundation",
-        "date": "2026",
-        "tags": [
-          "Cornerstone",
-          "Certification"
-        ],
-        "link": "certificates/Project_Management_Essentials_Certificate.pdf"
-      },
-      {
         "name": "Prevention of Sexual Exploitation and Abuse by UN Personnel",
         "issuer": "Various Organizations",
-        "date": "2026",
+        "date": "Feb 2026",
         "tags": [
           "Various",
           "Certification"
@@ -749,19 +719,9 @@ export const cvData = {
         "link": "certificates/PSEA_UN_LM_CRTERM.pdf"
       },
       {
-        "name": "Palo Alto Networks Course",
-        "issuer": "Palo Alto Networks",
-        "date": "2025",
-        "tags": [
-          "Palo",
-          "Certification"
-        ],
-        "link": "certificates/12440_3_576693_1757648957_Palo_Alto_Networks_Course_Certificate_of_Completion.pdf"
-      },
-      {
         "name": "Global Corporate ESG Job Simulation",
         "issuer": "Forage",
-        "date": "2024",
+        "date": "Feb 2024",
         "tags": [
           "Forage",
           "Certification"
@@ -769,19 +729,9 @@ export const cvData = {
         "link": "certificates/ESG_Job_Simulation.pdf"
       },
       {
-        "name": "Introduction to Forest and Landscape Restoration",
-        "issuer": "Various Organizations",
-        "date": "2024",
-        "tags": [
-          "Various",
-          "Certification"
-        ],
-        "link": "certificates/Introduction_to_forest_and_landscape_restoration.png"
-      },
-      {
         "name": "Community Development Job Simulation",
         "issuer": "Forage",
-        "date": "2024",
+        "date": "Feb 2024",
         "tags": [
           "Forage",
           "Certification"
@@ -789,9 +739,109 @@ export const cvData = {
         "link": "certificates/Moreton_Bay_Regional_Council_-_Community_Development_Job_Simulation.pdf"
       },
       {
+        "name": "Project Management Essentials",
+        "issuer": "Cornerstone OnDemand Foundation",
+        "date": "Feb 2024",
+        "tags": [
+          "Cornerstone",
+          "Certification"
+        ],
+        "link": "certificates/Project_Management_Essentials_Certificate.pdf"
+      },
+      {
+        "name": "Acoustic Analysis in Kaleidoscope (Part 1): Getting Started",
+        "issuer": "Wildlife Acoustics",
+        "date": "Dec 2023",
+        "tags": [
+          "Wildlife",
+          "Certification"
+        ],
+        "link": "certificates/certificate-acoustic-analysis-in-kaleidoscope-part-1-getting-started-64308a22d28ff5e07a0eef1e.pdf"
+      },
+      {
+        "name": "Protected Area Technician Training: Infrastructure Fundamentals",
+        "issuer": "Various Organizations",
+        "date": "Nov 2023",
+        "tags": [
+          "Various",
+          "Certification"
+        ],
+        "link": "certificates/Certificate_Protected_Area_Technician_Training_Course_-_Infrastructure_Fundamentals.pdf"
+      },
+      {
+        "name": "Protected Area Technician Training: Tools for Informed Decision Making",
+        "issuer": "Various Organizations",
+        "date": "Nov 2023",
+        "tags": [
+          "Various",
+          "Certification"
+        ],
+        "link": "certificates/Certificate_Protected_Area_Technician_Training_Course_-_Tools_for_Informed_Decision_Making.pdf"
+      },
+      {
+        "name": "Conflict of Interest Risk Management for Your Project",
+        "issuer": "Various Organizations",
+        "date": "Nov 2023",
+        "tags": [
+          "Various",
+          "Certification"
+        ],
+        "link": "certificates/Certificate0000.pdf"
+      },
+      {
+        "name": "Sustainability Training and E-Learning Program (STEP) (Self-paced)",
+        "issuer": "Various Organizations",
+        "date": "Nov 2023",
+        "tags": [
+          "Various",
+          "Certification"
+        ],
+        "link": "certificates/Certificate_01.pdf"
+      },
+      {
+        "name": "Training on Monitoring and Evaluation for EnABLE Projects",
+        "issuer": "World Bank",
+        "date": "Nov 2023",
+        "tags": [
+          "World",
+          "Certification"
+        ],
+        "link": "certificates/D3_Define_Develop_Deliver.pdf"
+      },
+      {
+        "name": "Climate Change and Sovereign Risk (ADBI E-Learning)",
+        "issuer": "Asian Development Bank Institute (ADBI)",
+        "date": "Nov 2023",
+        "tags": [
+          "Asian",
+          "Certification"
+        ],
+        "link": "certificates/I-Gede-Mahendra-Wijaya_Climate-Change-and-Sovereign-Risk_Climate-Change-and-Sovereign-Risk_ADBI-E-Learning.pdf"
+      },
+      {
+        "name": "Introduction to Forest and Landscape Restoration",
+        "issuer": "Various Organizations",
+        "date": "Nov 2023",
+        "tags": [
+          "Various",
+          "Certification"
+        ],
+        "link": "certificates/Introduction_to_forest_and_landscape_restoration.png"
+      },
+      {
+        "name": "Measuring the Role of Forests and Trees in Household Welfare and Livelihoods",
+        "issuer": "FAO",
+        "date": "Nov 2023",
+        "tags": [
+          "FAO",
+          "Certification"
+        ],
+        "link": "certificates/Measuring_the_role_of_forests_and_trees_in_household_welfare_and_livelihoods.png"
+      },
+      {
         "name": "Proforest FPIC Course (Bahasa Indonesia)",
         "issuer": "Proforest",
-        "date": "2023",
+        "date": "Oct 2023",
         "tags": [
           "Proforest",
           "Certification"
@@ -801,12 +851,42 @@ export const cvData = {
       {
         "name": "Proforest FPIC Course (English)",
         "issuer": "Proforest",
-        "date": "2023",
+        "date": "Oct 2023",
         "tags": [
           "Proforest",
           "Certification"
         ],
         "link": "certificates/9_7_14911_1697782730_Proforest_FPIC_-_English.pdf"
+      },
+      {
+        "name": "Remote Pilot Certification",
+        "issuer": "Various Organizations",
+        "date": "Oct 2023",
+        "tags": [
+          "Various",
+          "Certification"
+        ],
+        "link": "certificates/APDI_-_I_Gede_Mahendra_Wijaya.pdf"
+      },
+      {
+        "name": "Introduction to the Global Environment Facility (GEF)",
+        "issuer": "World Bank",
+        "date": "Oct 2023",
+        "tags": [
+          "World",
+          "Certification"
+        ],
+        "link": "certificates/WBG_OLC_-_Saba_Introduction_to_the_Global_Environment_Facility_GEF_.pdf"
+      },
+      {
+        "name": "Palo Alto Networks Course",
+        "issuer": "Palo Alto Networks",
+        "date": "2023",
+        "tags": [
+          "Palo",
+          "Certification"
+        ],
+        "link": "certificates/12440_3_576693_1757648957_Palo_Alto_Networks_Course_Certificate_of_Completion.pdf"
       },
       {
         "name": "ADB Environment Safeguard Requirements",
@@ -829,36 +909,6 @@ export const cvData = {
         "link": "certificates/ADB_s_Indigenous_Peoples_Safeguard_Requirements_Certificate_of_completion.pdf"
       },
       {
-        "name": "Remote Pilot Certification",
-        "issuer": "Various Organizations",
-        "date": "2023",
-        "tags": [
-          "Various",
-          "Certification"
-        ],
-        "link": "certificates/APDI_-_I_Gede_Mahendra_Wijaya.pdf"
-      },
-      {
-        "name": "B20 Side Event - Technology & Market Innovation for Decarbonization",
-        "issuer": "Various Organizations",
-        "date": "2023",
-        "tags": [
-          "Various",
-          "Certification"
-        ],
-        "link": "certificates/B20_AUG_277.pdf"
-      },
-      {
-        "name": "Basic First Aid (BFA)",
-        "issuer": "Various Organizations",
-        "date": "2023",
-        "tags": [
-          "Various",
-          "Certification"
-        ],
-        "link": "certificates/BFA-I_GEDE.pdf"
-      },
-      {
         "name": "Navigating Data Privacy and Cybersecurity Risks: Insight for Investors",
         "issuer": "Various Organizations",
         "date": "2023",
@@ -869,59 +919,19 @@ export const cvData = {
         "link": "certificates/brighttalk-viewing-certificate-navigating-data-privacy-and-cybersecurity-risks_-insight-for-investors.pdf"
       },
       {
-        "name": "Basic Sea Survival (BSS)",
+        "name": "B20 Side Event - Technology & Market Innovation for Decarbonization",
         "issuer": "Various Organizations",
-        "date": "2023",
+        "date": "Aug 2022",
         "tags": [
           "Various",
           "Certification"
         ],
-        "link": "certificates/BSS-I_GEDE.pdf"
-      },
-      {
-        "name": "Acoustic Analysis in Kaleidoscope (Part 1): Getting Started",
-        "issuer": "Wildlife Acoustics",
-        "date": "2023",
-        "tags": [
-          "Wildlife",
-          "Certification"
-        ],
-        "link": "certificates/certificate-acoustic-analysis-in-kaleidoscope-part-1-getting-started-64308a22d28ff5e07a0eef1e.pdf"
-      },
-      {
-        "name": "Conflict of Interest Risk Management for Your Project",
-        "issuer": "Various Organizations",
-        "date": "2023",
-        "tags": [
-          "Various",
-          "Certification"
-        ],
-        "link": "certificates/Certificate0000.pdf"
-      },
-      {
-        "name": "Sustainability Training and E-Learning Program (STEP) (Self-paced)",
-        "issuer": "Various Organizations",
-        "date": "2023",
-        "tags": [
-          "Various",
-          "Certification"
-        ],
-        "link": "certificates/Certificate_01.pdf"
-      },
-      {
-        "name": "D3: Define, Develop, Deliver",
-        "issuer": "Various Organizations",
-        "date": "2023",
-        "tags": [
-          "Various",
-          "Certification"
-        ],
-        "link": "certificates/D3_Define_Develop_Deliver.pdf"
+        "link": "certificates/B20_AUG_277.pdf"
       },
       {
         "name": "Youth Economic Leadership Program (YELP)",
         "issuer": "Bank Indonesia Institute",
-        "date": "2023",
+        "date": "Jul 2022",
         "tags": [
           "Bank",
           "Certification"
@@ -929,19 +939,19 @@ export const cvData = {
         "link": "certificates/E-Certificate_-_I_Gede_Mahendra_Wijaya_-_YELP_2022.pdf"
       },
       {
-        "name": "Climate Change and Sovereign Risk (ADBI E-Learning)",
-        "issuer": "Asian Development Bank Institute (ADBI)",
-        "date": "2023",
+        "name": "ToT Materials for Aquaculture Stewardship Council and IndoGAP",
+        "issuer": "Various Organizations",
+        "date": "Dec 2020",
         "tags": [
-          "Asian",
+          "Various",
           "Certification"
         ],
-        "link": "certificates/I-Gede-Mahendra-Wijaya_Climate-Change-and-Sovereign-Risk_Climate-Change-and-Sovereign-Risk_ADBI-E-Learning.pdf"
+        "link": "certificates/Baur_E-Certificate_TOT_for_ASC_and_INDOGAP_I_Gede_Mahendra_Wijaya.pdf"
       },
       {
         "name": "Internal Audit Training (ISO 9001, ISO 14001, ISO 45001)",
         "issuer": "Various Organizations",
-        "date": "2023",
+        "date": "Dec 2018",
         "tags": [
           "Various",
           "Certification"
@@ -949,34 +959,24 @@ export const cvData = {
         "link": "certificates/ISO.pdf"
       },
       {
-        "name": "Measuring the Role of Forests and Trees in Household Welfare and Livelihoods",
-        "issuer": "FAO",
-        "date": "2023",
-        "tags": [
-          "FAO",
-          "Certification"
-        ],
-        "link": "certificates/Measuring_the_role_of_forests_and_trees_in_household_welfare_and_livelihoods.png"
-      },
-      {
-        "name": "Introduction to the Global Environment Facility (GEF)",
-        "issuer": "World Bank Group",
-        "date": "2023",
-        "tags": [
-          "World",
-          "Certification"
-        ],
-        "link": "certificates/WBG_OLC_-_Saba_Introduction_to_the_Global_Environment_Facility_GEF_.pdf"
-      },
-      {
-        "name": "ToT Materials for Aquaculture Stewardship Council and IndoGAP",
+        "name": "Basic First Aid (BFA)",
         "issuer": "Various Organizations",
-        "date": "2020",
+        "date": "Aug 2014",
         "tags": [
           "Various",
           "Certification"
         ],
-        "link": "certificates/Baur_E-Certificate_TOT_for_ASC_and_INDOGAP_I_Gede_Mahendra_Wijaya.pdf"
+        "link": "certificates/BFA-I_GEDE.pdf"
+      },
+      {
+        "name": "Basic Sea Survival (BSS)",
+        "issuer": "Various Organizations",
+        "date": "Aug 2014",
+        "tags": [
+          "Various",
+          "Certification"
+        ],
+        "link": "certificates/BSS-I_GEDE.pdf"
       }
     ],
     "references": [
@@ -1631,39 +1631,19 @@ export const cvData = {
     ],
     "certificates": [
       {
-        "name": "Sertifikasi BSAFE",
-        "issuer": "UNDSS",
-        "date": "2026",
-        "tags": [
-          "UNDSS",
-          "Sertifikasi"
-        ],
-        "link": "certificates/BSAFE_Certificate.pdf"
-      },
-      {
-        "name": "Pelatihan Teknisi Kawasan Konservasi: Dasar-Dasar Infrastruktur",
+        "name": "Kapasitas Tata Kelola Kelautan (Modul Pilihan)",
         "issuer": "Various Organizations",
-        "date": "2026",
+        "date": "Jul 2026",
         "tags": [
           "Various",
           "Sertifikasi"
         ],
-        "link": "certificates/Certificate_Protected_Area_Technician_Training_Course_-_Infrastructure_Fundamentals.pdf"
-      },
-      {
-        "name": "Pelatihan Teknisi Kawasan Konservasi: Alat untuk Pengambilan Keputusan",
-        "issuer": "Various Organizations",
-        "date": "2026",
-        "tags": [
-          "Various",
-          "Sertifikasi"
-        ],
-        "link": "certificates/Certificate_Protected_Area_Technician_Training_Course_-_Tools_for_Informed_Decision_Making.pdf"
+        "link": "certificates/Certificate_Ocean_Governance_Elective_Modules.pdf"
       },
       {
         "name": "Blue Carbon Academy - Modul 3: Desain & Pengembangan Proyek (PDD)",
         "issuer": "Various Organizations",
-        "date": "2026",
+        "date": "May 2026",
         "tags": [
           "Various",
           "Sertifikasi"
@@ -1671,9 +1651,19 @@ export const cvData = {
         "link": "certificates/Certificate_WBG_Blue_Carbon.pdf"
       },
       {
+        "name": "Sertifikasi BSAFE",
+        "issuer": "UNDSS",
+        "date": "Feb 2026",
+        "tags": [
+          "UNDSS",
+          "Sertifikasi"
+        ],
+        "link": "certificates/BSAFE_Certificate.pdf"
+      },
+      {
         "name": "Analisis Akustik di Kaleidoscope (Bagian 2): Pemrosesan Batch",
         "issuer": "Wildlife Acoustics",
-        "date": "2026",
+        "date": "Feb 2026",
         "tags": [
           "Wildlife",
           "Sertifikasi"
@@ -1683,7 +1673,7 @@ export const cvData = {
       {
         "name": "Pengantar Kaleidoscope untuk Analisis Suara Kelelawar (Pemula)",
         "issuer": "Wildlife Acoustics",
-        "date": "2026",
+        "date": "Feb 2026",
         "tags": [
           "Wildlife",
           "Sertifikasi"
@@ -1693,7 +1683,7 @@ export const cvData = {
       {
         "name": "Cara Menggunakan Bat Auto-ID di Kaleidoscope Pro (Mahir)",
         "issuer": "Wildlife Acoustics",
-        "date": "2026",
+        "date": "Feb 2026",
         "tags": [
           "Wildlife",
           "Sertifikasi"
@@ -1703,7 +1693,7 @@ export const cvData = {
       {
         "name": "Cara Memulai Survei Umum dengan Kaleidoscope Pro (Mahir)",
         "issuer": "Wildlife Acoustics",
-        "date": "2026",
+        "date": "Feb 2026",
         "tags": [
           "Wildlife",
           "Sertifikasi"
@@ -1713,7 +1703,7 @@ export const cvData = {
       {
         "name": "Pengantar Indeks Akustik untuk Pemantauan Keanekaragaman Hayati (Menengah)",
         "issuer": "Various Organizations",
-        "date": "2026",
+        "date": "Feb 2026",
         "tags": [
           "Various",
           "Sertifikasi"
@@ -1723,7 +1713,7 @@ export const cvData = {
       {
         "name": "Cara Melakukan Pencarian Target dengan Kaleidoscope Pro (Mahir)",
         "issuer": "Wildlife Acoustics",
-        "date": "2026",
+        "date": "Feb 2026",
         "tags": [
           "Wildlife",
           "Sertifikasi"
@@ -1733,7 +1723,7 @@ export const cvData = {
       {
         "name": "Kaleidoscope Lite untuk Analisis Suara Kelelawar",
         "issuer": "Wildlife Acoustics",
-        "date": "2026",
+        "date": "Feb 2026",
         "tags": [
           "Wildlife",
           "Sertifikasi"
@@ -1741,19 +1731,9 @@ export const cvData = {
         "link": "certificates/certificate-kaleidoscope-lite-for-bat-analysis-651c2fdee341d6500b0b310c.pdf"
       },
       {
-        "name": "Kapasitas Tata Kelola Kelautan (Modul Pilihan)",
-        "issuer": "Various Organizations",
-        "date": "2026",
-        "tags": [
-          "Various",
-          "Sertifikasi"
-        ],
-        "link": "certificates/Certificate_Ocean_Governance_Elective_Modules.pdf"
-      },
-      {
         "name": "Mempersiapkan dan Merespon Insiden Penembakan Aktif",
         "issuer": "UNDSS",
-        "date": "2026",
+        "date": "Feb 2026",
         "tags": [
           "UNDSS",
           "Sertifikasi"
@@ -1761,19 +1741,9 @@ export const cvData = {
         "link": "certificates/Certificate_UNDSS.pdf"
       },
       {
-        "name": "Sertifikat Esensial Manajemen Proyek",
-        "issuer": "Cornerstone OnDemand Foundation",
-        "date": "2026",
-        "tags": [
-          "Cornerstone",
-          "Sertifikasi"
-        ],
-        "link": "certificates/Project_Management_Essentials_Certificate.pdf"
-      },
-      {
         "name": "Pencegahan Eksploitasi dan Pelecehan Seksual oleh Personel PBB",
         "issuer": "Various Organizations",
-        "date": "2026",
+        "date": "Feb 2026",
         "tags": [
           "Various",
           "Sertifikasi"
@@ -1781,19 +1751,9 @@ export const cvData = {
         "link": "certificates/PSEA_UN_LM_CRTERM.pdf"
       },
       {
-        "name": "Sertifikat Kelulusan Kursus Palo Alto Networks",
-        "issuer": "Palo Alto Networks",
-        "date": "2025",
-        "tags": [
-          "Palo",
-          "Sertifikasi"
-        ],
-        "link": "certificates/12440_3_576693_1757648957_Palo_Alto_Networks_Course_Certificate_of_Completion.pdf"
-      },
-      {
         "name": "Simulasi Kerja ESG & Keberlanjutan Korporasi Global",
         "issuer": "Forage",
-        "date": "2024",
+        "date": "Feb 2024",
         "tags": [
           "Forage",
           "Sertifikasi"
@@ -1801,19 +1761,9 @@ export const cvData = {
         "link": "certificates/ESG_Job_Simulation.pdf"
       },
       {
-        "name": "Pengantar Restorasi Lanskap dan Hutan",
-        "issuer": "Various Organizations",
-        "date": "2024",
-        "tags": [
-          "Various",
-          "Sertifikasi"
-        ],
-        "link": "certificates/Introduction_to_forest_and_landscape_restoration.png"
-      },
-      {
         "name": "Simulasi Pekerjaan Pengembangan Masyarakat",
         "issuer": "Forage",
-        "date": "2024",
+        "date": "Feb 2024",
         "tags": [
           "Forage",
           "Sertifikasi"
@@ -1821,9 +1771,109 @@ export const cvData = {
         "link": "certificates/Moreton_Bay_Regional_Council_-_Community_Development_Job_Simulation.pdf"
       },
       {
+        "name": "Sertifikat Esensial Manajemen Proyek",
+        "issuer": "Cornerstone OnDemand Foundation",
+        "date": "Feb 2024",
+        "tags": [
+          "Cornerstone",
+          "Sertifikasi"
+        ],
+        "link": "certificates/Project_Management_Essentials_Certificate.pdf"
+      },
+      {
+        "name": "Analisis Akustik di Kaleidoscope (Bagian 1): Memulai",
+        "issuer": "Wildlife Acoustics",
+        "date": "Dec 2023",
+        "tags": [
+          "Wildlife",
+          "Sertifikasi"
+        ],
+        "link": "certificates/certificate-acoustic-analysis-in-kaleidoscope-part-1-getting-started-64308a22d28ff5e07a0eef1e.pdf"
+      },
+      {
+        "name": "Pelatihan Teknisi Kawasan Konservasi: Dasar-Dasar Infrastruktur",
+        "issuer": "Various Organizations",
+        "date": "Nov 2023",
+        "tags": [
+          "Various",
+          "Sertifikasi"
+        ],
+        "link": "certificates/Certificate_Protected_Area_Technician_Training_Course_-_Infrastructure_Fundamentals.pdf"
+      },
+      {
+        "name": "Pelatihan Teknisi Kawasan Konservasi: Alat untuk Pengambilan Keputusan",
+        "issuer": "Various Organizations",
+        "date": "Nov 2023",
+        "tags": [
+          "Various",
+          "Sertifikasi"
+        ],
+        "link": "certificates/Certificate_Protected_Area_Technician_Training_Course_-_Tools_for_Informed_Decision_Making.pdf"
+      },
+      {
+        "name": "Manajemen Risiko Konflik Kepentingan untuk Proyek Anda",
+        "issuer": "Various Organizations",
+        "date": "Nov 2023",
+        "tags": [
+          "Various",
+          "Sertifikasi"
+        ],
+        "link": "certificates/Certificate0000.pdf"
+      },
+      {
+        "name": "Program Pelatihan Keberlanjutan dan E-Learning (STEP) (Mandiri)",
+        "issuer": "Various Organizations",
+        "date": "Nov 2023",
+        "tags": [
+          "Various",
+          "Sertifikasi"
+        ],
+        "link": "certificates/Certificate_01.pdf"
+      },
+      {
+        "name": "Pelatihan Monitoring dan Evaluasi untuk Proyek EnABLE",
+        "issuer": "World Bank",
+        "date": "Nov 2023",
+        "tags": [
+          "World",
+          "Sertifikasi"
+        ],
+        "link": "certificates/D3_Define_Develop_Deliver.pdf"
+      },
+      {
+        "name": "Perubahan Iklim dan Risiko Berdaulat (ADBI E-Learning)",
+        "issuer": "Asian Development Bank Institute (ADBI)",
+        "date": "Nov 2023",
+        "tags": [
+          "Asian",
+          "Sertifikasi"
+        ],
+        "link": "certificates/I-Gede-Mahendra-Wijaya_Climate-Change-and-Sovereign-Risk_Climate-Change-and-Sovereign-Risk_ADBI-E-Learning.pdf"
+      },
+      {
+        "name": "Pengantar Restorasi Lanskap dan Hutan",
+        "issuer": "Various Organizations",
+        "date": "Nov 2023",
+        "tags": [
+          "Various",
+          "Sertifikasi"
+        ],
+        "link": "certificates/Introduction_to_forest_and_landscape_restoration.png"
+      },
+      {
+        "name": "Mengukur Peran Hutan dan Pohon dalam Kesejahteraan Rumah Tangga",
+        "issuer": "FAO",
+        "date": "Nov 2023",
+        "tags": [
+          "FAO",
+          "Sertifikasi"
+        ],
+        "link": "certificates/Measuring_the_role_of_forests_and_trees_in_household_welfare_and_livelihoods.png"
+      },
+      {
         "name": "Kursus FPIC Proforest (Bahasa Indonesia)",
         "issuer": "Proforest",
-        "date": "2023",
+        "date": "Oct 2023",
         "tags": [
           "Proforest",
           "Sertifikasi"
@@ -1833,12 +1883,42 @@ export const cvData = {
       {
         "name": "Kursus FPIC Proforest (Bahasa Inggris)",
         "issuer": "Proforest",
-        "date": "2023",
+        "date": "Oct 2023",
         "tags": [
           "Proforest",
           "Sertifikasi"
         ],
         "link": "certificates/9_7_14911_1697782730_Proforest_FPIC_-_English.pdf"
+      },
+      {
+        "name": "Sertifikasi Pilot Drone Remote",
+        "issuer": "Various Organizations",
+        "date": "Oct 2023",
+        "tags": [
+          "Various",
+          "Sertifikasi"
+        ],
+        "link": "certificates/APDI_-_I_Gede_Mahendra_Wijaya.pdf"
+      },
+      {
+        "name": "Pengantar Fasilitas Lingkungan Global (GEF)",
+        "issuer": "World Bank",
+        "date": "Oct 2023",
+        "tags": [
+          "World",
+          "Sertifikasi"
+        ],
+        "link": "certificates/WBG_OLC_-_Saba_Introduction_to_the_Global_Environment_Facility_GEF_.pdf"
+      },
+      {
+        "name": "Sertifikat Kelulusan Kursus Palo Alto Networks",
+        "issuer": "Palo Alto Networks",
+        "date": "2023",
+        "tags": [
+          "Palo",
+          "Sertifikasi"
+        ],
+        "link": "certificates/12440_3_576693_1757648957_Palo_Alto_Networks_Course_Certificate_of_Completion.pdf"
       },
       {
         "name": "Persyaratan Perlindungan Lingkungan ADB",
@@ -1861,36 +1941,6 @@ export const cvData = {
         "link": "certificates/ADB_s_Indigenous_Peoples_Safeguard_Requirements_Certificate_of_completion.pdf"
       },
       {
-        "name": "Sertifikasi Pilot Drone Remote",
-        "issuer": "Various Organizations",
-        "date": "2023",
-        "tags": [
-          "Various",
-          "Sertifikasi"
-        ],
-        "link": "certificates/APDI_-_I_Gede_Mahendra_Wijaya.pdf"
-      },
-      {
-        "name": "B20 Side Event - Inovasi Teknologi & Pasar untuk Dekarbonisasi",
-        "issuer": "Various Organizations",
-        "date": "2023",
-        "tags": [
-          "Various",
-          "Sertifikasi"
-        ],
-        "link": "certificates/B20_AUG_277.pdf"
-      },
-      {
-        "name": "Sertifikasi Pertolongan Pertama (Basic First Aid)",
-        "issuer": "Various Organizations",
-        "date": "2023",
-        "tags": [
-          "Various",
-          "Sertifikasi"
-        ],
-        "link": "certificates/BFA-I_GEDE.pdf"
-      },
-      {
         "name": "Navigasi Privasi Data dan Risiko Keamanan Siber: Wawasan untuk Investor",
         "issuer": "Various Organizations",
         "date": "2023",
@@ -1901,59 +1951,19 @@ export const cvData = {
         "link": "certificates/brighttalk-viewing-certificate-navigating-data-privacy-and-cybersecurity-risks_-insight-for-investors.pdf"
       },
       {
-        "name": "Sertifikasi Keselamatan Laut (Basic Sea Survival)",
+        "name": "B20 Side Event - Inovasi Teknologi & Pasar untuk Dekarbonisasi",
         "issuer": "Various Organizations",
-        "date": "2023",
+        "date": "Aug 2022",
         "tags": [
           "Various",
           "Sertifikasi"
         ],
-        "link": "certificates/BSS-I_GEDE.pdf"
-      },
-      {
-        "name": "Analisis Akustik di Kaleidoscope (Bagian 1): Memulai",
-        "issuer": "Wildlife Acoustics",
-        "date": "2023",
-        "tags": [
-          "Wildlife",
-          "Sertifikasi"
-        ],
-        "link": "certificates/certificate-acoustic-analysis-in-kaleidoscope-part-1-getting-started-64308a22d28ff5e07a0eef1e.pdf"
-      },
-      {
-        "name": "Manajemen Risiko Konflik Kepentingan untuk Proyek Anda",
-        "issuer": "Various Organizations",
-        "date": "2023",
-        "tags": [
-          "Various",
-          "Sertifikasi"
-        ],
-        "link": "certificates/Certificate0000.pdf"
-      },
-      {
-        "name": "Program Pelatihan Keberlanjutan dan E-Learning (STEP) (Mandiri)",
-        "issuer": "Various Organizations",
-        "date": "2023",
-        "tags": [
-          "Various",
-          "Sertifikasi"
-        ],
-        "link": "certificates/Certificate_01.pdf"
-      },
-      {
-        "name": "D3: Define, Develop, Deliver",
-        "issuer": "Various Organizations",
-        "date": "2023",
-        "tags": [
-          "Various",
-          "Sertifikasi"
-        ],
-        "link": "certificates/D3_Define_Develop_Deliver.pdf"
+        "link": "certificates/B20_AUG_277.pdf"
       },
       {
         "name": "Youth Economic Leadership Program (YELP)",
         "issuer": "Bank Indonesia Institute",
-        "date": "2023",
+        "date": "Jul 2022",
         "tags": [
           "Bank",
           "Sertifikasi"
@@ -1961,19 +1971,19 @@ export const cvData = {
         "link": "certificates/E-Certificate_-_I_Gede_Mahendra_Wijaya_-_YELP_2022.pdf"
       },
       {
-        "name": "Perubahan Iklim dan Risiko Berdaulat (ADBI E-Learning)",
-        "issuer": "Asian Development Bank Institute (ADBI)",
-        "date": "2023",
+        "name": "Materi TOT Standar ASC dan IndoGAP untuk Akuakultur",
+        "issuer": "Various Organizations",
+        "date": "Dec 2020",
         "tags": [
-          "Asian",
+          "Various",
           "Sertifikasi"
         ],
-        "link": "certificates/I-Gede-Mahendra-Wijaya_Climate-Change-and-Sovereign-Risk_Climate-Change-and-Sovereign-Risk_ADBI-E-Learning.pdf"
+        "link": "certificates/Baur_E-Certificate_TOT_for_ASC_and_INDOGAP_I_Gede_Mahendra_Wijaya.pdf"
       },
       {
         "name": "Sertifikat Pelatihan Audit Internal (ISO 9001, ISO 14001, ISO 45001)",
         "issuer": "Various Organizations",
-        "date": "2023",
+        "date": "Dec 2018",
         "tags": [
           "Various",
           "Sertifikasi"
@@ -1981,34 +1991,24 @@ export const cvData = {
         "link": "certificates/ISO.pdf"
       },
       {
-        "name": "Mengukur Peran Hutan dan Pohon dalam Kesejahteraan Rumah Tangga",
-        "issuer": "FAO",
-        "date": "2023",
-        "tags": [
-          "FAO",
-          "Sertifikasi"
-        ],
-        "link": "certificates/Measuring_the_role_of_forests_and_trees_in_household_welfare_and_livelihoods.png"
-      },
-      {
-        "name": "Pengantar Fasilitas Lingkungan Global (GEF)",
-        "issuer": "World Bank Group",
-        "date": "2023",
-        "tags": [
-          "World",
-          "Sertifikasi"
-        ],
-        "link": "certificates/WBG_OLC_-_Saba_Introduction_to_the_Global_Environment_Facility_GEF_.pdf"
-      },
-      {
-        "name": "Materi TOT Standar ASC dan IndoGAP untuk Akuakultur",
+        "name": "Sertifikasi Pertolongan Pertama (Basic First Aid)",
         "issuer": "Various Organizations",
-        "date": "2020",
+        "date": "Aug 2014",
         "tags": [
           "Various",
           "Sertifikasi"
         ],
-        "link": "certificates/Baur_E-Certificate_TOT_for_ASC_and_INDOGAP_I_Gede_Mahendra_Wijaya.pdf"
+        "link": "certificates/BFA-I_GEDE.pdf"
+      },
+      {
+        "name": "Sertifikasi Keselamatan Laut (Basic Sea Survival)",
+        "issuer": "Various Organizations",
+        "date": "Aug 2014",
+        "tags": [
+          "Various",
+          "Sertifikasi"
+        ],
+        "link": "certificates/BSS-I_GEDE.pdf"
       }
     ],
     "references": [
