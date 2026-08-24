@@ -10,5 +10,10 @@
   },
   "devDependencies": {
     "vite": "^5.4.11"
+  },
+  "dependencies": {
+    "docx": "^9.7.1",
+    "mammoth": "^1.12.1",
+    "pdf-parse": "^2.4.5"
   }
 }

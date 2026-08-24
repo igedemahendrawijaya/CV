@@ -20,6 +20,10 @@ Jus Mangga/
 !style.css
 !data.js
 !deploy.bat
+!sync_master_docx.js
+!sync_certificates.js
+!Update_Certificates.bat
+!I Gede Mahendra Wijaya_Master CV.md
 
 # Whitelist public folder and all of its contents
 !public/
