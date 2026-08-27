@@ -153,11 +153,14 @@ const MASTER_MAPPINGS = {
     tags: ['World Bank', 'Blue Carbon']
   },
   'generate-pdf.pdf': {
-    en: 'Blue Carbon Academy - Module 3: Project Design & Development (PDD)',
-    id: 'Blue Carbon Academy - Modul 3: Desain & Pengembangan Proyek (PDD)',
-    issuer: 'Blue Carbon Academy',
+    en: 'Blue Carbon Project Development & MRV Specialist Training',
+    id: 'Pelatihan Spesialis Pengembangan Proyek Karbon Biru & MRV (Blue Carbon Project Development & MRV Specialist)',
+    issuer: 'Fair Carbon (Blue Carbon Academy)',
     date: 'May 2026',
-    tags: ['Blue Carbon', 'Carbon Project']
+    tags: ['Fair Carbon', 'Blue Carbon', 'MRV'],
+    credentialUrl: 'https://faircarbon.mykajabi.com/library',
+    description: 'Comprehensive training covering full project development lifecycle for coastal blue carbon (mangroves, seagrass), from baseline feasibility & PIN, PDD design under global carbon standards, investment due diligence, to scientific MRV systems and carbon credit integrity.',
+    competencies: 'Blue Carbon Project Development, Feasibility & PIN Assessment, Project Design Document (PDD), Investment Due Diligence, MRV Design & Verification'
   },
   'Certificate WBG.pdf': {
     en: 'Environmental and Social Framework (ESF) Fundamentals',
@@ -477,7 +480,10 @@ async function main() {
         issuer: mapping.issuer,
         date: mapping.date,
         tags: mapping.tags || ['Certification'],
-        link: relativeLink
+        link: relativeLink,
+        ...(mapping.credentialUrl && { credentialUrl: mapping.credentialUrl }),
+        ...(mapping.description && { description: mapping.description }),
+        ...(mapping.competencies && { competencies: mapping.competencies })
       };
 
       const newCertId = {
@@ -485,7 +491,10 @@ async function main() {
         issuer: mapping.issuer,
         date: mapping.date,
         tags: mapping.tags || ['Sertifikasi'],
-        link: relativeLink
+        link: relativeLink,
+        ...(mapping.credentialUrl && { credentialUrl: mapping.credentialUrl }),
+        ...(mapping.description && { description: mapping.description }),
+        ...(mapping.competencies && { competencies: mapping.competencies })
       };
 
       cvData.en.certificates.push(newCertEn);

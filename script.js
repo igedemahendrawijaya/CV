@@ -151,6 +151,10 @@ function renderCertificates(lang, query = '') {
       ? `<a href="${cert.link}" target="_blank" class="cert-link">${cert.name} <i class="fa-solid fa-arrow-up-right-from-square" style="font-size: 0.75rem; margin-left: 6px; color: var(--primary-teal);"></i></a>`
       : cert.name;
 
+    const credLinkHtml = cert.credentialUrl
+      ? `<a href="${cert.credentialUrl}" target="_blank" class="cert-cred-link" style="font-size: 0.75rem; color: var(--primary-teal); margin-left: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 4px;" title="View Online Course / Platform"><i class="fa-solid fa-arrow-up-right-from-square" style="font-size: 0.7rem;"></i> Platform</a>`
+      : '';
+
     return `
       <div class="certificate-card glass${cert.link ? ' has-link' : ''}">
         <div class="card-glow"></div>
@@ -159,9 +163,10 @@ function renderCertificates(lang, query = '') {
         </div>
         <h3>${titleHtml}</h3>
         <div class="cert-issuer">
-          <i class="fa-solid fa-award"></i> <span>${cert.issuer}</span>
+          <i class="fa-solid fa-award"></i> <span>${cert.issuer}</span>${credLinkHtml}
         </div>
         <div class="cert-date">${cert.date}</div>
+        ${cert.competencies ? `<div class="cert-competencies" style="font-size: 0.78rem; color: var(--text-muted); margin-top: 8px; border-top: 1px solid rgba(255,255,255,0.06); padding-top: 6px; line-height: 1.4;"><strong>${lang === 'id' ? 'Kompetensi' : 'Competencies'}:</strong> ${cert.competencies}</div>` : ''}
       </div>
     `;
   }).join('');

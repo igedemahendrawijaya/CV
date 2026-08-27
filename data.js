@@ -669,14 +669,28 @@ export const cvData = {
         "link": "certificates/Financial_Management_Essentials_Certificate_DisasterReady_.pdf"
       },
       {
-        "name": "Blue Carbon Academy - Module 3: Project Design & Development (PDD)",
-        "issuer": "Blue Carbon Academy",
+        "name": "Blue Carbon Project Development & MRV Specialist Training",
+        "issuer": "Fair Carbon (Blue Carbon Academy)",
         "date": "May 2026",
         "tags": [
+          "Fair Carbon",
           "Blue Carbon",
-          "Carbon Project"
+          "MRV"
         ],
-        "link": "certificates/generate-pdf.pdf"
+        "link": "certificates/generate-pdf.pdf",
+        "credentialUrl": "https://faircarbon.mykajabi.com/library",
+        "description": "Comprehensive training covering full project development lifecycle for coastal blue carbon (mangroves, seagrass), from baseline feasibility & PIN, PDD design under global carbon standards, investment due diligence, to scientific MRV systems and carbon credit integrity.",
+        "competencies": "Blue Carbon Project Development, Feasibility & PIN Assessment, Project Design Document (PDD), Investment Due Diligence, MRV Design & Verification"
+      },
+      {
+        "name": "Blue Carbon Academy",
+        "issuer": "Professional Institution",
+        "date": "May 2026",
+        "tags": [
+          "Professional",
+          "Certification"
+        ],
+        "link": null
       },
       {
         "name": "Carbon Credits Project Fundamentals",
@@ -2041,14 +2055,28 @@ export const cvData = {
         "link": "certificates/Financial_Management_Essentials_Certificate_DisasterReady_.pdf"
       },
       {
-        "name": "Blue Carbon Academy - Modul 3: Desain & Pengembangan Proyek (PDD)",
-        "issuer": "Blue Carbon Academy",
+        "name": "Pelatihan Spesialis Pengembangan Proyek Karbon Biru & MRV (Blue Carbon Project Development & MRV Specialist)",
+        "issuer": "Fair Carbon (Blue Carbon Academy)",
         "date": "May 2026",
         "tags": [
+          "Fair Carbon",
           "Blue Carbon",
-          "Carbon Project"
+          "MRV"
         ],
-        "link": "certificates/generate-pdf.pdf"
+        "link": "certificates/generate-pdf.pdf",
+        "credentialUrl": "https://faircarbon.mykajabi.com/library",
+        "description": "Comprehensive training covering full project development lifecycle for coastal blue carbon (mangroves, seagrass), from baseline feasibility & PIN, PDD design under global carbon standards, investment due diligence, to scientific MRV systems and carbon credit integrity.",
+        "competencies": "Blue Carbon Project Development, Feasibility & PIN Assessment, Project Design Document (PDD), Investment Due Diligence, MRV Design & Verification"
+      },
+      {
+        "name": "Blue Carbon Academy",
+        "issuer": "Professional Institution",
+        "date": "May 2026",
+        "tags": [
+          "Professional",
+          "Sertifikasi"
+        ],
+        "link": null
       },
       {
         "name": "Dasar-Dasar Proyek Kredit Karbon (Carbon Credits Project Fundamentals)",

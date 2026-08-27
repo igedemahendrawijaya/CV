@@ -116,7 +116,9 @@ Proven track record of success with major international clients: **World Bank**,
 ### 2026 – 2027
 1. **Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance (Ongoing)** — UNITAR *(July 2026 - March 2027)*
 2. **Palo Alto Networks Course Certificate of Completion** — Palo Alto Networks *(2026)*
-3. **Blue Carbon Academy** — Blue Carbon Academy *(May 2026)*
+3. **Blue Carbon Project Development & MRV Specialist Training** — [Fair Carbon](https://faircarbon.mykajabi.com/library) *(May 2026)*
+   - **Competencies**: Blue Carbon Project Development, Feasibility & PIN Assessment, Project Design Document (PDD), Investment Due Diligence, MRV Design & Verification.
+   - **Summary**: Comprehensive training covering the full project development lifecycle for coastal blue carbon (mangroves and seagrass), from baseline feasibility & Project Idea Note (PIN), standardized PDD design, investment due diligence, to scientific Monitoring, Reporting & Verification (MRV) systems and carbon credit integrity.
 4. **Carbon Credits Project Fundamentals** — Blooms Academy *(April 2026)*
 5. **BSAFE Certification** — UNDSS *(February 2026)*
 6. **PSEA (Prevention of Sexual Exploitation and Abuse) Course** — United Nations *(February 2026)*
