@@ -4,6 +4,7 @@ import mammoth from 'mammoth';
 import { cvData } from './data.js';
 
 const DOCX_PATH = 'I Gede Mahendra Wijaya_Master CV.docx';
+const MD_PATH = 'I Gede Mahendra Wijaya_Master CV.md';
 const CERT_PUBLIC_DIR = 'public/certificates';
 
 // Helper to normalize strings for comparison
@@ -64,6 +65,7 @@ function findMatchingPdf(title) {
 // Intelligent issuer detector
 function detectIssuer(line) {
   const lower = line.toLowerCase();
+  if (lower.includes('fair carbon') || lower.includes('blue carbon academy')) return 'Fair Carbon (Blue Carbon Academy)';
   if (lower.includes('world bank') || lower.includes('wbg') || lower.includes('open learning campus') || lower.includes('enable') || lower.includes('gef')) return 'World Bank Group';
   if (lower.includes('unitar')) return 'United Nations (UNITAR)';
   if (lower.includes('undss')) return 'United Nations (UNDSS)';
@@ -107,17 +109,121 @@ function cleanTitle(str) {
     .trim();
 }
 
+// Function to generate and synchronize I Gede Mahendra Wijaya_Master CV.md
+function generateMasterMarkdown() {
+  const p = cvData.en.personal;
+  const stats = cvData.en.stats;
+  const experiences = cvData.en.experience;
+  const certs = cvData.en.certificates;
+  const pubs = cvData.en.publications;
+
+  // Group certificates chronologically
+  const certs2026 = certs.filter(c => c.date.includes('2026') || c.date.includes('2027'));
+  const certs2024 = certs.filter(c => c.date.includes('2024') || c.date.includes('2025'));
+  const certsPrior = certs.filter(c => !c.date.includes('2026') && !c.date.includes('2027') && !c.date.includes('2024') && !c.date.includes('2025'));
+
+  const yearsExp = stats.find(s => s.label.includes('Experience'))?.value || '13+';
+  const projExp = stats.find(s => s.label.includes('Projects'))?.value || '30+';
+  const pubsExp = stats.find(s => s.label.includes('Publications'))?.value || '15+';
+
+  let md = `# ${p.name}, S.Pi., M.Si.\n`;
+  md += `**${p.title}**  \n`;
+  md += `*${p.subtitle}*\n\n`;
+  md += `- **Email**: ${p.email}\n`;
+  md += `- **Phone / WA**: ${p.phone}\n`;
+  md += `- **Location**: ${p.location}\n`;
+  md += `- **LinkedIn**: [${p.linkedin}](https://${p.linkedin})\n`;
+  md += `- **ORCID**: [${p.orcid}](https://orcid.org/${p.orcid})\n\n`;
+  md += `---\n\n`;
+
+  md += `## Executive Profile Summary\n\n`;
+  md += `${p.profileSummary}\n\n`;
+  md += `---\n\n`;
+
+  md += `## Key Core Metrics & Statistics\n`;
+  md += `- **${yearsExp}** Years Professional Experience\n`;
+  md += `- **${projExp}** Completed High-Impact Projects & Technical Reports\n`;
+  md += `- **${certs.length}+** Professional Certifications & Specialized Training\n`;
+  md += `- **${pubsExp}** Peer-Reviewed Scientific Publications & Conference Papers\n\n`;
+  md += `---\n\n`;
+
+  md += `## Professional Journey & Experience\n\n`;
+  experiences.forEach((exp, i) => {
+    md += `### ${i + 1}. ${exp.role}\n`;
+    md += `**${exp.company}** | ${exp.period}  \n`;
+    md += `${exp.description}\n\n`;
+  });
+  md += `---\n\n`;
+
+  md += `## Full Master List of Certifications & Training (Chronologically Ordered - Total: ${certs.length})\n\n`;
+
+  if (certs2026.length > 0) {
+    md += `### 2026 – 2027\n`;
+    certs2026.forEach((c, idx) => {
+      const linkPart = c.credentialUrl ? ` — [${c.issuer}](${c.credentialUrl})` : ` — ${c.issuer}`;
+      md += `${idx + 1}. **${c.name}**${linkPart} *(${c.date})*\n`;
+      if (c.competencies) {
+        md += `   - **Competencies**: ${c.competencies}\n`;
+      }
+      if (c.description) {
+        md += `   - **Summary**: ${c.description}\n`;
+      }
+    });
+    md += `\n`;
+  }
+
+  if (certs2024.length > 0) {
+    md += `### 2024 – 2025\n`;
+    certs2024.forEach((c, idx) => {
+      const linkPart = c.credentialUrl ? ` — [${c.issuer}](${c.credentialUrl})` : ` — ${c.issuer}`;
+      md += `${idx + 1}. **${c.name}**${linkPart} *(${c.date})*\n`;
+      if (c.competencies) {
+        md += `   - **Competencies**: ${c.competencies}\n`;
+      }
+      if (c.description) {
+        md += `   - **Summary**: ${c.description}\n`;
+      }
+    });
+    md += `\n`;
+  }
+
+  if (certsPrior.length > 0) {
+    md += `### 2023 & Prior\n`;
+    certsPrior.forEach((c, idx) => {
+      const linkPart = c.credentialUrl ? ` — [${c.issuer}](${c.credentialUrl})` : ` — ${c.issuer}`;
+      md += `${idx + 1}. **${c.name}**${linkPart} *(${c.date})*\n`;
+      if (c.competencies) {
+        md += `   - **Competencies**: ${c.competencies}\n`;
+      }
+      if (c.description) {
+        md += `   - **Summary**: ${c.description}\n`;
+      }
+    });
+    md += `\n`;
+  }
+
+  md += `---\n\n`;
+  md += `## Peer-Reviewed Publications & Research\n\n`;
+  pubs.forEach((pub, i) => {
+    md += `${i + 1}. **${pub.title}** — *${pub.journal} (${pub.year})*\n`;
+  });
+  md += `\n`;
+
+  fs.writeFileSync(MD_PATH, md, 'utf8');
+  console.log(`[Sync] Generated and updated ${MD_PATH} successfully!`);
+}
+
 async function syncDocx() {
   if (!fs.existsSync(DOCX_PATH)) {
     console.log(`[Info] ${DOCX_PATH} not found. Skipping Word sync.`);
     return;
   }
 
-  console.log(`[1/3] Reading ${DOCX_PATH} with Mammoth...`);
+  console.log(`[1/4] Reading ${DOCX_PATH} with Mammoth...`);
   const { value: rawText } = await mammoth.extractRawText({ path: DOCX_PATH });
   const lines = rawText.split('\n').map(l => l.trim()).filter(l => l.length > 8);
 
-  console.log(`[2/3] Analyzing ${lines.length} lines from Word CV...`);
+  console.log(`[2/4] Analyzing ${lines.length} lines from Word CV...`);
 
   // Ignored patterns that are not training courses
   const IGNORE_PATTERNS = [
@@ -170,7 +276,6 @@ async function syncDocx() {
 
       // Extract cleanly
       let parsedTitle = line;
-      // If line is in format "Title. Issuer. Year."
       const parts = line.split('.').map(p => p.trim()).filter(p => p.length > 0);
       if (parts.length >= 2 && parts[0].length > 10) {
         parsedTitle = parts[0];
@@ -239,7 +344,15 @@ async function syncDocx() {
   const updatedDataContent = `export const cvData = ${JSON.stringify(cvData, null, 2)};\n`;
   fs.writeFileSync('data.js', updatedDataContent, 'utf8');
 
-  console.log(`[3/3] Synchronization complete! Total certificates: ${cvData.en.certificates.length} (New added: ${addedFromWord})`);
+  console.log(`[3/4] Database data.js updated! Total certificates: ${cvData.en.certificates.length} (New added: ${addedFromWord})`);
+
+  // Regenerate Master Markdown file automatically
+  console.log(`[4/4] Synchronizing Markdown Master CV...`);
+  generateMasterMarkdown();
+
+  console.log(`\n======================================================`);
+  console.log(`✓ ALL FILES SYNCHRONIZED (Word -> MD -> data.js -> Web)`);
+  console.log(`======================================================\n`);
 }
 
 syncDocx();
