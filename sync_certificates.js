@@ -455,6 +455,16 @@ const ADDITIONAL_MASTER_TRAININGS = [
     credentialUrl: 'https://www.importpromotiondesk.com/exporters/en/market-information/e-learning',
     competencies: 'Supply Chain Due Diligence (LkSG / SCDDA), Human Rights & Environmental Risk Analysis, EU Market Compliance, Sustainable Sourcing',
     description: 'Comprehensive e-learning program on complying with the German Supply Chain Due Diligence Act (Lieferkettensorgfaltspflichtengesetz - LkSG), addressing human rights and environmental risk analysis, grievance mechanisms, and sustainable supply chain governance for international exporters.'
+  },
+  {
+    en: 'EU Deforestation Regulation (EUDR) Compliance & Due Diligence',
+    id: 'Regulasi Bebas Deforestasi Uni Eropa (EU Deforestation Regulation - EUDR)',
+    issuer: 'Import Promotion Desk (IPD Germany)',
+    date: 'Aug 2026',
+    tags: ['IPD Germany', 'EUDR', 'Deforestation'],
+    credentialUrl: 'https://www.importpromotiondesk.com/exporters/en/market-information/e-learning',
+    competencies: 'EU Deforestation Regulation (EUDR) Compliance, Supply Chain Geolocation & Traceability, Deforestation-Free Commodity Due Diligence, Legality & Risk Assessment',
+    description: 'Specialized training on the EU Deforestation Regulation (EUDR), addressing regulatory compliance, supply chain due diligence, geolocation traceability, and legality verification for deforestation-free commodities entering the EU market (palm oil, wood, rubber, cocoa, coffee, soy, cattle).'
   }
 ];
 

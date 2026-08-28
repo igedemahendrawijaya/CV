@@ -613,6 +613,20 @@ export const cvData = {
         "competencies": "Supply Chain Due Diligence (LkSG / SCDDA), Human Rights & Environmental Risk Analysis, EU Market Compliance, Sustainable Sourcing"
       },
       {
+        "name": "EU Deforestation Regulation (EUDR) Compliance & Due Diligence",
+        "issuer": "Import Promotion Desk (IPD Germany)",
+        "date": "Aug 2026",
+        "tags": [
+          "IPD Germany",
+          "EUDR",
+          "Deforestation"
+        ],
+        "link": null,
+        "credentialUrl": "https://www.importpromotiondesk.com/exporters/en/market-information/e-learning",
+        "description": "Specialized training on the EU Deforestation Regulation (EUDR), addressing regulatory compliance, supply chain due diligence, geolocation traceability, and legality verification for deforestation-free commodities entering the EU market (palm oil, wood, rubber, cocoa, coffee, soy, cattle).",
+        "competencies": "EU Deforestation Regulation (EUDR) Compliance, Supply Chain Geolocation & Traceability, Deforestation-Free Commodity Due Diligence, Legality & Risk Assessment"
+      },
+      {
         "name": "Blue Carbon Fundamentals",
         "issuer": "World Bank Group",
         "date": "Jul 2026",
@@ -2011,6 +2025,20 @@ export const cvData = {
         "credentialUrl": "https://www.importpromotiondesk.com/exporters/en/market-information/e-learning",
         "description": "Comprehensive e-learning program on complying with the German Supply Chain Due Diligence Act (Lieferkettensorgfaltspflichtengesetz - LkSG), addressing human rights and environmental risk analysis, grievance mechanisms, and sustainable supply chain governance for international exporters.",
         "competencies": "Supply Chain Due Diligence (LkSG / SCDDA), Human Rights & Environmental Risk Analysis, EU Market Compliance, Sustainable Sourcing"
+      },
+      {
+        "name": "Regulasi Bebas Deforestasi Uni Eropa (EU Deforestation Regulation - EUDR)",
+        "issuer": "Import Promotion Desk (IPD Germany)",
+        "date": "Aug 2026",
+        "tags": [
+          "IPD Germany",
+          "EUDR",
+          "Deforestation"
+        ],
+        "link": null,
+        "credentialUrl": "https://www.importpromotiondesk.com/exporters/en/market-information/e-learning",
+        "description": "Specialized training on the EU Deforestation Regulation (EUDR), addressing regulatory compliance, supply chain due diligence, geolocation traceability, and legality verification for deforestation-free commodities entering the EU market (palm oil, wood, rubber, cocoa, coffee, soy, cattle).",
+        "competencies": "EU Deforestation Regulation (EUDR) Compliance, Supply Chain Geolocation & Traceability, Deforestation-Free Commodity Due Diligence, Legality & Risk Assessment"
       },
       {
         "name": "Dasar-Dasar Karbon Biru (Blue Carbon Fundamentals)",
