@@ -19,7 +19,7 @@ Marine environmental specialist with over 13 years of experience delivering high
 ## Key Core Metrics & Statistics
 - **13+** Years Professional Experience
 - **30+** Completed High-Impact Projects & Technical Reports
-- **73+** Professional Certifications & Specialized Training
+- **74+** Professional Certifications & Specialized Training
 - **15+** Peer-Reviewed Scientific Publications & Conference Papers
 
 ---
@@ -56,36 +56,39 @@ Supported academic research in marine biology, acoustics, and environmental moni
 
 ---
 
-## Full Master List of Certifications & Training (Chronologically Ordered - Total: 73)
+## Full Master List of Certifications & Training (Chronologically Ordered - Total: 74)
 
 ### 2026 – 2027
-1. **Blue Carbon Fundamentals** — World Bank Group *(Jul 2026)*
-2. **Ocean Governance Capacity Building Training Program (Elective Modules)** — World Bank Group *(Jul 2026)*
-3. **Financial Management Essentials Certificate Program** — DisasterReady / Cornerstone OnDemand *(Jul 2026)*
-4. **Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance** — United Nations Institute for Training and Research (UNITAR) *(Jul 2026)*
-5. **MEAL Essentials Certificate** — DisasterReady / Cornerstone OnDemand *(Jul 2026)*
-6. **Ocean Governance Capacity Building Training Program – E-Learning Course (Elective Modules)** — World Bank Group *(Jul 2026)*
-7. **Financial Management Essentials Certificate (DisasterReady)** — DisasterReady / Cornerstone OnDemand *(Jul 2026)*
-8. **Blue Carbon Project Development & MRV Specialist Training** — [Fair Carbon (Blue Carbon Academy)](https://faircarbon.mykajabi.com/library) *(May 2026)*
+1. **The German Supply Chain Due Diligence Act (LkSG / SCDDA)** — [Import Promotion Desk (IPD Germany)](https://www.importpromotiondesk.com/exporters/en/market-information/e-learning) *(Aug 2026)*
+   - **Competencies**: Supply Chain Due Diligence (LkSG / SCDDA), Human Rights & Environmental Risk Analysis, EU Market Compliance, Sustainable Sourcing
+   - **Summary**: Comprehensive e-learning program on complying with the German Supply Chain Due Diligence Act (Lieferkettensorgfaltspflichtengesetz - LkSG), addressing human rights and environmental risk analysis, grievance mechanisms, and sustainable supply chain governance for international exporters.
+2. **Blue Carbon Fundamentals** — World Bank Group *(Jul 2026)*
+3. **Ocean Governance Capacity Building Training Program (Elective Modules)** — World Bank Group *(Jul 2026)*
+4. **Financial Management Essentials Certificate Program** — DisasterReady / Cornerstone OnDemand *(Jul 2026)*
+5. **Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance** — United Nations Institute for Training and Research (UNITAR) *(Jul 2026)*
+6. **MEAL Essentials Certificate** — DisasterReady / Cornerstone OnDemand *(Jul 2026)*
+7. **Ocean Governance Capacity Building Training Program – E-Learning Course (Elective Modules)** — World Bank Group *(Jul 2026)*
+8. **Financial Management Essentials Certificate (DisasterReady)** — DisasterReady / Cornerstone OnDemand *(Jul 2026)*
+9. **Blue Carbon Project Development & MRV Specialist Training** — [Fair Carbon (Blue Carbon Academy)](https://faircarbon.mykajabi.com/library) *(May 2026)*
    - **Competencies**: Blue Carbon Project Development, Feasibility & PIN Assessment, Project Design Document (PDD), Investment Due Diligence, MRV Design & Verification
    - **Summary**: Comprehensive training covering full project development lifecycle for coastal blue carbon (mangroves, seagrass), from baseline feasibility & PIN, PDD design under global carbon standards, investment due diligence, to scientific MRV systems and carbon credit integrity.
-9. **Blue Carbon Academy** — Fair Carbon (Blue Carbon Academy) *(May 2026)*
-10. **Carbon Credits Project Fundamentals** — Blooms Academy *(Apr 2026)*
-11. **BSAFE Security Certification** — United Nations (UNDSS) *(Feb 2026)*
-12. **Acoustic Analysis in Kaleidoscope (Part 2): Batch Processing** — Wildlife Acoustics *(Feb 2026)*
-13. **Introduction to Kaleidoscope for Bat Sound Analysis (Beginner Batch 2)** — Wildlife Acoustics *(Feb 2026)*
-14. **How to Use Bat Auto-ID in Kaleidoscope Pro (Advanced)** — Wildlife Acoustics *(Feb 2026)*
-15. **How to Start a General Survey with Kaleidoscope Pro (Advanced)** — Wildlife Acoustics *(Feb 2026)*
-16. **Intro to Acoustic Indices for Biodiversity Monitoring (Intermediate)** — Wildlife Acoustics *(Feb 2026)*
-17. **How to Perform a Targeted Search with Kaleidoscope Pro (Advanced)** — Wildlife Acoustics *(Feb 2026)*
-18. **Introduction to Kaleidoscope for Bat Sound Analysis (Beginner)** — Wildlife Acoustics *(Feb 2026)*
-19. **Kaleidoscope Lite for Bat Analysis** — Wildlife Acoustics *(Feb 2026)*
-20. **Preparing and Responding to Active Shooter Incidents** — United Nations (UNDSS) *(Feb 2026)*
-21. **Prevention of Sexual Exploitation and Abuse (PSEA)** — United Nations *(Feb 2026)*
-22. **PSEA Course** — United Nations *(Feb 2026)*
-23. **Protected Area Technician Training: Infrastructure Fundamentals** — Connected Conservation *(Jan 2026)*
-24. **Protected Area Technician Training: Tools for Informed Decision Making** — Connected Conservation *(Jan 2026)*
-25. **Protected Area Technician Training Course - Tools for Informed Decision Making** — Connected Conservation *(Jan 2026)*
+10. **Blue Carbon Academy** — Fair Carbon (Blue Carbon Academy) *(May 2026)*
+11. **Carbon Credits Project Fundamentals** — Blooms Academy *(Apr 2026)*
+12. **BSAFE Security Certification** — United Nations (UNDSS) *(Feb 2026)*
+13. **Acoustic Analysis in Kaleidoscope (Part 2): Batch Processing** — Wildlife Acoustics *(Feb 2026)*
+14. **Introduction to Kaleidoscope for Bat Sound Analysis (Beginner Batch 2)** — Wildlife Acoustics *(Feb 2026)*
+15. **How to Use Bat Auto-ID in Kaleidoscope Pro (Advanced)** — Wildlife Acoustics *(Feb 2026)*
+16. **How to Start a General Survey with Kaleidoscope Pro (Advanced)** — Wildlife Acoustics *(Feb 2026)*
+17. **Intro to Acoustic Indices for Biodiversity Monitoring (Intermediate)** — Wildlife Acoustics *(Feb 2026)*
+18. **How to Perform a Targeted Search with Kaleidoscope Pro (Advanced)** — Wildlife Acoustics *(Feb 2026)*
+19. **Introduction to Kaleidoscope for Bat Sound Analysis (Beginner)** — Wildlife Acoustics *(Feb 2026)*
+20. **Kaleidoscope Lite for Bat Analysis** — Wildlife Acoustics *(Feb 2026)*
+21. **Preparing and Responding to Active Shooter Incidents** — United Nations (UNDSS) *(Feb 2026)*
+22. **Prevention of Sexual Exploitation and Abuse (PSEA)** — United Nations *(Feb 2026)*
+23. **PSEA Course** — United Nations *(Feb 2026)*
+24. **Protected Area Technician Training: Infrastructure Fundamentals** — Connected Conservation *(Jan 2026)*
+25. **Protected Area Technician Training: Tools for Informed Decision Making** — Connected Conservation *(Jan 2026)*
+26. **Protected Area Technician Training Course - Tools for Informed Decision Making** — Connected Conservation *(Jan 2026)*
 
 ### 2024 – 2025
 1. **Global Carbon Summit Indonesia 2025** — Global Carbon Summit *(Nov 2025)*

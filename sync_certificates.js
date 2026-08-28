@@ -445,6 +445,16 @@ const ADDITIONAL_MASTER_TRAININGS = [
     issuer: 'Copernicus Marine Service',
     date: 'Jul 2023',
     tags: ['Copernicus', 'Marine Data']
+  },
+  {
+    en: 'The German Supply Chain Due Diligence Act (LkSG / SCDDA)',
+    id: 'Kepatuhan Uji Tuntas Rantai Pasok Jerman (German Supply Chain Due Diligence Act - LkSG/SCDDA)',
+    issuer: 'Import Promotion Desk (IPD Germany)',
+    date: 'Aug 2026',
+    tags: ['IPD Germany', 'Supply Chain', 'Due Diligence'],
+    credentialUrl: 'https://www.importpromotiondesk.com/exporters/en/market-information/e-learning',
+    competencies: 'Supply Chain Due Diligence (LkSG / SCDDA), Human Rights & Environmental Risk Analysis, EU Market Compliance, Sustainable Sourcing',
+    description: 'Comprehensive e-learning program on complying with the German Supply Chain Due Diligence Act (Lieferkettensorgfaltspflichtengesetz - LkSG), addressing human rights and environmental risk analysis, grievance mechanisms, and sustainable supply chain governance for international exporters.'
   }
 ];
 
@@ -514,14 +524,20 @@ async function main() {
         issuer: tr.issuer,
         date: tr.date,
         tags: tr.tags,
-        link: null
+        link: null,
+        ...(tr.credentialUrl && { credentialUrl: tr.credentialUrl }),
+        ...(tr.description && { description: tr.description }),
+        ...(tr.competencies && { competencies: tr.competencies })
       };
       const newCertId = {
         name: tr.id,
         issuer: tr.issuer,
         date: tr.date,
         tags: tr.tags,
-        link: null
+        link: null,
+        ...(tr.credentialUrl && { credentialUrl: tr.credentialUrl }),
+        ...(tr.description && { description: tr.description }),
+        ...(tr.competencies && { competencies: tr.competencies })
       };
       cvData.en.certificates.push(newCertEn);
       if (cvData.id && cvData.id.certificates) {
