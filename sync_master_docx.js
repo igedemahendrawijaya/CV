@@ -128,7 +128,7 @@ function generateMasterMarkdown() {
   const projExp = stats.find(s => s.label.includes('Projects'))?.value || '30+';
   const pubsExp = stats.find(s => s.label.includes('Publications'))?.value || '15+';
 
-  let md = `# ${p.name}, S.Pi., M.Si.\n`;
+  let md = `# ${p.name}, S.Pi.\n`;
   md += `**${p.title}**  \n`;
   md += `*${p.subtitle}*\n\n`;
   md += `- **Email**: [${p.email}](mailto:${p.email})\n`;
@@ -147,6 +147,17 @@ function generateMasterMarkdown() {
   md += `- **${projExp}** Completed High-Impact Projects & Technical Reports\n`;
   md += `- **${certs.length}+** Professional Certifications & Specialized Training\n`;
   md += `- **${pubsExp}** Peer-Reviewed Scientific Publications & Conference Papers\n\n`;
+  md += `---\n\n`;
+
+  md += `## Education\n\n`;
+  md += `1. **Bachelor of Marine Science and Technology (S.Pi.)**\n`;
+  md += `   - **Institution**: Bogor Agricultural University (IPB University), Indonesia\n`;
+  md += `   - **Faculty**: Faculty of Fisheries and Marine Sciences\n`;
+  md += `   - **Period**: June 2008 – April 2013\n`;
+  md += `   - **Major / Focus**: Marine Acoustic and Remote Sensing Technology | GPA: 3.04\n\n`;
+  md += `2. **Diploma in Carbon Management** *(Online - Ongoing)*\n`;
+  md += `   - **Institution**: The Greenhouse Gas Management Institute (GHGMI)\n`;
+  md += `   - **Focus**: Greenhouse Gas Accounting, Carbon Project Development & MRV Frameworks\n\n`;
   md += `---\n\n`;
 
   md += `## Professional Journey & Experience\n\n`;

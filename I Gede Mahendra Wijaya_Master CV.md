@@ -1,4 +1,4 @@
-# I Gede Mahendra Wijaya, S.Pi., M.Si.
+# I Gede Mahendra Wijaya, S.Pi.
 **Marine Environmental Specialist**  
 *Carbon & Fisheries Management | Coastal & Ocean Governance*
 
@@ -21,6 +21,20 @@ Marine environmental specialist with over 13 years of experience delivering high
 - **30+** Completed High-Impact Projects & Technical Reports
 - **76+** Professional Certifications & Specialized Training
 - **15+** Peer-Reviewed Scientific Publications & Conference Papers
+
+---
+
+## Education
+
+1. **Bachelor of Marine Science and Technology (S.Pi.)**
+   - **Institution**: Bogor Agricultural University (IPB University), Indonesia
+   - **Faculty**: Faculty of Fisheries and Marine Sciences
+   - **Period**: June 2008 – April 2013
+   - **Major / Focus**: Marine Acoustic and Remote Sensing Technology | GPA: 3.04
+
+2. **Diploma in Carbon Management** *(Online - Ongoing)*
+   - **Institution**: The Greenhouse Gas Management Institute (GHGMI)
+   - **Focus**: Greenhouse Gas Accounting, Carbon Project Development & MRV Frameworks
 
 ---
 
