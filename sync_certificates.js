@@ -465,6 +465,16 @@ const ADDITIONAL_MASTER_TRAININGS = [
     credentialUrl: 'https://www.importpromotiondesk.com/exporters/en/market-information/e-learning',
     competencies: 'EU Deforestation Regulation (EUDR) Compliance, Supply Chain Geolocation & Traceability, Deforestation-Free Commodity Due Diligence, Legality & Risk Assessment',
     description: 'Specialized training on the EU Deforestation Regulation (EUDR), addressing regulatory compliance, supply chain due diligence, geolocation traceability, and legality verification for deforestation-free commodities entering the EU market (palm oil, wood, rubber, cocoa, coffee, soy, cattle).'
+  },
+  {
+    en: 'IWRM for Climate Resilience (20-Hour Training Course)',
+    id: 'Pengelolaan Sumber Daya Air Terpadu untuk Ketahanan Iklim (IWRM for Climate Resilience)',
+    issuer: 'Cap-Net UNDP & UNEP-DHI Centre',
+    date: 'Aug 2026',
+    tags: ['UNDP', 'UNEP-DHI', 'IWRM', 'Climate Resilience'],
+    credentialUrl: 'https://campus.cap-net.org/certificates/fd36a0339b364500a601922c8fd08ba9',
+    competencies: 'Integrated Water Resources Management (IWRM), Climate Change Adaptation, Watershed & Coastal Hydrology, Disaster Risk Reduction, Water Governance',
+    description: '20-hour intensive training on Integrated Water Resources Management (IWRM) for Climate Resilience accredited by Cap-Net UNDP and UNEP-DHI Centre, addressing climate change adaptation in water resources, basin management, flood/drought risk assessment, and resilient water governance frameworks.'
   }
 ];
 

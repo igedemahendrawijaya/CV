@@ -65,6 +65,8 @@ function findMatchingPdf(title) {
 // Intelligent issuer detector
 function detectIssuer(line) {
   const lower = line.toLowerCase();
+  if (lower.includes('cap-net') || lower.includes('iwrm') || lower.includes('unep-dhi')) return 'Cap-Net UNDP & UNEP-DHI Centre';
+  if (lower.includes('import promotion desk') || lower.includes('ipd germany') || lower.includes('scdda') || lower.includes('eudr')) return 'Import Promotion Desk (IPD Germany)';
   if (lower.includes('fair carbon') || lower.includes('blue carbon academy')) return 'Fair Carbon (Blue Carbon Academy)';
   if (lower.includes('world bank') || lower.includes('wbg') || lower.includes('open learning campus') || lower.includes('enable') || lower.includes('gef')) return 'World Bank Group';
   if (lower.includes('unitar')) return 'United Nations (UNITAR)';
