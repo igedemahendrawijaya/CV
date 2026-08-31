@@ -682,6 +682,36 @@ export const cvData = {
         "link": null
       },
       {
+        "name": "MEAL Essentials Certificate",
+        "issuer": "DisasterReady / Cornerstone OnDemand",
+        "date": "Jul 2026",
+        "tags": [
+          "DisasterReady",
+          "Certification"
+        ],
+        "link": null
+      },
+      {
+        "name": "Ocean Governance Capacity Building Training Program – E-Learning Course (Elective Modules)",
+        "issuer": "World Bank Group",
+        "date": "Jul 2026",
+        "tags": [
+          "World",
+          "Certification"
+        ],
+        "link": null
+      },
+      {
+        "name": "Financial Management Essentials Certificate (DisasterReady)",
+        "issuer": "DisasterReady / Cornerstone OnDemand",
+        "date": "Jul 2026",
+        "tags": [
+          "DisasterReady",
+          "Certification"
+        ],
+        "link": "certificates/Financial_Management_Essentials_Certificate_DisasterReady_.pdf"
+      },
+      {
         "name": "Blue Carbon Project Development & MRV Specialist Training",
         "issuer": "Fair Carbon (Blue Carbon Academy)",
         "date": "May 2026",
@@ -694,6 +724,16 @@ export const cvData = {
         "credentialUrl": "https://faircarbon.mykajabi.com/library",
         "description": "Comprehensive training covering full project development lifecycle for coastal blue carbon (mangroves, seagrass), from baseline feasibility & PIN, PDD design under global carbon standards, investment due diligence, to scientific MRV systems and carbon credit integrity.",
         "competencies": "Blue Carbon Project Development, Feasibility & PIN Assessment, Project Design Document (PDD), Investment Due Diligence, MRV Design & Verification"
+      },
+      {
+        "name": "Blue Carbon Academy",
+        "issuer": "Fair Carbon (Blue Carbon Academy)",
+        "date": "May 2026",
+        "tags": [
+          "Fair",
+          "Certification"
+        ],
+        "link": null
       },
       {
         "name": "Carbon Credits Project Fundamentals",
@@ -816,6 +856,16 @@ export const cvData = {
         "link": "certificates/PSEA_UN_LM_CRTERM.pdf"
       },
       {
+        "name": "PSEA Course",
+        "issuer": "United Nations",
+        "date": "Feb 2026",
+        "tags": [
+          "United",
+          "Certification"
+        ],
+        "link": null
+      },
+      {
         "name": "Protected Area Technician Training: Infrastructure Fundamentals",
         "issuer": "Connected Conservation",
         "date": "Jan 2026",
@@ -832,6 +882,16 @@ export const cvData = {
         "tags": [
           "Connected Conservation",
           "Decision Making"
+        ],
+        "link": "certificates/Certificate_Protected_Area_Technician_Training_Course_-_Tools_for_Informed_Decision_Making.pdf"
+      },
+      {
+        "name": "Protected Area Technician Training Course - Tools for Informed Decision Making",
+        "issuer": "Connected Conservation",
+        "date": "Jan 2026",
+        "tags": [
+          "Connected",
+          "Certification"
         ],
         "link": "certificates/Certificate_Protected_Area_Technician_Training_Course_-_Tools_for_Informed_Decision_Making.pdf"
       },
@@ -1146,6 +1206,46 @@ export const cvData = {
         "link": null
       },
       {
+        "name": "Environmental, social governance training",
+        "issuer": "Professional Institution",
+        "date": "Feb 2023",
+        "tags": [
+          "Professional",
+          "Certification"
+        ],
+        "link": null
+      },
+      {
+        "name": "Basic sea survival training",
+        "issuer": "Barron International",
+        "date": "2023",
+        "tags": [
+          "Barron",
+          "Certification"
+        ],
+        "link": null
+      },
+      {
+        "name": "First aid kid training",
+        "issuer": "Barron International",
+        "date": "2023",
+        "tags": [
+          "Barron",
+          "Certification"
+        ],
+        "link": null
+      },
+      {
+        "name": "Snake bite first aid training",
+        "issuer": "Professional Institution",
+        "date": "2023",
+        "tags": [
+          "Professional",
+          "Certification"
+        ],
+        "link": null
+      },
+      {
         "name": "B20 Side Event: Technology & Market Innovation for Decarbonization",
         "issuer": "B20 Indonesia / KADIN",
         "date": "Aug 2022",
@@ -1166,6 +1266,16 @@ export const cvData = {
         "link": "certificates/E-Certificate_-_I_Gede_Mahendra_Wijaya_-_YELP_2022.pdf"
       },
       {
+        "name": "Digital design training",
+        "issuer": "Professional Institution",
+        "date": "2021",
+        "tags": [
+          "Professional",
+          "Certification"
+        ],
+        "link": null
+      },
+      {
         "name": "ToT Materials for ASC and IndoGAP Sustainable Aquaculture Standards",
         "issuer": "Politeknik AUP & The Baur Project",
         "date": "May 2020",
@@ -1176,12 +1286,72 @@ export const cvData = {
         "link": "certificates/Baur_E-Certificate_TOT_for_ASC_and_INDOGAP_I_Gede_Mahendra_Wijaya.pdf"
       },
       {
+        "name": "Public speaking training",
+        "issuer": "Professional Institution",
+        "date": "2019",
+        "tags": [
+          "Professional",
+          "Certification"
+        ],
+        "link": null
+      },
+      {
+        "name": "Biodiversity Environmental Impact Assessment (BEIA) and Participatory Social Impact Assessment (PSIA) Training",
+        "issuer": "WWF Indonesia",
+        "date": "2019",
+        "tags": [
+          "WWF",
+          "Certification"
+        ],
+        "link": null
+      },
+      {
         "name": "Internal Quality Auditor ISO 9001:2015, ISO 14001:2015 & ISO 45001:2018",
         "issuer": "Worldwide Quality Assurance (WQA)",
         "date": "Dec 2018",
         "tags": [
           "ISO",
           "Quality Audit"
+        ],
+        "link": "certificates/ISO.pdf"
+      },
+      {
+        "name": "Technical Method on Monitoring and Evaluation Training",
+        "issuer": "Professional Institution",
+        "date": "2018",
+        "tags": [
+          "Professional",
+          "Certification"
+        ],
+        "link": null
+      },
+      {
+        "name": "Underwater Acoustic Training",
+        "issuer": "Professional Institution",
+        "date": "2017",
+        "tags": [
+          "Professional",
+          "Certification"
+        ],
+        "link": null
+      },
+      {
+        "name": "Training of Awareness and Internal Quality Audit ISO 9001:2015",
+        "issuer": "Worldwide Quality Assurance (WQA)",
+        "date": "2015",
+        "tags": [
+          "Worldwide",
+          "Certification"
+        ],
+        "link": "certificates/ISO.pdf"
+      },
+      {
+        "name": "ISO 14001:2015 Workshop and Training",
+        "issuer": "Worldwide Quality Assurance (WQA)",
+        "date": "2015",
+        "tags": [
+          "Worldwide",
+          "Certification"
         ],
         "link": "certificates/ISO.pdf"
       },
@@ -1941,6 +2111,36 @@ export const cvData = {
         "link": null
       },
       {
+        "name": "MEAL Essentials Certificate",
+        "issuer": "DisasterReady / Cornerstone OnDemand",
+        "date": "Jul 2026",
+        "tags": [
+          "DisasterReady",
+          "Sertifikasi"
+        ],
+        "link": null
+      },
+      {
+        "name": "Ocean Governance Capacity Building Training Program – E-Learning Course (Elective Modules)",
+        "issuer": "World Bank Group",
+        "date": "Jul 2026",
+        "tags": [
+          "World",
+          "Sertifikasi"
+        ],
+        "link": null
+      },
+      {
+        "name": "Financial Management Essentials Certificate (DisasterReady)",
+        "issuer": "DisasterReady / Cornerstone OnDemand",
+        "date": "Jul 2026",
+        "tags": [
+          "DisasterReady",
+          "Sertifikasi"
+        ],
+        "link": "certificates/Financial_Management_Essentials_Certificate_DisasterReady_.pdf"
+      },
+      {
         "name": "Pelatihan Spesialis Pengembangan Proyek Karbon Biru & MRV (Blue Carbon Project Development & MRV Specialist)",
         "issuer": "Fair Carbon (Blue Carbon Academy)",
         "date": "May 2026",
@@ -1953,6 +2153,16 @@ export const cvData = {
         "credentialUrl": "https://faircarbon.mykajabi.com/library",
         "description": "Comprehensive training covering full project development lifecycle for coastal blue carbon (mangroves, seagrass), from baseline feasibility & PIN, PDD design under global carbon standards, investment due diligence, to scientific MRV systems and carbon credit integrity.",
         "competencies": "Blue Carbon Project Development, Feasibility & PIN Assessment, Project Design Document (PDD), Investment Due Diligence, MRV Design & Verification"
+      },
+      {
+        "name": "Blue Carbon Academy",
+        "issuer": "Fair Carbon (Blue Carbon Academy)",
+        "date": "May 2026",
+        "tags": [
+          "Fair",
+          "Sertifikasi"
+        ],
+        "link": null
       },
       {
         "name": "Dasar-Dasar Proyek Kredit Karbon (Carbon Credits Project Fundamentals)",
@@ -2075,6 +2285,16 @@ export const cvData = {
         "link": "certificates/PSEA_UN_LM_CRTERM.pdf"
       },
       {
+        "name": "PSEA Course",
+        "issuer": "United Nations",
+        "date": "Feb 2026",
+        "tags": [
+          "United",
+          "Sertifikasi"
+        ],
+        "link": null
+      },
+      {
         "name": "Pelatihan Teknisi Kawasan Konservasi: Dasar-Dasar Infrastruktur",
         "issuer": "Connected Conservation",
         "date": "Jan 2026",
@@ -2091,6 +2311,16 @@ export const cvData = {
         "tags": [
           "Connected Conservation",
           "Decision Making"
+        ],
+        "link": "certificates/Certificate_Protected_Area_Technician_Training_Course_-_Tools_for_Informed_Decision_Making.pdf"
+      },
+      {
+        "name": "Protected Area Technician Training Course - Tools for Informed Decision Making",
+        "issuer": "Connected Conservation",
+        "date": "Jan 2026",
+        "tags": [
+          "Connected",
+          "Sertifikasi"
         ],
         "link": "certificates/Certificate_Protected_Area_Technician_Training_Course_-_Tools_for_Informed_Decision_Making.pdf"
       },
@@ -2405,6 +2635,46 @@ export const cvData = {
         "link": null
       },
       {
+        "name": "Environmental, social governance training",
+        "issuer": "Professional Institution",
+        "date": "Feb 2023",
+        "tags": [
+          "Professional",
+          "Sertifikasi"
+        ],
+        "link": null
+      },
+      {
+        "name": "Basic sea survival training",
+        "issuer": "Barron International",
+        "date": "2023",
+        "tags": [
+          "Barron",
+          "Sertifikasi"
+        ],
+        "link": null
+      },
+      {
+        "name": "First aid kid training",
+        "issuer": "Barron International",
+        "date": "2023",
+        "tags": [
+          "Barron",
+          "Sertifikasi"
+        ],
+        "link": null
+      },
+      {
+        "name": "Snake bite first aid training",
+        "issuer": "Professional Institution",
+        "date": "2023",
+        "tags": [
+          "Professional",
+          "Sertifikasi"
+        ],
+        "link": null
+      },
+      {
         "name": "B20 Side Event: Inovasi Teknologi & Pasar untuk Dekarbonisasi",
         "issuer": "B20 Indonesia / KADIN",
         "date": "Aug 2022",
@@ -2425,6 +2695,16 @@ export const cvData = {
         "link": "certificates/E-Certificate_-_I_Gede_Mahendra_Wijaya_-_YELP_2022.pdf"
       },
       {
+        "name": "Digital design training",
+        "issuer": "Professional Institution",
+        "date": "2021",
+        "tags": [
+          "Professional",
+          "Sertifikasi"
+        ],
+        "link": null
+      },
+      {
         "name": "Penyusunan Materi Pelatihan (ToT) Standar ASC & IndoGAP untuk Budidaya Berkelanjutan",
         "issuer": "Politeknik AUP & The Baur Project",
         "date": "May 2020",
@@ -2435,12 +2715,72 @@ export const cvData = {
         "link": "certificates/Baur_E-Certificate_TOT_for_ASC_and_INDOGAP_I_Gede_Mahendra_Wijaya.pdf"
       },
       {
+        "name": "Public speaking training",
+        "issuer": "Professional Institution",
+        "date": "2019",
+        "tags": [
+          "Professional",
+          "Sertifikasi"
+        ],
+        "link": null
+      },
+      {
+        "name": "Biodiversity Environmental Impact Assessment (BEIA) and Participatory Social Impact Assessment (PSIA) Training",
+        "issuer": "WWF Indonesia",
+        "date": "2019",
+        "tags": [
+          "WWF",
+          "Sertifikasi"
+        ],
+        "link": null
+      },
+      {
         "name": "Pelatihan Audit Mutu & Lingkungan Internal (ISO 9001, 14001, 45001)",
         "issuer": "Worldwide Quality Assurance (WQA)",
         "date": "Dec 2018",
         "tags": [
           "ISO",
           "Quality Audit"
+        ],
+        "link": "certificates/ISO.pdf"
+      },
+      {
+        "name": "Technical Method on Monitoring and Evaluation Training",
+        "issuer": "Professional Institution",
+        "date": "2018",
+        "tags": [
+          "Professional",
+          "Sertifikasi"
+        ],
+        "link": null
+      },
+      {
+        "name": "Underwater Acoustic Training",
+        "issuer": "Professional Institution",
+        "date": "2017",
+        "tags": [
+          "Professional",
+          "Sertifikasi"
+        ],
+        "link": null
+      },
+      {
+        "name": "Training of Awareness and Internal Quality Audit ISO 9001:2015",
+        "issuer": "Worldwide Quality Assurance (WQA)",
+        "date": "2015",
+        "tags": [
+          "Worldwide",
+          "Sertifikasi"
+        ],
+        "link": "certificates/ISO.pdf"
+      },
+      {
+        "name": "ISO 14001:2015 Workshop and Training",
+        "issuer": "Worldwide Quality Assurance (WQA)",
+        "date": "2015",
+        "tags": [
+          "Worldwide",
+          "Sertifikasi"
         ],
         "link": "certificates/ISO.pdf"
       },

@@ -2,8 +2,8 @@
 **Marine Environmental Specialist**  
 *Carbon & Fisheries Management | Coastal & Ocean Governance*
 
-- **Email**: gedemahendrawijaya@gmail.com
-- **Phone / WA**: +62 812 9742 9227
+- **Email**: [gedemahendrawijaya@gmail.com](mailto:gedemahendrawijaya@gmail.com)
+- **Phone / WA**: [+62 812 9742 9227](https://wa.me/6281297429227)
 - **Location**: Denpasar, Bali, Indonesia
 - **LinkedIn**: [linkedin.com/in/gmwijaya](https://linkedin.com/in/gmwijaya)
 - **ORCID**: [0000-0003-2312-7031](https://orcid.org/0000-0003-2312-7031)

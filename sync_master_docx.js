@@ -131,8 +131,8 @@ function generateMasterMarkdown() {
   let md = `# ${p.name}, S.Pi., M.Si.\n`;
   md += `**${p.title}**  \n`;
   md += `*${p.subtitle}*\n\n`;
-  md += `- **Email**: ${p.email}\n`;
-  md += `- **Phone / WA**: ${p.phone}\n`;
+  md += `- **Email**: [${p.email}](mailto:${p.email})\n`;
+  md += `- **Phone / WA**: [${p.phone}](https://wa.me/6281297429227)\n`;
   md += `- **Location**: ${p.location}\n`;
   md += `- **LinkedIn**: [${p.linkedin}](https://${p.linkedin})\n`;
   md += `- **ORCID**: [${p.orcid}](https://orcid.org/${p.orcid})\n\n`;
