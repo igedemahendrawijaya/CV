@@ -19,7 +19,7 @@ Marine environmental specialist with over 13 years of experience delivering high
 ## Key Core Metrics & Statistics
 - **13+** Years Professional Experience
 - **30+** Completed High-Impact Projects & Technical Reports
-- **76+** Professional Certifications & Specialized Training
+- **78+** Professional Certifications & Specialized Training
 - **15+** Peer-Reviewed Scientific Publications & Conference Papers
 
 ---
@@ -70,45 +70,51 @@ Supported academic research in marine biology, acoustics, and environmental moni
 
 ---
 
-## Full Master List of Certifications & Training (Chronologically Ordered - Total: 76)
+## Full Master List of Certifications & Training (Chronologically Ordered - Total: 78)
 
 ### 2026 – 2027
-1. **The German Supply Chain Due Diligence Act (LkSG / SCDDA)** — [Import Promotion Desk (IPD Germany)](https://www.importpromotiondesk.com/exporters/en/market-information/e-learning) *(Aug 2026)*
+1. **Diploma in Occupational Health, Safety and Environment (OHSE)** — [Alison](https://alison.com/course/diploma-in-occupational-health-safety-and-environment-ohse) *(Sep 2026)*
+   - **Competencies**: Occupational Health & Safety (OHS), Environmental Management Systems (EMS), Workplace Hazard & Risk Assessment, Emergency Preparedness, Incident Investigation, HSE Compliance
+   - **Summary**: Comprehensive diploma program in Occupational Health, Safety, and Environment (OHSE) from Alison, covering hazard identification, workplace risk assessments, incident prevention & root cause analysis, environmental protection protocols, emergency response planning, and international HSE management standards.
+2. **The German Supply Chain Due Diligence Act (LkSG / SCDDA)** — [Import Promotion Desk (IPD Germany)](https://www.importpromotiondesk.com/exporters/en/market-information/e-learning) *(Aug 2026)*
    - **Competencies**: Supply Chain Due Diligence (LkSG / SCDDA), Human Rights & Environmental Risk Analysis, EU Market Compliance, Sustainable Sourcing
    - **Summary**: Comprehensive e-learning program on complying with the German Supply Chain Due Diligence Act (Lieferkettensorgfaltspflichtengesetz - LkSG), addressing human rights and environmental risk analysis, grievance mechanisms, and sustainable supply chain governance for international exporters.
-2. **EU Deforestation Regulation (EUDR) Compliance & Due Diligence** — [Import Promotion Desk (IPD Germany)](https://www.importpromotiondesk.com/exporters/en/market-information/e-learning) *(Aug 2026)*
+3. **EU Deforestation Regulation (EUDR) Compliance & Due Diligence** — [Import Promotion Desk (IPD Germany)](https://www.importpromotiondesk.com/exporters/en/market-information/e-learning) *(Aug 2026)*
    - **Competencies**: EU Deforestation Regulation (EUDR) Compliance, Supply Chain Geolocation & Traceability, Deforestation-Free Commodity Due Diligence, Legality & Risk Assessment
    - **Summary**: Specialized training on the EU Deforestation Regulation (EUDR), addressing regulatory compliance, supply chain due diligence, geolocation traceability, and legality verification for deforestation-free commodities entering the EU market (palm oil, wood, rubber, cocoa, coffee, soy, cattle).
-3. **IWRM for Climate Resilience (20-Hour Training Course)** — [Cap-Net UNDP & UNEP-DHI Centre](https://campus.cap-net.org/certificates/fd36a0339b364500a601922c8fd08ba9) *(Aug 2026)*
+4. **IWRM for Climate Resilience (20-Hour Training Course)** — [Cap-Net UNDP & UNEP-DHI Centre](https://campus.cap-net.org/certificates/fd36a0339b364500a601922c8fd08ba9) *(Aug 2026)*
    - **Competencies**: Integrated Water Resources Management (IWRM), Climate Change Adaptation, Watershed & Coastal Hydrology, Disaster Risk Reduction, Water Governance
    - **Summary**: 20-hour intensive training on Integrated Water Resources Management (IWRM) for Climate Resilience accredited by Cap-Net UNDP and UNEP-DHI Centre, addressing climate change adaptation in water resources, basin management, flood/drought risk assessment, and resilient water governance frameworks.
-4. **Blue Carbon Fundamentals** — World Bank Group *(Jul 2026)*
-5. **Ocean Governance Capacity Building Training Program (Elective Modules)** — World Bank Group *(Jul 2026)*
-6. **Financial Management Essentials Certificate Program** — DisasterReady / Cornerstone OnDemand *(Jul 2026)*
-7. **Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance** — United Nations Institute for Training and Research (UNITAR) *(Jul 2026)*
-8. **MEAL Essentials Certificate** — DisasterReady / Cornerstone OnDemand *(Jul 2026)*
-9. **Ocean Governance Capacity Building Training Program – E-Learning Course (Elective Modules)** — World Bank Group *(Jul 2026)*
-10. **Financial Management Essentials Certificate (DisasterReady)** — DisasterReady / Cornerstone OnDemand *(Jul 2026)*
-11. **Blue Carbon Project Development & MRV Specialist Training** — [Fair Carbon (Blue Carbon Academy)](https://faircarbon.mykajabi.com/library) *(May 2026)*
+5. **Blue Carbon Fundamentals** — World Bank Group *(Jul 2026)*
+6. **Ocean Governance Capacity Building Training Program (Elective Modules)** — World Bank Group *(Jul 2026)*
+7. **Financial Management Essentials Certificate Program** — DisasterReady / Cornerstone OnDemand *(Jul 2026)*
+8. **Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance** — United Nations Institute for Training and Research (UNITAR) *(Jul 2026)*
+9. **Introduction to Modern Project Management Theory and Practice** — [Alison](https://alison.com/course/introduction-to-modern-project-management-theory-and-practice) *(Jul 2026)*
+   - **Competencies**: Modern Project Management, Project Lifecycle Planning, Agile & Waterfall Methodologies, Work Breakdown Structure (WBS), Risk & Stakeholder Management, Resource Scheduling
+   - **Summary**: CPD-certified professional course on modern project management methodologies from Alison, covering project lifecycle phases, project charter & WBS development, risk management frameworks, Agile & predictive delivery, and stakeholder engagement.
+10. **MEAL Essentials Certificate** — DisasterReady / Cornerstone OnDemand *(Jul 2026)*
+11. **Ocean Governance Capacity Building Training Program – E-Learning Course (Elective Modules)** — World Bank Group *(Jul 2026)*
+12. **Financial Management Essentials Certificate (DisasterReady)** — DisasterReady / Cornerstone OnDemand *(Jul 2026)*
+13. **Blue Carbon Project Development & MRV Specialist Training** — [Fair Carbon (Blue Carbon Academy)](https://faircarbon.mykajabi.com/library) *(May 2026)*
    - **Competencies**: Blue Carbon Project Development, Feasibility & PIN Assessment, Project Design Document (PDD), Investment Due Diligence, MRV Design & Verification
    - **Summary**: Comprehensive training covering full project development lifecycle for coastal blue carbon (mangroves, seagrass), from baseline feasibility & PIN, PDD design under global carbon standards, investment due diligence, to scientific MRV systems and carbon credit integrity.
-12. **Blue Carbon Academy** — Fair Carbon (Blue Carbon Academy) *(May 2026)*
-13. **Carbon Credits Project Fundamentals** — Blooms Academy *(Apr 2026)*
-14. **BSAFE Security Certification** — United Nations (UNDSS) *(Feb 2026)*
-15. **Acoustic Analysis in Kaleidoscope (Part 2): Batch Processing** — Wildlife Acoustics *(Feb 2026)*
-16. **Introduction to Kaleidoscope for Bat Sound Analysis (Beginner Batch 2)** — Wildlife Acoustics *(Feb 2026)*
-17. **How to Use Bat Auto-ID in Kaleidoscope Pro (Advanced)** — Wildlife Acoustics *(Feb 2026)*
-18. **How to Start a General Survey with Kaleidoscope Pro (Advanced)** — Wildlife Acoustics *(Feb 2026)*
-19. **Intro to Acoustic Indices for Biodiversity Monitoring (Intermediate)** — Wildlife Acoustics *(Feb 2026)*
-20. **How to Perform a Targeted Search with Kaleidoscope Pro (Advanced)** — Wildlife Acoustics *(Feb 2026)*
-21. **Introduction to Kaleidoscope for Bat Sound Analysis (Beginner)** — Wildlife Acoustics *(Feb 2026)*
-22. **Kaleidoscope Lite for Bat Analysis** — Wildlife Acoustics *(Feb 2026)*
-23. **Preparing and Responding to Active Shooter Incidents** — United Nations (UNDSS) *(Feb 2026)*
-24. **Prevention of Sexual Exploitation and Abuse (PSEA)** — United Nations *(Feb 2026)*
-25. **PSEA Course** — United Nations *(Feb 2026)*
-26. **Protected Area Technician Training: Infrastructure Fundamentals** — Connected Conservation *(Jan 2026)*
-27. **Protected Area Technician Training: Tools for Informed Decision Making** — Connected Conservation *(Jan 2026)*
-28. **Protected Area Technician Training Course - Tools for Informed Decision Making** — Connected Conservation *(Jan 2026)*
+14. **Blue Carbon Academy** — Fair Carbon (Blue Carbon Academy) *(May 2026)*
+15. **Carbon Credits Project Fundamentals** — Blooms Academy *(Apr 2026)*
+16. **BSAFE Security Certification** — United Nations (UNDSS) *(Feb 2026)*
+17. **Acoustic Analysis in Kaleidoscope (Part 2): Batch Processing** — Wildlife Acoustics *(Feb 2026)*
+18. **Introduction to Kaleidoscope for Bat Sound Analysis (Beginner Batch 2)** — Wildlife Acoustics *(Feb 2026)*
+19. **How to Use Bat Auto-ID in Kaleidoscope Pro (Advanced)** — Wildlife Acoustics *(Feb 2026)*
+20. **How to Start a General Survey with Kaleidoscope Pro (Advanced)** — Wildlife Acoustics *(Feb 2026)*
+21. **Intro to Acoustic Indices for Biodiversity Monitoring (Intermediate)** — Wildlife Acoustics *(Feb 2026)*
+22. **How to Perform a Targeted Search with Kaleidoscope Pro (Advanced)** — Wildlife Acoustics *(Feb 2026)*
+23. **Introduction to Kaleidoscope for Bat Sound Analysis (Beginner)** — Wildlife Acoustics *(Feb 2026)*
+24. **Kaleidoscope Lite for Bat Analysis** — Wildlife Acoustics *(Feb 2026)*
+25. **Preparing and Responding to Active Shooter Incidents** — United Nations (UNDSS) *(Feb 2026)*
+26. **Prevention of Sexual Exploitation and Abuse (PSEA)** — United Nations *(Feb 2026)*
+27. **PSEA Course** — United Nations *(Feb 2026)*
+28. **Protected Area Technician Training: Infrastructure Fundamentals** — Connected Conservation *(Jan 2026)*
+29. **Protected Area Technician Training: Tools for Informed Decision Making** — Connected Conservation *(Jan 2026)*
+30. **Protected Area Technician Training Course - Tools for Informed Decision Making** — Connected Conservation *(Jan 2026)*
 
 ### 2024 – 2025
 1. **Global Carbon Summit Indonesia 2025** — Global Carbon Summit *(Nov 2025)*

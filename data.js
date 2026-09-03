@@ -615,6 +615,21 @@ export const cvData = {
     ],
     "certificates": [
       {
+        "name": "Diploma in Occupational Health, Safety and Environment (OHSE)",
+        "issuer": "Alison",
+        "date": "Sep 2026",
+        "tags": [
+          "Alison",
+          "OHSE",
+          "HSE",
+          "Occupational Safety"
+        ],
+        "link": null,
+        "credentialUrl": "https://alison.com/course/diploma-in-occupational-health-safety-and-environment-ohse",
+        "description": "Comprehensive diploma program in Occupational Health, Safety, and Environment (OHSE) from Alison, covering hazard identification, workplace risk assessments, incident prevention & root cause analysis, environmental protection protocols, emergency response planning, and international HSE management standards.",
+        "competencies": "Occupational Health & Safety (OHS), Environmental Management Systems (EMS), Workplace Hazard & Risk Assessment, Emergency Preparedness, Incident Investigation, HSE Compliance"
+      },
+      {
         "name": "The German Supply Chain Due Diligence Act (LkSG / SCDDA)",
         "issuer": "Import Promotion Desk (IPD Germany)",
         "date": "Aug 2026",
@@ -696,6 +711,21 @@ export const cvData = {
           "Green Finance"
         ],
         "link": null
+      },
+      {
+        "name": "Introduction to Modern Project Management Theory and Practice",
+        "issuer": "Alison",
+        "date": "Jul 2026",
+        "tags": [
+          "Alison",
+          "Project Management",
+          "Agile",
+          "Methodology"
+        ],
+        "link": null,
+        "credentialUrl": "https://alison.com/course/introduction-to-modern-project-management-theory-and-practice",
+        "description": "CPD-certified professional course on modern project management methodologies from Alison, covering project lifecycle phases, project charter & WBS development, risk management frameworks, Agile & predictive delivery, and stakeholder engagement.",
+        "competencies": "Modern Project Management, Project Lifecycle Planning, Agile & Waterfall Methodologies, Work Breakdown Structure (WBS), Risk & Stakeholder Management, Resource Scheduling"
       },
       {
         "name": "MEAL Essentials Certificate",
@@ -2060,6 +2090,21 @@ export const cvData = {
     ],
     "certificates": [
       {
+        "name": "Diploma Kesehatan, Keselamatan Kerja dan Lingkungan Hidup (OHSE)",
+        "issuer": "Alison",
+        "date": "Sep 2026",
+        "tags": [
+          "Alison",
+          "OHSE",
+          "HSE",
+          "Occupational Safety"
+        ],
+        "link": null,
+        "credentialUrl": "https://alison.com/course/diploma-in-occupational-health-safety-and-environment-ohse",
+        "description": "Comprehensive diploma program in Occupational Health, Safety, and Environment (OHSE) from Alison, covering hazard identification, workplace risk assessments, incident prevention & root cause analysis, environmental protection protocols, emergency response planning, and international HSE management standards.",
+        "competencies": "Occupational Health & Safety (OHS), Environmental Management Systems (EMS), Workplace Hazard & Risk Assessment, Emergency Preparedness, Incident Investigation, HSE Compliance"
+      },
+      {
         "name": "Kepatuhan Uji Tuntas Rantai Pasok Jerman (German Supply Chain Due Diligence Act - LkSG/SCDDA)",
         "issuer": "Import Promotion Desk (IPD Germany)",
         "date": "Aug 2026",
@@ -2141,6 +2186,21 @@ export const cvData = {
           "Green Finance"
         ],
         "link": null
+      },
+      {
+        "name": "Pengantar Teori dan Praktik Manajemen Proyek Modern (Modern Project Management)",
+        "issuer": "Alison",
+        "date": "Jul 2026",
+        "tags": [
+          "Alison",
+          "Project Management",
+          "Agile",
+          "Methodology"
+        ],
+        "link": null,
+        "credentialUrl": "https://alison.com/course/introduction-to-modern-project-management-theory-and-practice",
+        "description": "CPD-certified professional course on modern project management methodologies from Alison, covering project lifecycle phases, project charter & WBS development, risk management frameworks, Agile & predictive delivery, and stakeholder engagement.",
+        "competencies": "Modern Project Management, Project Lifecycle Planning, Agile & Waterfall Methodologies, Work Breakdown Structure (WBS), Risk & Stakeholder Management, Resource Scheduling"
       },
       {
         "name": "MEAL Essentials Certificate",

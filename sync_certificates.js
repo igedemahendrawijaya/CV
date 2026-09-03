@@ -475,6 +475,26 @@ const ADDITIONAL_MASTER_TRAININGS = [
     credentialUrl: 'https://campus.cap-net.org/certificates/fd36a0339b364500a601922c8fd08ba9',
     competencies: 'Integrated Water Resources Management (IWRM), Climate Change Adaptation, Watershed & Coastal Hydrology, Disaster Risk Reduction, Water Governance',
     description: '20-hour intensive training on Integrated Water Resources Management (IWRM) for Climate Resilience accredited by Cap-Net UNDP and UNEP-DHI Centre, addressing climate change adaptation in water resources, basin management, flood/drought risk assessment, and resilient water governance frameworks.'
+  },
+  {
+    en: 'Diploma in Occupational Health, Safety and Environment (OHSE)',
+    id: 'Diploma Kesehatan, Keselamatan Kerja dan Lingkungan Hidup (OHSE)',
+    issuer: 'Alison',
+    date: 'Sep 2026',
+    tags: ['Alison', 'OHSE', 'HSE', 'Occupational Safety'],
+    credentialUrl: 'https://alison.com/course/diploma-in-occupational-health-safety-and-environment-ohse',
+    competencies: 'Occupational Health & Safety (OHS), Environmental Management Systems (EMS), Workplace Hazard & Risk Assessment, Emergency Preparedness, Incident Investigation, HSE Compliance',
+    description: 'Comprehensive diploma program in Occupational Health, Safety, and Environment (OHSE) from Alison, covering hazard identification, workplace risk assessments, incident prevention & root cause analysis, environmental protection protocols, emergency response planning, and international HSE management standards.'
+  },
+  {
+    en: 'Introduction to Modern Project Management Theory and Practice',
+    id: 'Pengantar Teori dan Praktik Manajemen Proyek Modern (Modern Project Management)',
+    issuer: 'Alison',
+    date: 'Jul 2026',
+    tags: ['Alison', 'Project Management', 'Agile', 'Methodology'],
+    credentialUrl: 'https://alison.com/course/introduction-to-modern-project-management-theory-and-practice',
+    competencies: 'Modern Project Management, Project Lifecycle Planning, Agile & Waterfall Methodologies, Work Breakdown Structure (WBS), Risk & Stakeholder Management, Resource Scheduling',
+    description: 'CPD-certified professional course on modern project management methodologies from Alison, covering project lifecycle phases, project charter & WBS development, risk management frameworks, Agile & predictive delivery, and stakeholder engagement.'
   }
 ];
 
