@@ -3,6 +3,7 @@ import { cvData } from './data.js';
 // --- Application State ---
 let currentLang = localStorage.getItem('preferredLanguage') || 'en';
 let currentProjectFilter = 'all';
+let currentCertCategory = 'all';
 let currentCertSearch = '';
 
 // --- DOM Elements ---
@@ -17,7 +18,8 @@ const projectsGrid = document.getElementById('projects-grid');
 const publicationsList = document.getElementById('publications-list');
 const certificatesGrid = document.getElementById('certificates-grid');
 const referencesGrid = document.getElementById('references-grid');
-const projectFilterBtns = document.querySelectorAll('.filter-btn');
+const projectFilterBtns = document.querySelectorAll('[data-filter]');
+const certFilterBtns = document.querySelectorAll('[data-cert-filter]');
 const certSearchInput = document.getElementById('cert-search');
 const contactForm = document.getElementById('contact-form');
 const formSubmitBtn = document.getElementById('form-submit-btn');
@@ -135,16 +137,35 @@ function renderPublications(lang) {
   `).join('');
 }
 
-// Render Certifications Grid
-function renderCertificates(lang, query = '') {
+// Render Certificates Cards
+function renderCertificates(lang, query = currentCertSearch, category = currentCertCategory) {
   if (!certificatesGrid) return;
   const certificates = cvData[lang].certificates;
-  const filteredCerts = query.trim() === ''
-    ? certificates
-    : certificates.filter(cert => {
-        const searchStr = `${cert.name} ${cert.issuer} ${cert.tags.join(' ')}`.toLowerCase();
-        return searchStr.includes(query.toLowerCase());
-      });
+
+  const categoryLabels = {
+    'carbon-climate': { en: 'Carbon, Climate & Forest', id: 'Karbon, Iklim & Hutan' },
+    'marine-fisheries': { en: 'Marine & Fisheries', id: 'Kelautan & Perikanan' },
+    'safeguards-social': { en: 'ESG & Safeguards', id: 'ESG & Safeguards' },
+    'hse-quality': { en: 'HSE & Quality', id: 'K3L & Mutu' },
+    'project-leadership': { en: 'Project & Leadership', id: 'Manajemen Proyek' }
+  };
+
+  const filteredCerts = certificates.filter(cert => {
+    const matchesCategory = (category === 'all' || cert.category === category);
+    const searchStr = `${cert.name} ${cert.issuer} ${(cert.tags || []).join(' ')} ${cert.category || ''} ${cert.competencies || ''}`.toLowerCase();
+    const matchesSearch = query.trim() === '' || searchStr.includes(query.toLowerCase());
+    return matchesCategory && matchesSearch;
+  });
+
+  if (filteredCerts.length === 0) {
+    certificatesGrid.innerHTML = `
+      <div style="grid-column: 1/-1; text-align: center; padding: 45px 20px; color: var(--text-muted);">
+        <i class="fa-solid fa-magnifying-glass" style="font-size: 2.2rem; margin-bottom: 14px; color: var(--primary-teal); opacity: 0.6;"></i>
+        <p style="font-size: 0.95rem;">${lang === 'id' ? 'Tidak ada sertifikasi yang cocok dengan filter kategori atau kata kunci pencarian.' : 'No certifications match the selected category filter or search query.'}</p>
+      </div>
+    `;
+    return;
+  }
 
   certificatesGrid.innerHTML = filteredCerts.map(cert => {
     const titleHtml = cert.link 
@@ -155,11 +176,19 @@ function renderCertificates(lang, query = '') {
       ? `<a href="${cert.credentialUrl}" target="_blank" class="cert-cred-link" style="font-size: 0.75rem; color: var(--primary-teal); margin-left: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 4px;" title="View Online Course / Platform"><i class="fa-solid fa-arrow-up-right-from-square" style="font-size: 0.7rem;"></i> Platform</a>`
       : '';
 
+    const catInfo = categoryLabels[cert.category];
+    const catBadge = catInfo 
+      ? `<span class="cert-cat-badge" style="font-size: 0.68rem; padding: 3px 8px; border-radius: 6px; background: rgba(13, 148, 136, 0.12); color: var(--primary-teal); border: 1px solid rgba(13, 148, 136, 0.25); font-weight: 600; white-space: nowrap;">${lang === 'id' ? catInfo.id : catInfo.en}</span>`
+      : '';
+
     return `
       <div class="certificate-card glass${cert.link ? ' has-link' : ''}">
         <div class="card-glow"></div>
-        <div class="cert-icon">
-          <i class="fa-solid fa-certificate"></i>
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px; gap: 8px;">
+          <div class="cert-icon">
+            <i class="fa-solid fa-certificate"></i>
+          </div>
+          ${catBadge}
         </div>
         <h3>${titleHtml}</h3>
         <div class="cert-issuer">
@@ -358,12 +387,26 @@ function setupProjectFilters() {
   });
 }
 
+// --- Certificate Filter System ---
+function setupCertificateFilters() {
+  const certBtns = document.querySelectorAll('[data-cert-filter]');
+  certBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      certBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      
+      currentCertCategory = btn.getAttribute('data-cert-filter');
+      renderCertificates(currentLang, currentCertSearch, currentCertCategory);
+    });
+  });
+}
+
 // --- Certificate Search ---
 function setupCertificateSearch() {
   if (!certSearchInput) return;
   certSearchInput.addEventListener('input', (e) => {
     currentCertSearch = e.target.value;
-    renderCertificates(currentLang, currentCertSearch);
+    renderCertificates(currentLang, currentCertSearch, currentCertCategory);
   });
 }
 
@@ -470,6 +513,7 @@ document.addEventListener('DOMContentLoaded', () => {
   setupNavigationScroll();
   setupMobileNav();
   setupProjectFilters();
+  setupCertificateFilters();
   setupCertificateSearch();
   setupContactForm();
   setupModalLogic();
