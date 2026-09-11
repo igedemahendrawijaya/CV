@@ -15,6 +15,7 @@ function extractDate(line) {
 
 function detectIssuer(line) {
   const lower = line.toLowerCase();
+  if (lower.includes('redd') || lower.includes('un-redd')) return 'UN-REDD Programme (FAO, UNDP, UNEP)';
   if (lower.includes('alison')) return 'Alison';
   if (lower.includes('cap-net') || lower.includes('iwrm') || lower.includes('unep-dhi')) return 'Cap-Net UNDP & UNEP-DHI Centre';
   if (lower.includes('import promotion desk') || lower.includes('ipd germany') || lower.includes('scdda') || lower.includes('eudr')) return 'Import Promotion Desk (IPD Germany)';

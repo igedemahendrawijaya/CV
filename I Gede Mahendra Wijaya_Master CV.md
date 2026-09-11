@@ -19,7 +19,7 @@ Marine environmental specialist with over 13 years of experience delivering high
 ## Key Core Metrics & Statistics
 - **13+** Years Professional Experience
 - **30+** Completed High-Impact Projects & Technical Reports
-- **64+** Professional Certifications & Specialized Training Programs
+- **65+** Professional Certifications & Specialized Training Programs
 - **15+** Peer-Reviewed Scientific Publications & Conference Papers
 
 ---
@@ -70,30 +70,33 @@ Supported academic research in marine biology, acoustics, and environmental moni
 
 ---
 
-## Professional Certifications & Specialized Training by Thematic Pillar (Total: 64)
+## Professional Certifications & Specialized Training by Thematic Pillar (Total: 65)
 
-### 1. Carbon, Climate & Ecosystem Services (Blue Carbon, Forest Carbon & Climate Finance) (14 Trainings)
+### 1. Carbon, Climate & Ecosystem Services (Blue Carbon, Forest Carbon & Climate Finance) (15 Trainings)
 
-1. **The German Supply Chain Due Diligence Act (LkSG / SCDDA)** — [Import Promotion Desk (IPD Germany)](https://www.importpromotiondesk.com/exporters/en/market-information/e-learning) *(Aug 2026)*
+1. **REDD+ Academy: Forest Carbon & National Strategy Capacity Building** — [UN-REDD Programme (FAO, UNDP, UNEP)](https://reddacademy.in.howspace.com/welcome) *(Sep 2026)*
+   - **Competencies**: REDD+ Architecture & National Strategy, National Forest Monitoring Systems (NFMS), Forest Reference Emission Levels (FREL/FRL), Safeguard Information Systems (SIS), Results-Based Finance & Carbon Markets
+   - **Summary**: Flagship capacity-building training program by the UN-REDD Programme (FAO, UNDP, UNEP), covering national REDD+ architecture, Forest Reference Emission Levels (FREL), National Forest Monitoring Systems (NFMS), Safeguards & Safeguard Information Systems (SIS), and results-based climate finance.
+2. **The German Supply Chain Due Diligence Act (LkSG / SCDDA)** — [Import Promotion Desk (IPD Germany)](https://www.importpromotiondesk.com/exporters/en/market-information/e-learning) *(Aug 2026)*
    - **Competencies**: Supply Chain Due Diligence (LkSG / SCDDA), Human Rights & Environmental Risk Analysis, EU Market Compliance, Sustainable Sourcing
    - **Summary**: Comprehensive e-learning program on complying with the German Supply Chain Due Diligence Act (Lieferkettensorgfaltspflichtengesetz - LkSG), addressing human rights and environmental risk analysis, grievance mechanisms, and sustainable supply chain governance for international exporters.
-2. **EU Deforestation Regulation (EUDR) Compliance & Due Diligence** — [Import Promotion Desk (IPD Germany)](https://www.importpromotiondesk.com/exporters/en/market-information/e-learning) *(Aug 2026)*
+3. **EU Deforestation Regulation (EUDR) Compliance & Due Diligence** — [Import Promotion Desk (IPD Germany)](https://www.importpromotiondesk.com/exporters/en/market-information/e-learning) *(Aug 2026)*
    - **Competencies**: EU Deforestation Regulation (EUDR) Compliance, Supply Chain Geolocation & Traceability, Deforestation-Free Commodity Due Diligence, Legality & Risk Assessment
    - **Summary**: Specialized training on the EU Deforestation Regulation (EUDR), addressing regulatory compliance, supply chain due diligence, geolocation traceability, and legality verification for deforestation-free commodities entering the EU market (palm oil, wood, rubber, cocoa, coffee, soy, cattle).
-3. **Blue Carbon Fundamentals** — World Bank Group *(Jul 2026)*
-4. **Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance** — United Nations Institute for Training and Research (UNITAR) *(Jul 2026)*
-5. **Blue Carbon Project Development & MRV Specialist Training** — [Fair Carbon (Blue Carbon Academy)](https://faircarbon.mykajabi.com/library) *(May 2026)*
+4. **Blue Carbon Fundamentals** — World Bank Group *(Jul 2026)*
+5. **Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance** — United Nations Institute for Training and Research (UNITAR) *(Jul 2026)*
+6. **Blue Carbon Project Development & MRV Specialist Training** — [Fair Carbon (Blue Carbon Academy)](https://faircarbon.mykajabi.com/library) *(May 2026)*
    - **Competencies**: Blue Carbon Project Development, Feasibility & PIN Assessment, Project Design Document (PDD), Investment Due Diligence, MRV Design & Verification
    - **Summary**: Comprehensive training covering the full project development lifecycle for coastal blue carbon (mangroves and seagrass), from baseline feasibility & Project Idea Note (PIN), standardized PDD design, investment due diligence, to scientific Monitoring, Reporting & Verification (MRV) systems and carbon credit integrity.
-6. **Carbon Credits Project Fundamentals** — Blooms Academy *(Apr 2026)*
-7. **Global Carbon Summit Indonesia 2025** — Global Carbon Summit *(Nov 2025)*
-8. **Human Dimensions of Forest and Landscape Restoration** — Society for Ecological Restoration (SER) *(Jul 2024)*
-9. **Climate Action Now Program** — Pachamama Alliance *(Jun 2024)*
-10. **Ground-Based Forest Carbon Stock Accounting (SNI 7724)** — Generasi Biologi Indonesia *(Jun 2024)*
-11. **Introduction to Forest and Landscape Restoration** — Food and Agriculture Organization (FAO) *(Apr 2024)*
-12. **Sustainable Financing of Forest and Landscape Restoration** — Food and Agriculture Organization (FAO) *(Apr 2024)*
-13. **Climate Change and Sovereign Risk** — [Asian Development Bank Institute (ADBI)](https://elearning-adbi.org/certificate-verifier/?&code=98936-170-081-2015) *(Nov 2023)*
-14. **B20 Side Event: Technology & Market Innovation for Decarbonization** — B20 Indonesia / KADIN *(Aug 2022)*
+7. **Carbon Credits Project Fundamentals** — Blooms Academy *(Apr 2026)*
+8. **Global Carbon Summit Indonesia 2025** — Global Carbon Summit *(Nov 2025)*
+9. **Human Dimensions of Forest and Landscape Restoration** — Society for Ecological Restoration (SER) *(Jul 2024)*
+10. **Climate Action Now Program** — Pachamama Alliance *(Jun 2024)*
+11. **Ground-Based Forest Carbon Stock Accounting (SNI 7724)** — Generasi Biologi Indonesia *(Jun 2024)*
+12. **Introduction to Forest and Landscape Restoration** — Food and Agriculture Organization (FAO) *(Apr 2024)*
+13. **Sustainable Financing of Forest and Landscape Restoration** — Food and Agriculture Organization (FAO) *(Apr 2024)*
+14. **Climate Change and Sovereign Risk** — [Asian Development Bank Institute (ADBI)](https://elearning-adbi.org/certificate-verifier/?&code=98936-170-081-2015) *(Nov 2023)*
+15. **B20 Side Event: Technology & Market Innovation for Decarbonization** — B20 Indonesia / KADIN *(Aug 2022)*
 
 ### 2. Marine, Coastal & Fisheries Governance (Ocean Governance, IWRM & Bioacoustics) (17 Trainings)
 

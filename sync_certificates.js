@@ -398,6 +398,17 @@ const MASTER_MAPPINGS = {
 // Additional verified training programs from Master CV (formal courses, online diplomas & specialized programs)
 const ADDITIONAL_MASTER_TRAININGS = [
   {
+    en: 'REDD+ Academy: Forest Carbon & National Strategy Capacity Building',
+    id: 'Akademi REDD+: Peningkatan Kapasitas Karbon Hutan & Strategi Nasional',
+    issuer: 'UN-REDD Programme (FAO, UNDP, UNEP)',
+    date: 'Sep 2026',
+    category: 'carbon-climate',
+    tags: ['UN-REDD', 'REDD+', 'Forest Carbon', 'UNEP', 'UNDP', 'FAO'],
+    credentialUrl: 'https://reddacademy.in.howspace.com/welcome',
+    competencies: 'REDD+ Architecture & National Strategy, National Forest Monitoring Systems (NFMS), Forest Reference Emission Levels (FREL/FRL), Safeguard Information Systems (SIS), Results-Based Finance & Carbon Markets',
+    description: 'Flagship capacity-building training program by the UN-REDD Programme (FAO, UNDP, UNEP), covering national REDD+ architecture, Forest Reference Emission Levels (FREL), National Forest Monitoring Systems (NFMS), Safeguards & Safeguard Information Systems (SIS), and results-based climate finance.'
+  },
+  {
     en: 'Diploma in Occupational Health, Safety and Environment (OHSE)',
     id: 'Diploma Kesehatan, Keselamatan Kerja dan Lingkungan Hidup (OHSE)',
     issuer: 'Alison',

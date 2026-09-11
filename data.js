@@ -615,6 +615,24 @@ export const cvData = {
     ],
     "certificates": [
       {
+        "name": "REDD+ Academy: Forest Carbon & National Strategy Capacity Building",
+        "issuer": "UN-REDD Programme (FAO, UNDP, UNEP)",
+        "date": "Sep 2026",
+        "category": "carbon-climate",
+        "tags": [
+          "UN-REDD",
+          "REDD+",
+          "Forest Carbon",
+          "UNEP",
+          "UNDP",
+          "FAO"
+        ],
+        "link": null,
+        "credentialUrl": "https://reddacademy.in.howspace.com/welcome",
+        "description": "Flagship capacity-building training program by the UN-REDD Programme (FAO, UNDP, UNEP), covering national REDD+ architecture, Forest Reference Emission Levels (FREL), National Forest Monitoring Systems (NFMS), Safeguards & Safeguard Information Systems (SIS), and results-based climate finance.",
+        "competencies": "REDD+ Architecture & National Strategy, National Forest Monitoring Systems (NFMS), Forest Reference Emission Levels (FREL/FRL), Safeguard Information Systems (SIS), Results-Based Finance & Carbon Markets"
+      },
+      {
         "name": "Diploma in Occupational Health, Safety and Environment (OHSE)",
         "issuer": "Alison",
         "date": "Sep 2026",
@@ -1363,6 +1381,36 @@ export const cvData = {
           "Maritime Safety"
         ],
         "link": "certificates/BSS-I_GEDE.pdf"
+      },
+      {
+        "name": "Digital design training",
+        "issuer": "Professional Institution",
+        "date": "2021",
+        "category": "project-leadership",
+        "tags": [
+          "Professional Institution",
+          "Training"
+        ]
+      },
+      {
+        "name": "Public speaking training",
+        "issuer": "Professional Institution",
+        "date": "2019",
+        "category": "project-leadership",
+        "tags": [
+          "Professional Institution",
+          "Training"
+        ]
+      },
+      {
+        "name": "Underwater Acoustic Training",
+        "issuer": "Professional Institution",
+        "date": "2017",
+        "category": "marine-fisheries",
+        "tags": [
+          "Professional Institution",
+          "Training"
+        ]
       }
     ],
     "references": [
@@ -2038,6 +2086,24 @@ export const cvData = {
       }
     ],
     "certificates": [
+      {
+        "name": "Akademi REDD+: Peningkatan Kapasitas Karbon Hutan & Strategi Nasional",
+        "issuer": "UN-REDD Programme (FAO, UNDP, UNEP)",
+        "date": "Sep 2026",
+        "category": "carbon-climate",
+        "tags": [
+          "UN-REDD",
+          "REDD+",
+          "Forest Carbon",
+          "UNEP",
+          "UNDP",
+          "FAO"
+        ],
+        "link": null,
+        "credentialUrl": "https://reddacademy.in.howspace.com/welcome",
+        "description": "Flagship capacity-building training program by the UN-REDD Programme (FAO, UNDP, UNEP), covering national REDD+ architecture, Forest Reference Emission Levels (FREL), National Forest Monitoring Systems (NFMS), Safeguards & Safeguard Information Systems (SIS), and results-based climate finance.",
+        "competencies": "REDD+ Architecture & National Strategy, National Forest Monitoring Systems (NFMS), Forest Reference Emission Levels (FREL/FRL), Safeguard Information Systems (SIS), Results-Based Finance & Carbon Markets"
+      },
       {
         "name": "Diploma Kesehatan, Keselamatan Kerja dan Lingkungan Hidup (OHSE)",
         "issuer": "Alison",
@@ -2787,6 +2853,36 @@ export const cvData = {
           "Maritime Safety"
         ],
         "link": "certificates/BSS-I_GEDE.pdf"
+      },
+      {
+        "name": "Digital design training",
+        "issuer": "Professional Institution",
+        "date": "2021",
+        "category": "project-leadership",
+        "tags": [
+          "Professional Institution",
+          "Pelatihan"
+        ]
+      },
+      {
+        "name": "Public speaking training",
+        "issuer": "Professional Institution",
+        "date": "2019",
+        "category": "project-leadership",
+        "tags": [
+          "Professional Institution",
+          "Pelatihan"
+        ]
+      },
+      {
+        "name": "Underwater Acoustic Training",
+        "issuer": "Professional Institution",
+        "date": "2017",
+        "category": "marine-fisheries",
+        "tags": [
+          "Professional Institution",
+          "Pelatihan"
+        ]
       }
     ],
     "references": [
