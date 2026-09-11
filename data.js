@@ -1381,36 +1381,6 @@ export const cvData = {
           "Maritime Safety"
         ],
         "link": "certificates/BSS-I_GEDE.pdf"
-      },
-      {
-        "name": "Digital design training",
-        "issuer": "Professional Institution",
-        "date": "2021",
-        "category": "project-leadership",
-        "tags": [
-          "Professional Institution",
-          "Training"
-        ]
-      },
-      {
-        "name": "Public speaking training",
-        "issuer": "Professional Institution",
-        "date": "2019",
-        "category": "project-leadership",
-        "tags": [
-          "Professional Institution",
-          "Training"
-        ]
-      },
-      {
-        "name": "Underwater Acoustic Training",
-        "issuer": "Professional Institution",
-        "date": "2017",
-        "category": "marine-fisheries",
-        "tags": [
-          "Professional Institution",
-          "Training"
-        ]
       }
     ],
     "references": [
@@ -2854,36 +2824,6 @@ export const cvData = {
           "Maritime Safety"
         ],
         "link": "certificates/BSS-I_GEDE.pdf"
-      },
-      {
-        "name": "Digital design training",
-        "issuer": "Professional Institution",
-        "date": "2021",
-        "category": "project-leadership",
-        "tags": [
-          "Professional Institution",
-          "Pelatihan"
-        ]
-      },
-      {
-        "name": "Public speaking training",
-        "issuer": "Professional Institution",
-        "date": "2019",
-        "category": "project-leadership",
-        "tags": [
-          "Professional Institution",
-          "Pelatihan"
-        ]
-      },
-      {
-        "name": "Underwater Acoustic Training",
-        "issuer": "Professional Institution",
-        "date": "2017",
-        "category": "marine-fisheries",
-        "tags": [
-          "Professional Institution",
-          "Pelatihan"
-        ]
       }
     ],
     "references": [
