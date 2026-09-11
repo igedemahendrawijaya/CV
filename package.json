@@ -2,6 +2,7 @@
   "name": "website-personal-igmw",
   "version": "1.0.0",
   "description": "Personal Website & Multilingual Portfolio for I Gede Mahendra Wijaya",
+  "type": "module",
   "main": "index.html",
   "scripts": {
     "dev": "vite --port 1990 --host",

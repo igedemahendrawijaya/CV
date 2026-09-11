@@ -1,88 +1,52 @@
 import fs from 'fs';
-import mammoth from 'mammoth';
+import {
+  Document,
+  Packer,
+  Paragraph,
+  TextRun,
+  AlignmentType,
+  BorderStyle
+} from 'docx';
 import { cvData } from './data.js';
 
 const DOCX_FILE = 'I Gede Mahendra Wijaya_Master CV.docx';
 const MD_FILE = 'I Gede Mahendra Wijaya_Master CV.md';
 
-function extractDate(line) {
-  const match = line.match(/\b(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\s+\d{4}\b/i);
-  if (match) return match[0];
-  const yearMatch = line.match(/\b(201\d|202\d)\b/);
-  if (yearMatch) return yearMatch[0];
-  return 'Recent';
+const PRIMARY_COLOR = '0F3A5D'; // Navy
+const SECONDARY_COLOR = '0D9488'; // Teal
+const TEXT_DARK = '1E293B'; // Slate Dark
+const TEXT_MUTED = '64748B'; // Slate Muted
+
+function createSectionHeading(title) {
+  return [
+    new Paragraph({
+      spacing: { before: 280, after: 80 },
+      border: {
+        bottom: {
+          color: SECONDARY_COLOR,
+          space: 4,
+          style: BorderStyle.SINGLE,
+          size: 12
+        }
+      },
+      children: [
+        new TextRun({
+          text: title.toUpperCase(),
+          bold: true,
+          size: 24, // 12pt
+          color: PRIMARY_COLOR,
+          font: 'Arial'
+        })
+      ]
+    })
+  ];
 }
 
-function detectIssuer(line) {
-  const lower = line.toLowerCase();
-  if (lower.includes('redd') || lower.includes('un-redd')) return 'UN-REDD Programme (FAO, UNDP, UNEP)';
-  if (lower.includes('alison')) return 'Alison';
-  if (lower.includes('cap-net') || lower.includes('iwrm') || lower.includes('unep-dhi')) return 'Cap-Net UNDP & UNEP-DHI Centre';
-  if (lower.includes('import promotion desk') || lower.includes('ipd germany') || lower.includes('scdda') || lower.includes('eudr')) return 'Import Promotion Desk (IPD Germany)';
-  if (lower.includes('fair carbon') || lower.includes('blue carbon academy')) return 'Fair Carbon (Blue Carbon Academy)';
-  if (lower.includes('world bank') || lower.includes('wbg') || lower.includes('open learning campus') || lower.includes('enable') || lower.includes('gef')) return 'World Bank Group';
-  if (lower.includes('unitar')) return 'United Nations Institute for Training and Research (UNITAR)';
-  if (lower.includes('undss')) return 'United Nations (UNDSS)';
-  if (lower.includes('united nations') || lower.includes('un personnel') || lower.includes('psea')) return 'United Nations';
-  if (lower.includes('food and agriculture') || lower.includes('fao')) return 'Food and Agriculture Organization (FAO)';
-  if (lower.includes('asian development bank') || lower.includes('adbi') || lower.includes('adb')) {
-    if (lower.includes('institute') || lower.includes('adbi')) return 'Asian Development Bank Institute (ADBI)';
-    return 'Asian Development Bank (ADB)';
-  }
-  if (lower.includes('wildlife acoustics') || lower.includes('kaleidoscope')) return 'Wildlife Acoustics';
-  if (lower.includes('proforest')) return 'Proforest Academy';
-  if (lower.includes('connected conservation')) return 'Connected Conservation';
-  if (lower.includes('palo alto')) return 'Palo Alto Networks';
-  if (lower.includes('disasterready') || lower.includes('cornerstone')) return 'DisasterReady / Cornerstone OnDemand';
-  if (lower.includes('forage')) return 'Forage';
-  if (lower.includes('bank indonesia') || lower.includes('yelp')) return 'Bank Indonesia Institute';
-  if (lower.includes('pilot drone') || lower.includes('apdi')) return 'Asosiasi Pilot Drone Indonesia (APDI)';
-  if (lower.includes('worldwide quality assurance') || lower.includes('wqa') || lower.includes('iso')) return 'Worldwide Quality Assurance (WQA)';
-  if (lower.includes('barron international')) return 'Barron International';
-  if (lower.includes('brighttalk')) return 'BrightTALK';
-  if (lower.includes('blooms academy')) return 'Blooms Academy';
-  if (lower.includes('global carbon summit')) return 'Global Carbon Summit';
-  if (lower.includes('cfcd') || lower.includes('csr development')) return 'Corporate Forum for Community Development (CFCD)';
-  if (lower.includes('society for ecological restoration') || lower.includes('ser')) return 'Society for Ecological Restoration (SER)';
-  if (lower.includes('pachamama alliance')) return 'Pachamama Alliance';
-  if (lower.includes('generasi biologi')) return 'Generasi Biologi Indonesia';
-  if (lower.includes('insna')) return 'International Network for Social Network Analysis (INSNA)';
-  if (lower.includes('copernicus')) return 'Copernicus Marine Service';
-  if (lower.includes('politeknik ahli usaha perikanan') || lower.includes('poltek aup')) return 'Politeknik AUP & Kementerian Kelautan dan Perikanan (KKP)';
-  if (lower.includes('wwf')) return 'WWF Indonesia';
-  return 'Professional Institution';
-}
-
-function detectCategory(str) {
-  const lower = str.toLowerCase();
-  if (lower.includes('carbon') || lower.includes('climate') || lower.includes('forest') || lower.includes('eudr') || lower.includes('scdda') || lower.includes('lksg') || lower.includes('green finance') || lower.includes('sovereign risk') || lower.includes('restoration') || lower.includes('decarbonization')) {
-    return 'carbon-climate';
-  }
-  if (lower.includes('marine') || lower.includes('ocean') || lower.includes('fisher') || lower.includes('iwrm') || lower.includes('acoustic') || lower.includes('kaleidoscope') || lower.includes('asc') || lower.includes('indogap') || lower.includes('eafm') || lower.includes('copernicus') || lower.includes('sea survival')) {
-    return 'marine-fisheries';
-  }
-  if (lower.includes('safeguard') || lower.includes('indigenous') || lower.includes('fpic') || lower.includes('esf') || lower.includes('enable') || lower.includes('gef') || lower.includes('psea') || lower.includes('bsafe') || lower.includes('esg') || lower.includes('csr') || lower.includes('community') || lower.includes('sexual exploitation') || lower.includes('privacy') || lower.includes('social impact') || lower.includes('protected area')) {
-    return 'safeguards-social';
-  }
-  if (lower.includes('ohse') || lower.includes('hse') || lower.includes('safety') || lower.includes('first aid') || lower.includes('iso') || lower.includes('audit') || lower.includes('drone') || lower.includes('apdi') || lower.includes('quality assurance') || lower.includes('network security')) {
-    return 'hse-quality';
-  }
-  return 'project-leadership';
-}
-
-function cleanTitle(str) {
-  return str
-    .replace(/^[\d\.\-\•\*\s]+/g, '')
-    .replace(/\s+/g, ' ')
-    .replace(/[\|\.\,\–\-]\s*$/g, '')
-    .replace(/^[\|\.\,\–\-]\s*/g, '')
-    .trim();
-}
-
-function generateMasterMarkdown() {
+export function generateMasterMarkdown() {
   const p = cvData.en.personal;
   const stats = cvData.en.stats;
   const experiences = cvData.en.experience;
+  const projects = cvData.en.projects;
   const certs = cvData.en.certificates;
   const pubs = cvData.en.publications;
 
@@ -106,12 +70,12 @@ function generateMasterMarkdown() {
 
   md += `## Key Core Metrics & Statistics\n`;
   md += `- **${yearsExp}** Years Professional Experience\n`;
-  md += `- **${projExp}** Completed High-Impact Projects & Technical Reports\n`;
+  md += `- **${projects.length}** Completed High-Impact Projects & Technical Reports\n`;
   md += `- **${certs.length}+** Professional Certifications & Specialized Training Programs\n`;
   md += `- **${pubsExp}** Peer-Reviewed Scientific Publications & Conference Papers\n\n`;
   md += `---\n\n`;
 
-  md += `## Education\n\n`;
+  md += `## Education & Academic Background\n\n`;
   md += `1. **Bachelor of Marine Science and Technology (S.Pi.)**\n`;
   md += `   - **Institution**: Bogor Agricultural University (IPB University), Indonesia\n`;
   md += `   - **Faculty**: Faculty of Fisheries and Marine Sciences\n`;
@@ -125,14 +89,23 @@ function generateMasterMarkdown() {
   md += `## Professional Journey & Experience\n\n`;
   experiences.forEach((exp, i) => {
     md += `### ${i + 1}. ${exp.role}\n`;
-    md += `**${exp.company}** | ${exp.period}  \n`;
+    md += `**${exp.company}** | ${exp.location} | ${exp.period}  \n\n`;
     md += `${exp.description}\n\n`;
+  });
+  md += `---\n\n`;
+
+  md += `## Key Projects & Technical Deliverables (Total: ${projects.length} Projects)\n\n`;
+  projects.forEach((prj, i) => {
+    md += `### ${i + 1}. ${prj.title}\n`;
+    md += `- **Client / Partner**: ${prj.client}\n`;
+    md += `- **Period**: ${prj.period}\n`;
+    md += `- **Category / Focus**: ${prj.category.toUpperCase()} (${prj.tags ? prj.tags.join(', ') : ''})\n`;
+    md += `- **Technical Scope & Output**: ${prj.description}\n\n`;
   });
   md += `---\n\n`;
 
   md += `## Professional Certifications & Specialized Training by Thematic Pillar (Total: ${certs.length})\n\n`;
 
-  // Define 5 Core Pillars
   const pillars = [
     {
       id: 'carbon-climate',
@@ -157,7 +130,7 @@ function generateMasterMarkdown() {
   ];
 
   pillars.forEach(pillar => {
-    const pillarCerts = certs.filter(c => (c.category || detectCategory(c.name)) === pillar.id);
+    const pillarCerts = certs.filter(c => c.category === pillar.id);
     md += `### ${pillar.title} (${pillarCerts.length} Trainings)\n\n`;
     if (pillarCerts.length === 0) {
       md += `*No certifications listed under this pillar.*\n\n`;
@@ -177,7 +150,7 @@ function generateMasterMarkdown() {
   });
 
   md += `---\n\n`;
-  md += `## Peer-Reviewed Publications & Research\n\n`;
+  md += `## Peer-Reviewed Publications & Research Reports (Total: ${pubs.length})\n\n`;
   pubs.forEach((pub, i) => {
     md += `### ${i + 1}. ${pub.title}\n`;
     md += `- **Year**: ${pub.year}\n`;
@@ -185,7 +158,7 @@ function generateMasterMarkdown() {
       md += `- **Publisher / Conference**: ${pub.publisher}\n`;
     }
     if (pub.link) {
-      md += `- **DOI / Publication Link**: [${pub.link}](${pub.link})\n`;
+      md += `- **DOI / Link**: [${pub.link}](${pub.link})\n`;
     }
     if (pub.description) {
       md += `- **Summary**: ${pub.description}\n`;
@@ -193,137 +166,406 @@ function generateMasterMarkdown() {
     md += `\n`;
   });
 
+  md += `---\n\n`;
+  md += `## Honors, Awards & Recognitions\n\n`;
+  const awards = [
+    { year: '2026', name: 'Fellowship in Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance', org: 'The United Nations Institute for Training and Research (UNITAR)' },
+    { year: '2022', name: 'The 114th Prospective Innovation Award of Indonesia – 2022 Indonesia Scientist Award', org: 'Business Innovation Center (BIC) & Ministry of Research and Technology' },
+    { year: '2022', name: 'Candidate in Youth Economic Leadership Program (YELP)', org: 'Bank Indonesia Institute' },
+    { year: '2019', name: 'Speaker at DigiFish "Incubating Ecosystem of Digital Innovation"', org: 'DigiFish Network & Ministry of Marine Affairs and Fisheries' },
+    { year: '2014', name: 'Indonesian Young Innovator Award', org: 'Inovasia Indonesia' },
+    { year: '2013', name: 'Indonesian Youth Parliament Delegate for North Maluku', org: 'Indonesian Youth Parliament' },
+    { year: '2012', name: 'The 104th Prospective Innovation Award of Indonesia – 2012 Indonesia Scientist Award', org: 'Business Innovation Center (BIC)' },
+    { year: '2012', name: 'Candidate in Indonesian Leadership Camp', org: 'IPB University' }
+  ];
+  awards.forEach((aw, i) => {
+    md += `${i + 1}. **[${aw.year}] ${aw.name}** — ${aw.org}\n`;
+  });
+  md += `\n---\n\n`;
+
+  md += `## Professional References\n\n`;
+  md += `1. **Dr. Lida Pet-Soede**  \n`;
+  md += `   Director of Marine Unit Service, Hatfield Group  \n`;
+  md += `   Email: [lpetsoede@hatfieldgroup.com](mailto:lpetsoede@hatfieldgroup.com) | Phone: +62 812 3818 742\n\n`;
+  md += `2. **Dr. I Wayan Nurjaya**  \n`;
+  md += `   Head of Department of Marine Science and Technology, IPB University  \n`;
+  md += `   Email: [i.wayan.nurjaya@ipb.ac.id](mailto:i.wayan.nurjaya@ipb.ac.id) | Phone: +62 811 110 2525\n\n`;
+
   fs.writeFileSync(MD_FILE, md, 'utf8');
   console.log(`[Sync] Generated and updated ${MD_FILE} successfully!`);
 }
 
-async function syncFromWord() {
-  if (!fs.existsSync(DOCX_FILE)) {
-    console.log(`Word file "${DOCX_FILE}" not found. Generating Markdown from data.js.`);
-    generateMasterMarkdown();
-    return;
-  }
+export async function generateMasterDocx(outputFile = DOCX_FILE) {
+  const p = cvData.en.personal;
+  const stats = cvData.en.stats;
+  const exps = cvData.en.experience;
+  const projs = cvData.en.projects;
+  const certs = cvData.en.certificates;
+  const pubs = cvData.en.publications;
 
-  console.log(`[1/4] Reading ${DOCX_FILE} with Mammoth...`);
-  const { value } = await mammoth.extractRawText({ path: DOCX_FILE });
-  const lines = value.split('\n').map(l => l.trim()).filter(l => l.length > 0);
+  const docChildren = [];
 
-  console.log(`[2/4] Analyzing ${lines.length} lines from Word CV...`);
+  // Header Title
+  docChildren.push(
+    new Paragraph({
+      alignment: AlignmentType.CENTER,
+      spacing: { before: 0, after: 40 },
+      children: [
+        new TextRun({
+          text: 'I GEDE MAHENDRA WIJAYA, S.Pi.',
+          bold: true,
+          size: 34, // 17pt
+          color: PRIMARY_COLOR,
+          font: 'Arial'
+        })
+      ]
+    }),
+    new Paragraph({
+      alignment: AlignmentType.CENTER,
+      spacing: { before: 0, after: 80 },
+      children: [
+        new TextRun({
+          text: 'Marine Environmental Specialist | Carbon & Fisheries Management | Coastal & Ocean Governance',
+          bold: true,
+          size: 20, // 10pt
+          color: SECONDARY_COLOR,
+          font: 'Arial'
+        })
+      ]
+    }),
+    new Paragraph({
+      alignment: AlignmentType.CENTER,
+      spacing: { before: 0, after: 180 },
+      children: [
+        new TextRun({ text: `Email: ${p.email}  |  Phone/WA: ${p.phone}  |  Location: ${p.location}`, size: 18, color: TEXT_MUTED, font: 'Arial' }),
+        new TextRun({ text: '\n' }),
+        new TextRun({ text: `LinkedIn: linkedin.com/in/gmwijaya  |  ORCID: 0000-0003-2312-7031`, size: 18, color: TEXT_MUTED, font: 'Arial' })
+      ]
+    })
+  );
 
-  const IGNORE_PATTERNS = [
-    /^responsible for/i,
-    /^cv\s*[-–]/i,
-    /^http/i,
-    /^email:/i,
-    /^phone:/i,
-    /^report provided to/i,
-    /^presented to/i,
-    /^employment history/i,
-    /^education/i,
-    /^refference/i,
-    /^award/i,
-    /^research and publications/i,
-    /^certificate & trainings$/i,
-    /^professional profile/i,
-    /^project manager/i,
-    /^deputy unit leader/i,
-    /^marine environmental specialist/i,
-    /^assistant project director/i,
-    /^marine mammal observer/i,
-    /^marine research assistant/i,
-    /^\|\s*(january|february|march|april|may|june|july|august|september|october|november|december)/i,
-    /^\|/,
-    /^psea course/i,
-    /^first aid kid/i,
-    /^basic sea survival training/i
+  // 1. Executive Summary
+  docChildren.push(...createSectionHeading('Executive Profile Summary'));
+  docChildren.push(
+    new Paragraph({
+      spacing: { before: 60, after: 120 },
+      alignment: AlignmentType.JUSTIFY,
+      children: [
+        new TextRun({
+          text: p.profileSummary,
+          size: 20,
+          color: TEXT_DARK,
+          font: 'Arial'
+        })
+      ]
+    })
+  );
+
+  // 2. Metrics & Stats
+  docChildren.push(...createSectionHeading('Key Core Metrics & Statistics'));
+  stats.forEach(st => {
+    docChildren.push(
+      new Paragraph({
+        bullet: { level: 0 },
+        spacing: { before: 20, after: 30 },
+        children: [
+          new TextRun({ text: `${st.value} `, bold: true, size: 20, color: PRIMARY_COLOR, font: 'Arial' }),
+          new TextRun({ text: st.label, size: 20, color: TEXT_DARK, font: 'Arial' })
+        ]
+      })
+    );
+  });
+
+  // 3. Education
+  docChildren.push(...createSectionHeading('Education & Academic Background'));
+  docChildren.push(
+    new Paragraph({
+      spacing: { before: 60, after: 20 },
+      children: [
+        new TextRun({ text: 'Bachelor of Marine Science and Technology (S.Pi.)', bold: true, size: 21, color: PRIMARY_COLOR, font: 'Arial' }),
+        new TextRun({ text: '  |  June 2008 – April 2013', italic: true, size: 19, color: TEXT_MUTED, font: 'Arial' })
+      ]
+    }),
+    new Paragraph({
+      spacing: { before: 0, after: 20 },
+      children: [
+        new TextRun({ text: 'Bogor Agricultural University (IPB University), Indonesia', bold: true, size: 19, color: TEXT_DARK, font: 'Arial' }),
+        new TextRun({ text: ' — Faculty of Fisheries and Marine Sciences', size: 19, color: TEXT_MUTED, font: 'Arial' })
+      ]
+    }),
+    new Paragraph({
+      spacing: { before: 0, after: 120 },
+      children: [
+        new TextRun({ text: 'Concentration: ', bold: true, size: 19, color: TEXT_DARK, font: 'Arial' }),
+        new TextRun({ text: 'Marine Acoustic and Remote Sensing Technology | GPA: 3.04', size: 19, color: TEXT_DARK, font: 'Arial' })
+      ]
+    }),
+    new Paragraph({
+      spacing: { before: 40, after: 20 },
+      children: [
+        new TextRun({ text: 'Diploma in Carbon Management', bold: true, size: 21, color: PRIMARY_COLOR, font: 'Arial' }),
+        new TextRun({ text: '  |  Online Professional Program (Ongoing)', italic: true, size: 19, color: TEXT_MUTED, font: 'Arial' })
+      ]
+    }),
+    new Paragraph({
+      spacing: { before: 0, after: 120 },
+      children: [
+        new TextRun({ text: 'The Greenhouse Gas Management Institute (GHGMI)', bold: true, size: 19, color: TEXT_DARK, font: 'Arial' }),
+        new TextRun({ text: ' — Specialized curriculum in GHG accounting, carbon project development, and MRV frameworks.', size: 19, color: TEXT_MUTED, font: 'Arial' })
+      ]
+    })
+  );
+
+  // 4. Employment History
+  docChildren.push(...createSectionHeading('Professional Journey & Employment History'));
+  exps.forEach((exp, idx) => {
+    docChildren.push(
+      new Paragraph({
+        spacing: { before: 100, after: 20 },
+        children: [
+          new TextRun({ text: `${idx + 1}. ${exp.role}`, bold: true, size: 21, color: PRIMARY_COLOR, font: 'Arial' })
+        ]
+      }),
+      new Paragraph({
+        spacing: { before: 0, after: 40 },
+        children: [
+          new TextRun({ text: exp.company, bold: true, size: 19, color: SECONDARY_COLOR, font: 'Arial' }),
+          new TextRun({ text: `  |  ${exp.location}  |  ${exp.period}`, italic: true, size: 19, color: TEXT_MUTED, font: 'Arial' })
+        ]
+      }),
+      new Paragraph({
+        spacing: { before: 0, after: 120 },
+        alignment: AlignmentType.JUSTIFY,
+        children: [
+          new TextRun({ text: exp.description, size: 19, color: TEXT_DARK, font: 'Arial' })
+        ]
+      })
+    );
+  });
+
+  // 5. Key Projects
+  docChildren.push(...createSectionHeading(`Key Project Experiences (Total: ${projs.length} Projects)`));
+  projs.forEach((prj, idx) => {
+    docChildren.push(
+      new Paragraph({
+        spacing: { before: 100, after: 20 },
+        children: [
+          new TextRun({ text: `${idx + 1}. ${prj.title}`, bold: true, size: 20, color: PRIMARY_COLOR, font: 'Arial' })
+        ]
+      }),
+      new Paragraph({
+        spacing: { before: 0, after: 30 },
+        children: [
+          new TextRun({ text: `Client/Partner: `, bold: true, size: 18, color: TEXT_DARK, font: 'Arial' }),
+          new TextRun({ text: `${prj.client}  |  `, size: 18, color: SECONDARY_COLOR, font: 'Arial' }),
+          new TextRun({ text: `Period: `, bold: true, size: 18, color: TEXT_DARK, font: 'Arial' }),
+          new TextRun({ text: `${prj.period}  |  `, size: 18, color: TEXT_MUTED, font: 'Arial' }),
+          new TextRun({ text: `Category: `, bold: true, size: 18, color: TEXT_DARK, font: 'Arial' }),
+          new TextRun({ text: `${prj.category.toUpperCase()}`, bold: true, size: 18, color: PRIMARY_COLOR, font: 'Arial' })
+        ]
+      }),
+      new Paragraph({
+        spacing: { before: 0, after: 100 },
+        alignment: AlignmentType.JUSTIFY,
+        children: [
+          new TextRun({ text: prj.description, size: 19, color: TEXT_DARK, font: 'Arial' })
+        ]
+      })
+    );
+  });
+
+  // 6. Certifications
+  const pillars = [
+    {
+      id: 'carbon-climate',
+      title: '1. Carbon, Climate & Ecosystem Services (Blue Carbon, Forest Carbon & Climate Finance)'
+    },
+    {
+      id: 'marine-fisheries',
+      title: '2. Marine, Coastal & Fisheries Governance (Ocean Governance, IWRM & Bioacoustics)'
+    },
+    {
+      id: 'safeguards-social',
+      title: '3. Environmental, Social & Safeguards (ADB/World Bank Safeguards, FPIC, ESG & Community)'
+    },
+    {
+      id: 'hse-quality',
+      title: '4. Occupational Health, Safety, EHS & Quality Assurance (OHSE, ISO Auditing, APDI Drone)'
+    },
+    {
+      id: 'project-leadership',
+      title: '5. Project Management & Institutional Leadership (Modern PM, MEAL & Strategic Leadership)'
+    }
   ];
 
-  let addedFromWord = 0;
+  docChildren.push(...createSectionHeading(`Professional Certifications & Specialized Training (Total: ${certs.length})`));
 
-  for (const line of lines) {
-    if (IGNORE_PATTERNS.some(p => p.test(line))) continue;
+  pillars.forEach(pil => {
+    const pCerts = certs.filter(c => c.category === pil.id);
+    docChildren.push(
+      new Paragraph({
+        spacing: { before: 140, after: 40 },
+        children: [
+          new TextRun({ text: `${pil.title} (${pCerts.length} Programs)`, bold: true, size: 21, color: PRIMARY_COLOR, font: 'Arial' })
+        ]
+      })
+    );
 
-    const lower = line.toLowerCase();
-    const isCertCandidate = (
-      lower.includes('training') ||
-      lower.includes('certificate') ||
-      lower.includes('course') ||
-      lower.includes('fellowship') ||
-      lower.includes('workshop') ||
-      lower.includes('job simulation') ||
-      lower.includes('academy') ||
-      lower.includes('safeguard') ||
-      lower.includes('fundamentals') ||
-      lower.includes('e-learning')
-    ) && line.length < 200 && line.split(' ').length >= 3;
-
-    if (isCertCandidate) {
-      const date = extractDate(line);
-      const issuer = detectIssuer(line);
-
-      let parsedTitle = line;
-      const parts = line.split('.').map(p => p.trim()).filter(p => p.length > 0);
-      if (parts.length >= 2 && parts[0].length > 10) {
-        parsedTitle = parts[0];
+    pCerts.forEach((c) => {
+      docChildren.push(
+        new Paragraph({
+          bullet: { level: 0 },
+          spacing: { before: 20, after: 20 },
+          children: [
+            new TextRun({ text: `${c.name}`, bold: true, size: 19, color: TEXT_DARK, font: 'Arial' }),
+            new TextRun({ text: ` — ${c.issuer} (${c.date})`, italic: true, size: 18, color: TEXT_MUTED, font: 'Arial' })
+          ]
+        })
+      );
+      if (c.competencies) {
+        docChildren.push(
+          new Paragraph({
+            spacing: { before: 0, after: 20 },
+            indent: { left: 400 },
+            children: [
+              new TextRun({ text: 'Competencies: ', bold: true, size: 18, color: SECONDARY_COLOR, font: 'Arial' }),
+              new TextRun({ text: c.competencies, size: 18, color: TEXT_DARK, font: 'Arial' })
+            ]
+          })
+        );
       }
-
-      parsedTitle = cleanTitle(parsedTitle);
-
-      if (parsedTitle.length > 8 && parsedTitle.length < 120 && !parsedTitle.startsWith('|')) {
-        const norm = parsedTitle.toLowerCase().replace(/[^a-z0-9]/g, '');
-        const words = parsedTitle.toLowerCase().split(/[^a-z0-9]+/).filter(w => w.length > 3);
-
-        const exists = cvData.en.certificates.some(c => {
-          const cn = c.name.toLowerCase().replace(/[^a-z0-9]/g, '');
-          if (cn === norm) return true;
-          if (cn.includes(norm) || norm.includes(cn)) return true;
-          const cWords = c.name.toLowerCase().split(/[^a-z0-9]+/).filter(w => w.length > 3);
-          const common = words.filter(w => cWords.includes(w));
-          if (words.length >= 2 && common.length >= Math.min(words.length, 2)) return true;
-          return false;
-        });
-
-        if (!exists) {
-          const category = detectCategory(parsedTitle);
-          const newCert = {
-            name: parsedTitle,
-            issuer: issuer,
-            date: date,
-            category: category,
-            tags: [issuer, 'Training']
-          };
-
-          cvData.en.certificates.push(newCert);
-          if (cvData.id && cvData.id.certificates) {
-            cvData.id.certificates.push({
-              name: parsedTitle,
-              issuer: issuer,
-              date: date,
-              category: category,
-              tags: [issuer, 'Pelatihan']
-            });
-          }
-          console.log(`+ Added from Word CV: "${parsedTitle}" (${issuer}, ${date})`);
-          addedFromWord++;
-        }
+      if (c.description) {
+        docChildren.push(
+          new Paragraph({
+            spacing: { before: 0, after: 40 },
+            indent: { left: 400 },
+            children: [
+              new TextRun({ text: c.description, size: 18, color: TEXT_MUTED, font: 'Arial' })
+            ]
+          })
+        );
       }
+    });
+  });
+
+  // 7. Publications
+  docChildren.push(...createSectionHeading(`Peer-Reviewed Publications & Research Reports (Total: ${pubs.length})`));
+  pubs.forEach((pub, idx) => {
+    docChildren.push(
+      new Paragraph({
+        spacing: { before: 80, after: 20 },
+        children: [
+          new TextRun({ text: `${idx + 1}. ${pub.title}`, bold: true, size: 20, color: PRIMARY_COLOR, font: 'Arial' })
+        ]
+      }),
+      new Paragraph({
+        spacing: { before: 0, after: 40 },
+        children: [
+          new TextRun({ text: `Year: ${pub.year}  |  Publisher: ${pub.publisher || 'Research Journal'}`, italic: true, size: 18, color: TEXT_MUTED, font: 'Arial' }),
+          pub.link ? new TextRun({ text: `  |  Link: ${pub.link}`, size: 18, color: SECONDARY_COLOR, font: 'Arial' }) : new TextRun({ text: '' })
+        ]
+      })
+    );
+  });
+
+  // 8. Awards
+  docChildren.push(...createSectionHeading('Honors, Awards & Recognitions'));
+  const awards = [
+    { year: '2026', name: 'Fellowship in Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance', org: 'The United Nations Institute for Training and Research (UNITAR)' },
+    { year: '2022', name: 'The 114th Prospective Innovation Award of Indonesia – 2022 Indonesia Scientist Award', org: 'Business Innovation Center (BIC) & Ministry of Research and Technology' },
+    { year: '2022', name: 'Candidate in Youth Economic Leadership Program (YELP)', org: 'Bank Indonesia Institute' },
+    { year: '2019', name: 'Speaker at DigiFish "Incubating Ecosystem of Digital Innovation"', org: 'DigiFish Network & Ministry of Marine Affairs and Fisheries' },
+    { year: '2014', name: 'Indonesian Young Innovator Award', org: 'Inovasia Indonesia' },
+    { year: '2013', name: 'Indonesian Youth Parliament Delegate for North Maluku', org: 'Indonesian Youth Parliament' },
+    { year: '2012', name: 'The 104th Prospective Innovation Award of Indonesia – 2012 Indonesia Scientist Award', org: 'Business Innovation Center (BIC)' },
+    { year: '2012', name: 'Candidate in Indonesian Leadership Camp', org: 'IPB University' }
+  ];
+
+  awards.forEach(aw => {
+    docChildren.push(
+      new Paragraph({
+        bullet: { level: 0 },
+        spacing: { before: 20, after: 30 },
+        children: [
+          new TextRun({ text: `[${aw.year}] `, bold: true, size: 19, color: PRIMARY_COLOR, font: 'Arial' }),
+          new TextRun({ text: `${aw.name} `, bold: true, size: 19, color: TEXT_DARK, font: 'Arial' }),
+          new TextRun({ text: `— ${aw.org}`, italic: true, size: 18, color: TEXT_MUTED, font: 'Arial' })
+        ]
+      })
+    );
+  });
+
+  // 9. References
+  docChildren.push(...createSectionHeading('Professional References'));
+  const refs = [
+    {
+      name: 'Dr. Lida Pet-Soede',
+      title: 'Director of Marine Unit Service',
+      org: 'Hatfield Group',
+      contact: 'Email: lpetsoede@hatfieldgroup.com | Phone: +62 812 3818 742'
+    },
+    {
+      name: 'Dr. I Wayan Nurjaya',
+      title: 'Head of Department of Marine Science and Technology',
+      org: 'Faculty of Fisheries and Marine Sciences, IPB University',
+      contact: 'Email: i.wayan.nurjaya@ipb.ac.id | Phone: +62 811 110 2525'
     }
-  }
+  ];
 
-  // Write updated data.js
-  const fileContent = `export const cvData = ${JSON.stringify(cvData, null, 2)};\n`;
-  fs.writeFileSync('data.js', fileContent, 'utf8');
-  console.log(`[3/4] Database data.js updated! Total certificates: ${cvData.en.certificates.length} (New added: ${addedFromWord})`);
+  refs.forEach(r => {
+    docChildren.push(
+      new Paragraph({
+        spacing: { before: 60, after: 20 },
+        children: [
+          new TextRun({ text: r.name, bold: true, size: 20, color: PRIMARY_COLOR, font: 'Arial' }),
+          new TextRun({ text: ` — ${r.title}, ${r.org}`, italic: true, size: 19, color: TEXT_DARK, font: 'Arial' })
+        ]
+      }),
+      new Paragraph({
+        spacing: { before: 0, after: 80 },
+        children: [
+          new TextRun({ text: r.contact, size: 18, color: TEXT_MUTED, font: 'Arial' })
+        ]
+      })
+    );
+  });
 
-  // Generate Master Markdown
-  console.log(`[4/4] Synchronizing Markdown Master CV...`);
+  const doc = new Document({
+    sections: [
+      {
+        properties: {
+          page: {
+            margin: {
+              top: 1080, // 0.75 in
+              right: 1080,
+              bottom: 1080,
+              left: 1080
+            }
+          }
+        },
+        children: docChildren
+      }
+    ]
+  });
+
+  const buffer = await Packer.toBuffer(doc);
+  fs.writeFileSync(outputFile, buffer);
+  console.log(`[Docx] Master Word CV generated successfully: ${outputFile} (${buffer.length} bytes)`);
+}
+
+async function runMasterSync() {
+  console.log('[1/2] Generating Master Markdown CV...');
   generateMasterMarkdown();
 
+  console.log('[2/2] Generating Master Word CV (.docx)...');
+  await generateMasterDocx();
+
   console.log('\n======================================================');
-  console.log('✓ ALL FILES SYNCHRONIZED (Word -> MD -> data.js -> Web)');
+  console.log('✓ MASTER CV SYNC COMPLETE (Markdown + Word + data.js)');
   console.log('======================================================\n');
 }
 
-syncFromWord().catch(err => {
-  console.error('Error during Word sync:', err);
+runMasterSync().catch(err => {
+  console.error('Error during master sync:', err);
 });
+

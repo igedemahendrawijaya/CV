@@ -35,49 +35,49 @@ export const cvData = {
         "company": "PT Aksi Mitigasi Iklim (GHG Actions)",
         "location": "Denpasar (Hybrid Bali & Papua)",
         "period": "June 2026 – Present",
-        "description": "Leading the technical workstream under the new organizational structure to manage technical reporting for compliance with international and national carbon standards (such as Verra, SRUK Indonesia, and JCM) and carbon ratings. Ensuring baseline reporting compliance to generate defensible, high-quality carbon credits, as well as applying nature-based frameworks to support biodiversity credits."
+        "description": "Providing strategic and technical leadership for end-to-end carbon mitigation projects across market-based carbon mechanisms, spanning both Voluntary Carbon Markets (VCM) and Compliance Markets (SRN-PPI, IDXCarbon, and international compliance). Directing the development, technical review, and validation of Project Design Documents (PDD) and Dokumen Rencana Aksi Mitigasi Iklim (DRAM) aligned with Core Carbon Principles (CCPs) of the Integrity Council for the Voluntary Carbon Market (ICVCM) and Paris Agreement Article 6 mechanisms (Articles 6.2 and 6.4 for ITMOs and authorized carbon crediting). Overseeing portfolio-wide carbon rating evaluations and integrity due diligence (benchmarked against BeZero, Sylvera, and Calyx Global) to guarantee robust additionality, baseline credibility, and permanence. Managing technical compliance, MRV, and greenhouse gas accounting for AFOLU (Agriculture, Forestry, and Other Land Use - REDD+, ARR, coastal blue carbon) and Waste Sectors (Palm Oil Mill Effluent / POME Methane Capture & Biogas-to-Energy). Providing technical direction over >100,000 hectares of peatlands and wetlands concessions in Indonesia, embedding ESG frameworks, Verra VCS + CCB, Plan Vivo, ART TREES, and high-integrity nature and biodiversity credit standards."
       },
       {
         "role": "Project Manager - GHG Actions & Marine Ecosystem Restoration",
         "company": "PT Aksi Mitigasi Iklim (GHG Actions)",
         "location": "Denpasar (Hybrid Bali & Papua)",
         "period": "February 2023 – June 2026",
-        "description": "Overseeing and managing terrestrial and marine ecosystem restoration projects from initiation to completion, including project management, monitoring and evaluation, risk and impact management (environmental and social), contingency planning, and stakeholder collaboration with government agencies, NGOs, local communities, and indigenous peoples to build support and ensure project success by referring to relevant environmental regulations and policies."
+        "description": "Managed full project lifecycles for large-scale terrestrial, peatland, and coastal ecosystem restoration concessions (>100,000 ha) across Papua and Sumatra. Directed multidisciplinary field teams conducting ecological baseline surveys, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), and ground-based carbon stock accounting (SNI 7724). Designed and facilitated Free, Prior, and Informed Consent (FPIC) processes and inclusive benefit-sharing frameworks with indigenous customary communities (Masyarakat Hukum Adat). Led regulatory liaison and licensing with the Ministry of Environment and Forestry (MoEF / KLHK), Peatland & Mangrove Restoration Agency (BRGM), and Ministry of Marine Affairs and Fisheries (KKP). Formulated comprehensive Environmental & Social Management Plans (ESMP), ESIA / AMDAL compliance frameworks, and established rigorous Monitoring, Reporting, and Verification (MRV) systems."
       },
       {
         "role": "Deputy Unit Leader - Marine and Coastal Development Unit",
         "company": "PT Hatfield Indonesia",
         "location": "Bogor / Jakarta",
         "period": "January 2022 - February 2023",
-        "description": "Managed Business Unit activities including annual targets and work plans, financial oversight, Director Board reporting, business opportunity development, staff mentorship and capacity building, and ensured compliance with governance standards across administration, human resources, quality management, and health and safety for small to large-scale projects."
+        "description": "Co-led the strategic, operational, and financial management of the Marine and Coastal Development Business Unit, overseeing a multi-million-dollar portfolio of environmental consulting projects for international financial institutions (World Bank, ADB, AFD, UNDP, FAO) and private sector clients. Directed annual business planning, revenue forecasting, project budgeting, and commercial proposal development. Provided executive briefings and milestone reporting to the Board of Directors. Supervised and mentored senior and junior technical staff across marine ecology, fisheries governance, and environmental safeguards. Enforced corporate compliance with ISO 9001 (Quality Management), ISO 14001 (Environmental Management), and ISO 45001 (Occupational Health & Safety) standards across all project operations."
       },
       {
         "role": "Marine Environmental Specialist",
         "company": "PT Hatfield Indonesia",
         "location": "Bogor / Jakarta",
         "period": "June 2016 - December 2021",
-        "description": "Led marine and fisheries resource sampling programs, aquatic baseline characterisation, coastal and marine assessment, and conservation monitoring. Responsibilities included developing project proposals, financial proposals, fieldwork instructions, M&E reports, supporting small-medium scale projects, and facilitating EHS compliance and community development consultations in accordance with local, provincial, and national regulations."
+        "description": "Served as technical lead and specialist for marine ecology, oceanographic baseline assessments, fisheries resource economics, and environmental impact assessments (ESIA / AMDAL / UKL-UPL). Designed and executed extensive marine field sampling campaigns (water quality, sediment chemistry, benthic communities, coral reef health, and pelagic fish biomass). Formulated Environmental and Social Management Plans (ESMP), stakeholder engagement frameworks, and Marine Protected Area (MPA) zoning plans. Led digital innovation initiatives for sustainable fisheries, including the development and deployment of satellite Vessel Monitoring Systems (VMS) with Inmarsat and UK Space Agency, smart aquaculture IoT solutions, and geofencing applications. Authored major technical reports and policy briefs for the World Bank, Asian Development Bank, AFD, FAO, WWF, and Indonesian government ministries."
       },
       {
         "role": "Assistant Project Director",
         "company": "Nusa Dua Reef Foundation",
         "location": "Bali, Indonesia",
         "period": "April 2016 - June 2016",
-        "description": "Assisted project directors and superintendents in project management and government liaison. Worked with national and local governments, private sectors, local NGOs, and coastal communities to support coastal and coral reef conservation, community development, and educational promotion strategy."
+        "description": "Assisted executive directors in coordinating coastal conservation, artificial reef deployment, coral reef restoration, and community-based marine ecotourism in Nusa Dua, Bali. Facilitated multi-stakeholder partnerships between government bodies (MMAF / KKP, Bali Marine Affairs Agency), tourism operators (Bali Tourism Development Corporation / ITDC), local customary villages (Desa Adat), and dive operators. Managed educational outreach, conservation awareness campaigns, and community stewardship programs for coastal sustainability."
       },
       {
         "role": "Marine Mammal Observer",
         "company": "PT Quest Geophysical Asia - West Papua Project",
         "location": "Arguni Bay, West Papua",
         "period": "January 2015 - August 2015",
-        "description": "Led HSE protocols and guidelines (JNCC-compliant) for 2D and Transition Zone seismic surveys using dynamite sources to minimise impacts on marine life (fish and marine mammals) in the KrisEnergy (Udan Emas) BV oil and gas exploration project. Provided high-level socio-fisheries seismic impact assessments and marine mammal investigations."
+        "description": "Led health, safety, and environmental (HSE) protocols and JNCC-compliant marine mammal observation (MMO) and passive acoustic monitoring (PAM) during 2D and Transition Zone (TZ) marine seismic surveys for KrisEnergy (Udan Emas) BV in Arguni Bay, West Papua. Enforced pre-shooting acoustic visual scans, exclusion zone protocols, and soft-start ramp-up procedures to safeguard cetaceans, dugongs, and coastal fish stocks. Conducted socio-fisheries impact assessments, underwater acoustic propagation analyses, and community consultation with indigenous artisanal fishers."
       },
       {
         "role": "Marine Research Assistant",
         "company": "Marine Science & Technology Dept, IPB University",
         "location": "Bogor, Indonesia",
         "period": "2012 - 2014",
-        "description": "Supported academic research in marine biology, acoustics, and environmental monitoring. Contributed to peer-reviewed publications and conference papers in marine science and technology."
+        "description": "Conducted academic and applied research in underwater bioacoustics, marine acoustic telemetry, satellite remote sensing, GIS spatial modeling, and physical oceanography. Operated scientific echo sounders, hydrophones, and oceanographic CTD probes. Supported national research grants funded by the Ministry of Education and Culture (Kemendikbud), co-authoring peer-reviewed scientific publications on marine bioacoustics, oil spill detection using ALOS PALSAR satellite imagery, and autonomous surface vessels for maritime surveillance."
       }
     ],
     "education": [
@@ -98,146 +98,157 @@ export const cvData = {
     ],
     "projects": [
       {
-        "title": "Pre-Socialization Report & Stakeholder Analysis",
+        "title": "Pre-Socialization Report & Stakeholder Analysis for Forest Carbon Licensing",
         "client": "PT Salawati Hijau Lestari (SHL)",
         "period": "June - August 2023",
         "category": "carbon",
         "tags": [
-          "Carbon",
-          "Stakeholder Analysis",
+          "Forest Carbon",
+          "Stakeholder Mapping",
+          "FPIC",
           "Papua"
         ],
-        "description": "Pre-socialization reporting and stakeholder analysis for forest licensing activities in Southwest Papua at both district and provincial levels.",
+        "description": "Conducted comprehensive pre-socialization assessments, institutional mapping, and multi-tier stakeholder analysis across district and provincial levels in Southwest Papua. Designed the initial stakeholder engagement strategy and Free, Prior, and Informed Consent (FPIC) framework required for PBPH (Perizinan Berusaha Pemanfaatan Hutan) ecosystem restoration and carbon project licensing, ensuring full alignment with local customary land rights (Masyarakat Hukum Adat).",
         "image": "images/rainforest.jpg"
       },
       {
-        "title": "Scoping Study for Preliminary Assessment",
+        "title": "Carbon Scoping Study & Feasibility Assessment for Forest Concessions",
         "client": "PT SHL & PT Sorong Hijau Ekosistem (SHE)",
         "period": "March - June 2023",
         "category": "carbon",
         "tags": [
           "Carbon Scoping",
           "Feasibility Study",
-          "Papua"
+          "Carbon Accounting",
+          "Papua Barat"
         ],
-        "description": "Scoping study for preliminary carbon concession assessments in Papua Barat Daya and Papua Barat Provinces.",
+        "description": "Delivered a high-level feasibility study and carbon scoping assessment across >100,000 hectares of forest concessions in Southwest Papua and West Papua Provinces. Synthesized remote sensing GIS analysis, forest carbon stock estimates, baseline deforestation drivers, regulatory compliance pathways (SRN-PPI & Verra VCS), and socio-economic risk evaluations to establish project viability for carbon credit generation and biodiversity conservation.",
         "image": "images/rainforest.jpg"
       },
       {
-        "title": "High Carbon Stock Approach (HCSA) Assessments",
+        "title": "High Carbon Stock Approach (HCSA) & High Conservation Value (HCV) Assessments",
         "client": "APRIL Group",
         "period": "September 2022 - January 2023",
         "category": "carbon",
         "tags": [
           "HCSA",
           "HCV",
-          "Social Expert"
+          "Social Expert",
+          "Forest Governance"
         ],
-        "description": "Technical support as Social Expert in HCV and HCSA full assessments for three APRIL Group supply partners in the North Region.",
+        "description": "Served as Social Expert for integrated HCV-HCSA full assessments covering three supply partner concessions in Northern Sumatra. Conducted field participatory mapping, customary land tenure analyses, community livelihood assessments, and FPIC verification to delineate High Carbon Stock forest patches and High Conservation Value areas for sustainable landscape management and zero-deforestation compliance.",
         "image": "images/rainforest.jpg"
       },
       {
-        "title": "Strategic Environmental and Social Assessment (SESA) for ETM",
+        "title": "Strategic Environmental and Social Assessment (SESA) for Energy Transition Mechanism (ETM)",
         "client": "Asian Development Bank (ADB)",
         "period": "August 2022 - January 2023",
         "category": "carbon",
         "tags": [
           "SESA",
           "Energy Transition",
-          "ADB"
+          "ADB Safeguards",
+          "Climate Policy"
         ],
-        "description": "High-level scoping, baseline and regulatory framework assessment, and SESA workshop support for the Energy Transition Mechanism (ETM) in Indonesia.",
+        "description": "Delivered high-level scoping, environmental and social baseline evaluations, and regulatory framework analysis for the ADB Energy Transition Mechanism (ETM) in Indonesia. Facilitated national multi-stakeholder SESA consultation workshops involving central ministries (ESDM, MoEF, Bappenas), PLN, IPPs, CSOs, and academic experts to ensure social equity and environmental safeguards during the early retirement and repurposing of coal-fired power plants.",
         "image": "images/clean_energy.jpg"
       },
       {
         "title": "Establishment of Marine Protected Area (MPA) in Kolepom Island",
-        "client": "UNDP",
+        "client": "UNDP / ATSEA-2 Program",
         "period": "November 2021 - September 2022",
         "category": "marine",
         "tags": [
           "MPA",
           "UNDP",
-          "Kolepom Island"
+          "Kolepom Island",
+          "Customary Governance"
         ],
-        "description": "Facilitation of Working Group (POKJA) for the establishment of Kolepom Island MPA in Merauke District, featuring technical assistance to government and local community engagement.",
+        "description": "Led technical facilitation and Working Group (POKJA) coordination for the formal establishment of the 356,000-hectare Kolepom Island Marine Protected Area in Merauke District, South Papua. Authored technical resource potential reports, facilitated public consultations with indigenous coastal tribes, and drafted the MPA management and spatial zoning plan formally gazetted by the Ministry of Marine Affairs and Fisheries (KKP).",
         "image": "images/mangrove.jpg"
       },
       {
-        "title": "Fisheries Management & Coastal Community Livelihood (LAUTRA Phase 1)",
+        "title": "Fisheries Management & Coastal Community Livelihoods (LAUTRA Phase 1)",
         "client": "World Bank Group",
         "period": "September 2020 - September 2022",
         "category": "marine",
         "tags": [
           "LAUTRA",
           "World Bank",
-          "Fisheries Governance"
+          "Fisheries Governance",
+          "Blue Economy"
         ],
-        "description": "Preparation study addressing fisheries governance and coastal poverty to prepare the LAUTRA project phase one.",
+        "description": "Prepared foundational analytical studies and project design components for the World Bank Oceans for Prosperity Program (LAUTRA - USD 210M). Addressed fisheries governance reforms, coastal poverty alleviation, marine spatial planning, and sustainable value chain investments across Fisheries Management Areas (WPPNRI 715, 718, and 573).",
         "image": "images/coastal_fisheries.jpg"
       },
       {
-        "title": "Pre-Feasibility Study: Management and Retrieval of ALDFG",
+        "title": "Pre-Feasibility Study on Management and Retrieval of ALDFG and Aquaculture Plastics",
         "client": "World Bank Group / Poseidon Aquatic Resource Management",
         "period": "August 2020 - August 2022",
         "category": "marine",
         "tags": [
           "ALDFG",
-          "Aquaculture",
+          "Ghost Gear",
+          "Marine Plastics",
           "World Bank"
         ],
-        "description": "Assessment on retrieval and recycling of Abandoned, Lost and Discarded Fishing Gear (ALDFG) and plastic waste inventory in aquaculture.",
+        "description": "Conducted a nationwide pre-feasibility assessment on the retrieval, circular recycling, and port reception facilities for Abandoned, Lost, and Discarded Fishing Gear (ALDFG) and plastic waste generated by intensive shrimp and fish aquaculture. Formulated actionable policy roadmaps and circular economy interventions for the Ministry of Marine Affairs and Fisheries and donor agencies.",
         "image": "images/ghost_gear.jpg"
       },
       {
-        "title": "World Bank Coastal Fisheries Initiative Challenge Fund (CFI-CF)",
+        "title": "Coastal Fisheries Initiative Challenge Fund (CFI-CF) Business Incubation",
         "client": "World Bank Group / GEF",
         "period": "June 2020 - September 2022",
         "category": "marine",
         "tags": [
           "CFI-CF",
           "Sustainable Fisheries",
-          "Business Plans"
+          "Blended Finance",
+          "GEF"
         ],
-        "description": "Developed and supported sustainable fisheries business plans and investment opportunities under the Indonesia Sustainable Oceans Program (ISOP).",
+        "description": "Supported business incubation, investment pitch development, and environmental-social due diligence for sustainable coastal fisheries enterprises under the GEF-World Bank CFI Challenge Fund. Evaluated SME business models in sustainable tuna, mud crab, and seaweed sectors to unlock private capital and impact investment.",
         "image": "images/coastal_fisheries.jpg"
       },
       {
-        "title": "Transboundary Diagnostic Analysis for Indonesia Seas (TDA ISLME)",
-        "client": "FAO",
+        "title": "Transboundary Diagnostic Analysis for Indonesian Seas Large Marine Ecosystem (TDA ISLME)",
+        "client": "Food and Agriculture Organization (FAO)",
         "period": "June 2020 - March 2022",
         "category": "marine",
         "tags": [
           "FAO",
           "TDA",
-          "Large Marine Ecosystem"
+          "ISLME",
+          "Transboundary Governance"
         ],
-        "description": "Thematic studies and reviews on environment, socio-economics, governance, and ecosystem services in the Indonesian Seas Large Marine Ecosystem.",
+        "description": "Authored specialized thematic diagnostic chapters on oceanographic baseline conditions, fisheries resources, marine environmental degradation, and governance frameworks for the Indonesian Seas Large Marine Ecosystem (ISLME) spanning Indonesia and Timor-Leste, establishing the scientific baseline for the regional Strategic Action Programme (SAP).",
         "image": "images/coastal_fisheries.jpg"
       },
       {
-        "title": "Evaluation of the Marine Programme of WWF Malaysia",
+        "title": "Independent Evaluation of the Marine Conservation Programme of WWF Malaysia",
         "client": "WWF Malaysia",
         "period": "March 2020 - December 2021",
         "category": "marine",
         "tags": [
           "WWF",
           "M&E",
-          "Marine Spatial Planning"
+          "Marine Spatial Planning",
+          "Conservation Evaluation"
         ],
-        "description": "Monitoring and evaluation of marine spatial planning, sustainable fisheries, and community development programs.",
+        "description": "Conducted an independent, rigorous performance evaluation of WWF Malaysia's multi-year Marine Conservation Programme. Evaluated achievements, financial efficacy, and conservation impacts across Marine Spatial Planning, sustainable fisheries management (MSC certification support), shark conservation, and community co-management models in Sabah and Peninsular Malaysia.",
         "image": "images/coral_reef.jpg"
       },
       {
-        "title": "Outer Ring Fishing Ports Development Project (Eco fishing Ports)",
+        "title": "Outer Ring Fishing Ports Development Project (Eco-Fishing Ports) ESIA",
         "client": "Agence Française de Développement (AFD)",
         "period": "March 2021 - October 2022",
         "category": "marine",
         "tags": [
-          "Eco Fishing Ports",
+          "Eco-Fishing Ports",
           "AFD",
-          "Safeguards"
+          "ESIA",
+          "Infrastructure Safeguards"
         ],
-        "description": "Preparation studies for USD 111M eco fishing ports project, covering environmental, social, gender, and climate safeguards.",
+        "description": "Led environmental, social, climate resilience, and gender safeguard preparation studies for the USD 111M AFD-funded Eco-Fishing Ports Modernization Project across four strategic national fishing ports (PPS Kendari, PPS Cilacap, PPN Belawan, and PPN Sibolga). Formulated ESIA terms of reference, climate vulnerability profiles, and port decarbonization action plans.",
         "image": "images/fishing_port.jpg"
       },
       {
@@ -248,341 +259,351 @@ export const cvData = {
         "tags": [
           "VMS",
           "Inmarsat",
-          "MMAF"
+          "MMAF",
+          "Fisher Safety"
         ],
-        "description": "Developed benefit stories for low-cost VMS pilot project integrating quotes from Ministry of Marine Affairs and Fisheries (MMAF) and fisherman survey data.",
+        "description": "Developed impact evaluation benefit stories, socio-economic surveys, and case studies demonstrating the tangible safety-at-sea, operational efficiency, and catch reporting benefits of low-cost satellite Vessel Monitoring Systems (VMS) deployed on small-scale fishing vessels (<30 GT) across Indonesian coastal communities.",
         "image": "images/vms_satellite.jpg"
       },
       {
-        "title": "New VMS System Development, Implementation, and Migration",
+        "title": "Satellite Vessel Monitoring System (VMS) Implementation & Migration Program",
         "client": "Inmarsat (UK) / UK Space Agency",
         "period": "August 2018 - October 2019",
         "category": "digital",
         "tags": [
-          "VMS Development",
-          "Tech Migration",
-          "Fishing Vessels"
+          "VMS Implementation",
+          "UK Space Agency",
+          "Fisheries Monitoring",
+          "IUU Fishing"
         ],
-        "description": "Backend scalability and end-user capability enhancements for 400 fishing vessels (20-30 GT and >30 GT).",
+        "description": "Coordinated technical deployment, transceiver installation, API data pipeline integration, and user capacity building for advanced satellite VMS terminals across 400 commercial fishing vessels (20-30 GT and >30 GT) to strengthen national fisheries surveillance and combat Illegal, Unreported, and Unregulated (IUU) fishing.",
         "image": "images/vms_satellite.jpg"
       },
       {
-        "title": "Geofencing System Development (Phases 1 & 2)",
+        "title": "Web-Based Geofencing Application Development for Marine Protected Areas",
         "client": "Inmarsat (UK)",
         "period": "October 2017 - October 2019",
         "category": "digital",
         "tags": [
           "Geofencing",
           "Web Application",
-          "Vessel Tracking"
+          "Spatial Surveillance",
+          "MPA Compliance"
         ],
-        "description": "Web-based VMS geofencing application integrating vessel positions relative to Marine Protected Areas (MPAs).",
+        "description": "Designed spatial specifications and user workflows for an automated web-based geofencing application integrating satellite VMS vessel telemetry with national Marine Protected Area boundaries, enabling real-time alerting for unauthorized incursions and spatial fisheries compliance.",
         "image": "images/vms_satellite.jpg"
       },
       {
-        "title": "Independent Environmental & Social Consultant (Block 3 CCPP Tambak Lorok)",
+        "title": "Independent Environmental & Social Due Diligence (Block 3 CCPP Tambak Lorok)",
         "client": "PT Indonesia Power",
         "period": "January - November 2022",
         "category": "environment",
         "tags": [
-          "ESAP",
-          "Power Plant",
-          "Compliance Monitoring"
+          "ESAP Compliance",
+          "Combined Cycle Power Plant",
+          "Due Diligence"
         ],
-        "description": "ESAP compliance monitoring and consulting for the Block 3 CCPP Tambak Lorok Project in Semarang.",
+        "description": "Executed independent monitoring and technical compliance verification against the Environmental and Social Action Plan (ESAP) for the 780 MW Block 3 Combined Cycle Power Plant (CCPP) project in Tambak Lorok, Semarang, ensuring compliance with international lender standards (World Bank/IFC Performance Standards).",
         "image": "images/clean_energy.jpg"
       },
       {
-        "title": "Operational and Scientific Monitoring Plan (OSMP) Support",
+        "title": "Operational and Scientific Monitoring Plan (OSMP) for Offshore Drilling Campaign",
         "client": "MCC Environmental (Australia)",
         "period": "October 2021 - January 2022",
         "category": "environment",
         "tags": [
           "OSMP",
-          "Fauna Assessment",
-          "Drilling Campaign"
+          "Offshore Drilling",
+          "Marine Fauna",
+          "SCAT"
         ],
-        "description": "Support for Carnavon Buffalo-10 Drilling Campaign, covering shoreline cleanup assessment technique (SCAT) and fauna assessment (reptiles, seabirds, cetaceans) in Indonesia and Timor-Leste.",
+        "description": "Provided marine ecology expertise for the Buffalo-10 Offshore Drilling Campaign in the Timor Sea. Formulated Shoreline Cleanup Assessment Technique (SCAT) protocols and marine fauna sensitivity baseline profiles (cetaceans, marine turtles, and seabirds) for cross-border environmental risk preparedness in Indonesia and Timor-Leste waters.",
         "image": "images/marine_mammal.jpg"
       },
       {
-        "title": "Patimban Port Construction Marine Monitoring Program",
+        "title": "Patimban Deep-Sea Port Construction Marine Environmental Monitoring Program",
         "client": "Penta Ocean Construction",
         "period": "July 2018 - August 2019",
         "category": "environment",
         "tags": [
           "Patimban Port",
-          "Marine Parameters",
-          "Baseline Survey"
+          "Marine Water Quality",
+          "Benthos & Sediment",
+          "EIA Monitoring"
         ],
-        "description": "Conducted baseline survey and monthly monitoring for marine parameters (water quality, sediment, benthos, nekton).",
+        "description": "Managed and executed monthly marine environmental compliance monitoring during the Phase 1 construction of Patimban Deep-Sea Port in Subang, West Java. Led offshore sampling and laboratory analysis of seawater physicochemical quality, heavy metal sediment chemistry, benthic infauna diversity, and nekton community dynamics.",
         "image": "images/fishing_port.jpg"
       },
       {
-        "title": "Shrimp Aquaculture Vocational Curriculum & Quality Control Solution",
+        "title": "Vocational Shrimp Aquaculture Curriculum & Digital Quality Control Solution",
         "client": "Walton Family Foundation",
         "period": "August 2019 - January 2022",
         "category": "aquaculture",
         "tags": [
-          "Aquaculture",
-          "HCD",
-          "Vocational Curriculum"
+          "Aquaculture Curriculum",
+          "Human-Centered Design",
+          "Quality Control",
+          "Shrimp Farming"
         ],
-        "description": "Developed blended learning vocational curriculum and online quality control solutions for shrimp aquaculture using HCD methods with over 30 farmers.",
+        "description": "Developed an accredited blended-learning vocational curriculum and digital standard operating procedure (SOP) quality control platform for commercial shrimp aquaculture, applying Human-Centered Design (HCD) methodologies with over 30 shrimp farm operators across Java and Bali.",
         "image": "images/shrimp.jpg"
       },
       {
-        "title": "HCD for 4.0 Aquaculture Application",
+        "title": "Human-Centered Design (HCD) for Smart Aquaculture 4.0 IoT Platform",
         "client": "Walton Family Foundation",
         "period": "August 2018 - January 2021",
         "category": "aquaculture",
         "tags": [
           "Smart Farming",
-          "IoT Hardware",
-          "Mobile App"
+          "IoT Sensors",
+          "Mobile Application",
+          "Aquaculture 4.0"
         ],
-        "description": "Built minimum viable hardware and software for online quality control in shrimp aquaculture.",
+        "description": "Spearheaded user research, product prototyping, and field testing for an IoT-enabled aquaculture farm management platform combining real-time water quality sensors (DO, pH, salinity, temperature) with a farmer-facing mobile app for predictive disease prevention and feed optimization.",
         "image": "images/shrimp.jpg"
       },
       {
-        "title": "Current Status of Octopus Fishery and Trade in Indonesia",
+        "title": "Comprehensive Assessment of Octopus Fishery, Supply Chain & International Trade Flow",
         "client": "PT Hatfield Indonesia / Marine & Fisheries Partners",
         "period": "2021 - 2022",
         "category": "marine",
         "tags": [
           "Octopus Fishery",
-          "Fisheries Trade",
-          "Marine Assessment",
+          "Supply Chain Analysis",
+          "Trade Dynamics",
           "Restricted Access"
         ],
-        "description": "Technical report providing a comprehensive status assessment of octopus fisheries, supply chain dynamics, and international trade flow in Indonesia.",
+        "description": "Authored an in-depth technical report analyzing the biology, stock status, artisanal catch dynamics, cold chain infrastructure, and international export trade routes of Indonesian octopus fisheries (Octopus cyanea and Octopus vulgaris), identifying key pathways for MSC certification and Fisheries Improvement Projects (FIP).",
         "image": "images/octopus.jpg",
         "restricted": true
       },
       {
-        "title": "Valuation of Pelagic Ecosystem Services and Marine Resources",
+        "title": "Valuation of Pelagic Ecosystem Services and Marine Natural Capital",
         "client": "PT Hatfield Indonesia / Marine Partners",
         "period": "2021 - 2022",
         "category": "marine",
         "tags": [
           "Ecosystem Valuation",
           "Pelagic Ecosystems",
-          "Ocean Economy",
+          "Natural Capital Accounting",
           "Restricted Access"
         ],
-        "description": "Economic and ecological evaluation of pelagic ecosystem services, ocean resource productivity, and marine natural capital in Indonesia.",
+        "description": "Executed a comprehensive economic and ecological valuation of pelagic marine ecosystem services in Indonesian waters, quantifying carbon sequestration, primary productivity, commercial fisheries yields, and biodiversity resilience to inform national ocean accounting frameworks.",
         "image": "images/pelagic_fish.jpg",
         "restricted": true
       },
       {
-        "title": "Tongkol (Eastern Little Tuna) Supply Chain & Market Analysis",
+        "title": "Tongkol (Eastern Little Tuna) Supply Chain, Market Dynamics & Post-Harvest Losses",
         "client": "PT Hatfield Indonesia / Marine & Fisheries Partners",
         "period": "2020 - 2022",
         "category": "marine",
         "tags": [
           "Tongkol Supply Chain",
           "Tuna Fishery",
-          "Market Analysis",
+          "Post-Harvest Losses",
           "Restricted Access"
         ],
-        "description": "In-depth investigation into the Tongkol (Eastern Little Tuna) supply chain, market flow, post-harvest losses, and coastal livelihoods in Indonesia.",
+        "description": "Conducted field supply chain mapping and market flow analysis for Eastern Little Tuna (Euthynnus affinis) across major landing sites in Indonesia. Evaluated cold chain bottlenecks, post-harvest quality degradation, pricing asymmetries, and socio-economic welfare of coastal smallholder fishing households.",
         "image": "images/tongkol.jpg",
         "restricted": true
       },
       {
-        "title": "Marine Mammals Interactions with Marine Operations & Fisheries",
+        "title": "Scientific Assessment of Marine Mammal Interactions with Offshore Operations & Fisheries",
         "client": "PT Hatfield Indonesia / Conservation Partners",
         "period": "2019 - 2021",
         "category": "marine",
         "tags": [
           "Marine Mammals",
           "Bioacoustics",
-          "Interaction Mitigation",
+          "Bycatch Mitigation",
           "Restricted Access"
         ],
-        "description": "Scientific investigation on marine mammal interaction risks, acoustic disturbance, and mitigation protocols during offshore marine operations.",
+        "description": "Conducted scientific risk modeling and field investigations on acoustic disturbance, vessel strike vulnerability, and bycatch entanglement risks for cetaceans and dugongs interacting with commercial purse seine fisheries and offshore energy operations in Indonesian seas.",
         "image": "images/marine_mammal.jpg",
         "restricted": true
       },
       {
-        "title": "Tuna Investment Strategies for Walton Family Foundation (WFF)",
+        "title": "Strategic Tuna Fisheries Investment Roadmap for Walton Family Foundation (WFF)",
         "client": "Walton Family Foundation / PT Hatfield Indonesia",
         "period": "2020 - 2022",
         "category": "marine",
         "tags": [
           "Tuna Investment",
-          "WFF",
-          "Fisheries Governance",
+          "Philanthropic Strategy",
+          "Fisheries Reform",
           "Restricted Access"
         ],
-        "description": "Strategic investment roadmap and market intervention strategies for sustainable tuna fisheries management in Indonesia.",
+        "description": "Formulated a multi-year philanthropic investment strategy and intervention roadmap for WFF's marine portfolio, targeting rights-based fisheries management, harvest control rules, digital traceability, and coastal community empowerment in Indonesian tuna fisheries.",
         "image": "images/tongkol.jpg",
         "restricted": true
       },
       {
-        "title": "Marine Biodiversity Survey and Ecological Monitoring in Anambas Islands",
+        "title": "Marine Biodiversity Survey & Ecological Monitoring in Anambas Islands Marine Tourism Park",
         "client": "PT Hatfield Indonesia / Conservation Partners",
         "period": "2019 - 2021",
         "category": "marine",
         "tags": [
-          "Biodiversity Survey",
+          "Biodiversity Baseline",
           "Anambas Islands",
-          "Coral Reefs",
+          "Coral Reef Health",
           "Restricted Access"
         ],
-        "description": "Baseline survey and long-term ecological monitoring report of coral reef ecosystems, fish biomass, and marine biodiversity in the Anambas archipelago.",
+        "description": "Conducted comprehensive marine biodiversity assessments, underwater visual census (UVC) for coral reef benthic cover and reef fish biomass, and megafauna habitat surveys across the remote Anambas Islands Marine Tourism Park (TWP Anambas).",
         "image": "images/coral_reef.jpg",
         "restricted": true
       },
       {
-        "title": "Rapid Scoping of Growth Projects for Indonesia Sustainable Aquaculture",
+        "title": "Rapid Scoping Study on High-Growth Investment Opportunities in Indonesian Aquaculture",
         "client": "PT Hatfield Indonesia / Aquaculture Development Partners",
         "period": "2020 - 2021",
         "category": "aquaculture",
         "tags": [
           "Aquaculture Scoping",
-          "Smart Farming",
+          "Investment Due Diligence",
           "Sustainable Growth",
           "Restricted Access"
         ],
-        "description": "Scoping study evaluating investment potential, technological readiness, and environmental safeguards for sustainable aquaculture expansion in Indonesia.",
+        "description": "Delivered a strategic scoping assessment analyzing bankable investment opportunities, technological scalability, biosecurity risks, and environmental sustainability in Indonesia's brackish water shrimp, marine finfish, and seaweed aquaculture sectors.",
         "image": "images/shrimp.jpg",
         "restricted": true
       },
       {
-        "title": "Review of Indonesian Tuna Purse Seine Sector for Fisheries Improvement Program",
+        "title": "Sectoral Review of Indonesian Tuna Purse Seine Fisheries for FIP & MSC Readiness",
         "client": "PT Hatfield Indonesia / FIP Partners",
         "period": "2020 - 2022",
         "category": "marine",
         "tags": [
           "Purse Seine",
           "Tuna FIP",
-          "Fisheries Reform",
+          "MSC Pre-Assessment",
           "Restricted Access"
         ],
-        "description": "Comprehensive sector review of tuna purse seine operations to support MSC certification readiness and national Fisheries Improvement Program (FIP) goals.",
+        "description": "Conducted a detailed technical review and Marine Stewardship Council (MSC) pre-assessment of Indonesia's industrial and semi-industrial tuna purse seine fleet, developing time-bound Action Plans for harvest strategy compliance, FAD management, and bycatch reduction.",
         "image": "images/tongkol.jpg",
         "restricted": true
       },
       {
-        "title": "Options to Conserve Marine Wildlife and Ecosystems in Lucipara Islands",
+        "title": "Feasibility Assessment and Wildlife Protection Mechanisms for Lucipara Atolls",
         "client": "PT Hatfield Indonesia / Marine Conservation Partners",
         "period": "2019 - 2021",
         "category": "marine",
         "tags": [
           "Lucipara Islands",
-          "Marine Wildlife",
-          "Conservation Options",
+          "Seabird Sanctuary",
+          "Marine Conservation",
           "Restricted Access"
         ],
-        "description": "Feasibility study and policy recommendations for establishing marine wildlife protection mechanisms in the remote Lucipara Islands.",
+        "description": "Formulated conservation options, ecological baseline reviews, and legal governance mechanisms for the protection of critical nesting seabird colonies, sea turtle rookeries, and pristine coral atoll ecosystems in the remote Lucipara and Penyu Islands (Banda Sea).",
         "image": "images/coral_reef.jpg",
         "restricted": true
       },
       {
-        "title": "Background Note on Coastal Policy and Sustainable Blue Investment Opportunities",
+        "title": "National Policy Note on Sustainable Coastal Governance & Blue Investment Opportunities",
         "client": "PT Hatfield Indonesia / Policy Partners",
         "period": "2021 - 2022",
         "category": "marine",
         "tags": [
           "Coastal Policy",
-          "Blue Investment",
-          "Governance Note",
+          "Blue Economy",
+          "Governance Framework",
           "Restricted Access"
         ],
-        "description": "High-level policy review and analytical note identifying strategic investment entry points for sustainable coastal and marine growth.",
+        "description": "Authored a high-level policy review synthesizing national coastal legislation (UU 27/2007, UU 1/2014), integrated coastal zone management (ICZM) frameworks, and institutional barriers to unlock sustainable blue finance for coastal ecosystem conservation in Indonesia.",
         "image": "images/coastal_fisheries.jpg",
         "restricted": true
       },
       {
-        "title": "Oceans MDTF Report: Gap Analysis of PPP Schemes in KKPD Alor MPA",
+        "title": "Oceans MDTF Analytical Report: Gap Analysis of Public-Private Partnerships in Alor MPA",
         "client": "Oceans MDTF / World Bank / PT Hatfield Indonesia",
         "period": "2021 - 2022",
         "category": "marine",
         "tags": [
           "Oceans MDTF",
           "KKPD Alor",
-          "PPP Gap Analysis",
+          "PPP Schemes",
+          "Sustainable MPA Financing",
           "Restricted Access"
         ],
-        "description": "Gap analysis assessing Public-Private Partnership (PPP) models for sustainable financing and co-management of the Alor Marine Protected Area (KKPD Alor).",
+        "description": "Conducted an institutional and legal gap analysis of Public-Private Partnership (PPP) and co-management financing models for the Alor Marine Protected Area (KKPD Alor), evaluating revenue-generation mechanisms, dive tourism fees, and customary marine tenure (Molo) integration.",
         "image": "images/coral_reef.jpg",
         "restricted": true
       },
       {
-        "title": "Gaps & Challenges of Implementing RZWP3K Coastal Zoning in NTT Province",
+        "title": "Diagnostic Study on Gaps & Implementation Challenges of RZWP3K Coastal Zoning in NTT",
         "client": "PT Hatfield Indonesia / Regional Coastal Partners",
         "period": "2020 - 2022",
         "category": "marine",
         "tags": [
           "RZWP3K",
-          "Coastal Zoning",
+          "Marine Spatial Planning",
           "NTT Province",
           "Restricted Access"
         ],
-        "description": "Diagnostic report analyzing regulatory, institutional, and spatial gaps in implementing provincial coastal zoning plans (RZWP3K) in NTT.",
+        "description": "Delivered a diagnostic study examining regulatory conflicts, spatial data incongruities, and inter-agency enforcement bottlenecks in implementing the Provincial Coastal and Small Islands Zoning Plan (RZWP-3-K) across East Nusa Tenggara (NTT) Province.",
         "image": "images/mangrove.jpg",
         "restricted": true
       },
       {
-        "title": "AFD Kendari Eco-Fishing Port Expansion ESIA Assessment",
+        "title": "Environmental and Social Impact Assessment (ESIA) for Kendari Eco-Fishing Port Modernization",
         "client": "Agence Française de Développement (AFD) / PT Hatfield Indonesia",
         "period": "2021 - 2022",
         "category": "environment",
         "tags": [
           "ESIA",
-          "Eco Fishing Port",
+          "Eco-Fishing Port",
           "Kendari",
-          "AFD",
+          "AFD Safeguards",
           "Restricted Access"
         ],
-        "description": "Full Environmental and Social Impact Assessment (ESIA) for the USD 111M AFD-funded Kendari eco-fishing port expansion project.",
+        "description": "Authored the full Environmental and Social Impact Assessment (ESIA), Environmental and Social Management Plan (ESMP), and Stakeholder Engagement Plan (SEP) for the major modernization and infrastructure expansion of PPS Kendari funded by AFD.",
         "image": "images/fishing_port.jpg",
         "restricted": true
       },
       {
-        "title": "Coral Bond IPF: Marine Conservation & Law Enforcement Capacity Assessment",
+        "title": "World Bank Coral Bond IPF: Marine Law Enforcement & Surveillance Capacity Assessment",
         "client": "World Bank Group / PT Hatfield Indonesia",
         "period": "2021 - 2022",
         "category": "marine",
         "tags": [
           "Coral Bond",
-          "Law Enforcement",
+          "MCS Law Enforcement",
           "Marine Conservation",
+          "World Bank",
           "Restricted Access"
         ],
-        "description": "Assessment of marine law enforcement capacity, governance risks, and institutional frameworks supporting the Coral Bond Investment Project Financing (IPF).",
+        "description": "Conducted a national institutional capacity assessment on maritime surveillance, monitoring, control, and surveillance (MCS) infrastructure, and judicial enforcement across priority Marine Protected Areas supporting the design of the World Bank Coral Bond Investment Project Financing (IPF).",
         "image": "images/coral_reef.jpg",
         "restricted": true
       },
       {
-        "title": "Socio-Economic Analysis for Eco-Fishing Port Development in PPS Cilacap",
+        "title": "Socio-Economic Baseline, Gender Action Plan & Stakeholder Impact Analysis for PPS Cilacap",
         "client": "AFD / PT Hatfield Indonesia",
         "period": "2021 - 2022",
         "category": "environment",
         "tags": [
           "PPS Cilacap",
-          "Socio-Economic",
-          "Eco Fishing Port",
+          "Socio-Economic Baseline",
+          "Gender Action Plan",
+          "AFD",
           "Restricted Access"
         ],
-        "description": "Detailed socio-economic baseline, stakeholder impacts, and gender action plan for the PPS Cilacap eco-fishing port modernization initiative.",
+        "description": "Executed extensive socio-economic field surveys, gender vulnerability analyses, and stakeholder consultation matrices for the modernization of Cilacap Oceanic Fishing Port (PPS Cilacap), formulating inclusive resettlement frameworks and women-empowerment livelihood strategies.",
         "image": "images/fishing_port.jpg",
         "restricted": true
       },
       {
-        "title": "UNDP Kolepom Marine Protected Area Zoning & Spatial Management Plan",
+        "title": "Zoning Document and Spatial Management Plan for Kolepom Island Marine Protected Area",
         "client": "UNDP / PT Hatfield Indonesia",
         "period": "2021 - 2022",
         "category": "marine",
         "tags": [
           "Kolepom MPA",
-          "UNDP",
-          "Zoning Plan",
+          "Spatial Zoning",
+          "Conservation Plan",
           "Papua",
           "Restricted Access"
         ],
-        "description": "Draft zoning plan and spatial management document for the Kolepom Island Marine Protected Area in Merauke District, South Papua.",
+        "description": "Formulated the comprehensive technical zoning document and 20-year spatial management plan for the 356,000-hectare Kolepom Island MPA in South Papua, integrating core conservation zones, limited utilization zones for indigenous artisanal fisheries, and other sustainable use sub-zones.",
         "image": "images/mangrove.jpg",
         "restricted": true
       }
@@ -1476,51 +1497,51 @@ export const cvData = {
       {
         "role": "Head of Technical Workstream",
         "company": "PT Aksi Mitigasi Iklim (GHG Actions)",
-        "location": "Denpasar (Hibrida Bali & Papua)",
+        "location": "Denpasar (Hybrid Bali & Papua)",
         "period": "Juni 2026 – Sekarang",
-        "description": "Memimpin workstream teknis di bawah struktur organisasi baru perusahaan untuk mengelola pelaporan teknis guna memenuhi standar karbon internasional dan nasional (seperti Verra, SRUK Indonesia, dan JCM) serta peringkat karbon (carbon rating). Hal ini bertujuan untuk memenuhi pelaporan dasar agar patuh (comply) dan menghasilkan kredit karbon berkualitas tinggi yang dapat dipertanggungjawabkan (defensible, high-quality carbon credits), serta menerapkan nature framework untuk kredit keanekaragaman hayati (biodiversity credits)."
+        "description": "Memimpin gugus kerja teknis (Technical Workstream) dan strategi tata kelola proyek mitigasi perubahan iklim berbasis pasar, mencakup pasar sukarela (Voluntary Carbon Market / VCM) maupun pasar kepatuhan (compliance markets seperti SRN-PPI, IDXCarbon, dan regulasi internasional). Mengarahkan penyusunan, tinjauan teknis, dan validasi Project Design Document (PDD) serta Dokumen Rencana Aksi Mitigasi Iklim (DRAM) yang selaras dengan Core Carbon Principles (CCPs) dari Integrity Council for the Voluntary Carbon Market (ICVCM) dan mekanisme Perjanjian Paris Pasal 6 (Pasal 6.2 ITMOs dan Pasal 6.4 multilateral crediting). Mengawasi metodologi evaluasi Carbon Rating (tolok ukur BeZero Carbon, Sylvera, Calyx Global) guna menjamin integritas karbon tinggi, tambahan (additionality), kredibilitas baseline, dan pencegahan risiko non-permanensi. Mengelola kepatuhan teknis, MRV, dan inventarisasi GRK untuk sektor AFOLU (Agriculture, Forestry, and Other Land Use - REDD+, ARR, blue carbon pesisir, rewetting gambut) dan sektor Limbah / Waste (POME - Palm Oil Mill Effluent Methane Capture & Biogas). Mengelola secara teknis konsesi lahan gambut dan lahan basah (peatlands & wetlands) seluas >100.000 hektar di Indonesia, mengintegrasikan standar ESG, Verra VCS + CCB, Plan Vivo, ART TREES, serta kerangka kredit keanekaragaman hayati (nature/biodiversity credits)."
       },
       {
-        "role": "Manajer Proyek - Aksi GRK & Restorasi Ekosistem Laut",
+        "role": "Project Manager - GHG Actions & Marine Ecosystem Restoration",
         "company": "PT Aksi Mitigasi Iklim (GHG Actions)",
-        "location": "Denpasar (Hibrida Bali & Papua)",
+        "location": "Denpasar (Hybrid Bali & Papua)",
         "period": "Februari 2023 – Juni 2026",
-        "description": "Mengawasi dan mengelola proyek restorasi ekosistem darat dan laut dari inisiasi hingga selesai, termasuk manajemen proyek, monitoring dan evaluasi, manajemen risiko dan dampak (lingkungan dan sosial), perencanaan kontinjensi, serta kolaborasi pemangku kepentingan dengan instansi pemerintah, LSM, masyarakat lokal, dan masyarakat adat untuk membangun dukungan dan memastikan keberhasilan proyek dengan merujuk pada peraturan dan kebijakan lingkungan yang relevan."
+        "description": "Mengelola siklus hidup penuh proyek restorasi ekosistem terestrial, lahan gambut, dan pesisir skala besar (>100.000 ha) di Papua dan Sumatera. Memimpin tim lapangan multidisiplin dalam survei baseline ekologi, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), dan inventarisasi cadangan karbon berbasis darat (SNI 7724). Merancang dan memfasilitasi proses Free, Prior, and Informed Consent (FPIC) serta mekanisme pembagian manfaat yang adil bersama masyarakat hukum adat. Memimpin koordinasi perizinan dan kepatuhan regulasi dengan Kementerian Lingkungan Hidup dan Kehutanan (KLHK), Badan Restorasi Gambut dan Mangrove (BRGM), serta Kementerian Kelautan dan Perikanan (KKP). Menyusun Rencana Pengelolaan Lingkungan dan Sosial (ESMP), AMDAL/ESIA, serta membangun sistem Monitoring, Reporting, and Verification (MRV) yang kredibel."
       },
       {
-        "role": "Deputi Pemimpin Unit - Unit Pengembangan Pesisir dan Laut",
+        "role": "Deputy Unit Leader - Marine and Coastal Development Unit",
         "company": "PT Hatfield Indonesia",
         "location": "Bogor / Jakarta",
         "period": "Januari 2022 - Februari 2023",
-        "description": "Mengelola aktivitas Unit Bisnis termasuk target tahunan dan rencana kerja, pengawasan keuangan, pelaporan Dewan Direksi, pengembangan peluang bisnis, bimbingan staf dan peningkatan kapasitas, serta memastikan kepatuhan terhadap standar tata kelola di bidang administrasi, sumber daya manusia, manajemen mutu, serta kesehatan dan keselamatan kerja untuk proyek skala kecil hingga besar."
+        "description": "Memimpin manajemen strategis, operasional, dan finansial Unit Pengembangan Kelautan dan Pesisir, mengawasi portofolio proyek konsultasi lingkungan bernilai tinggi untuk lembaga keuangan internasional (Bank Dunia, ADB, AFD, UNDP, FAO) dan sektor swasta. Mengarahkan perencanaan bisnis tahunan, proyeksi pendapatan, penganggaran proyek, serta pengembangan proposal komersial. Menyampaikan laporan capaian berkala kepada Dewan Direksi. Membimbing dan membina kapasitas teknis staf di bidang ekologi laut, tata kelola perikanan, dan safeguards lingkungan-sosial. Memastikan kepatuhan institusional terhadap standar sistem manajemen mutu ISO 9001, lingkungan ISO 14001, dan K3 ISO 45001 di seluruh operasional proyek."
       },
       {
-        "role": "Spesialis Lingkungan Laut",
+        "role": "Marine Environmental Specialist",
         "company": "PT Hatfield Indonesia",
         "location": "Bogor / Jakarta",
         "period": "Juni 2016 - Desember 2021",
-        "description": "Memimpin program sampling sumber daya laut dan perikanan, karakterisasi rona awal perairan, penilaian pesisir dan laut, serta pemantauan konservasi. Tanggung jawab meliputi penyusunan proposal proyek, proposal keuangan, instruksi kerja lapangan, laporan M&E, mendukung proyek skala kecil-menengah, serta memfasilitasi konsultasi kepatuhan K3 (EHS) dan pengembangan masyarakat sesuai dengan peraturan lokal, provinsi, dan nasional."
+        "description": "Bertindak sebagai tenaga ahli teknis untuk ekologi laut, kajian rona awal oseanografi, ekonomi sumber daya perikanan, dan analisis dampak lingkungan (AMDAL / ESIA / UKL-UPL). Merancang dan memimpin survei lapangan kelautan (kualitas air, sedimen, benthos, terumbu karang, dan biomassa ikan pelagis). Menyusun Rencana Pengelolaan Lingkungan dan Sosial (ESMP), kerangka pelibatan pemangku kepentingan, dan rencana zonasi Kawasan Konservasi Perairan (KKP/MPA). Memimpin inovasi digital perikanan berkelanjutan, termasuk pengembangan sistem monitoring kapal berbasis satelit (VMS) bersama Inmarsat dan UK Space Agency, IoT akuakultur cerdas, serta aplikasi geofencing. Menyusun laporan teknis utama dan policy brief untuk Bank Dunia, ADB, AFD, FAO, WWF, dan kementerian terkait."
       },
       {
-        "role": "Asisten Direktur Proyek",
+        "role": "Assistant Project Director",
         "company": "Nusa Dua Reef Foundation",
         "location": "Bali, Indonesia",
         "period": "April 2016 - Juni 2016",
-        "description": "Membantu direktur proyek dan pengawas dalam manajemen proyek dan penghubung pemerintah. Bekerja sama dengan pemerintah nasional dan daerah, sektor swasta, LSM lokal, dan masyarakat pesisir untuk mendukung konservasi terumbu karang dan pesisir, pengembangan masyarakat, serta strategi promosi pendidikan."
+        "description": "Membantu direktur eksekutif dalam mengoordinasikan program konservasi pesisir, penenggelaman terumbu karang buatan (artificial reefs), restorasi karang, dan ekowisata bahari berbasis masyarakat di Nusa Dua, Bali. Memfasilitasi kemitraan multipihak antara pemerintah (KKP, DKP Bali), pengelola kawasan pariwisata (ITDC), desa adat setempat, dan operator selam. Mengelola kampanye edukasi konservasi dan program pemberdayaan masyarakat pesisir."
       },
       {
-        "role": "Pengamat Mamalia Laut (Marine Mammal Observer)",
-        "company": "PT Quest Geophysical Asia - Proyek Papua Barat",
+        "role": "Marine Mammal Observer",
+        "company": "PT Quest Geophysical Asia - West Papua Project",
         "location": "Teluk Arguni, Papua Barat",
         "period": "Januari 2015 - Agustus 2015",
-        "description": "Memimpin protokol dan pedoman K3LH (patuh JNCC) untuk survei seismik 2D dan Transition Zone menggunakan sumber dinamit guna meminimalkan dampak pada kehidupan laut (ikan dan mamalia laut) dalam proyek eksplorasi migas KrisEnergy (Udan Emas) BV. Menyediakan analisis dampak seismik sosial-perikanan tingkat tinggi dan penyelidikan mamalia laut."
+        "description": "Memimpin protokol K3L (HSE) dan observasi mamalia laut (Marine Mammal Observer / MMO) berstandar JNCC serta pemantauan akustik pasif (PAM) selama survei seismik 2D dan Transition Zone (TZ) untuk KrisEnergy (Udan Emas) BV di Teluk Arguni, Papua Barat. Menegakkan protokol zona eksklusi dan prosedur soft-start guna melindungi mamalia laut, dugong, dan populasi ikan. Melakukan kajian dampak sosio-perikanan akibat operasi seismik dan sosialisasi kepada nelayan tradisional masyarakat adat setempat."
       },
       {
-        "role": "Asisten Peneliti Kelautan",
-        "company": "Departemen Sains dan Teknologi Kelautan, IPB University",
+        "role": "Marine Research Assistant",
+        "company": "Departemen Ilmu dan Teknologi Kelautan, IPB University",
         "location": "Bogor, Indonesia",
         "period": "2012 - 2014",
-        "description": "Mendukung penelitian akademik dalam biologi laut, akustik kelautan, dan pemantauan lingkungan. Berkontribusi pada publikasi ilmiah dan makalah konferensi di bidang sains dan teknologi kelautan."
+        "description": "Menjalankan penelitian akademis dan terapan di bidang bioakustik bawah air, telemetri akustik kelautan, penginderaan jauh satelit, pemodelan spasial GIS, dan oseanografi fisik. Mengoperasikan instrumen ilmiah seperti scientific echo sounder, hydrophone, dan CTD. Berkontribusi pada riset kompetitif nasional yang didanai Kemendikbud, serta menulis publikasi ilmiah bereputasi tentang bioakustik ikan, deteksi tumpahan minyak via satelit ALOS PALSAR, dan wahana patroli maritim tanpa awak."
       }
     ],
     "education": [
@@ -1541,491 +1562,512 @@ export const cvData = {
     ],
     "projects": [
       {
-        "title": "Laporan Pra-Sosialisasi & Analisis Pemangku Kepentingan",
+        "title": "Laporan Pra-Sosialisasi & Analisis Pemangku Kepentingan Perizinan Karbon Hutan",
         "client": "PT Salawati Hijau Lestari (SHL)",
         "period": "Juni - Agustus 2023",
         "category": "carbon",
         "tags": [
-          "Karbon",
-          "Analisis Stakeholder",
+          "Karbon Hutan",
+          "Pemetaan Pemangku Kepentingan",
+          "FPIC",
           "Papua"
         ],
-        "description": "Pembuatan laporan pra-sosialisasi dan analisis pemangku kepentingan untuk kegiatan perizinan kehutanan di Papua Barat Daya pada tingkat kabupaten dan provinsi.",
+        "description": "Melaksanakan kajian pra-sosialisasi komprehensif, pemetaan kelembagaan, dan analisis pemangku kepentingan bertingkat di tingkat kabupaten dan provinsi Papua Barat Daya. Merancang strategi pelibatan pemangku kepentingan awal dan kerangka Free, Prior, and Informed Consent (FPIC) yang dipersyaratkan untuk perizinan PBPH (Perizinan Berusaha Pemanfaatan Hutan) restorasi ekosistem dan proyek karbon, memastikan penghormatan penuh terhadap hak ulayat Masyarakat Hukum Adat setempat.",
         "image": "images/rainforest.jpg"
       },
       {
-        "title": "Studi Penjajakan untuk Penilaian Awal",
+        "title": "Studi Penjajakan Karbon & Kajian Kelayakan Konsesi Hutan",
         "client": "PT SHL & PT Sorong Hijau Ekosistem (SHE)",
         "period": "Maret - Juni 2023",
         "category": "carbon",
         "tags": [
-          "Studi Karbon",
+          "Scoping Karbon",
           "Studi Kelayakan",
-          "Papua"
+          "Inventarisasi Karbon",
+          "Papua Barat"
         ],
-        "description": "Studi penjajakan untuk penilaian awal konsesi karbon di Provinsi Papua Barat Daya dan Papua Barat.",
+        "description": "Menyusun studi kelayakan tingkat tinggi dan kajian penjajakan karbon di areal konsesi hutan seluas >100.000 hektar di Provinsi Papua Barat Daya dan Papua Barat. Mensintesiskan analisis spasial GIS penginderaan jauh, estimasi cadangan karbon hutan, pemicu deforestasi baseline, jalur kepatuhan regulasi (SRN-PPI & Verra VCS), serta evaluasi risiko sosial-ekonomi guna menetapkan kelayakan penerbitan kredit karbon dan konservasi keanekaragaman hayati.",
         "image": "images/rainforest.jpg"
       },
       {
-        "title": "Penilaian Pendekatan Stok Karbon Tinggi (HCSA)",
+        "title": "Penilaian High Carbon Stock Approach (HCSA) & High Conservation Value (HCV)",
         "client": "APRIL Group",
         "period": "September 2022 - Januari 2023",
         "category": "carbon",
         "tags": [
           "HCSA",
           "HCV",
-          "Ahli Sosial"
+          "Tenaga Ahli Sosial",
+          "Tata Kelola Hutan"
         ],
-        "description": "Dukungan teknis sebagai Ahli Sosial dalam penilaian penuh HCV dan HCSA untuk tiga mitra pemasok APRIL Group di Wilayah Utara.",
+        "description": "Bertindak sebagai Tenaga Ahli Sosial dalam penilaian penuh terintegrasi HCV-HCSA pada tiga konsesi mitra pemasok di Wilayah Utara (Sumatera). Melakukan pemetaan partisipatif lapangan, analisis tenurial lahan adat, kajian penghidupan masyarakat, dan verifikasi FPIC untuk mendelineasi tutupan hutan Stok Karbon Tinggi dan Kawasan Bernilai Konservasi Tinggi untuk kepatuhan komitmen tanpa deforestasi.",
         "image": "images/rainforest.jpg"
       },
       {
-        "title": "Penilaian Lingkungan dan Sosial Strategis (SESA) untuk ETM",
+        "title": "Strategic Environmental and Social Assessment (SESA) untuk Energy Transition Mechanism (ETM)",
         "client": "Asian Development Bank (ADB)",
         "period": "Agustus 2022 - Januari 2023",
         "category": "carbon",
         "tags": [
           "SESA",
           "Transisi Energi",
-          "ADB"
+          "Safeguards ADB",
+          "Kebijakan Iklim"
         ],
-        "description": "Studi penjajakan tingkat tinggi, penilaian kerangka peraturan dan rona awal, serta dukungan lokakarya SESA untuk Mekanisme Transisi Energi (ETM) di Indonesia.",
+        "description": "Menyusun scoping tingkat tinggi, evaluasi rona awal lingkungan dan sosial, serta analisis kerangka regulasi untuk program Energy Transition Mechanism (ETM) ADB di Indonesia. Memfasilitasi lokakarya konsultasi SESA tingkat nasional yang melibatkan kementerian terkait (ESDM, KLHK, Bappenas), PLN, pengembang IPP, CSO, dan akademisi untuk memastikan integrasi perlindungan sosial dan lingkungan dalam pensiun dini PLTU batubara.",
         "image": "images/clean_energy.jpg"
       },
       {
-        "title": "Fasilitasi Pokja Pembentukan Kawasan Konservasi Perairan (KKP) Pulau Kolepom",
-        "client": "UNDP",
+        "title": "Inisiasi & Pembentukan Kawasan Konservasi Perairan (KKP) Pulau Kolepom",
+        "client": "UNDP / Program ATSEA-2",
         "period": "November 2021 - September 2022",
         "category": "marine",
         "tags": [
-          "KKP/MPA",
+          "KKP",
           "UNDP",
-          "Pulau Kolepom"
+          "Pulau Kolepom",
+          "Tata Kelola Adat"
         ],
-        "description": "Fasilitasi Kelompok Kerja (POKJA) untuk pembentukan KKP Pulau Kolepom di Kabupaten Merauke - bantuan teknis untuk pemerintah dan pelibatan masyarakat lokal.",
+        "description": "Memimpin fasilitasi teknis dan koordinasi Kelompok Kerja (POKJA) dalam pembentukan Kawasan Konservasi Perairan (KKP) Pulau Kolepom seluas 356.000 hektar di Kabupaten Merauke, Papua Selatan. Menyusun laporan teknis potensi sumber daya alam, memfasilitasi konsultasi publik bersama suku adat pesisir, dan merancang dokumen rencana zonasi yang telah resmi ditetapkan oleh Kementerian Kelautan dan Perikanan (KKP).",
         "image": "images/mangrove.jpg"
       },
       {
-        "title": "Studi Pengelolaan Perikanan dan Mata Pencaharian Masyarakat Pesisir (LAUTRA Tahap 1)",
+        "title": "Tata Kelola Perikanan & Penghidupan Masyarakat Pesisir (LAUTRA Fase 1)",
         "client": "World Bank Group",
         "period": "September 2020 - September 2022",
         "category": "marine",
         "tags": [
           "LAUTRA",
           "Bank Dunia",
-          "Tata Kelola Perikanan"
+          "Tata Kelola Perikanan",
+          "Ekonomi Biru"
         ],
-        "description": "Studi persiapan yang membahas tata kelola perikanan dan kemiskinan pesisir guna menyiapkan proyek LAUTRA tahap satu.",
+        "description": "Menyusun kajian analitis dasar dan komponen desain proyek untuk Program Laut untuk Kesejahteraan (LAUTRA - USD 210M) Bank Dunia. Mengkaji reformasi tata kelola perikanan, pengentasan kemiskinan masyarakat pesisir, perencanaan ruang laut, dan investasi rantai nilai perikanan berkelanjutan di Wilayah Pengelolaan Perikanan (WPPNRI 715, 718, dan 573).",
         "image": "images/coastal_fisheries.jpg"
       },
       {
-        "title": "Studi Pra-Kelayakan: Pengelolaan dan Pengambilan Alat Tangkap yang Hilang (ALDFG)",
+        "title": "Studi Pra-Kelayakan Pengelolaan & Penarikan ALDFG serta Sampah Plastik Akuakultur",
         "client": "World Bank Group / Poseidon Aquatic Resource Management",
         "period": "Agustus 2020 - Agustus 2022",
         "category": "marine",
         "tags": [
           "ALDFG",
-          "Akuakultur",
+          "Alat Tangkap Terlantar",
+          "Sampah Laut",
           "Bank Dunia"
         ],
-        "description": "Penilaian penarikan dan daur ulang Alat Penangkapan Ikan yang Dibuang, Hilang, atau Tidak Digunakan Lagi (ALDFG) serta inventarisasi sampah plastik budidaya.",
+        "description": "Melaksanakan kajian pra-kelayakan nasional mengenai mekanisme penarikan, daur ulang sirkular, dan fasilitas penerimaan pelabuhan untuk alat tangkap ikan yang ditinggalkan, hilang, atau dibuang (ALDFG) serta inventarisasi limbah plastik budidaya tambak udang/ikan intensif. Merumuskan peta jalan kebijakan mitigasi sampah laut bagi KKP dan lembaga donor.",
         "image": "images/ghost_gear.jpg"
       },
       {
-        "title": "World Bank Coastal Fisheries Initiative Challenge Fund (CFI-CF)",
+        "title": "Inkubasi Bisnis Perikanan Berkelanjutan Coastal Fisheries Initiative Challenge Fund (CFI-CF)",
         "client": "World Bank Group / GEF",
         "period": "Juni 2020 - September 2022",
         "category": "marine",
         "tags": [
           "CFI-CF",
           "Perikanan Berkelanjutan",
-          "Rencana Bisnis"
+          "Blended Finance",
+          "GEF"
         ],
-        "description": "Mengembangkan dan mendukung rencana bisnis perikanan berkelanjutan dan peluang investasi di bawah Program Laut Berkelanjutan Indonesia (ISOP).",
+        "description": "Mendukung inkubasi bisnis, penyusunan rencana investasi, dan uji tuntas kelayakan lingkungan-sosial untuk usaha perikanan pesisir berkelanjutan di bawah naungan GEF-World Bank CFI Challenge Fund. Mengevaluasi model bisnis UKM di sektor tuna, kepiting bakau, dan rumput laut guna membuka akses pendanaan swasta dan investasi berdampak sosial.",
         "image": "images/coastal_fisheries.jpg"
       },
       {
-        "title": "Analisis Diagnostik Lintas Batas Laut Indonesia (TDA ISLME)",
-        "client": "FAO",
+        "title": "Transboundary Diagnostic Analysis Laut Indonesia (TDA ISLME)",
+        "client": "Food and Agriculture Organization (FAO)",
         "period": "Juni 2020 - Maret 2022",
         "category": "marine",
         "tags": [
           "FAO",
           "TDA",
-          "Ekosistem Laut Besar"
+          "ISLME",
+          "Tata Kelola Lintas Batas"
         ],
-        "description": "Studi tematis dan tinjauan tentang lingkungan, sosial-ekonomi, tata kelola, dan layanan ekosistem di Ekosistem Laut Besar Indonesia.",
+        "description": "Menulis bab diagnostik tematik spesifik mengenai kondisi oseanografi, sumber daya perikanan, degradasi lingkungan laut, dan tata kelola kelembagaan di Kawasan Ekosistem Laut Besar Laut Indonesia (ISLME) yang mencakup wilayah Indonesia dan Timor-Leste, menjadi fondasi ilmiah pembentukan Strategic Action Programme (SAP) regional.",
         "image": "images/coastal_fisheries.jpg"
       },
       {
-        "title": "Evaluasi Program Kelautan WWF Malaysia",
+        "title": "Evaluasi Independen Program Konservasi Laut WWF Malaysia",
         "client": "WWF Malaysia",
         "period": "Maret 2020 - Desember 2021",
         "category": "marine",
         "tags": [
           "WWF",
-          "M&E",
-          "Tata Ruang Laut"
+          "Monev",
+          "Tata Ruang Laut",
+          "Evaluasi Konservasi"
         ],
-        "description": "Monitoring dan evaluasi tata ruang laut, perikanan berkelanjutan, dan program pengembangan masyarakat.",
+        "description": "Melaksanakan evaluasi kinerja independen terhadap capaian Program Konservasi Laut multi-tahun WWF Malaysia. Menilai efektivitas program, alokasi finansial, dan dampak konservasi pada tata ruang laut (MSP), sertifikasi perikanan berkelanjutan MSC, konservasi hiu, serta model ko-manajemen masyarakat di Sabah dan Semenanjung Malaysia.",
         "image": "images/coral_reef.jpg"
       },
       {
-        "title": "Studi Persiapan Implementasi Proyek Pelabuhan Perikanan Ramah Lingkungan",
+        "title": "Kajian Perlindungan Lingkungan & Sosial Proyek Pelabuhan Perikanan Berwawasan Lingkungan (Eco-Fishing Ports)",
         "client": "Agence Française de Développement (AFD)",
         "period": "Maret 2021 - Oktober 2022",
         "category": "marine",
         "tags": [
-          "Pelabuhan Hijau",
+          "Eco-Fishing Ports",
           "AFD",
-          "Perlindungan Sosial"
+          "ESIA",
+          "Safeguards Infrastruktur"
         ],
-        "description": "Studi persiapan proyek pelabuhan perikanan ramah lingkungan senilai USD 111 juta, mencakup perlindungan lingkungan, sosial, gender, dan iklim.",
+        "description": "Memimpin studi persiapan safeguards lingkungan, sosial, ketahanan iklim, dan kesetaraan gender untuk proyek modernisasi Eco-Fishing Ports senilai USD 111M yang didanai AFD di empat pelabuhan perikanan strategis (PPS Kendari, PPS Cilacap, PPN Belawan, dan PPN Sibolga). Merancang kerangka acuan ESIA, profil kerentanan iklim, dan rencana aksi dekarbonisasi pelabuhan.",
         "image": "images/fishing_port.jpg"
       },
       {
-        "title": "Penyusunan Cerita Dampak untuk Proyek Percontohan Teknologi VMS Murah",
+        "title": "Penyusunan Kisah Dampak (Benefit Story) Proyek Percontohan Teknologi VMS Biaya Rendah",
         "client": "Inmarsat (UK) / KKP",
         "period": "Desember 2021 - Maret 2022",
         "category": "digital",
         "tags": [
           "VMS",
           "Inmarsat",
-          "KKP"
+          "KKP",
+          "Keselamatan Nelayan"
         ],
-        "description": "Menyusun kisah sukses penggunaan VMS berbiaya rendah dengan mengintegrasikan kutipan Kementerian Kelautan dan Perikanan (KKP) serta data survei nelayan.",
+        "description": "Menyusun dokumentasi benefit stories, survei sosial-ekonomi, dan studi kasus dampak penerapan teknologi Vessel Monitoring System (VMS) satelit berbiaya rendah pada kapal perikanan skala kecil (<30 GT) di berbagai sentra nelayan pesisir Indonesia guna meningkatkan keselamatan pelayaran dan efisiensi penangkapan ikan.",
         "image": "images/vms_satellite.jpg"
       },
       {
-        "title": "Pengembangan, Implementasi, dan Migrasi Sistem VMS Baru",
+        "title": "Program Implementasi & Migrasi Sistem Monitoring Kapal Perikanan Berbasis Satelit (VMS)",
         "client": "Inmarsat (UK) / UK Space Agency",
         "period": "Agustus 2018 - Oktober 2019",
         "category": "digital",
         "tags": [
-          "VMS Baru",
-          "Migrasi Teknologi",
-          "Kapal Perikanan"
+          "Implementasi VMS",
+          "UK Space Agency",
+          "Pengawasan Perikanan",
+          "IUU Fishing"
         ],
-        "description": "Peningkatan skalabilitas backend dan kemampuan pengguna akhir untuk 400 kapal perikanan (20-30 GT dan >30 GT).",
+        "description": "Mengoordinasikan instalasi teknis perangkat transceiver satelit, integrasi pipeline data API, dan pelatihan kapasitas pengguna untuk 400 armada kapal perikanan (20-30 GT dan >30 GT) guna memperkuat sistem pengawasan perikanan nasional dan memberantas IUU Fishing.",
         "image": "images/vms_satellite.jpg"
       },
       {
-        "title": "Pengembangan Sistem Pembatasan Wilayah Geofencing (Tahap 1 & 2)",
+        "title": "Pengembangan Aplikasi Geofencing Berbasis Web untuk Kawasan Konservasi Perairan",
         "client": "Inmarsat (UK)",
         "period": "Oktober 2017 - Oktober 2019",
         "category": "digital",
         "tags": [
           "Geofencing",
           "Aplikasi Web",
-          "Pelacakan Kapal"
+          "Pengawasan Spasial",
+          "Kepatuhan KKP"
         ],
-        "description": "Aplikasi geofencing VMS berbasis web yang mengintegrasikan posisi kapal relatif terhadap Kawasan Konservasi Perairan (KKP).",
+        "description": "Merancang arsitektur spasial dan alur kerja aplikasi web geofencing yang mengintegrasikan data telemetri satelit VMS dengan batas Kawasan Konservasi Perairan nasional, memberikan peringatan dini otomatis atas pelanggaran zona tangkap dan intrusi spasial armada perikanan.",
         "image": "images/vms_satellite.jpg"
       },
       {
-        "title": "Konsultan Lingkungan & Sosial Independen (PLTGU Tambak Lorok Blok 3)",
+        "title": "Uji Tuntas & Konsultan Independen Kepatuhan Lingkungan-Sosial (PLTGU Tambak Lorok Blok 3)",
         "client": "PT Indonesia Power",
         "period": "Januari - November 2022",
         "category": "environment",
         "tags": [
-          "ESAP",
-          "Pembangkit Listrik",
-          "Pemantauan Kepatuhan"
+          "Kepatuhan ESAP",
+          "PLTGU Tambak Lorok",
+          "Uji Tuntas"
         ],
-        "description": "Pemantauan kepatuhan ESAP dan konsultasi untuk Proyek PLTGU Tambak Lorok Blok 3 di Semarang.",
+        "description": "Menjalankan pemantauan independen dan verifikasi kepatuhan teknis terhadap Environmental and Social Action Plan (ESAP) untuk proyek PLTGU Blok 3 Tambak Lorok berkapasitas 780 MW di Semarang, memastikan pemenuhan standar lembaga keuangan internasional (IFC Performance Standards).",
         "image": "images/clean_energy.jpg"
       },
       {
-        "title": "Dukungan Rencana Pemantauan Operasional dan Ilmiah (OSMP)",
+        "title": "Dukungan Operational and Scientific Monitoring Plan (OSMP) Kampanye Pengeboran Lepas Pantai",
         "client": "MCC Environmental (Australia)",
         "period": "Oktober 2021 - Januari 2022",
         "category": "environment",
         "tags": [
           "OSMP",
-          "Penilaian Fauna",
-          "Kampanye Pengeboran"
+          "Pengeboran Migas",
+          "Fauna Laut",
+          "SCAT"
         ],
-        "description": "Dukungan untuk Kampanye Pengeboran Carnavon Buffalo-10, mencakup teknik penilaian pembersihan pantai (SCAT) dan penilaian fauna (reptil, burung laut, cetacea) di Indonesia dan Timor-Leste.",
+        "description": "Memberikan keahlian ekologi laut dalam kampanye pengeboran minyak lepas pantai Buffalo-10 di Laut Timor. Menyusun protokol Shoreline Cleanup Assessment Technique (SCAT) dan profil kerentanan fauna laut (cetacea, penyu, dan burung laut) untuk mitigasi risiko lingkungan lintas batas perairan Indonesia dan Timor-Leste.",
         "image": "images/marine_mammal.jpg"
       },
       {
-        "title": "Program Pemantauan Laut Proyek Konstruksi Pelabuhan Patimban",
+        "title": "Program Pemantauan Lingkungan Laut Konstruksi Pelabuhan Internasional Patimban",
         "client": "Penta Ocean Construction",
         "period": "Juli 2018 - Agustus 2019",
         "category": "environment",
         "tags": [
           "Pelabuhan Patimban",
-          "Parameter Laut",
-          "Rona Awal"
+          "Kualitas Air Laut",
+          "Benthos & Sedimen",
+          "Monev AMDAL"
         ],
-        "description": "Melakukan survei rona awal kelautan dan pemantauan bulanan untuk parameter laut (kualitas air, sedimen, benthos, nekton).",
+        "description": "Mengelola dan melaksanakan pemantauan kepatuhan lingkungan laut bulanan selama konstruksi Fase 1 Pelabuhan Patimban di Subang, Jawa Barat. Memimpin pengambilan sampel oseanografi dan analisis laboratorium mutu air laut, kimia sedimen logam berat, keanekaragaman makrobenthos, dan struktur komunitas nekton.",
         "image": "images/fishing_port.jpg"
       },
       {
-        "title": "Pengembangan Kurikulum Vokasi Blended Learning & QC Budidaya Udang",
+        "title": "Kurikulum Vokasi Budidaya Udang & Solusi Kontrol Kualitas Digital",
         "client": "Walton Family Foundation",
         "period": "Agustus 2019 - Januari 2022",
         "category": "aquaculture",
         "tags": [
-          "Akuakultur",
-          "HCD",
-          "Kurikulum Vokasi"
+          "Kurikulum Akuakultur",
+          "Human-Centered Design",
+          "Kontrol Kualitas",
+          "Budidaya Udang"
         ],
-        "description": "Mengembangkan kurikulum vokasi blended learning dan solusi kontrol kualitas online untuk budidaya udang dengan metode HCD bersama lebih dari 30 pembudidaya.",
+        "description": "Mengembangkan kurikulum vokasi blended-learning terakreditasi dan platform standar operasional prosedur (SOP) digital untuk kontrol kualitas tambak udang komersial, menerapkan metode Human-Centered Design (HCD) bersama lebih dari 30 praktisi tambak di Jawa dan Bali.",
         "image": "images/shrimp.jpg"
       },
       {
-        "title": "Penerapan HCD untuk Aplikasi Akuakultur 4.0",
+        "title": "Penerapan Human-Centered Design (HCD) untuk Platform IoT Akuakultur 4.0",
         "client": "Walton Family Foundation",
         "period": "Agustus 2018 - Januari 2021",
         "category": "aquaculture",
         "tags": [
-          "Pertanian Pintar",
-          "IoT Perangkat Keras",
-          "Aplikasi Ponsel"
+          "Smart Farming",
+          "Sensor IoT",
+          "Aplikasi Mobile",
+          "Akuakultur 4.0"
         ],
-        "description": "Membangun perangkat keras dan lunak minimum viable (MVP) untuk kontrol kualitas air online dalam budidaya udang.",
+        "description": "Memimpin riset pengguna, perancangan prototipe perangkat keras/lunak, dan uji coba lapangan untuk platform manajemen tambak cerdas berbasis IoT yang menggabungkan sensor kualitas air real-time (DO, pH, salinitas, suhu) dengan aplikasi ponsel untuk pencegahan dini penyakit dan optimasi pakan udang.",
         "image": "images/shrimp.jpg"
       },
       {
-        "title": "Status Terkini Perikanan dan Perdagangan Gurita di Indonesia",
-        "client": "PT Hatfield Indonesia / Mitra Kelautan & Perikanan",
+        "title": "Kajian Komprehensif Status Perikanan Gurita, Rantai Pasok & Perdagangan Internasional",
+        "client": "PT Hatfield Indonesia / Mitra Perikanan & Kelautan",
         "period": "2021 - 2022",
         "category": "marine",
         "tags": [
           "Perikanan Gurita",
-          "Perdagangan Perikanan",
-          "Penilaian Laut",
+          "Analisis Rantai Pasok",
+          "Dinamika Perdagangan",
           "Akses Terbatas"
         ],
-        "description": "Laporan teknis komprehensif mengenai penilaian status perikanan gurita, dinamika rantai pasok, dan arus perdagangan internasional di Indonesia.",
+        "description": "Menyusun laporan teknis komprehensif mengenai biologi, status stok, dinamika penangkapan skala kecil, rantai dingin, dan jalur ekspor internasional perikanan gurita Indonesia (Octopus cyanea dan Octopus vulgaris), memetakan intervensi strategis untuk sertifikasi MSC dan Fisheries Improvement Project (FIP).",
         "image": "images/octopus.jpg",
         "restricted": true
       },
       {
-        "title": "Valuasi Layanan Ekosistem Pelagis dan Sumber Daya Laut",
+        "title": "Valuasi Jasa Ekosistem Pelagis dan Neraca Modal Alami Laut",
         "client": "PT Hatfield Indonesia / Mitra Kelautan",
         "period": "2021 - 2022",
         "category": "marine",
         "tags": [
           "Valuasi Ekosistem",
           "Ekosistem Pelagis",
-          "Ekonomi Kelautan",
+          "Akuntansi Modal Alam",
           "Akses Terbatas"
         ],
-        "description": "Evaluasi ekonomi dan ekologis dari layanan ekosistem pelagis, produktivitas sumber daya laut, dan modal alam laut di Indonesia.",
+        "description": "Melakukan valuasi ekonomi dan ekologi mendalam terhadap jasa ekosistem laut pelagis di perairan Indonesia, mengkuantifikasi penyerapan karbon, produktivitas primer, hasil perikanan komersial, dan ketahanan keanekaragaman hayati guna mendukung kerangka akuntansi neraca laut nasional.",
         "image": "images/pelagic_fish.jpg",
         "restricted": true
       },
       {
-        "title": "Analisis Rantai Pasok & Pasar Ikan Tongkol di Indonesia",
-        "client": "PT Hatfield Indonesia / Mitra Kelautan & Perikanan",
+        "title": "Rantai Pasok, Dinamika Pasar & Susut Pasca-Panen Perikanan Tongkol",
+        "client": "PT Hatfield Indonesia / Mitra Perikanan & Kelautan",
         "period": "2020 - 2022",
         "category": "marine",
         "tags": [
           "Rantai Pasok Tongkol",
           "Perikanan Tuna",
-          "Analisis Pasar",
+          "Susut Pasca-Panen",
           "Akses Terbatas"
         ],
-        "description": "Investigasi mendalam mengenai rantai pasok ikan tongkol, alur pasar, susut pascapanen, dan mata pencaharian masyarakat pesisir di Indonesia.",
+        "description": "Melaksanakan pemetaan rantai pasok dan analisis aliran pasar perikanan tongkol (Euthynnus affinis) di sentra pendaratan utama Indonesia. Mengevaluasi hambatan logistik rantai dingin, susut mutu pasca-panen, asimetri harga, serta kesejahteraan sosial-ekonomi rumah tangga nelayan skala kecil.",
         "image": "images/tongkol.jpg",
         "restricted": true
       },
       {
-        "title": "Interaksi Mamalia Laut dengan Operasi Kelautan & Perikanan",
+        "title": "Kajian Ilmiah Interaksi Mamalia Laut dengan Operasi Migas & Perikanan Tangkap",
         "client": "PT Hatfield Indonesia / Mitra Konservasi",
         "period": "2019 - 2021",
         "category": "marine",
         "tags": [
           "Mamalia Laut",
           "Bioakustik",
-          "Mitigasi Interaksi",
+          "Mitigasi Bycatch",
           "Akses Terbatas"
         ],
-        "description": "Investigasi ilmiah mengenai risiko interaksi mamalia laut, gangguan akustik, dan protokol mitigasi selama operasi kelautan lepas pantai.",
+        "description": "Melakukan pemodelan risiko ilmiah dan investigasi lapangan mengenai gangguan akustik bawah air, kerentanan tabrakan kapal, dan risiko tangkapan sampingan (bycatch) bagi paus, lumba-lumba, dan dugong yang berinteraksi dengan armada pukat cincin dan operasi energi lepas pantai di perairan Indonesia.",
         "image": "images/marine_mammal.jpg",
         "restricted": true
       },
       {
-        "title": "Strategi Investasi Perikanan Tuna untuk Walton Family Foundation (WFF)",
+        "title": "Peta Jalan Strategi Investasi Perikanan Tuna Berkelanjutan untuk Walton Family Foundation",
         "client": "Walton Family Foundation / PT Hatfield Indonesia",
         "period": "2020 - 2022",
         "category": "marine",
         "tags": [
           "Investasi Tuna",
-          "WFF",
-          "Tata Kelola Perikanan",
+          "Strategi Filantropi",
+          "Reformasi Perikanan",
           "Akses Terbatas"
         ],
-        "description": "Peta jalan investasi strategis dan strategi intervensi pasar untuk pengelolaan perikanan tuna yang berkelanjutan di Indonesia.",
+        "description": "Merumuskan strategi investasi filantropi multi-tahun dan peta jalan intervensi portofolio kelautan WFF, berfokus pada pengelolaan perikanan berbasis hak, aturan pengendalian panen (harvest control rules), ketertelusuran digital, dan pemberdayaan masyarakat nelayan tuna pesisir di Indonesia.",
         "image": "images/tongkol.jpg",
         "restricted": true
       },
       {
-        "title": "Survei Keanekaragaman Hayati Laut & Pemantauan Ekologis di Kepulauan Anambas",
+        "title": "Survei Keanekaragaman Hayati Laut & Pemantauan Ekologi di TWP Kepulauan Anambas",
         "client": "PT Hatfield Indonesia / Mitra Konservasi",
         "period": "2019 - 2021",
         "category": "marine",
         "tags": [
-          "Survei Keanekaragaman",
+          "Baseline Biodiversitas",
           "Kepulauan Anambas",
-          "Terumbu Karang",
+          "Kesehatan Terumbu Karang",
           "Akses Terbatas"
         ],
-        "description": "Survei rona awal dan laporan pemantauan ekologis jangka panjang ekosistem terumbu karang, biomassa ikan, dan keanekaragaman hayati laut di Anambas.",
+        "description": "Melaksanakan survei komprehensif keanekaragaman hayati laut, sensus visual bawah air (UVC) untuk tutupan bentik terumbu karang dan biomassa ikan karang, serta pemetaan habitat megafauna di Taman Wisata Perairan Kepulauan Anambas (TWP Anambas).",
         "image": "images/coral_reef.jpg",
         "restricted": true
       },
       {
-        "title": "Scoping Cepat Proyek Pertumbuhan Budidaya Udang & Akuakultur Berkelanjutan",
-        "client": "PT Hatfield Indonesia / Mitra Akuakultur",
+        "title": "Studi Penjajakan Peluang Investasi Pertumbuhan Tinggi Sektor Akuakultur Berkelanjutan",
+        "client": "PT Hatfield Indonesia / Mitra Pengembangan Akuakultur",
         "period": "2020 - 2021",
         "category": "aquaculture",
         "tags": [
           "Scoping Akuakultur",
-          "Pertanian Pintar",
+          "Uji Tuntas Investasi",
           "Pertumbuhan Berkelanjutan",
           "Akses Terbatas"
         ],
-        "description": "Studi penjajakan yang mengevaluasi potensi investasi, kesiapan teknologi, dan perlindungan lingkungan untuk ekspansi akuakultur berkelanjutan di Indonesia.",
+        "description": "Menyusun kajian strategis yang menganalisis peluang investasi terukur, skalabilitas teknologi, risiko biosekuriti, dan keberlanjutan lingkungan pada komoditas udang payau, ikan laut bernilai tinggi, dan budidaya rumput laut di Indonesia.",
         "image": "images/shrimp.jpg",
         "restricted": true
       },
       {
-        "title": "Kajian Sektor Tuna Purse Seine Indonesia untuk Program Perbaikan Perikanan (FIP)",
+        "title": "Tinjauan Sektor Pukat Cincin (Purse Seine) Tuna Indonesia untuk Kesiapan FIP & MSC",
         "client": "PT Hatfield Indonesia / Mitra FIP",
         "period": "2020 - 2022",
         "category": "marine",
         "tags": [
           "Purse Seine",
           "FIP Tuna",
-          "Reformasi Perikanan",
+          "Pra-Penilaian MSC",
           "Akses Terbatas"
         ],
-        "description": "Kajian sektor komprehensif operasi pukat cincin (purse seine) tuna untuk mendukung kesiapan sertifikasi MSC dan target FIP nasional.",
+        "description": "Melaksanakan tinjauan teknis komprehensif dan pra-penilaian standar Marine Stewardship Council (MSC) pada armada pukat cincin tuna skala industri dan semi-industri di Indonesia, merumuskan Rencana Aksi terukur untuk kepatuhan strategi panen, tata kelola rumpon (FAD), dan mitigasi bycatch.",
         "image": "images/tongkol.jpg",
         "restricted": true
       },
       {
-        "title": "Opsi Konservasi Satwa Liar & Ekosistem Laut di Kepulauan Lucipara",
-        "client": "PT Hatfield Indonesia / Mitra Konservasi Laut",
+        "title": "Kajian Kelayakan & Opsi Perlindungan Satwa Liar Laut di Kepulauan Lucipara",
+        "client": "PT Hatfield Indonesia / Mitra Konservasi Kelautan",
         "period": "2019 - 2021",
         "category": "marine",
         "tags": [
           "Kepulauan Lucipara",
-          "Satwa Laut",
-          "Opsi Konservasi",
+          "Suaka Burung Laut",
+          "Konservasi Laut",
           "Akses Terbatas"
         ],
-        "description": "Studi kelayakan dan rekomendasi kebijakan untuk pembentukan mekanisme perlindungan satwa liar laut di Kepulauan Lucipara.",
+        "description": "Merumuskan opsi konservasi, rona awal ekologi, dan mekanisme tata kelola hukum untuk melindungi koloni bersarang burung laut yang terancam punah, pantai peneluran penyu, dan ekosistem atol karang terisolasi di Kepulauan Lucipara dan Penyu (Laut Banda).",
         "image": "images/coral_reef.jpg",
         "restricted": true
       },
       {
-        "title": "Catatan Latar Belakang Kebijakan Pesisir & Peluang Investasi Ekonomi Biru",
+        "title": "Kajian Kebijakan Pesisir Nasional & Peluang Investasi Biru Berkelanjutan",
         "client": "PT Hatfield Indonesia / Mitra Kebijakan",
         "period": "2021 - 2022",
         "category": "marine",
         "tags": [
           "Kebijakan Pesisir",
-          "Investasi Biru",
-          "Catatan Tata Kelola",
+          "Ekonomi Biru",
+          "Kerangka Tata Kelola",
           "Akses Terbatas"
         ],
-        "description": "Tinjauan kebijakan tingkat tinggi dan catatan analitis yang mengidentifikasi titik masuk investasi strategis untuk pertumbuhan pesisir dan laut.",
+        "description": "Menyusun telaah kebijakan tingkat tinggi yang mensintesiskan perundangan pesisir nasional (UU 27/2007, UU 1/2014), kerangka pengelolaan wilayah pesisir terpadu (ICZM), serta mengatasi hambatan kelembagaan guna membuka investasi pendanaan biru berkelanjutan di Indonesia.",
         "image": "images/coastal_fisheries.jpg",
         "restricted": true
       },
       {
-        "title": "Laporan Oceans MDTF: Analisis Kesenjangan Skema KPBU di KKPD Alor",
+        "title": "Laporan Analitis Oceans MDTF: Analisis Kesenjangan Skema Kemitraan Pemerintah-Swasta di KKPD Alor",
         "client": "Oceans MDTF / Bank Dunia / PT Hatfield Indonesia",
         "period": "2021 - 2022",
         "category": "marine",
         "tags": [
           "Oceans MDTF",
           "KKPD Alor",
-          "Kesenjangan KPBU",
+          "Skema KPBU",
+          "Pendanaan KKP Berkelanjutan",
           "Akses Terbatas"
         ],
-        "description": "Analisis kesenjangan yang mengevaluasi model Kerjasama Pemerintah dan Badan Usaha (KPBU) untuk pendanaan berkelanjutan dan pengelolaan bersama KKP Alor.",
+        "description": "Melaksanakan analisis kesenjangan kelembagaan dan regulasi terkait model pendanaan Kemitraan Pemerintah dan Badan Usaha (KPBU / PPP) serta ko-manajemen di Kawasan Konservasi Perairan Daerah Kabupaten Alor (KKPD Alor), mengevaluasi retribusi wisata selam dan integrasi kearifan lokal Molo.",
         "image": "images/coral_reef.jpg",
         "restricted": true
       },
       {
-        "title": "Kesenjangan & Tantangan Implementasi Zonasi Pesisir RZWP3K di Provinsi NTT",
+        "title": "Studi Diagnostik Kesenjangan & Tantangan Implementasi Zonasi Pesisir RZWP-3-K di Provinsi NTT",
         "client": "PT Hatfield Indonesia / Mitra Pesisir Daerah",
         "period": "2020 - 2022",
         "category": "marine",
         "tags": [
           "RZWP3K",
-          "Zonasi Pesisir",
+          "Tata Ruang Laut",
           "Provinsi NTT",
           "Akses Terbatas"
         ],
-        "description": "Laporan diagnostik yang menganalisis kesenjangan regulasi, institusional, dan tata ruang dalam mengimplementasikan rencana zonasi pesisir (RZWP3K) di NTT.",
+        "description": "Menyusun studi diagnostik yang mengidentifikasi konflik regulasi tumpang tindih kewenangan, inkonsistensi data spasial, dan kendala penegakan hukum antar-lembaga dalam implementasi Rencana Zonasi Wilayah Pesisir dan Pulau-Pulau Kecil (RZWP-3-K) di Provinsi Nusa Tenggara Timur.",
         "image": "images/mangrove.jpg",
         "restricted": true
       },
       {
-        "title": "Penilaian ESIA Perluasan Pelabuhan Perikanan Ramah Lingkungan (Eco-Fishing Port) Kendari AFD",
+        "title": "Analisis Dampak Lingkungan & Sosial (ESIA) Pengembangan Pelabuhan Perikanan Samudera Kendari",
         "client": "Agence Française de Développement (AFD) / PT Hatfield Indonesia",
         "period": "2021 - 2022",
         "category": "environment",
         "tags": [
           "ESIA",
-          "Eco Fishing Port",
+          "Eco-Fishing Port",
           "Kendari",
-          "AFD",
+          "Safeguards AFD",
           "Akses Terbatas"
         ],
-        "description": "Penilaian Impact Lingkungan dan Sosial (ESIA) penuh untuk proyek perluasan pelabuhan perikanan ramah lingkungan Kendari senilai USD 111 juta yang didanai AFD.",
+        "description": "Menyusun dokumen lengkap Analisis Mengenai Dampak Lingkungan dan Sosial (ESIA), Rencana Pengelolaan Lingkungan dan Sosial (ESMP), serta Rencana Pelibatan Pemangku Kepentingan (SEP) untuk proyek modernisasi dan ekspansi fasilitas PPS Kendari yang didanai AFD.",
         "image": "images/fishing_port.jpg",
         "restricted": true
       },
       {
-        "title": "Coral Bond IPF: Penilaian Kapasitas Penegakan Hukum & Konservasi Laut",
-        "client": "Grup Bank Dunia / PT Hatfield Indonesia",
+        "title": "World Bank Coral Bond IPF: Kajian Kapasitas Pengawasan & Penegakan Hukum Konservasi Laut",
+        "client": "World Bank Group / PT Hatfield Indonesia",
         "period": "2021 - 2022",
         "category": "marine",
         "tags": [
           "Coral Bond",
-          "Penegakan Hukum",
+          "Pengawasan MCS",
           "Konservasi Laut",
+          "Bank Dunia",
           "Akses Terbatas"
         ],
-        "description": "Penilaian kapasitas penegakan hukum laut, risiko tata kelola, dan kerangka kerja institusional yang mendukung pembiayaan proyek Coral Bond (IPF).",
+        "description": "Melaksanakan asesmen kapasitas kelembagaan nasional mengenai infrastruktur pengawasan maritim, sistem monitoring, control and surveillance (MCS), serta penegakan hukum peradilan di kawasan konservasi prioritas guna mendukung perancangan instrumen pembiayaan inovatif World Bank Coral Bond IPF.",
         "image": "images/coral_reef.jpg",
         "restricted": true
       },
       {
-        "title": "Analisis Sosial-Ekonomi untuk Pengembangan Pelabuhan Eco-Fishing Port di PPS Cilacap",
+        "title": "Rona Sosial-Ekonomi, Rencana Aksi Gender & Analisis Dampak Pemangku Kepentingan di PPS Cilacap",
         "client": "AFD / PT Hatfield Indonesia",
         "period": "2021 - 2022",
         "category": "environment",
         "tags": [
           "PPS Cilacap",
-          "Sosial-Ekonomi",
-          "Eco Fishing Port",
+          "Baseline Sosial-Ekonomi",
+          "Rencana Aksi Gender",
+          "AFD",
           "Akses Terbatas"
         ],
-        "description": "Rona awal sosial-ekonomi mendalam, dampak pemangku kepentingan, dan rencana aksi gender untuk inisiatif modernisasi pelabuhan eco-fishing PPS Cilacap.",
+        "description": "Melaksanakan survei lapangan sosial-ekonomi mendalam, analisis kerentanan gender, dan matriks konsultasi pemangku kepentingan untuk modernisasi Pelabuhan Perikanan Samudera Cilacap (PPS Cilacap), merumuskan kerangka pemulihan penghidupan inklusif bagi kelompok perempuan pekerja perikanan.",
         "image": "images/fishing_port.jpg",
         "restricted": true
       },
       {
-        "title": "Dokumen Rencana Zonasi & Pengelolaan Ruang Kawasan Konservasi Perairan Kolepom UNDP",
+        "title": "Dokumen Rencana Zonasi & Rencana Pengelolaan Spasial Kawasan Konservasi Perairan Pulau Kolepom",
         "client": "UNDP / PT Hatfield Indonesia",
         "period": "2021 - 2022",
         "category": "marine",
         "tags": [
           "KKP Kolepom",
-          "UNDP",
-          "Rencana Zonasi",
+          "Zonasi Spasial",
+          "Rencana Pengelolaan",
           "Papua",
           "Akses Terbatas"
         ],
-        "description": "Draf dokumen rencana zonasi dan pengelolaan tata ruang untuk Kawasan Konservasi Perairan Pulau Kolepom di Kabupaten Merauke, Papua Selatan.",
+        "description": "Menyusun dokumen teknis rencana zonasi spasial dan rencana pengelolaan jangka panjang 20 tahun untuk KKP Pulau Kolepom seluas 356.000 hektar di Papua Selatan, mengintegrasikan zona inti konservasi, zona pemanfaatan terbatas untuk perikanan tradisional adat, serta zona lainnya.",
         "image": "images/mangrove.jpg",
         "restricted": true
       }
