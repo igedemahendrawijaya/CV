@@ -1468,7 +1468,8 @@ export const cvData = {
       "certMarine": "Marine, Coastal & Fisheries",
       "certSafeguards": "ESG, Social & Safeguards",
       "certHse": "HSE & Quality Assurance",
-      "certProject": "Project Management & Leadership"
+      "certProject": "Project Management & Leadership",
+      "educationTitle": "Education & Academic Background"
     }
   },
   "id": {
@@ -2940,7 +2941,8 @@ export const cvData = {
       "certMarine": "Kelautan, Pesisir & Perikanan",
       "certSafeguards": "ESG, Sosial & Safeguards",
       "certHse": "K3L (HSE) & Mutu",
-      "certProject": "Manajemen Proyek & Kepemimpinan"
+      "certProject": "Manajemen Proyek & Kepemimpinan",
+      "educationTitle": "Pendidikan Formal & Akademik"
     }
   }
 };

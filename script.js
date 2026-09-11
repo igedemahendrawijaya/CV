@@ -14,6 +14,7 @@ const navMenu = document.getElementById('nav-menu');
 const langSwitch = document.getElementById('lang-switch');
 const statsGrid = document.getElementById('stats-grid');
 const timelineContainer = document.getElementById('experience-timeline');
+const educationGrid = document.getElementById('education-grid');
 const projectsGrid = document.getElementById('projects-grid');
 const publicationsList = document.getElementById('publications-list');
 const certificatesGrid = document.getElementById('certificates-grid');
@@ -61,6 +62,28 @@ function renderTimeline(lang) {
           <span class="timeline-period">${exp.period}</span>
         </div>
         <p>${exp.description}</p>
+      </div>
+    </div>
+  `).join('');
+}
+
+// Render Formal Education
+function renderEducation(lang) {
+  if (!educationGrid) return;
+  const education = cvData[lang].education || [];
+  educationGrid.innerHTML = education.map(edu => `
+    <div class="education-card glass" style="padding: 24px; border-radius: 16px; position: relative; overflow: hidden; background: #ffffff; border: 1px solid rgba(14, 148, 136, 0.15); box-shadow: 0 4px 16px rgba(15, 23, 42, 0.04);">
+      <div class="card-glow"></div>
+      <div style="display: flex; gap: 16px; align-items: flex-start;">
+        <div class="edu-icon" style="width: 46px; height: 46px; border-radius: 12px; background: rgba(13, 148, 136, 0.12); color: var(--primary-teal); display: flex; align-items: center; justify-content: center; font-size: 1.3rem; flex-shrink: 0; border: 1px solid rgba(13, 148, 136, 0.25);">
+          <i class="fa-solid fa-graduation-cap"></i>
+        </div>
+        <div style="flex: 1;">
+          <h3 style="font-size: 1.15rem; color: var(--text-primary); margin-bottom: 4px; font-weight: 700;">${edu.degree}</h3>
+          <div style="font-size: 0.95rem; color: var(--primary-teal); font-weight: 600; margin-bottom: 2px;">${edu.institution}</div>
+          <div style="font-size: 0.82rem; color: var(--text-muted); margin-bottom: 8px;">${edu.faculty} | <span style="color: var(--text-secondary); font-weight: 600;">${edu.period}</span></div>
+          <p style="font-size: 0.86rem; color: var(--text-secondary); line-height: 1.5; margin: 0;">${edu.details}</p>
+        </div>
       </div>
     </div>
   `).join('');
@@ -252,6 +275,7 @@ function translateUI(lang) {
   // Re-render components with translated content
   renderStats(lang);
   renderTimeline(lang);
+  renderEducation(lang);
   renderProjects(lang, currentProjectFilter);
   renderPublications(lang);
   renderCertificates(lang, currentCertSearch);
