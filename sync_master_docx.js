@@ -76,14 +76,15 @@ export function generateMasterMarkdown() {
   md += `---\n\n`;
 
   md += `## Education & Academic Background\n\n`;
-  md += `1. **Bachelor of Marine Science and Technology (S.Pi.)**\n`;
-  md += `   - **Institution**: Bogor Agricultural University (IPB University), Indonesia\n`;
-  md += `   - **Faculty**: Faculty of Fisheries and Marine Sciences\n`;
-  md += `   - **Period**: June 2008 – April 2013\n`;
-  md += `   - **Major / Focus**: Marine Acoustic and Remote Sensing Technology | GPA: 3.04\n\n`;
-  md += `2. **Diploma in Carbon Management** *(Online - Ongoing)*\n`;
-  md += `   - **Institution**: The Greenhouse Gas Management Institute (GHGMI)\n`;
-  md += `   - **Focus**: Greenhouse Gas Accounting, Carbon Project Development & MRV Frameworks\n\n`;
+  const educations = cvData.en.education || [];
+  educations.forEach((edu, i) => {
+    md += `${i + 1}. **${edu.degree}**\n`;
+    md += `   - **Institution**: ${edu.institution}\n`;
+    if (edu.faculty) md += `   - **Faculty / Program**: ${edu.faculty}\n`;
+    md += `   - **Period**: ${edu.period}\n`;
+    if (edu.details) md += `   - **Focus / Details**: ${edu.details}\n`;
+    md += `\n`;
+  });
   md += `---\n\n`;
 
   md += `## Professional Journey & Experience\n\n`;
@@ -278,43 +279,35 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
 
   // 3. Education
   docChildren.push(...createSectionHeading('Education & Academic Background'));
-  docChildren.push(
-    new Paragraph({
-      spacing: { before: 60, after: 20 },
-      children: [
-        new TextRun({ text: 'Bachelor of Marine Science and Technology (S.Pi.)', bold: true, size: 21, color: PRIMARY_COLOR, font: 'Arial' }),
-        new TextRun({ text: '  |  June 2008 – April 2013', italic: true, size: 19, color: TEXT_MUTED, font: 'Arial' })
-      ]
-    }),
-    new Paragraph({
-      spacing: { before: 0, after: 20 },
-      children: [
-        new TextRun({ text: 'Bogor Agricultural University (IPB University), Indonesia', bold: true, size: 19, color: TEXT_DARK, font: 'Arial' }),
-        new TextRun({ text: ' — Faculty of Fisheries and Marine Sciences', size: 19, color: TEXT_MUTED, font: 'Arial' })
-      ]
-    }),
-    new Paragraph({
-      spacing: { before: 0, after: 120 },
-      children: [
-        new TextRun({ text: 'Concentration: ', bold: true, size: 19, color: TEXT_DARK, font: 'Arial' }),
-        new TextRun({ text: 'Marine Acoustic and Remote Sensing Technology | GPA: 3.04', size: 19, color: TEXT_DARK, font: 'Arial' })
-      ]
-    }),
-    new Paragraph({
-      spacing: { before: 40, after: 20 },
-      children: [
-        new TextRun({ text: 'Diploma in Carbon Management', bold: true, size: 21, color: PRIMARY_COLOR, font: 'Arial' }),
-        new TextRun({ text: '  |  Online Professional Program (Ongoing)', italic: true, size: 19, color: TEXT_MUTED, font: 'Arial' })
-      ]
-    }),
-    new Paragraph({
-      spacing: { before: 0, after: 120 },
-      children: [
-        new TextRun({ text: 'The Greenhouse Gas Management Institute (GHGMI)', bold: true, size: 19, color: TEXT_DARK, font: 'Arial' }),
-        new TextRun({ text: ' — Specialized curriculum in GHG accounting, carbon project development, and MRV frameworks.', size: 19, color: TEXT_MUTED, font: 'Arial' })
-      ]
-    })
-  );
+  const educations = cvData.en.education || [];
+  educations.forEach((edu, idx) => {
+    docChildren.push(
+      new Paragraph({
+        spacing: { before: idx === 0 ? 60 : 40, after: 20 },
+        children: [
+          new TextRun({ text: edu.degree, bold: true, size: 21, color: PRIMARY_COLOR, font: 'Arial' }),
+          new TextRun({ text: `  |  ${edu.period}`, italic: true, size: 19, color: TEXT_MUTED, font: 'Arial' })
+        ]
+      }),
+      new Paragraph({
+        spacing: { before: 0, after: edu.details ? 20 : 100 },
+        children: [
+          new TextRun({ text: edu.institution, bold: true, size: 19, color: TEXT_DARK, font: 'Arial' }),
+          ...(edu.faculty ? [new TextRun({ text: ` — ${edu.faculty}`, size: 19, color: TEXT_MUTED, font: 'Arial' })] : [])
+        ]
+      })
+    );
+    if (edu.details) {
+      docChildren.push(
+        new Paragraph({
+          spacing: { before: 0, after: 100 },
+          children: [
+            new TextRun({ text: `${edu.details}`, size: 19, color: TEXT_DARK, font: 'Arial' })
+          ]
+        })
+      );
+    }
+  });
 
   // 4. Employment History
   docChildren.push(...createSectionHeading('Professional Journey & Employment History'));

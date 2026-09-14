@@ -92,8 +92,22 @@ export const cvData = {
         "degree": "Diploma in Carbon Management",
         "institution": "The Greenhouse Gas Management Institute (GHGMI)",
         "faculty": "Online Professional Program",
-        "period": "Ongoing",
-        "details": "Specialized curriculum in GHG accounting, carbon project management, and MRV standards."
+        "period": "2023 – Present (Ongoing)",
+        "details": "Specialized curriculum in GHG accounting, carbon project management, baseline determination, and MRV frameworks."
+      },
+      {
+        "degree": "Diploma in Environmental Management",
+        "institution": "Alison",
+        "faculty": "Professional Diploma Program",
+        "period": "September 2026",
+        "details": "Comprehensive curriculum in Environmental Management Systems (ISO 14001), EIA/ESIA, Environmental Auditing & Compliance, and Pollution Abatement. (Credential ID: 1917-10374639)"
+      },
+      {
+        "degree": "Diploma in Occupational Health, Safety and Environment (OHSE)",
+        "institution": "Alison",
+        "faculty": "Professional Diploma Program",
+        "period": "September 2026",
+        "details": "Specialized curriculum in Occupational Health & Safety (OHS), Environmental Management Systems (EMS), Workplace Hazard & Risk Assessment, Emergency Preparedness, and HSE Compliance."
       }
     ],
     "projects": [
@@ -1573,8 +1587,22 @@ export const cvData = {
         "degree": "Diploma in Carbon Management",
         "institution": "The Greenhouse Gas Management Institute (GHGMI)",
         "faculty": "Program Profesional Daring",
-        "period": "Sedang Berjalan",
-        "details": "Kurikulum spesialisasi inventarisasi GRK, manajemen proyek karbon, dan standar MRV."
+        "period": "2023 – Sekarang (Sedang Berjalan)",
+        "details": "Kurikulum spesialisasi inventarisasi GRK, manajemen proyek mitigasi karbon, dan kerangka kerja MRV."
+      },
+      {
+        "degree": "Diploma in Environmental Management",
+        "institution": "Alison",
+        "faculty": "Program Diploma Profesional",
+        "period": "September 2026",
+        "details": "Kurikulum komprehensif Sistem Manajemen Lingkungan (ISO 14001), penapisan AMDAL/ESIA, audit & kepatuhan lingkungan, serta mitigasi pencemaran. (Credential ID: 1917-10374639)"
+      },
+      {
+        "degree": "Diploma in Occupational Health, Safety and Environment (OHSE)",
+        "institution": "Alison",
+        "faculty": "Program Diploma Profesional",
+        "period": "September 2026",
+        "details": "Kurikulum spesialisasi Keselamatan & Kesehatan Kerja (K3), Sistem Manajemen Lingkungan (EMS), penilaian risiko bahaya kerja, kesiapsiagaan darurat, dan kepatuhan standar HSE."
       }
     ],
     "projects": [

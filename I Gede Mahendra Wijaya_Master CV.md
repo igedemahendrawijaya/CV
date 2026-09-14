@@ -28,13 +28,27 @@ Marine environmental specialist with over 13 years of experience delivering high
 
 1. **Bachelor of Marine Science and Technology (S.Pi.)**
    - **Institution**: Bogor Agricultural University (IPB University), Indonesia
-   - **Faculty**: Faculty of Fisheries and Marine Sciences
+   - **Faculty / Program**: Faculty of Fisheries and Marine Sciences
    - **Period**: June 2008 – April 2013
-   - **Major / Focus**: Marine Acoustic and Remote Sensing Technology | GPA: 3.04
+   - **Focus / Details**: Concentration in Marine Acoustic and Remote Sensing Technology | GPA: 3.04
 
-2. **Diploma in Carbon Management** *(Online - Ongoing)*
+2. **Diploma in Carbon Management**
    - **Institution**: The Greenhouse Gas Management Institute (GHGMI)
-   - **Focus**: Greenhouse Gas Accounting, Carbon Project Development & MRV Frameworks
+   - **Faculty / Program**: Online Professional Program
+   - **Period**: 2023 – Present (Ongoing)
+   - **Focus / Details**: Specialized curriculum in GHG accounting, carbon project management, baseline determination, and MRV frameworks.
+
+3. **Diploma in Environmental Management**
+   - **Institution**: Alison
+   - **Faculty / Program**: Professional Diploma Program
+   - **Period**: September 2026
+   - **Focus / Details**: Comprehensive curriculum in Environmental Management Systems (ISO 14001), EIA/ESIA, Environmental Auditing & Compliance, and Pollution Abatement. (Credential ID: 1917-10374639)
+
+4. **Diploma in Occupational Health, Safety and Environment (OHSE)**
+   - **Institution**: Alison
+   - **Faculty / Program**: Professional Diploma Program
+   - **Period**: September 2026
+   - **Focus / Details**: Specialized curriculum in Occupational Health & Safety (OHS), Environmental Management Systems (EMS), Workplace Hazard & Risk Assessment, Emergency Preparedness, and HSE Compliance.
 
 ---
 
