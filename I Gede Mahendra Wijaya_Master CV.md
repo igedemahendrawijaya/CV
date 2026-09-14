@@ -19,7 +19,7 @@ Marine environmental specialist with over 13 years of experience delivering high
 ## Key Core Metrics & Statistics
 - **13+** Years Professional Experience
 - **35** Completed High-Impact Projects & Technical Reports
-- **62+** Professional Certifications & Specialized Training Programs
+- **63+** Professional Certifications & Specialized Training Programs
 - **15+** Peer-Reviewed Scientific Publications & Conference Papers
 
 ---
@@ -291,7 +291,7 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 
 ---
 
-## Professional Certifications & Specialized Training by Thematic Pillar (Total: 62)
+## Professional Certifications & Specialized Training by Thematic Pillar (Total: 63)
 
 ### 1. Carbon, Climate & Ecosystem Services (Blue Carbon, Forest Carbon & Climate Finance) (15 Trainings)
 
@@ -363,16 +363,19 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 19. **Introduction to the Global Environment Facility (GEF)** — World Bank Group & GEF *(Oct 2023)*
 20. **Institutionalization of Forest Data and National Forest Monitoring** — Food and Agriculture Organization (FAO) *(Aug 2023)*
 
-### 4. Occupational Health, Safety, EHS & Quality Assurance (OHSE, ISO Auditing, APDI Drone) (6 Trainings)
+### 4. Occupational Health, Safety, EHS & Quality Assurance (OHSE, ISO Auditing, APDI Drone) (7 Trainings)
 
 1. **Diploma in Occupational Health, Safety and Environment (OHSE)** — [Alison](https://alison.com/course/diploma-in-occupational-health-safety-and-environment-ohse) *(Sep 2026)*
    - **Competencies**: Occupational Health & Safety (OHS), Environmental Management Systems (EMS), Workplace Hazard & Risk Assessment, Emergency Preparedness, Incident Investigation, HSE Compliance
    - **Summary**: Comprehensive diploma program in Occupational Health, Safety, and Environment (OHSE) from Alison, covering hazard identification, workplace risk assessments, incident prevention & root cause analysis, environmental protection protocols, emergency response planning, and international HSE management standards.
-2. **Network Security Fundamentals** — Palo Alto Networks *(Sep 2025)*
-3. **Certified Remote Pilot (UAV / Drone Operator)** — Asosiasi Pilot Drone Indonesia (APDI) *(Dec 2020)*
-4. **Internal Quality Auditor ISO 9001:2015, ISO 14001:2015 & ISO 45001:2018** — Worldwide Quality Assurance (WQA) *(Dec 2018)*
-5. **Basic First Aid (BFA) Training** — Barron International *(Aug 2014)*
-6. **Basic Sea Survival (BSS) Training** — Barron International *(Aug 2014)*
+2. **Diploma in Environmental Management** — [Alison](https://alison.com/verify/5b82d8b9ba) *(Sep 2026)*
+   - **Competencies**: Environmental Management Systems (EMS / ISO 14001), Environmental Impact Assessment (EIA / ESIA), Environmental Auditing & Compliance, Pollution Prevention & Control, Ecological Sustainability & Resource Efficiency
+   - **Summary**: Comprehensive professional diploma in Environmental Management accredited by Alison (Credential ID: 1917-10374639), covering environmental management systems (ISO 14001), EIA/ESIA screening and scoping, environmental auditing and compliance standards, waste and water resource governance, pollution abatement protocols, and strategic ecological sustainability.
+3. **Network Security Fundamentals** — Palo Alto Networks *(Sep 2025)*
+4. **Certified Remote Pilot (UAV / Drone Operator)** — Asosiasi Pilot Drone Indonesia (APDI) *(Dec 2020)*
+5. **Internal Quality Auditor ISO 9001:2015, ISO 14001:2015 & ISO 45001:2018** — Worldwide Quality Assurance (WQA) *(Dec 2018)*
+6. **Basic First Aid (BFA) Training** — Barron International *(Aug 2014)*
+7. **Basic Sea Survival (BSS) Training** — Barron International *(Aug 2014)*
 
 ### 5. Project Management & Institutional Leadership (Modern PM, MEAL & Strategic Leadership) (5 Trainings)
 

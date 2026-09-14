@@ -29,6 +29,7 @@ const EXCLUDED_FILES = new Set([
   'Project Management Essential Skill.pdf',
   'Financial Management Essentials Certificate (DisasterReady).pdf',
   'Bukti_prestasi.pdf',
+  'Bukti_prestasi - Copy.pdf',
   'Certificate.bat'
 ]);
 
@@ -418,6 +419,17 @@ const ADDITIONAL_MASTER_TRAININGS = [
     credentialUrl: 'https://alison.com/course/diploma-in-occupational-health-safety-and-environment-ohse',
     competencies: 'Occupational Health & Safety (OHS), Environmental Management Systems (EMS), Workplace Hazard & Risk Assessment, Emergency Preparedness, Incident Investigation, HSE Compliance',
     description: 'Comprehensive diploma program in Occupational Health, Safety, and Environment (OHSE) from Alison, covering hazard identification, workplace risk assessments, incident prevention & root cause analysis, environmental protection protocols, emergency response planning, and international HSE management standards.'
+  },
+  {
+    en: 'Diploma in Environmental Management',
+    id: 'Diploma Manajemen Lingkungan (Diploma in Environmental Management)',
+    issuer: 'Alison',
+    date: 'Sep 2026',
+    category: 'hse-quality',
+    tags: ['Alison', 'Environmental Management', 'EMS', 'ISO 14001', 'EHS'],
+    credentialUrl: 'https://alison.com/verify/5b82d8b9ba',
+    competencies: 'Environmental Management Systems (EMS / ISO 14001), Environmental Impact Assessment (EIA / ESIA), Environmental Auditing & Compliance, Pollution Prevention & Control, Ecological Sustainability & Resource Efficiency',
+    description: 'Comprehensive professional diploma in Environmental Management accredited by Alison (Credential ID: 1917-10374639), covering environmental management systems (ISO 14001), EIA/ESIA screening and scoping, environmental auditing and compliance standards, waste and water resource governance, pollution abatement protocols, and strategic ecological sustainability.'
   },
   {
     en: 'The German Supply Chain Due Diligence Act (LkSG / SCDDA)',
