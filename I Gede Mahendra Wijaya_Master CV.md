@@ -30,7 +30,7 @@ Marine environmental specialist with over 13 years of experience delivering high
    - **Institution**: Bogor Agricultural University (IPB University), Indonesia
    - **Faculty / Program**: Faculty of Fisheries and Marine Sciences
    - **Period**: June 2008 – April 2013
-   - **Focus / Details**: Concentration in Marine Acoustic and Remote Sensing Technology | GPA: 3.04
+   - **Focus / Details**: Concentration in Marine Acoustic and Remote Sensing Technology | GPA: 3.04. Undergraduate Thesis: "Penerapan Metode Radon Transform untuk Reduksi Gelombang Multiple Seismik 2D di Perairan Barat Sumatra" (Advisor: Dr. Henry M. Manik | IPB Scientific Repository).
 
 2. **Diploma in Carbon Management**
    - **Institution**: The Greenhouse Gas Management Institute (GHGMI)
@@ -403,27 +403,37 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 
 ---
 
-## Peer-Reviewed Publications & Research Reports (Total: 4)
+## Peer-Reviewed Publications & Research Reports (Total: 5)
 
 ### 1. Marine Mammals Interactions with Tuna Fishing Activities in Indonesian Seas
 - **Year**: 2019
 - **Publisher / Conference**: International Seminar on Natural Resources and Environmental Management
 - **DOI / Link**: [https://doi.org/10.1088/1755-1315/399/1/012128](https://doi.org/10.1088/1755-1315/399/1/012128)
+- **Summary**: Research paper assessing spatial interactions and mitigation strategies between marine mammal populations and industrial tuna longline fisheries across Indonesian fishing zones.
 
 ### 2. Observations on Australian Humpback Dolphins (Sousa sahulensis) in Waters of the Pacific Islands and New Guinea
 - **Year**: 2016
 - **Publisher / Conference**: Current Status and Conservation, Part 2, Vol 73, AMB, UK: Academic Press, pp. 219–271
 - **DOI / Link**: [https://doi.org/10.1016/bs.amb.2015.08.003](https://doi.org/10.1016/bs.amb.2015.08.003)
+- **Summary**: Comprehensive peer-reviewed book chapter and field study documenting the distribution, ecology, and conservation status of Australian humpback dolphins in the Pacific and New Guinea.
 
-### 3. Sound of Fish Affects Fish Productivity
+### 3. Penerapan Metode Radon Transform untuk Reduksi Gelombang Multiple Seismik 2D di Perairan Barat Sumatra (Application of Radon Transform for 2D Seismic Multiple Wave Reduction)
+- **Year**: 2013
+- **Publisher / Conference**: IPB University Scientific Repository — Undergraduate Thesis (Advisor: Dr. Henry M. Manik)
+- **DOI / Link**: [https://repository.ipb.ac.id/handle/123456789/63281](https://repository.ipb.ac.id/handle/123456789/63281)
+- **Summary**: Undergraduate research in marine geophysics and seismic data processing applying Radon Transform (Tau-P Analysis) to attenuate surface multiples on 2D marine seismic line SUME23.31 in West Sumatra waters.
+
+### 4. Sound of Fish Affects Fish Productivity
 - **Year**: 2012
 - **Publisher / Conference**: Research Innovation Award — Business Innovation Center (BIC), Indonesia
 - **DOI / Link**: [https://www.antaranews.com/berita/342159/mahasiswa-ipb-temukan-cara-deteksi-produktivitas-ikan](https://www.antaranews.com/berita/342159/mahasiswa-ipb-temukan-cara-deteksi-produktivitas-ikan)
+- **Summary**: National award-winning research innovation on passive acoustic detection and bioacoustic monitoring for fish productivity.
 
-### 4. Investigation on Salinity, Turbidity, and Total Suspended Solid (TSS) in Cimandiri River and Its Impact on Marine Environment
+### 5. Investigation on Salinity, Turbidity, and Total Suspended Solid (TSS) in Cimandiri River and Its Impact on Marine Environment
 - **Year**: 2012
 - **Publisher / Conference**: Marine Science and Technology Dept., Bogor Agriculture University Journal
 - **DOI / Link**: [https://repository.ipb.ac.id](https://repository.ipb.ac.id)
+- **Summary**: Estuarine and coastal water quality assessment analyzing terrestrial sediment runoff, salinity gradients, and environmental impacts on coastal ecosystems.
 
 ---
 

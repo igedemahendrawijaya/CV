@@ -155,6 +155,7 @@ function renderPublications(lang) {
           </a>
         </h3>
         <p class="pub-journal">${pub.publisher}</p>
+        ${pub.description ? `<p class="pub-desc" style="font-size: 0.88rem; color: var(--text-secondary); margin-top: 6px; line-height: 1.5;">${pub.description}</p>` : ''}
       </div>
     </div>
   `).join('');

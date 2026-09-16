@@ -86,7 +86,7 @@ export const cvData = {
         "institution": "Bogor Agricultural University (IPB University), Indonesia",
         "faculty": "Faculty of Fisheries and Marine Sciences",
         "period": "June 2008 – April 2013",
-        "details": "Concentration in Marine Acoustic and Remote Sensing Technology | GPA: 3.04"
+        "details": "Concentration in Marine Acoustic and Remote Sensing Technology | GPA: 3.04. Undergraduate Thesis: \"Penerapan Metode Radon Transform untuk Reduksi Gelombang Multiple Seismik 2D di Perairan Barat Sumatra\" (Advisor: Dr. Henry M. Manik | IPB Scientific Repository)."
       },
       {
         "degree": "Diploma in Carbon Management",
@@ -627,25 +627,36 @@ export const cvData = {
         "year": "2019",
         "title": "Marine Mammals Interactions with Tuna Fishing Activities in Indonesian Seas",
         "publisher": "International Seminar on Natural Resources and Environmental Management",
-        "link": "https://doi.org/10.1088/1755-1315/399/1/012128"
+        "link": "https://doi.org/10.1088/1755-1315/399/1/012128",
+        "description": "Research paper assessing spatial interactions and mitigation strategies between marine mammal populations and industrial tuna longline fisheries across Indonesian fishing zones."
       },
       {
         "year": "2016",
         "title": "Observations on Australian Humpback Dolphins (Sousa sahulensis) in Waters of the Pacific Islands and New Guinea",
         "publisher": "Current Status and Conservation, Part 2, Vol 73, AMB, UK: Academic Press, pp. 219–271",
-        "link": "https://doi.org/10.1016/bs.amb.2015.08.003"
+        "link": "https://doi.org/10.1016/bs.amb.2015.08.003",
+        "description": "Comprehensive peer-reviewed book chapter and field study documenting the distribution, ecology, and conservation status of Australian humpback dolphins in the Pacific and New Guinea."
+      },
+      {
+        "year": "2013",
+        "title": "Penerapan Metode Radon Transform untuk Reduksi Gelombang Multiple Seismik 2D di Perairan Barat Sumatra (Application of Radon Transform for 2D Seismic Multiple Wave Reduction)",
+        "publisher": "IPB University Scientific Repository — Undergraduate Thesis (Advisor: Dr. Henry M. Manik)",
+        "link": "https://repository.ipb.ac.id/handle/123456789/63281",
+        "description": "Undergraduate research in marine geophysics and seismic data processing applying Radon Transform (Tau-P Analysis) to attenuate surface multiples on 2D marine seismic line SUME23.31 in West Sumatra waters."
       },
       {
         "year": "2012",
         "title": "Sound of Fish Affects Fish Productivity",
         "publisher": "Research Innovation Award — Business Innovation Center (BIC), Indonesia",
-        "link": "https://www.antaranews.com/berita/342159/mahasiswa-ipb-temukan-cara-deteksi-produktivitas-ikan"
+        "link": "https://www.antaranews.com/berita/342159/mahasiswa-ipb-temukan-cara-deteksi-produktivitas-ikan",
+        "description": "National award-winning research innovation on passive acoustic detection and bioacoustic monitoring for fish productivity."
       },
       {
         "year": "2012",
         "title": "Investigation on Salinity, Turbidity, and Total Suspended Solid (TSS) in Cimandiri River and Its Impact on Marine Environment",
         "publisher": "Marine Science and Technology Dept., Bogor Agriculture University Journal",
-        "link": "https://repository.ipb.ac.id"
+        "link": "https://repository.ipb.ac.id",
+        "description": "Estuarine and coastal water quality assessment analyzing terrestrial sediment runoff, salinity gradients, and environmental impacts on coastal ecosystems."
       }
     ],
     "certificates": [
@@ -1581,7 +1592,7 @@ export const cvData = {
         "institution": "Institut Pertanian Bogor (IPB University), Indonesia",
         "faculty": "Fakultas Perikanan dan Ilmu Kelautan",
         "period": "Juni 2008 – April 2013",
-        "details": "Konsentrasi Akustik Kelautan dan Teknologi Penginderaan Jauh | IPK: 3.04"
+        "details": "Konsentrasi Akustik Kelautan dan Teknologi Penginderaan Jauh | IPK: 3.04. Skripsi Sarjana: \"Penerapan Metode Radon Transform untuk Reduksi Gelombang Multiple Seismik 2D di Perairan Barat Sumatra\" (Pembimbing: Dr. Henry M. Manik | IPB Scientific Repository)."
       },
       {
         "degree": "Diploma in Carbon Management",
@@ -2122,25 +2133,36 @@ export const cvData = {
         "year": "2019",
         "title": "Interaksi Mamalia Laut dengan Aktivitas Perikanan Tuna di Perairan Indonesia",
         "publisher": "Seminar Internasional tentang Pengelolaan Sumber Daya Alam dan Lingkungan",
-        "link": "https://doi.org/10.1088/1755-1315/399/1/012128"
+        "link": "https://doi.org/10.1088/1755-1315/399/1/012128",
+        "description": "Publikasi penelitian yang mengevaluasi interaksi spasial dan mitigasi bycatch antara populasi mamalia laut dengan armada perikanan rawai tuna industri di perairan Indonesia."
       },
       {
         "year": "2016",
         "title": "Pengamatan Lumba-lumba Punggung Bungkuk Australia (Sousa sahulensis) di Perairan Kepulauan Pasifik dan Papua Nugini",
         "publisher": "Status Terkini dan Konservasi, Bagian 2, Vol 73, AMB, UK: Academic Press, hal. 219–271",
-        "link": "https://doi.org/10.1016/bs.amb.2015.08.003"
+        "link": "https://doi.org/10.1016/bs.amb.2015.08.003",
+        "description": "Bab buku ilmiah internasional dan studi lapangan komprehensif mengenai distribusi, ekologi, dan status konservasi lumba-lumba punggung bungkuk Australia di Pasifik dan Papua Nugini."
+      },
+      {
+        "year": "2013",
+        "title": "Penerapan Metode Radon Transform untuk Reduksi Gelombang Multiple Seismik 2D di Perairan Barat Sumatra",
+        "publisher": "IPB University Scientific Repository — Skripsi Sarjana S1 (Pembimbing: Dr. Henry M. Manik)",
+        "link": "https://repository.ipb.ac.id/handle/123456789/63281",
+        "description": "Penelitian skripsi sarjana di bidang geofisika kelautan dan pengolahan data seismik dengan menerapkan metode Transformasi Radon (Analisis Tau-P) untuk mereduksi multiple permukaan pada lintasan seismik laut 2D SUME23.31 di perairan barat Sumatera."
       },
       {
         "year": "2012",
         "title": "Suara Ikan Memengaruhi Produktivitas Ikan",
         "publisher": "Penghargaan Inovasi Riset — Business Innovation Center (BIC), Indonesia",
-        "link": "https://www.antaranews.com/berita/342159/mahasiswa-ipb-temukan-cara-deteksi-produktivitas-ikan"
+        "link": "https://www.antaranews.com/berita/342159/mahasiswa-ipb-temukan-cara-deteksi-produktivitas-ikan",
+        "description": "Inovasi riset nasional pemenang penghargaan 104 Inovasi Indonesia mengenai teknologi bioakustik pasif untuk mendeteksi produktivitas dan perilaku ikan."
       },
       {
         "year": "2012",
         "title": "Investigasi tentang Salinitas, Turbiditas, dan Total Suspended Solid (TSS) di Sungai Cimandiri dan Dampaknya terhadap Lingkungan Laut",
         "publisher": "Jurnal Departemen Sains dan Teknologi Kelautan, Institut Pertanian Bogor",
-        "link": "https://repository.ipb.ac.id"
+        "link": "https://repository.ipb.ac.id",
+        "description": "Kajian kualitas perairan estuari dan pesisir mengenai dinamika sedimentasi limpasan daratan, gradien salinitas, dan dampaknya bagi ekosistem laut."
       }
     ],
     "certificates": [

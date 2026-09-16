@@ -452,13 +452,23 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
         ]
       }),
       new Paragraph({
-        spacing: { before: 0, after: 40 },
+        spacing: { before: 0, after: pub.description ? 20 : 40 },
         children: [
           new TextRun({ text: `Year: ${pub.year}  |  Publisher: ${pub.publisher || 'Research Journal'}`, italic: true, size: 18, color: TEXT_MUTED, font: 'Arial' }),
           pub.link ? new TextRun({ text: `  |  Link: ${pub.link}`, size: 18, color: SECONDARY_COLOR, font: 'Arial' }) : new TextRun({ text: '' })
         ]
       })
     );
+    if (pub.description) {
+      docChildren.push(
+        new Paragraph({
+          spacing: { before: 0, after: 40 },
+          children: [
+            new TextRun({ text: `Summary: ${pub.description}`, size: 18, color: TEXT_DARK, font: 'Arial' })
+          ]
+        })
+      );
+    }
   });
 
   // 8. Awards
