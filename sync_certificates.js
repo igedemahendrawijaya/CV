@@ -274,6 +274,17 @@ const MASTER_MAPPINGS = {
     category: 'carbon-climate',
     tags: ['FAO', 'Forestry', 'Restoration']
   },
+  'I-GEDE-MAHENDRA-WIJAYA-The-Use-of-the-IPCC-Inventory-Software-ICAT-E-learning-Course-on-the-Use-of-the-IPCC-Inventory-Software-Learning-for-Nature.pdf': {
+    en: 'ICAT Training on the Use of the IPCC Inventory Software',
+    id: 'Pelatihan ICAT tentang Penggunaan Perangkat Lunak Inventarisasi GRK IPCC (IPCC Inventory Software)',
+    issuer: 'Initiative for Climate Action Transparency (ICAT), IPCC TSU & UNDP Learning for Nature',
+    date: 'Sep 2026',
+    category: 'carbon-climate',
+    tags: ['ICAT', 'IPCC', 'GHG Inventory', 'Paris Agreement', 'ETF', 'LULUCF', 'AFOLU'],
+    credentialUrl: 'https://www.learningfornature.org/en/courses/icat-training-on-the-use-of-the-ipcc-inventory-software/',
+    competencies: 'IPCC Inventory Software, 2006 IPCC Guidelines for National GHG Inventories, Enhanced Transparency Framework (ETF), LULUCF & AFOLU Emission Estimation, UNFCCC ETF Reporting Tool Interoperability, Activity Data & Emission Factor Management',
+    description: 'Specialized technical training program developed by the Initiative for Climate Action Transparency (ICAT) and the IPCC Task Force on National Greenhouse Gas Inventories Technical Support Unit (IPCC TSU) on UNDP Learning for Nature. Comprehensive operational training covering all IPCC sectors (Energy, IPPU, Agriculture, LULUCF/Forestry, and Waste) to calculate national GHG emissions and removals, apply 2006 IPCC Guidelines, and ensure interoperability with the UNFCCC ETF reporting tool under the Paris Agreement.'
+  },
   'ISO.pdf': {
     en: 'Internal Quality Auditor ISO 9001:2015, ISO 14001:2015 & ISO 45001:2018',
     id: 'Pelatihan Audit Mutu & Lingkungan Internal (ISO 9001, 14001, 45001)',
@@ -398,6 +409,17 @@ const MASTER_MAPPINGS = {
 
 // Additional verified training programs from Master CV (formal courses, online diplomas & specialized programs)
 const ADDITIONAL_MASTER_TRAININGS = [
+  {
+    en: 'ICAT Training on the Use of the IPCC Inventory Software',
+    id: 'Pelatihan ICAT tentang Penggunaan Perangkat Lunak Inventarisasi GRK IPCC (IPCC Inventory Software)',
+    issuer: 'Initiative for Climate Action Transparency (ICAT), IPCC TSU & UNDP Learning for Nature',
+    date: 'Sep 2026',
+    category: 'carbon-climate',
+    tags: ['ICAT', 'IPCC', 'GHG Inventory', 'Paris Agreement', 'ETF', 'LULUCF', 'AFOLU'],
+    credentialUrl: 'https://www.learningfornature.org/en/courses/icat-training-on-the-use-of-the-ipcc-inventory-software/',
+    competencies: 'IPCC Inventory Software, 2006 IPCC Guidelines for National GHG Inventories, Enhanced Transparency Framework (ETF), LULUCF & AFOLU Emission Estimation, UNFCCC ETF Reporting Tool Interoperability, Activity Data & Emission Factor Management',
+    description: 'Specialized technical training program developed by the Initiative for Climate Action Transparency (ICAT) and the IPCC Task Force on National Greenhouse Gas Inventories Technical Support Unit (IPCC TSU) on UNDP Learning for Nature. Comprehensive operational training covering all IPCC sectors (Energy, IPPU, Agriculture, LULUCF/Forestry, and Waste) to calculate national GHG emissions and removals, apply 2006 IPCC Guidelines, and ensure interoperability with the UNFCCC ETF reporting tool under the Paris Agreement.'
+  },
   {
     en: 'REDD+ Academy: Forest Carbon & National Strategy Capacity Building',
     id: 'Akademi REDD+: Peningkatan Kapasitas Karbon Hutan & Strategi Nasional',
