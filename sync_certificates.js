@@ -274,6 +274,17 @@ const MASTER_MAPPINGS = {
     category: 'carbon-climate',
     tags: ['FAO', 'Forestry', 'Restoration']
   },
+  'I-GEDE-MAHENDRA-WIJAYA-Biodiversity-Finance-Designing-and-Implementing-Finance-Plans-for-Nature-Biodiversity-Finance-Designing-and-Implementing-Finance-Plans-for-Nature-Self-paced-.pdf': {
+    en: 'Biodiversity Finance: Designing and Implementing Finance Plans for Nature',
+    id: 'Keuangan Keanekaragaman Hayati: Perancangan dan Implementasi Rencana Pembiayaan untuk Alam (Biodiversity Finance)',
+    issuer: 'UNDP Biodiversity Finance Initiative (BIOFIN) & Learning for Nature',
+    date: 'Sep 2026',
+    category: 'carbon-climate',
+    tags: ['BIOFIN', 'UNDP', 'Biodiversity Finance', 'Green Finance', 'Nature Credits'],
+    credentialUrl: 'https://www.learningfornature.org/en/courses/biodiversity-finance-designing-and-implementing-finance-plans-for-nature-self-paced/',
+    competencies: 'BIOFIN Methodology, Biodiversity Expenditure Review (BER), Financial Needs Assessment (FNA), Biodiversity Finance Plan (BFP), Nature-Positive Finance Mechanisms, Sustainable Blended Finance & Impact Investment',
+    description: 'Comprehensive 12-hour specialized professional course developed by the UNDP Biodiversity Finance Initiative (BIOFIN) on Learning for Nature, based on the BIOFIN Workbook 2024. Covers the complete BIOFIN national methodology: Policy and Institutional Review (PIR), Biodiversity Expenditure Review (BER), Financial Needs Assessment (FNA), and designing and mobilizing high-impact national Biodiversity Finance Plans (BFP) to close global biodiversity financing gaps.'
+  },
   'I-GEDE-MAHENDRA-WIJAYA-The-Use-of-the-IPCC-Inventory-Software-ICAT-E-learning-Course-on-the-Use-of-the-IPCC-Inventory-Software-Learning-for-Nature.pdf': {
     en: 'ICAT Training on the Use of the IPCC Inventory Software',
     id: 'Pelatihan ICAT tentang Penggunaan Perangkat Lunak Inventarisasi GRK IPCC (IPCC Inventory Software)',
