@@ -661,6 +661,23 @@ export const cvData = {
     ],
     "certificates": [
       {
+        "name": "Introduction to Biodiversity Credits (Learning Journey)",
+        "issuer": "Biodiversity Credit Alliance (BCA), Nature for Life Hub & University of Nottingham",
+        "date": "Sep 2026",
+        "category": "carbon-climate",
+        "tags": [
+          "BCA",
+          "Biodiversity Credits",
+          "Nature for Life",
+          "Nature Positive",
+          "Conservation Finance"
+        ],
+        "link": "certificates/Certificate_Introduction_to_Biodiversity_Credits_BCA_NatureForLifeHub.pdf",
+        "credentialUrl": "https://natureforlifehub.org",
+        "description": "Specialized learning journey certification on biodiversity credits awarded by the Biodiversity Credit Alliance (BCA) and Nature for Life Hub in collaboration with the University of Nottingham. Comprehensive training on high-integrity biodiversity credit markets, nature-positive crediting mechanisms, biodiversity metrics, integrity governance, and community benefit-sharing models.",
+        "competencies": "Biodiversity Credits Framework, High-Integrity Nature Credits, Biodiversity Credit Alliance (BCA) Principles, Nature-Positive Market Mechanisms, Indigenous & Community Rights (IPLC Safeguards), Biodiversity Metrics & Monitoring"
+      },
+      {
         "name": "Biodiversity Finance: Designing and Implementing Finance Plans for Nature",
         "issuer": "UNDP Biodiversity Finance Initiative (BIOFIN) & Learning for Nature",
         "date": "Sep 2026",
@@ -746,6 +763,23 @@ export const cvData = {
         "credentialUrl": "https://alison.com/verify/5b82d8b9ba",
         "description": "Comprehensive professional diploma in Environmental Management accredited by Alison (Credential ID: 1917-10374639), covering environmental management systems (ISO 14001), EIA/ESIA screening and scoping, environmental auditing and compliance standards, waste and water resource governance, pollution abatement protocols, and strategic ecological sustainability.",
         "competencies": "Environmental Management Systems (EMS / ISO 14001), Environmental Impact Assessment (EIA / ESIA), Environmental Auditing & Compliance, Pollution Prevention & Control, Ecological Sustainability & Resource Efficiency"
+      },
+      {
+        "name": "201 Basics of Organizational GHG Accounting (Certificate of Proficiency)",
+        "issuer": "The Greenhouse Gas Management Institute (GHGMI)",
+        "date": "Aug 2026",
+        "category": "carbon-climate",
+        "tags": [
+          "GHGMI",
+          "GHG Accounting",
+          "Organizational GHG",
+          "Carbon Management",
+          "ISO 14064"
+        ],
+        "link": "certificates/201EX2046_I_Gede_Mahendra_Wijaya_20260819.pdf",
+        "credentialUrl": "https://ghginstitute.org",
+        "description": "Formal professional certificate of proficiency issued by the Greenhouse Gas Management Institute (GHGMI) under Dean Michael Gillenwater (Credential Code: 201EX2046 / BOGAEX2046). Rigorous curriculum covering organizational carbon accounting principles, organizational and operational boundary setting, Scope 1, 2, and 3 emission quantification methodologies, activity data collection, emission factor selection, and uncertainty management aligned with the GHG Protocol and ISO 14064.",
+        "competencies": "Organizational GHG Accounting, GHG Protocol Corporate Standard, ISO 14064-1, Scope 1, Scope 2 & Scope 3 Emissions, Inventory Quality Management, Baseline Recalculation"
       },
       {
         "name": "IWRM for Climate Resilience (20-Hour Training Course)",
@@ -2203,6 +2237,23 @@ export const cvData = {
     ],
     "certificates": [
       {
+        "name": "Pengantar Kredit Keanekaragaman Hayati - Introduction to Biodiversity Credits (Nature for Life)",
+        "issuer": "Biodiversity Credit Alliance (BCA), Nature for Life Hub & University of Nottingham",
+        "date": "Sep 2026",
+        "category": "carbon-climate",
+        "tags": [
+          "BCA",
+          "Biodiversity Credits",
+          "Nature for Life",
+          "Nature Positive",
+          "Conservation Finance"
+        ],
+        "link": "certificates/Certificate_Introduction_to_Biodiversity_Credits_BCA_NatureForLifeHub.pdf",
+        "credentialUrl": "https://natureforlifehub.org",
+        "description": "Specialized learning journey certification on biodiversity credits awarded by the Biodiversity Credit Alliance (BCA) and Nature for Life Hub in collaboration with the University of Nottingham. Comprehensive training on high-integrity biodiversity credit markets, nature-positive crediting mechanisms, biodiversity metrics, integrity governance, and community benefit-sharing models.",
+        "competencies": "Biodiversity Credits Framework, High-Integrity Nature Credits, Biodiversity Credit Alliance (BCA) Principles, Nature-Positive Market Mechanisms, Indigenous & Community Rights (IPLC Safeguards), Biodiversity Metrics & Monitoring"
+      },
+      {
         "name": "Keuangan Keanekaragaman Hayati: Perancangan dan Implementasi Rencana Pembiayaan untuk Alam (Biodiversity Finance)",
         "issuer": "UNDP Biodiversity Finance Initiative (BIOFIN) & Learning for Nature",
         "date": "Sep 2026",
@@ -2288,6 +2339,23 @@ export const cvData = {
         "credentialUrl": "https://alison.com/verify/5b82d8b9ba",
         "description": "Comprehensive professional diploma in Environmental Management accredited by Alison (Credential ID: 1917-10374639), covering environmental management systems (ISO 14001), EIA/ESIA screening and scoping, environmental auditing and compliance standards, waste and water resource governance, pollution abatement protocols, and strategic ecological sustainability.",
         "competencies": "Environmental Management Systems (EMS / ISO 14001), Environmental Impact Assessment (EIA / ESIA), Environmental Auditing & Compliance, Pollution Prevention & Control, Ecological Sustainability & Resource Efficiency"
+      },
+      {
+        "name": "Dasar-Dasar Akuntansi GRK Organisasi - 201 Basics of Organizational GHG Accounting (Sertifikat Profisiensi)",
+        "issuer": "The Greenhouse Gas Management Institute (GHGMI)",
+        "date": "Aug 2026",
+        "category": "carbon-climate",
+        "tags": [
+          "GHGMI",
+          "GHG Accounting",
+          "Organizational GHG",
+          "Carbon Management",
+          "ISO 14064"
+        ],
+        "link": "certificates/201EX2046_I_Gede_Mahendra_Wijaya_20260819.pdf",
+        "credentialUrl": "https://ghginstitute.org",
+        "description": "Formal professional certificate of proficiency issued by the Greenhouse Gas Management Institute (GHGMI) under Dean Michael Gillenwater (Credential Code: 201EX2046 / BOGAEX2046). Rigorous curriculum covering organizational carbon accounting principles, organizational and operational boundary setting, Scope 1, 2, and 3 emission quantification methodologies, activity data collection, emission factor selection, and uncertainty management aligned with the GHG Protocol and ISO 14064.",
+        "competencies": "Organizational GHG Accounting, GHG Protocol Corporate Standard, ISO 14064-1, Scope 1, Scope 2 & Scope 3 Emissions, Inventory Quality Management, Baseline Recalculation"
       },
       {
         "name": "Pengelolaan Sumber Daya Air Terpadu untuk Ketahanan Iklim (IWRM for Climate Resilience)",

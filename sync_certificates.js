@@ -43,6 +43,39 @@ console.log(`Found ${files.length} valid certificate files to process.`);
 
 // Comprehensive verified mapping for every certificate file in Certificate/
 const MASTER_MAPPINGS = {
+  '201EX2046_I Gede Mahendra Wijaya_20260819.pdf': {
+    en: '201 Basics of Organizational GHG Accounting (Certificate of Proficiency)',
+    id: 'Dasar-Dasar Akuntansi GRK Organisasi - 201 Basics of Organizational GHG Accounting (Sertifikat Profisiensi)',
+    issuer: 'The Greenhouse Gas Management Institute (GHGMI)',
+    date: 'Aug 2026',
+    category: 'carbon-climate',
+    tags: ['GHGMI', 'GHG Accounting', 'Organizational GHG', 'Carbon Management', 'ISO 14064'],
+    credentialUrl: 'https://ghginstitute.org',
+    competencies: 'Organizational GHG Accounting, GHG Protocol Corporate Standard, ISO 14064-1, Scope 1, Scope 2 & Scope 3 Emissions, Inventory Quality Management, Baseline Recalculation',
+    description: 'Formal professional certificate of proficiency issued by the Greenhouse Gas Management Institute (GHGMI) under Dean Michael Gillenwater (Credential Code: 201EX2046 / BOGAEX2046). Rigorous curriculum covering organizational carbon accounting principles, organizational and operational boundary setting, Scope 1, 2, and 3 emission quantification methodologies, activity data collection, emission factor selection, and uncertainty management aligned with the GHG Protocol and ISO 14064.'
+  },
+  'Certificate_Introduction_to_Biodiversity_Credits_BCA_NatureForLifeHub.pdf': {
+    en: 'Introduction to Biodiversity Credits (Learning Journey)',
+    id: 'Pengantar Kredit Keanekaragaman Hayati - Introduction to Biodiversity Credits (Nature for Life)',
+    issuer: 'Biodiversity Credit Alliance (BCA), Nature for Life Hub & University of Nottingham',
+    date: 'Sep 2026',
+    category: 'carbon-climate',
+    tags: ['BCA', 'Biodiversity Credits', 'Nature for Life', 'Nature Positive', 'Conservation Finance'],
+    credentialUrl: 'https://natureforlifehub.org',
+    competencies: 'Biodiversity Credits Framework, High-Integrity Nature Credits, Biodiversity Credit Alliance (BCA) Principles, Nature-Positive Market Mechanisms, Indigenous & Community Rights (IPLC Safeguards), Biodiversity Metrics & Monitoring',
+    description: 'Specialized learning journey certification on biodiversity credits awarded by the Biodiversity Credit Alliance (BCA) and Nature for Life Hub in collaboration with the University of Nottingham. Comprehensive training on high-integrity biodiversity credit markets, nature-positive crediting mechanisms, biodiversity metrics, integrity governance, and community benefit-sharing models.'
+  },
+  'certificate.pdf': {
+    en: 'Introduction to Biodiversity Credits (Learning Journey)',
+    id: 'Pengantar Kredit Keanekaragaman Hayati - Introduction to Biodiversity Credits (Nature for Life)',
+    issuer: 'Biodiversity Credit Alliance (BCA), Nature for Life Hub & University of Nottingham',
+    date: 'Sep 2026',
+    category: 'carbon-climate',
+    tags: ['BCA', 'Biodiversity Credits', 'Nature for Life', 'Nature Positive', 'Conservation Finance'],
+    credentialUrl: 'https://natureforlifehub.org',
+    competencies: 'Biodiversity Credits Framework, High-Integrity Nature Credits, Biodiversity Credit Alliance (BCA) Principles, Nature-Positive Market Mechanisms, Indigenous & Community Rights (IPLC Safeguards), Biodiversity Metrics & Monitoring',
+    description: 'Specialized learning journey certification on biodiversity credits awarded by the Biodiversity Credit Alliance (BCA) and Nature for Life Hub in collaboration with the University of Nottingham. Comprehensive training on high-integrity biodiversity credit markets, nature-positive crediting mechanisms, biodiversity metrics, integrity governance, and community benefit-sharing models.'
+  },
   '12440_3_576693_1757648957_Palo Alto Networks Course Certificate of Completion.pdf': {
     en: 'Network Security Fundamentals',
     id: 'Dasar-Dasar Keamanan Jaringan (Network Security Fundamentals)',
