@@ -225,11 +225,11 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 - **Category / Focus**: MARINE (Tongkol Supply Chain, Tuna Fishery, Post-Harvest Losses, Restricted Access)
 - **Technical Scope & Output**: Conducted field supply chain mapping and market flow analysis for Eastern Little Tuna (Euthynnus affinis) across major landing sites in Indonesia. Evaluated cold chain bottlenecks, post-harvest quality degradation, pricing asymmetries, and socio-economic welfare of coastal smallholder fishing households.
 
-### 23. Scientific Assessment of Marine Mammal Interactions with Offshore Operations & Fisheries
+### 23. Scientific Assessment of Marine Mammal Interactions with Commercial Fisheries
 - **Client / Partner**: PT Hatfield Indonesia / Conservation Partners
 - **Period**: 2019 - 2021
 - **Category / Focus**: MARINE (Marine Mammals, Bioacoustics, Bycatch Mitigation, Restricted Access)
-- **Technical Scope & Output**: Conducted scientific risk modeling and field investigations on acoustic disturbance, vessel strike vulnerability, and bycatch entanglement risks for cetaceans and dugongs interacting with commercial purse seine fisheries and offshore energy operations in Indonesian seas.
+- **Technical Scope & Output**: Conducted scientific risk modeling and field investigations on acoustic disturbance, vessel strike vulnerability, and bycatch entanglement risks for cetaceans and dugongs interacting with commercial purse seine, longline, and artisanal fisheries in Indonesian seas, developing practical mitigation strategies to minimize fishery-mammal interactions.
 
 ### 24. Strategic Tuna Fisheries Investment Roadmap for Walton Family Foundation (WFF)
 - **Client / Partner**: Walton Family Foundation / PT Hatfield Indonesia

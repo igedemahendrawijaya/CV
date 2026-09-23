@@ -422,7 +422,7 @@ export const cvData = {
         "restricted": true
       },
       {
-        "title": "Scientific Assessment of Marine Mammal Interactions with Offshore Operations & Fisheries",
+        "title": "Scientific Assessment of Marine Mammal Interactions with Commercial Fisheries",
         "client": "PT Hatfield Indonesia / Conservation Partners",
         "period": "2019 - 2021",
         "category": "marine",
@@ -432,7 +432,7 @@ export const cvData = {
           "Bycatch Mitigation",
           "Restricted Access"
         ],
-        "description": "Conducted scientific risk modeling and field investigations on acoustic disturbance, vessel strike vulnerability, and bycatch entanglement risks for cetaceans and dugongs interacting with commercial purse seine fisheries and offshore energy operations in Indonesian seas.",
+        "description": "Conducted scientific risk modeling and field investigations on acoustic disturbance, vessel strike vulnerability, and bycatch entanglement risks for cetaceans and dugongs interacting with commercial purse seine, longline, and artisanal fisheries in Indonesian seas, developing practical mitigation strategies to minimize fishery-mammal interactions.",
         "image": "images/marine_mammal.jpg",
         "restricted": true
       },
@@ -1952,7 +1952,7 @@ export const cvData = {
         "restricted": true
       },
       {
-        "title": "Kajian Ilmiah Interaksi Mamalia Laut dengan Operasi Migas & Perikanan Tangkap",
+        "title": "Kajian Ilmiah Interaksi Mamalia Laut dengan Perikanan Tangkap",
         "client": "PT Hatfield Indonesia / Mitra Konservasi",
         "period": "2019 - 2021",
         "category": "marine",
@@ -1962,7 +1962,7 @@ export const cvData = {
           "Mitigasi Bycatch",
           "Akses Terbatas"
         ],
-        "description": "Melakukan pemodelan risiko ilmiah dan investigasi lapangan mengenai gangguan akustik bawah air, kerentanan tabrakan kapal, dan risiko tangkapan sampingan (bycatch) bagi paus, lumba-lumba, dan dugong yang berinteraksi dengan armada pukat cincin dan operasi energi lepas pantai di perairan Indonesia.",
+        "description": "Melakukan pemodelan risiko ilmiah dan investigasi lapangan mengenai gangguan akustik bawah air, kerentanan tabrakan kapal, serta risiko tangkapan sampingan (bycatch) bagi paus, lumba-lumba, dan dugong yang berinteraksi dengan armada pukat cincin, rawai, dan perikanan rakyat di perairan Indonesia guna merumuskan strategi mitigasi interaksi perikanan.",
         "image": "images/marine_mammal.jpg",
         "restricted": true
       },
