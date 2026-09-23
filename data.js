@@ -17,7 +17,7 @@ export const cvData = {
         "label": "Years Experience"
       },
       {
-        "value": "30",
+        "value": "32",
         "label": "Projects Completed"
       },
       {
@@ -35,14 +35,14 @@ export const cvData = {
         "company": "PT Aksi Mitigasi Iklim (GHG Actions)",
         "location": "Denpasar (Hybrid Bali & Papua)",
         "period": "June 2026 – Present",
-        "description": "Providing strategic and technical leadership for end-to-end carbon mitigation projects across market-based carbon mechanisms, spanning both Voluntary Carbon Markets (VCM) and Compliance Markets (SRN-PPI, IDXCarbon, and international compliance). Directing the development, technical review, and validation of Project Design Documents (PDD) and Dokumen Rencana Aksi Mitigasi Iklim (DRAM) aligned with Core Carbon Principles (CCPs) of the Integrity Council for the Voluntary Carbon Market (ICVCM) and Paris Agreement Article 6 mechanisms (Articles 6.2 and 6.4 for ITMOs and authorized carbon crediting). Overseeing portfolio-wide carbon rating evaluations and integrity due diligence (benchmarked against BeZero, Sylvera, and Calyx Global) to guarantee robust additionality, baseline credibility, and permanence. Managing technical compliance, MRV, and greenhouse gas accounting for AFOLU (Agriculture, Forestry, and Other Land Use - REDD+, ARR, coastal blue carbon) and Waste Sectors (Palm Oil Mill Effluent / POME Methane Capture & Biogas-to-Energy). Providing technical direction over >100,000 hectares of peatlands and wetlands concessions in Indonesia, embedding ESG frameworks, Verra VCS + CCB, Plan Vivo, ART TREES, and high-integrity nature and biodiversity credit standards."
+        "description": "Providing strategic and technical leadership for end-to-end carbon mitigation projects across market-based carbon mechanisms, spanning both Voluntary Carbon Markets (VCM) and Compliance Markets (Sistem Registry Unit Karbon Indonesia / SRUK, IDXCarbon, and international compliance). Directing the development, technical review, and validation of Project Design Documents (PDD) and Dokumen Rencana Aksi Mitigasi Iklim (DRAM) aligned with Core Carbon Principles (CCPs) of the Integrity Council for the Voluntary Carbon Market (ICVCM) and Paris Agreement Article 6 mechanisms (Articles 6.2 and 6.4 for ITMOs and authorized carbon crediting). Overseeing portfolio-wide carbon rating evaluations and integrity due diligence (benchmarked against BeZero, Sylvera, and Calyx Global) to guarantee robust additionality, baseline credibility, and permanence. Managing technical compliance, MRV, and greenhouse gas accounting for AFOLU (Agriculture, Forestry, and Other Land Use - REDD+, ARR, coastal blue carbon) and Waste Sectors (Palm Oil Mill Effluent / POME Methane Capture & Biogas-to-Energy). Providing technical direction over >200,000 hectares of peatlands and wetlands concessions in West Papua and Southwest Papua, embedding ESG frameworks, Verra VCS + CCB, ART TREES, and high-integrity nature and biodiversity credit standards."
       },
       {
         "role": "Project Manager - GHG Actions & Marine Ecosystem Restoration",
         "company": "PT Aksi Mitigasi Iklim (GHG Actions)",
         "location": "Denpasar (Hybrid Bali & Papua)",
         "period": "February 2023 – June 2026",
-        "description": "Managed full project lifecycles for large-scale terrestrial, peatland, and coastal ecosystem restoration concessions (>100,000 ha) across Papua and Sumatra. Directed multidisciplinary field teams conducting ecological baseline surveys, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), and ground-based carbon stock accounting (SNI 7724). Designed and facilitated Free, Prior, and Informed Consent (FPIC) processes and inclusive benefit-sharing frameworks with indigenous customary communities (Masyarakat Hukum Adat). Led regulatory liaison and licensing with the Ministry of Environment and Forestry (MoEF / KLHK), Peatland & Mangrove Restoration Agency (BRGM), and Ministry of Marine Affairs and Fisheries (KKP). Formulated comprehensive Environmental & Social Management Plans (ESMP), ESIA / AMDAL compliance frameworks, and established rigorous Monitoring, Reporting, and Verification (MRV) systems."
+        "description": "Managed full project lifecycles for large-scale terrestrial, peatland, and coastal wetland ecosystem restoration concessions (>200,000 ha) across West Papua and Southwest Papua. Directed multidisciplinary field teams conducting ecological baseline surveys, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), and ground-based carbon stock accounting (SNI 7724). Designed and facilitated Free, Prior, and Informed Consent (FPIC) processes and inclusive benefit-sharing frameworks with indigenous customary communities (Masyarakat Hukum Adat). Led regulatory liaison and licensing with the Ministry of Environment and Forestry (MoEF / KLHK), Peatland & Mangrove Restoration Agency (BRGM), and Ministry of Marine Affairs and Fisheries (KKP). Formulated comprehensive Environmental & Social Management Plans (ESMP), ESIA / AMDAL compliance frameworks, and established rigorous Monitoring, Reporting, and Verification (MRV) systems."
       },
       {
         "role": "Deputy Unit Leader - Marine and Coastal Development Unit",
@@ -136,7 +136,7 @@ export const cvData = {
           "Carbon Accounting",
           "Papua Barat"
         ],
-        "description": "Delivered a high-level feasibility study and carbon scoping assessment across >100,000 hectares of forest concessions in Southwest Papua and West Papua Provinces. Synthesized remote sensing GIS analysis, forest carbon stock estimates, baseline deforestation drivers, regulatory compliance pathways (SRN-PPI & Verra VCS), and socio-economic risk evaluations to establish project viability for carbon credit generation and biodiversity conservation.",
+        "description": "Delivered a high-level feasibility study and carbon scoping assessment across >200,000 hectares of wetland and peatland forest concessions in Southwest Papua and West Papua Provinces. Synthesized remote sensing GIS analysis, forest carbon stock estimates, baseline deforestation drivers, regulatory compliance pathways (Sistem Registry Unit Karbon Indonesia / SRUK & Verra VCS), and socio-economic risk evaluations to establish project viability for carbon credit generation and biodiversity conservation.",
         "image": "images/rainforest.jpg"
       },
       {
@@ -544,6 +544,36 @@ export const cvData = {
         "description": "Formulated the comprehensive technical zoning document and 20-year spatial management plan for the 356,000-hectare Kolepom Island MPA in South Papua, integrating core conservation zones, limited utilization zones for indigenous artisanal fisheries, and other sustainable use sub-zones.",
         "image": "images/mangrove.jpg",
         "restricted": true
+      },
+      {
+        "title": "Sustainable Tuna Fisheries Management Based on Acoustic Measurement, Length-Based Assessment, and FAD Management",
+        "client": "The Nature Conservancy (TNC)",
+        "period": "January - December 2017",
+        "category": "Marine & Fisheries Governance",
+        "tags": [
+          "Bioacoustics",
+          "FAD Management",
+          "Tuna Fisheries",
+          "CODRS",
+          "The Nature Conservancy"
+        ],
+        "description": "Led the technical implementation of low-cost marine bioacoustic surveys and hydroacoustic telemetry beneath Fish Aggregating Devices (FADs / Rumpon) to quantify juvenile tuna biomass and deep-water pelagic schooling behavior. Integrated hydroacoustic data with on-board Captain-Operated Data Recording Systems (CODRS) and length-based spawning potential ratio (SPR) assessments to formulate policy briefs on voluntary FAD management guidelines and harvest strategy compliance in Indonesian tuna fisheries.",
+        "image": "./images/pelagic_fish.jpg"
+      },
+      {
+        "title": "Marine Mammal Monitoring and Mitigation Plan for 3D Marine Seismic Acquisition in Mentawai Block",
+        "client": "Total E&P Indonesie Mentawai B.V. / PPLH IPB",
+        "period": "December 2015 - January 2016",
+        "category": "Marine Environmental Assessment & Safeguards",
+        "tags": [
+          "Marine Mammals",
+          "3D Seismic",
+          "Bioacoustics",
+          "Total E&P",
+          "Offshore Mitigation"
+        ],
+        "description": "Led technical health, safety, and environmental (HSE) protocols and JNCC-compliant Marine Mammal Observation (MMO) and Passive Acoustic Monitoring (PAM) during the deep-water 3D marine seismic survey using airgun arrays in the Total E&P Indonesie Mentawai B.V. Block (Indian Ocean). Executed 360-degree pre-shooting visual and acoustic scans, enforced safety exclusion zones, managed soft-start ramp-up procedures to prevent acoustic trauma to marine mammals, and delivered daily environmental compliance reports to the Party Chief and international operators.",
+        "image": "./images/coral_reef.jpg"
       }
     ],
     "publications": [
@@ -1517,7 +1547,7 @@ export const cvData = {
         "label": "Tahun Pengalaman"
       },
       {
-        "value": "30",
+        "value": "32",
         "label": "Proyek Selesai"
       },
       {
@@ -1535,14 +1565,14 @@ export const cvData = {
         "company": "PT Aksi Mitigasi Iklim (GHG Actions)",
         "location": "Denpasar (Hybrid Bali & Papua)",
         "period": "Juni 2026 – Sekarang",
-        "description": "Memimpin gugus kerja teknis (Technical Workstream) dan strategi tata kelola proyek mitigasi perubahan iklim berbasis pasar, mencakup pasar sukarela (Voluntary Carbon Market / VCM) maupun pasar kepatuhan (compliance markets seperti SRN-PPI, IDXCarbon, dan regulasi internasional). Mengarahkan penyusunan, tinjauan teknis, dan validasi Project Design Document (PDD) serta Dokumen Rencana Aksi Mitigasi Iklim (DRAM) yang selaras dengan Core Carbon Principles (CCPs) dari Integrity Council for the Voluntary Carbon Market (ICVCM) dan mekanisme Perjanjian Paris Pasal 6 (Pasal 6.2 ITMOs dan Pasal 6.4 multilateral crediting). Mengawasi metodologi evaluasi Carbon Rating (tolok ukur BeZero Carbon, Sylvera, Calyx Global) guna menjamin integritas karbon tinggi, tambahan (additionality), kredibilitas baseline, dan pencegahan risiko non-permanensi. Mengelola kepatuhan teknis, MRV, dan inventarisasi GRK untuk sektor AFOLU (Agriculture, Forestry, and Other Land Use - REDD+, ARR, blue carbon pesisir, rewetting gambut) dan sektor Limbah / Waste (POME - Palm Oil Mill Effluent Methane Capture & Biogas). Mengelola secara teknis konsesi lahan gambut dan lahan basah (peatlands & wetlands) seluas >100.000 hektar di Indonesia, mengintegrasikan standar ESG, Verra VCS + CCB, Plan Vivo, ART TREES, serta kerangka kredit keanekaragaman hayati (nature/biodiversity credits)."
+        "description": "Memimpin gugus kerja teknis (Technical Workstream) dan strategi tata kelola proyek mitigasi perubahan iklim berbasis pasar, mencakup pasar sukarela (Voluntary Carbon Market / VCM) maupun pasar kepatuhan (compliance markets seperti Sistem Registry Unit Karbon Indonesia / SRUK, IDXCarbon, dan regulasi internasional). Mengarahkan penyusunan, tinjauan teknis, dan validasi Project Design Document (PDD) serta Dokumen Rencana Aksi Mitigasi Iklim (DRAM) yang selaras dengan Core Carbon Principles (CCPs) dari Integrity Council for the Voluntary Carbon Market (ICVCM) dan mekanisme Perjanjian Paris Pasal 6 (Pasal 6.2 ITMOs dan Pasal 6.4 multilateral crediting). Mengawasi metodologi evaluasi Carbon Rating (tolok ukur BeZero Carbon, Sylvera, Calyx Global) guna menjamin integritas karbon tinggi, tambahan (additionality), kredibilitas baseline, dan pencegahan risiko non-permanensi. Mengelola kepatuhan teknis, MRV, dan inventarisasi GRK untuk sektor AFOLU (Agriculture, Forestry, and Other Land Use - REDD+, ARR, blue carbon pesisir, rewetting gambut) dan sektor Limbah / Waste (POME - Palm Oil Mill Effluent Methane Capture & Biogas). Mengelola secara teknis konsesi lahan gambut dan lahan basah (peatlands & wetlands) seluas >200.000 hektar di Papua Barat dan Papua Barat Daya, mengintegrasikan standar ESG, Verra VCS + CCB, ART TREES, serta kerangka kredit keanekaragaman hayati (nature/biodiversity credits)."
       },
       {
         "role": "Project Manager - GHG Actions & Marine Ecosystem Restoration",
         "company": "PT Aksi Mitigasi Iklim (GHG Actions)",
         "location": "Denpasar (Hybrid Bali & Papua)",
         "period": "Februari 2023 – Juni 2026",
-        "description": "Mengelola siklus hidup penuh proyek restorasi ekosistem terestrial, lahan gambut, dan pesisir skala besar (>100.000 ha) di Papua dan Sumatera. Memimpin tim lapangan multidisiplin dalam survei baseline ekologi, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), dan inventarisasi cadangan karbon berbasis darat (SNI 7724). Merancang dan memfasilitasi proses Free, Prior, and Informed Consent (FPIC) serta mekanisme pembagian manfaat yang adil bersama masyarakat hukum adat. Memimpin koordinasi perizinan dan kepatuhan regulasi dengan Kementerian Lingkungan Hidup dan Kehutanan (KLHK), Badan Restorasi Gambut dan Mangrove (BRGM), serta Kementerian Kelautan dan Perikanan (KKP). Menyusun Rencana Pengelolaan Lingkungan dan Sosial (ESMP), AMDAL/ESIA, serta membangun sistem Monitoring, Reporting, and Verification (MRV) yang kredibel."
+        "description": "Mengelola siklus hidup penuh proyek restorasi ekosistem terestrial, lahan gambut, dan lahan basah pesisir (wetlands) skala besar (>200.000 ha) di Papua Barat dan Papua Barat Daya. Memimpin tim lapangan multidisiplin dalam survei baseline ekologi, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), dan inventarisasi cadangan karbon berbasis darat (SNI 7724). Merancang dan memfasilitasi proses Free, Prior, and Informed Consent (FPIC) serta mekanisme pembagian manfaat yang adil bersama masyarakat hukum adat. Memimpin koordinasi perizinan dan kepatuhan regulasi dengan Kementerian Lingkungan Hidup dan Kehutanan (KLHK), Badan Restorasi Gambut dan Mangrove (BRGM), serta Kementerian Kelautan dan Perikanan (KKP). Menyusun Rencana Pengelolaan Lingkungan dan Sosial (ESMP), AMDAL/ESIA, serta membangun sistem Monitoring, Reporting, and Verification (MRV) yang kredibel."
       },
       {
         "role": "Deputy Unit Leader - Marine and Coastal Development Unit",
@@ -1636,7 +1666,7 @@ export const cvData = {
           "Inventarisasi Karbon",
           "Papua Barat"
         ],
-        "description": "Menyusun studi kelayakan tingkat tinggi dan kajian penjajakan karbon di areal konsesi hutan seluas >100.000 hektar di Provinsi Papua Barat Daya dan Papua Barat. Mensintesiskan analisis spasial GIS penginderaan jauh, estimasi cadangan karbon hutan, pemicu deforestasi baseline, jalur kepatuhan regulasi (SRN-PPI & Verra VCS), serta evaluasi risiko sosial-ekonomi guna menetapkan kelayakan penerbitan kredit karbon dan konservasi keanekaragaman hayati.",
+        "description": "Menyusun studi kelayakan tingkat tinggi dan kajian penjajakan karbon di areal konsesi hutan lahan basah dan gambut (wetland & peatland) seluas >200.000 hektar di Provinsi Papua Barat Daya dan Papua Barat. Mensintesiskan analisis spasial GIS penginderaan jauh, estimasi cadangan karbon hutan, pemicu deforestasi baseline, jalur kepatuhan regulasi (Sistem Registry Unit Karbon Indonesia / SRUK & Verra VCS), serta evaluasi risiko sosial-ekonomi guna menetapkan kelayakan penerbitan kredit karbon dan konservasi keanekaragaman hayati.",
         "image": "images/rainforest.jpg"
       },
       {
@@ -2044,6 +2074,36 @@ export const cvData = {
         "description": "Menyusun dokumen teknis rencana zonasi spasial dan rencana pengelolaan jangka panjang 20 tahun untuk KKP Pulau Kolepom seluas 356.000 hektar di Papua Selatan, mengintegrasikan zona inti konservasi, zona pemanfaatan terbatas untuk perikanan tradisional adat, serta zona lainnya.",
         "image": "images/mangrove.jpg",
         "restricted": true
+      },
+      {
+        "title": "Pengelolaan Perikanan Tuna Berkelanjutan Berbasis Pengukuran Akustik, Penilaian Ukuran Panjang, dan Tata Kelola Rumpon",
+        "client": "The Nature Conservancy (TNC)",
+        "period": "Januari - Desember 2017",
+        "category": "Tata Kelola Kelautan & Perikanan",
+        "tags": [
+          "Bioakustik",
+          "Tata Kelola Rumpon",
+          "Perikanan Tuna",
+          "CODRS",
+          "The Nature Conservancy"
+        ],
+        "description": "Memimpin pelaksanaan teknis survei bioakustik kelautan dan telemetri hidroakustik di bawah Rumpon (Fish Aggregating Devices / FADs) untuk mengukur biomassa dan pola schooling tuna muda (juvenil tuna). Mengintegrasikan data hidroakustik dengan sistem pencatatan data mandiri nakhoda (Captain-Operated Data Recording Systems / CODRS) serta analisis Spawning Potential Ratio (SPR) berbasis ukuran panjang ikan guna menyusun policy brief pedoman pengelolaan rumpon berkelanjutan dan strategi pemanfaatan perikanan tuna Indonesia.",
+        "image": "./images/pelagic_fish.jpg"
+      },
+      {
+        "title": "Rencana Pemantauan dan Mitigasi Mamalia Laut untuk Akuisisi Seismik Laut 3D di Blok Mentawai",
+        "client": "Total E&P Indonesie Mentawai B.V. / PPLH IPB",
+        "period": "Desember 2015 - Januari 2016",
+        "category": "Kajian Lingkungan & Perlindungan Pesisir",
+        "tags": [
+          "Mamalia Laut",
+          "Seismik 3D",
+          "Bioakustik",
+          "Total E&P",
+          "Mitigasi Lepas Pantai"
+        ],
+        "description": "Memimpin protokol K3L (HSE) dan pemantauan mamalia laut (Marine Mammal Observer / MMO) serta pemantauan akustik pasif (Passive Acoustic Monitoring / PAM) berstandar JNCC selama survei seismik laut dalam 3D menggunakan airgun di Blok Total E&P Indonesie Mentawai B.V. (Samudra Hindia). Melakukan pemindaian visual dan akustik pra-penembakan 360 derajat, menegakkan zona eksklusi keselamatan, mengelola prosedur soft-start ramp-up guna mencegah trauma akustik pada mamalia laut, serta menyusun laporan kepatuhan lingkungan harian untuk Party Chief dan operator internasional.",
+        "image": "./images/coral_reef.jpg"
       }
     ],
     "publications": [

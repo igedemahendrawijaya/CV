@@ -18,7 +18,7 @@ Marine environmental specialist with over 13 years of experience delivering high
 
 ## Key Core Metrics & Statistics
 - **13+** Years Professional Experience
-- **30** Completed High-Impact Projects & Technical Reports
+- **32** Completed High-Impact Projects & Technical Reports
 - **67+** Professional Certifications & Specialized Training Programs
 - **5** Peer-Reviewed Scientific Publications & Conference Papers
 
@@ -57,12 +57,12 @@ Marine environmental specialist with over 13 years of experience delivering high
 ### 1. Head of Technical Workstream
 **PT Aksi Mitigasi Iklim (GHG Actions)** | Denpasar (Hybrid Bali & Papua) | June 2026 – Present  
 
-Providing strategic and technical leadership for end-to-end carbon mitigation projects across market-based carbon mechanisms, spanning both Voluntary Carbon Markets (VCM) and Compliance Markets (SRN-PPI, IDXCarbon, and international compliance). Directing the development, technical review, and validation of Project Design Documents (PDD) and Dokumen Rencana Aksi Mitigasi Iklim (DRAM) aligned with Core Carbon Principles (CCPs) of the Integrity Council for the Voluntary Carbon Market (ICVCM) and Paris Agreement Article 6 mechanisms (Articles 6.2 and 6.4 for ITMOs and authorized carbon crediting). Overseeing portfolio-wide carbon rating evaluations and integrity due diligence (benchmarked against BeZero, Sylvera, and Calyx Global) to guarantee robust additionality, baseline credibility, and permanence. Managing technical compliance, MRV, and greenhouse gas accounting for AFOLU (Agriculture, Forestry, and Other Land Use - REDD+, ARR, coastal blue carbon) and Waste Sectors (Palm Oil Mill Effluent / POME Methane Capture & Biogas-to-Energy). Providing technical direction over >100,000 hectares of peatlands and wetlands concessions in Indonesia, embedding ESG frameworks, Verra VCS + CCB, Plan Vivo, ART TREES, and high-integrity nature and biodiversity credit standards.
+Providing strategic and technical leadership for end-to-end carbon mitigation projects across market-based carbon mechanisms, spanning both Voluntary Carbon Markets (VCM) and Compliance Markets (Sistem Registry Unit Karbon Indonesia / SRUK, IDXCarbon, and international compliance). Directing the development, technical review, and validation of Project Design Documents (PDD) and Dokumen Rencana Aksi Mitigasi Iklim (DRAM) aligned with Core Carbon Principles (CCPs) of the Integrity Council for the Voluntary Carbon Market (ICVCM) and Paris Agreement Article 6 mechanisms (Articles 6.2 and 6.4 for ITMOs and authorized carbon crediting). Overseeing portfolio-wide carbon rating evaluations and integrity due diligence (benchmarked against BeZero, Sylvera, and Calyx Global) to guarantee robust additionality, baseline credibility, and permanence. Managing technical compliance, MRV, and greenhouse gas accounting for AFOLU (Agriculture, Forestry, and Other Land Use - REDD+, ARR, coastal blue carbon) and Waste Sectors (Palm Oil Mill Effluent / POME Methane Capture & Biogas-to-Energy). Providing technical direction over >200,000 hectares of peatlands and wetlands concessions in West Papua and Southwest Papua, embedding ESG frameworks, Verra VCS + CCB, ART TREES, and high-integrity nature and biodiversity credit standards.
 
 ### 2. Project Manager - GHG Actions & Marine Ecosystem Restoration
 **PT Aksi Mitigasi Iklim (GHG Actions)** | Denpasar (Hybrid Bali & Papua) | February 2023 – June 2026  
 
-Managed full project lifecycles for large-scale terrestrial, peatland, and coastal ecosystem restoration concessions (>100,000 ha) across Papua and Sumatra. Directed multidisciplinary field teams conducting ecological baseline surveys, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), and ground-based carbon stock accounting (SNI 7724). Designed and facilitated Free, Prior, and Informed Consent (FPIC) processes and inclusive benefit-sharing frameworks with indigenous customary communities (Masyarakat Hukum Adat). Led regulatory liaison and licensing with the Ministry of Environment and Forestry (MoEF / KLHK), Peatland & Mangrove Restoration Agency (BRGM), and Ministry of Marine Affairs and Fisheries (KKP). Formulated comprehensive Environmental & Social Management Plans (ESMP), ESIA / AMDAL compliance frameworks, and established rigorous Monitoring, Reporting, and Verification (MRV) systems.
+Managed full project lifecycles for large-scale terrestrial, peatland, and coastal wetland ecosystem restoration concessions (>200,000 ha) across West Papua and Southwest Papua. Directed multidisciplinary field teams conducting ecological baseline surveys, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), and ground-based carbon stock accounting (SNI 7724). Designed and facilitated Free, Prior, and Informed Consent (FPIC) processes and inclusive benefit-sharing frameworks with indigenous customary communities (Masyarakat Hukum Adat). Led regulatory liaison and licensing with the Ministry of Environment and Forestry (MoEF / KLHK), Peatland & Mangrove Restoration Agency (BRGM), and Ministry of Marine Affairs and Fisheries (KKP). Formulated comprehensive Environmental & Social Management Plans (ESMP), ESIA / AMDAL compliance frameworks, and established rigorous Monitoring, Reporting, and Verification (MRV) systems.
 
 ### 3. Deputy Unit Leader - Marine and Coastal Development Unit
 **PT Hatfield Indonesia** | Bogor / Jakarta | January 2022 - February 2023  
@@ -91,7 +91,7 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 
 ---
 
-## Key Projects & Technical Deliverables (Total: 30 Projects)
+## Key Projects & Technical Deliverables (Total: 32 Projects)
 
 ### 1. Pre-Socialization Report & Stakeholder Analysis for Forest Carbon Licensing
 - **Client / Partner**: PT Salawati Hijau Lestari (SHL)
@@ -103,7 +103,7 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 - **Client / Partner**: PT SHL & PT Sorong Hijau Ekosistem (SHE)
 - **Period**: March - June 2023
 - **Category / Focus**: CARBON (Carbon Scoping, Feasibility Study, Carbon Accounting, Papua Barat)
-- **Technical Scope & Output**: Delivered a high-level feasibility study and carbon scoping assessment across >100,000 hectares of forest concessions in Southwest Papua and West Papua Provinces. Synthesized remote sensing GIS analysis, forest carbon stock estimates, baseline deforestation drivers, regulatory compliance pathways (SRN-PPI & Verra VCS), and socio-economic risk evaluations to establish project viability for carbon credit generation and biodiversity conservation.
+- **Technical Scope & Output**: Delivered a high-level feasibility study and carbon scoping assessment across >200,000 hectares of wetland and peatland forest concessions in Southwest Papua and West Papua Provinces. Synthesized remote sensing GIS analysis, forest carbon stock estimates, baseline deforestation drivers, regulatory compliance pathways (Sistem Registry Unit Karbon Indonesia / SRUK & Verra VCS), and socio-economic risk evaluations to establish project viability for carbon credit generation and biodiversity conservation.
 
 ### 3. High Carbon Stock Approach (HCSA) & High Conservation Value (HCV) Assessments
 - **Client / Partner**: APRIL Group
@@ -272,6 +272,18 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 - **Period**: 2021 - 2022
 - **Category / Focus**: MARINE (Kolepom MPA, Spatial Zoning, Conservation Plan, Papua, Restricted Access)
 - **Technical Scope & Output**: Formulated the comprehensive technical zoning document and 20-year spatial management plan for the 356,000-hectare Kolepom Island MPA in South Papua, integrating core conservation zones, limited utilization zones for indigenous artisanal fisheries, and other sustainable use sub-zones.
+
+### 31. Sustainable Tuna Fisheries Management Based on Acoustic Measurement, Length-Based Assessment, and FAD Management
+- **Client / Partner**: The Nature Conservancy (TNC)
+- **Period**: January - December 2017
+- **Category / Focus**: MARINE & FISHERIES GOVERNANCE (Bioacoustics, FAD Management, Tuna Fisheries, CODRS, The Nature Conservancy)
+- **Technical Scope & Output**: Led the technical implementation of low-cost marine bioacoustic surveys and hydroacoustic telemetry beneath Fish Aggregating Devices (FADs / Rumpon) to quantify juvenile tuna biomass and deep-water pelagic schooling behavior. Integrated hydroacoustic data with on-board Captain-Operated Data Recording Systems (CODRS) and length-based spawning potential ratio (SPR) assessments to formulate policy briefs on voluntary FAD management guidelines and harvest strategy compliance in Indonesian tuna fisheries.
+
+### 32. Marine Mammal Monitoring and Mitigation Plan for 3D Marine Seismic Acquisition in Mentawai Block
+- **Client / Partner**: Total E&P Indonesie Mentawai B.V. / PPLH IPB
+- **Period**: December 2015 - January 2016
+- **Category / Focus**: MARINE ENVIRONMENTAL ASSESSMENT & SAFEGUARDS (Marine Mammals, 3D Seismic, Bioacoustics, Total E&P, Offshore Mitigation)
+- **Technical Scope & Output**: Led technical health, safety, and environmental (HSE) protocols and JNCC-compliant Marine Mammal Observation (MMO) and Passive Acoustic Monitoring (PAM) during the deep-water 3D marine seismic survey using airgun arrays in the Total E&P Indonesie Mentawai B.V. Block (Indian Ocean). Executed 360-degree pre-shooting visual and acoustic scans, enforced safety exclusion zones, managed soft-start ramp-up procedures to prevent acoustic trauma to marine mammals, and delivered daily environmental compliance reports to the Party Chief and international operators.
 
 ---
 

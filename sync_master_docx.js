@@ -51,8 +51,8 @@ export function generateMasterMarkdown() {
   const pubs = cvData.en.publications;
 
   const yearsExp = stats.find(s => s.label.includes('Experience'))?.value || '13+';
-  const projExp = stats.find(s => s.label.includes('Projects'))?.value || '30+';
-  const pubsExp = stats.find(s => s.label.includes('Publications'))?.value || '15+';
+  const projExp = stats.find(s => s.label.includes('Projects'))?.value || `${projects.length}`;
+  const pubsExp = stats.find(s => s.label.includes('Publications'))?.value || `${pubs.length}`;
 
   let md = `# ${p.name}, S.Pi.\n`;
   md += `**${p.title}**  \n`;
