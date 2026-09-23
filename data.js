@@ -17,15 +17,15 @@ export const cvData = {
         "label": "Years Experience"
       },
       {
-        "value": "30+",
+        "value": "30",
         "label": "Projects Completed"
       },
       {
-        "value": "70+",
+        "value": "67",
         "label": "Certifications"
       },
       {
-        "value": "15+",
+        "value": "5",
         "label": "Publications"
       }
     ],
@@ -452,21 +452,6 @@ export const cvData = {
         "restricted": true
       },
       {
-        "title": "Marine Biodiversity Survey & Ecological Monitoring in Anambas Islands Marine Tourism Park",
-        "client": "PT Hatfield Indonesia / Conservation Partners",
-        "period": "2019 - 2021",
-        "category": "marine",
-        "tags": [
-          "Biodiversity Baseline",
-          "Anambas Islands",
-          "Coral Reef Health",
-          "Restricted Access"
-        ],
-        "description": "Conducted comprehensive marine biodiversity assessments, underwater visual census (UVC) for coral reef benthic cover and reef fish biomass, and megafauna habitat surveys across the remote Anambas Islands Marine Tourism Park (TWP Anambas).",
-        "image": "images/coral_reef.jpg",
-        "restricted": true
-      },
-      {
         "title": "Rapid Scoping Study on High-Growth Investment Opportunities in Indonesian Aquaculture",
         "client": "PT Hatfield Indonesia / Aquaculture Development Partners",
         "period": "2020 - 2021",
@@ -494,67 +479,6 @@ export const cvData = {
         ],
         "description": "Conducted a detailed technical review and Marine Stewardship Council (MSC) pre-assessment of Indonesia's industrial and semi-industrial tuna purse seine fleet, developing time-bound Action Plans for harvest strategy compliance, FAD management, and bycatch reduction.",
         "image": "images/tongkol.jpg",
-        "restricted": true
-      },
-      {
-        "title": "Feasibility Assessment and Wildlife Protection Mechanisms for Lucipara Atolls",
-        "client": "PT Hatfield Indonesia / Marine Conservation Partners",
-        "period": "2019 - 2021",
-        "category": "marine",
-        "tags": [
-          "Lucipara Islands",
-          "Seabird Sanctuary",
-          "Marine Conservation",
-          "Restricted Access"
-        ],
-        "description": "Formulated conservation options, ecological baseline reviews, and legal governance mechanisms for the protection of critical nesting seabird colonies, sea turtle rookeries, and pristine coral atoll ecosystems in the remote Lucipara and Penyu Islands (Banda Sea).",
-        "image": "images/coral_reef.jpg",
-        "restricted": true
-      },
-      {
-        "title": "National Policy Note on Sustainable Coastal Governance & Blue Investment Opportunities",
-        "client": "PT Hatfield Indonesia / Policy Partners",
-        "period": "2021 - 2022",
-        "category": "marine",
-        "tags": [
-          "Coastal Policy",
-          "Blue Economy",
-          "Governance Framework",
-          "Restricted Access"
-        ],
-        "description": "Authored a high-level policy review synthesizing national coastal legislation (UU 27/2007, UU 1/2014), integrated coastal zone management (ICZM) frameworks, and institutional barriers to unlock sustainable blue finance for coastal ecosystem conservation in Indonesia.",
-        "image": "images/coastal_fisheries.jpg",
-        "restricted": true
-      },
-      {
-        "title": "Oceans MDTF Analytical Report: Gap Analysis of Public-Private Partnerships in Alor MPA",
-        "client": "Oceans MDTF / World Bank / PT Hatfield Indonesia",
-        "period": "2021 - 2022",
-        "category": "marine",
-        "tags": [
-          "Oceans MDTF",
-          "KKPD Alor",
-          "PPP Schemes",
-          "Sustainable MPA Financing",
-          "Restricted Access"
-        ],
-        "description": "Conducted an institutional and legal gap analysis of Public-Private Partnership (PPP) and co-management financing models for the Alor Marine Protected Area (KKPD Alor), evaluating revenue-generation mechanisms, dive tourism fees, and customary marine tenure (Molo) integration.",
-        "image": "images/coral_reef.jpg",
-        "restricted": true
-      },
-      {
-        "title": "Diagnostic Study on Gaps & Implementation Challenges of RZWP3K Coastal Zoning in NTT",
-        "client": "PT Hatfield Indonesia / Regional Coastal Partners",
-        "period": "2020 - 2022",
-        "category": "marine",
-        "tags": [
-          "RZWP3K",
-          "Marine Spatial Planning",
-          "NTT Province",
-          "Restricted Access"
-        ],
-        "description": "Delivered a diagnostic study examining regulatory conflicts, spatial data incongruities, and inter-agency enforcement bottlenecks in implementing the Provincial Coastal and Small Islands Zoning Plan (RZWP-3-K) across East Nusa Tenggara (NTT) Province.",
-        "image": "images/mangrove.jpg",
         "restricted": true
       },
       {
@@ -1593,16 +1517,16 @@ export const cvData = {
         "label": "Tahun Pengalaman"
       },
       {
-        "value": "30+",
+        "value": "30",
         "label": "Proyek Selesai"
       },
       {
-        "value": "70+",
+        "value": "67",
         "label": "Sertifikasi"
       },
       {
-        "value": "15+",
-        "label": "Publikasi Ilmiah"
+        "value": "5",
+        "label": "Publikasi"
       }
     ],
     "experience": [
@@ -2028,21 +1952,6 @@ export const cvData = {
         "restricted": true
       },
       {
-        "title": "Survei Keanekaragaman Hayati Laut & Pemantauan Ekologi di TWP Kepulauan Anambas",
-        "client": "PT Hatfield Indonesia / Mitra Konservasi",
-        "period": "2019 - 2021",
-        "category": "marine",
-        "tags": [
-          "Baseline Biodiversitas",
-          "Kepulauan Anambas",
-          "Kesehatan Terumbu Karang",
-          "Akses Terbatas"
-        ],
-        "description": "Melaksanakan survei komprehensif keanekaragaman hayati laut, sensus visual bawah air (UVC) untuk tutupan bentik terumbu karang dan biomassa ikan karang, serta pemetaan habitat megafauna di Taman Wisata Perairan Kepulauan Anambas (TWP Anambas).",
-        "image": "images/coral_reef.jpg",
-        "restricted": true
-      },
-      {
         "title": "Studi Penjajakan Peluang Investasi Pertumbuhan Tinggi Sektor Akuakultur Berkelanjutan",
         "client": "PT Hatfield Indonesia / Mitra Pengembangan Akuakultur",
         "period": "2020 - 2021",
@@ -2070,67 +1979,6 @@ export const cvData = {
         ],
         "description": "Melaksanakan tinjauan teknis komprehensif dan pra-penilaian standar Marine Stewardship Council (MSC) pada armada pukat cincin tuna skala industri dan semi-industri di Indonesia, merumuskan Rencana Aksi terukur untuk kepatuhan strategi panen, tata kelola rumpon (FAD), dan mitigasi bycatch.",
         "image": "images/tongkol.jpg",
-        "restricted": true
-      },
-      {
-        "title": "Kajian Kelayakan & Opsi Perlindungan Satwa Liar Laut di Kepulauan Lucipara",
-        "client": "PT Hatfield Indonesia / Mitra Konservasi Kelautan",
-        "period": "2019 - 2021",
-        "category": "marine",
-        "tags": [
-          "Kepulauan Lucipara",
-          "Suaka Burung Laut",
-          "Konservasi Laut",
-          "Akses Terbatas"
-        ],
-        "description": "Merumuskan opsi konservasi, rona awal ekologi, dan mekanisme tata kelola hukum untuk melindungi koloni bersarang burung laut yang terancam punah, pantai peneluran penyu, dan ekosistem atol karang terisolasi di Kepulauan Lucipara dan Penyu (Laut Banda).",
-        "image": "images/coral_reef.jpg",
-        "restricted": true
-      },
-      {
-        "title": "Kajian Kebijakan Pesisir Nasional & Peluang Investasi Biru Berkelanjutan",
-        "client": "PT Hatfield Indonesia / Mitra Kebijakan",
-        "period": "2021 - 2022",
-        "category": "marine",
-        "tags": [
-          "Kebijakan Pesisir",
-          "Ekonomi Biru",
-          "Kerangka Tata Kelola",
-          "Akses Terbatas"
-        ],
-        "description": "Menyusun telaah kebijakan tingkat tinggi yang mensintesiskan perundangan pesisir nasional (UU 27/2007, UU 1/2014), kerangka pengelolaan wilayah pesisir terpadu (ICZM), serta mengatasi hambatan kelembagaan guna membuka investasi pendanaan biru berkelanjutan di Indonesia.",
-        "image": "images/coastal_fisheries.jpg",
-        "restricted": true
-      },
-      {
-        "title": "Laporan Analitis Oceans MDTF: Analisis Kesenjangan Skema Kemitraan Pemerintah-Swasta di KKPD Alor",
-        "client": "Oceans MDTF / Bank Dunia / PT Hatfield Indonesia",
-        "period": "2021 - 2022",
-        "category": "marine",
-        "tags": [
-          "Oceans MDTF",
-          "KKPD Alor",
-          "Skema KPBU",
-          "Pendanaan KKP Berkelanjutan",
-          "Akses Terbatas"
-        ],
-        "description": "Melaksanakan analisis kesenjangan kelembagaan dan regulasi terkait model pendanaan Kemitraan Pemerintah dan Badan Usaha (KPBU / PPP) serta ko-manajemen di Kawasan Konservasi Perairan Daerah Kabupaten Alor (KKPD Alor), mengevaluasi retribusi wisata selam dan integrasi kearifan lokal Molo.",
-        "image": "images/coral_reef.jpg",
-        "restricted": true
-      },
-      {
-        "title": "Studi Diagnostik Kesenjangan & Tantangan Implementasi Zonasi Pesisir RZWP-3-K di Provinsi NTT",
-        "client": "PT Hatfield Indonesia / Mitra Pesisir Daerah",
-        "period": "2020 - 2022",
-        "category": "marine",
-        "tags": [
-          "RZWP3K",
-          "Tata Ruang Laut",
-          "Provinsi NTT",
-          "Akses Terbatas"
-        ],
-        "description": "Menyusun studi diagnostik yang mengidentifikasi konflik regulasi tumpang tindih kewenangan, inkonsistensi data spasial, dan kendala penegakan hukum antar-lembaga dalam implementasi Rencana Zonasi Wilayah Pesisir dan Pulau-Pulau Kecil (RZWP-3-K) di Provinsi Nusa Tenggara Timur.",
-        "image": "images/mangrove.jpg",
         "restricted": true
       },
       {

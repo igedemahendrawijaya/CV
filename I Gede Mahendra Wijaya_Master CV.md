@@ -18,9 +18,9 @@ Marine environmental specialist with over 13 years of experience delivering high
 
 ## Key Core Metrics & Statistics
 - **13+** Years Professional Experience
-- **35** Completed High-Impact Projects & Technical Reports
+- **30** Completed High-Impact Projects & Technical Reports
 - **67+** Professional Certifications & Specialized Training Programs
-- **15+** Peer-Reviewed Scientific Publications & Conference Papers
+- **5** Peer-Reviewed Scientific Publications & Conference Papers
 
 ---
 
@@ -91,7 +91,7 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 
 ---
 
-## Key Projects & Technical Deliverables (Total: 35 Projects)
+## Key Projects & Technical Deliverables (Total: 30 Projects)
 
 ### 1. Pre-Socialization Report & Stakeholder Analysis for Forest Carbon Licensing
 - **Client / Partner**: PT Salawati Hijau Lestari (SHL)
@@ -237,67 +237,37 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 - **Category / Focus**: MARINE (Tuna Investment, Philanthropic Strategy, Fisheries Reform, Restricted Access)
 - **Technical Scope & Output**: Formulated a multi-year philanthropic investment strategy and intervention roadmap for WFF's marine portfolio, targeting rights-based fisheries management, harvest control rules, digital traceability, and coastal community empowerment in Indonesian tuna fisheries.
 
-### 25. Marine Biodiversity Survey & Ecological Monitoring in Anambas Islands Marine Tourism Park
-- **Client / Partner**: PT Hatfield Indonesia / Conservation Partners
-- **Period**: 2019 - 2021
-- **Category / Focus**: MARINE (Biodiversity Baseline, Anambas Islands, Coral Reef Health, Restricted Access)
-- **Technical Scope & Output**: Conducted comprehensive marine biodiversity assessments, underwater visual census (UVC) for coral reef benthic cover and reef fish biomass, and megafauna habitat surveys across the remote Anambas Islands Marine Tourism Park (TWP Anambas).
-
-### 26. Rapid Scoping Study on High-Growth Investment Opportunities in Indonesian Aquaculture
+### 25. Rapid Scoping Study on High-Growth Investment Opportunities in Indonesian Aquaculture
 - **Client / Partner**: PT Hatfield Indonesia / Aquaculture Development Partners
 - **Period**: 2020 - 2021
 - **Category / Focus**: AQUACULTURE (Aquaculture Scoping, Investment Due Diligence, Sustainable Growth, Restricted Access)
 - **Technical Scope & Output**: Delivered a strategic scoping assessment analyzing bankable investment opportunities, technological scalability, biosecurity risks, and environmental sustainability in Indonesia's brackish water shrimp, marine finfish, and seaweed aquaculture sectors.
 
-### 27. Sectoral Review of Indonesian Tuna Purse Seine Fisheries for FIP & MSC Readiness
+### 26. Sectoral Review of Indonesian Tuna Purse Seine Fisheries for FIP & MSC Readiness
 - **Client / Partner**: PT Hatfield Indonesia / FIP Partners
 - **Period**: 2020 - 2022
 - **Category / Focus**: MARINE (Purse Seine, Tuna FIP, MSC Pre-Assessment, Restricted Access)
 - **Technical Scope & Output**: Conducted a detailed technical review and Marine Stewardship Council (MSC) pre-assessment of Indonesia's industrial and semi-industrial tuna purse seine fleet, developing time-bound Action Plans for harvest strategy compliance, FAD management, and bycatch reduction.
 
-### 28. Feasibility Assessment and Wildlife Protection Mechanisms for Lucipara Atolls
-- **Client / Partner**: PT Hatfield Indonesia / Marine Conservation Partners
-- **Period**: 2019 - 2021
-- **Category / Focus**: MARINE (Lucipara Islands, Seabird Sanctuary, Marine Conservation, Restricted Access)
-- **Technical Scope & Output**: Formulated conservation options, ecological baseline reviews, and legal governance mechanisms for the protection of critical nesting seabird colonies, sea turtle rookeries, and pristine coral atoll ecosystems in the remote Lucipara and Penyu Islands (Banda Sea).
-
-### 29. National Policy Note on Sustainable Coastal Governance & Blue Investment Opportunities
-- **Client / Partner**: PT Hatfield Indonesia / Policy Partners
-- **Period**: 2021 - 2022
-- **Category / Focus**: MARINE (Coastal Policy, Blue Economy, Governance Framework, Restricted Access)
-- **Technical Scope & Output**: Authored a high-level policy review synthesizing national coastal legislation (UU 27/2007, UU 1/2014), integrated coastal zone management (ICZM) frameworks, and institutional barriers to unlock sustainable blue finance for coastal ecosystem conservation in Indonesia.
-
-### 30. Oceans MDTF Analytical Report: Gap Analysis of Public-Private Partnerships in Alor MPA
-- **Client / Partner**: Oceans MDTF / World Bank / PT Hatfield Indonesia
-- **Period**: 2021 - 2022
-- **Category / Focus**: MARINE (Oceans MDTF, KKPD Alor, PPP Schemes, Sustainable MPA Financing, Restricted Access)
-- **Technical Scope & Output**: Conducted an institutional and legal gap analysis of Public-Private Partnership (PPP) and co-management financing models for the Alor Marine Protected Area (KKPD Alor), evaluating revenue-generation mechanisms, dive tourism fees, and customary marine tenure (Molo) integration.
-
-### 31. Diagnostic Study on Gaps & Implementation Challenges of RZWP3K Coastal Zoning in NTT
-- **Client / Partner**: PT Hatfield Indonesia / Regional Coastal Partners
-- **Period**: 2020 - 2022
-- **Category / Focus**: MARINE (RZWP3K, Marine Spatial Planning, NTT Province, Restricted Access)
-- **Technical Scope & Output**: Delivered a diagnostic study examining regulatory conflicts, spatial data incongruities, and inter-agency enforcement bottlenecks in implementing the Provincial Coastal and Small Islands Zoning Plan (RZWP-3-K) across East Nusa Tenggara (NTT) Province.
-
-### 32. Environmental and Social Impact Assessment (ESIA) for Kendari Eco-Fishing Port Modernization
+### 27. Environmental and Social Impact Assessment (ESIA) for Kendari Eco-Fishing Port Modernization
 - **Client / Partner**: Agence Française de Développement (AFD) / PT Hatfield Indonesia
 - **Period**: 2021 - 2022
 - **Category / Focus**: ENVIRONMENT (ESIA, Eco-Fishing Port, Kendari, AFD Safeguards, Restricted Access)
 - **Technical Scope & Output**: Authored the full Environmental and Social Impact Assessment (ESIA), Environmental and Social Management Plan (ESMP), and Stakeholder Engagement Plan (SEP) for the major modernization and infrastructure expansion of PPS Kendari funded by AFD.
 
-### 33. World Bank Coral Bond IPF: Marine Law Enforcement & Surveillance Capacity Assessment
+### 28. World Bank Coral Bond IPF: Marine Law Enforcement & Surveillance Capacity Assessment
 - **Client / Partner**: World Bank Group / PT Hatfield Indonesia
 - **Period**: 2021 - 2022
 - **Category / Focus**: MARINE (Coral Bond, MCS Law Enforcement, Marine Conservation, World Bank, Restricted Access)
 - **Technical Scope & Output**: Conducted a national institutional capacity assessment on maritime surveillance, monitoring, control, and surveillance (MCS) infrastructure, and judicial enforcement across priority Marine Protected Areas supporting the design of the World Bank Coral Bond Investment Project Financing (IPF).
 
-### 34. Socio-Economic Baseline, Gender Action Plan & Stakeholder Impact Analysis for PPS Cilacap
+### 29. Socio-Economic Baseline, Gender Action Plan & Stakeholder Impact Analysis for PPS Cilacap
 - **Client / Partner**: AFD / PT Hatfield Indonesia
 - **Period**: 2021 - 2022
 - **Category / Focus**: ENVIRONMENT (PPS Cilacap, Socio-Economic Baseline, Gender Action Plan, AFD, Restricted Access)
 - **Technical Scope & Output**: Executed extensive socio-economic field surveys, gender vulnerability analyses, and stakeholder consultation matrices for the modernization of Cilacap Oceanic Fishing Port (PPS Cilacap), formulating inclusive resettlement frameworks and women-empowerment livelihood strategies.
 
-### 35. Zoning Document and Spatial Management Plan for Kolepom Island Marine Protected Area
+### 30. Zoning Document and Spatial Management Plan for Kolepom Island Marine Protected Area
 - **Client / Partner**: UNDP / PT Hatfield Indonesia
 - **Period**: 2021 - 2022
 - **Category / Focus**: MARINE (Kolepom MPA, Spatial Zoning, Conservation Plan, Papua, Restricted Access)
