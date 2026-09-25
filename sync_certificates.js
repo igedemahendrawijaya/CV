@@ -76,6 +76,17 @@ const MASTER_MAPPINGS = {
     competencies: 'Biodiversity Credits Framework, High-Integrity Nature Credits, Biodiversity Credit Alliance (BCA) Principles, Nature-Positive Market Mechanisms, Indigenous & Community Rights (IPLC Safeguards), Biodiversity Metrics & Monitoring',
     description: 'Specialized learning journey certification on biodiversity credits awarded by the Biodiversity Credit Alliance (BCA) and Nature for Life Hub in collaboration with the University of Nottingham. Comprehensive training on high-integrity biodiversity credit markets, nature-positive crediting mechanisms, biodiversity metrics, integrity governance, and community benefit-sharing models.'
   },
+  'Source to Sea Management Course.pdf': {
+    en: 'Source-to-Sea (S2S) Management Course',
+    id: 'Pengelolaan Terpadu Hulu ke Hilir (Source-to-Sea / S2S Management)',
+    issuer: 'Cap-Net UNDP, SIWI & Action Platform for Source-to-Sea Management',
+    date: 'Sep 2026',
+    category: 'marine-fisheries',
+    tags: ['Cap-Net', 'UNDP', 'Source to Sea', 'IWRM', 'Coastal Governance'],
+    credentialUrl: 'https://cap-net.org',
+    competencies: 'Source-to-Sea (S2S) Governance, Integrated Water Resources Management (IWRM), Land-Sea Interaction Modeling, Freshwater & Coastal Linkages, Upstream Pollution Abatement, Marine Spatial Governance',
+    description: 'Specialized international certification on holistic Source-to-Sea (S2S) management issued by Cap-Net UNDP, Stockholm International Water Institute (SIWI), and the Action Platform for Source-to-Sea Management. Comprehensive curriculum addressing transboundary river-coastal linkages, upstream land-based pollution mitigation, sediment and nutrient flow governance, and integrated watershed-to-marine ecosystem planning.'
+  },
   '12440_3_576693_1757648957_Palo Alto Networks Course Certificate of Completion.pdf': {
     en: 'Network Security Fundamentals',
     id: 'Dasar-Dasar Keamanan Jaringan (Network Security Fundamentals)',
@@ -641,6 +652,17 @@ const ADDITIONAL_MASTER_TRAININGS = [
     date: 'Jul 2023',
     category: 'marine-fisheries',
     tags: ['Copernicus', 'Marine Data', 'Remote Sensing']
+  },
+  {
+    en: 'Article 6 Decision-Making: Training for Practitioners',
+    id: 'Pengambilan Keputusan Pasal 6 Perjanjian Paris: Pelatihan untuk Praktisi (Article 6 Decision-Making)',
+    issuer: 'Paris Agreement Article 6 Implementation Partnership (A6IP) Center, Perspectives Climate Research & GHGMI',
+    date: 'Sep 2026',
+    category: 'carbon-climate',
+    tags: ['Article 6', 'A6IP', 'GHGMI', 'ITMOs', 'Carbon Markets', 'Paris Agreement', 'Carbon Crediting'],
+    credentialUrl: 'https://a6partnership.org/article-6-decision-making-training-for-practitioners',
+    competencies: 'Paris Agreement Article 6.2 & 6.4, Internationally Transferred Mitigation Outcomes (ITMOs), Carbon Market Decision-Making, Corresponding Adjustments, GHG Accounting & MRV, Carbon Crediting Mechanisms, Institutional Arrangements',
+    description: 'Advanced professional training for carbon market practitioners developed by Perspectives Climate Research and the Greenhouse Gas Management Institute (GHGMI), supported by the Paris Agreement Article 6 Implementation Partnership (A6IP) Center, Ministry of the Environment Japan (MOEJ), and BMWK Germany. Rigorous curriculum covering strategic evaluation of Article 6 mechanisms (6.2 cooperative approaches and 6.4 crediting mechanism), international carbon market dynamics, project-level GHG accounting, corresponding adjustments, and national institutional readiness for market-based mitigation.'
   }
 ];
 
@@ -762,10 +784,24 @@ async function main() {
 
   console.log(`Total active certificates in portfolio: ${cvData.en.certificates.length}`);
 
+  // Update stats dynamically
+  if (cvData.en.stats) {
+    const certStatEn = cvData.en.stats.find(s => s.label.includes('Certifications'));
+    if (certStatEn) certStatEn.value = `${cvData.en.certificates.length}`;
+  }
+  if (cvData.id && cvData.id.stats) {
+    const certStatId = cvData.id.stats.find(s => s.label.includes('Sertifikasi'));
+    if (certStatId) certStatId.value = `${cvData.en.certificates.length}`;
+  }
+
   // Update data.js
   const fileContent = `export const cvData = ${JSON.stringify(cvData, null, 2)};\n`;
   fs.writeFileSync('data.js', fileContent, 'utf8');
   console.log(`Updated data.js successfully with ${cvData.en.certificates.length} complete certificates.`);
+
+  // Regenerate Master Word and Markdown CV
+  console.log('Regenerating Master Word & Markdown CV...');
+  execSync('node sync_master_docx.js', { stdio: 'inherit' });
 
   // Build the website
   console.log('Building Vite site...');

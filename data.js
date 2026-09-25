@@ -21,7 +21,7 @@ export const cvData = {
         "label": "Projects Completed"
       },
       {
-        "value": "67",
+        "value": "69",
         "label": "Certifications"
       },
       {
@@ -668,6 +668,23 @@ export const cvData = {
         "competencies": "IPCC Inventory Software, 2006 IPCC Guidelines for National GHG Inventories, Enhanced Transparency Framework (ETF), LULUCF & AFOLU Emission Estimation, UNFCCC ETF Reporting Tool Interoperability, Activity Data & Emission Factor Management"
       },
       {
+        "name": "Source-to-Sea (S2S) Management Course",
+        "issuer": "Cap-Net UNDP, SIWI & Action Platform for Source-to-Sea Management",
+        "date": "Sep 2026",
+        "category": "marine-fisheries",
+        "tags": [
+          "Cap-Net",
+          "UNDP",
+          "Source to Sea",
+          "IWRM",
+          "Coastal Governance"
+        ],
+        "link": "certificates/Source_to_Sea_Management_Course.pdf",
+        "credentialUrl": "https://cap-net.org",
+        "description": "Specialized international certification on holistic Source-to-Sea (S2S) management issued by Cap-Net UNDP, Stockholm International Water Institute (SIWI), and the Action Platform for Source-to-Sea Management. Comprehensive curriculum addressing transboundary river-coastal linkages, upstream land-based pollution mitigation, sediment and nutrient flow governance, and integrated watershed-to-marine ecosystem planning.",
+        "competencies": "Source-to-Sea (S2S) Governance, Integrated Water Resources Management (IWRM), Land-Sea Interaction Modeling, Freshwater & Coastal Linkages, Upstream Pollution Abatement, Marine Spatial Governance"
+      },
+      {
         "name": "REDD+ Academy: Forest Carbon & National Strategy Capacity Building",
         "issuer": "UN-REDD Programme (FAO, UNDP, UNEP)",
         "date": "Sep 2026",
@@ -717,6 +734,25 @@ export const cvData = {
         "credentialUrl": "https://alison.com/verify/5b82d8b9ba",
         "description": "Comprehensive professional diploma in Environmental Management accredited by Alison (Credential ID: 1917-10374639), covering environmental management systems (ISO 14001), EIA/ESIA screening and scoping, environmental auditing and compliance standards, waste and water resource governance, pollution abatement protocols, and strategic ecological sustainability.",
         "competencies": "Environmental Management Systems (EMS / ISO 14001), Environmental Impact Assessment (EIA / ESIA), Environmental Auditing & Compliance, Pollution Prevention & Control, Ecological Sustainability & Resource Efficiency"
+      },
+      {
+        "name": "Article 6 Decision-Making: Training for Practitioners",
+        "issuer": "Paris Agreement Article 6 Implementation Partnership (A6IP) Center, Perspectives Climate Research & GHGMI",
+        "date": "Sep 2026",
+        "category": "carbon-climate",
+        "tags": [
+          "Article 6",
+          "A6IP",
+          "GHGMI",
+          "ITMOs",
+          "Carbon Markets",
+          "Paris Agreement",
+          "Carbon Crediting"
+        ],
+        "link": null,
+        "credentialUrl": "https://a6partnership.org/article-6-decision-making-training-for-practitioners",
+        "description": "Advanced professional training for carbon market practitioners developed by Perspectives Climate Research and the Greenhouse Gas Management Institute (GHGMI), supported by the Paris Agreement Article 6 Implementation Partnership (A6IP) Center, Ministry of the Environment Japan (MOEJ), and BMWK Germany. Rigorous curriculum covering strategic evaluation of Article 6 mechanisms (6.2 cooperative approaches and 6.4 crediting mechanism), international carbon market dynamics, project-level GHG accounting, corresponding adjustments, and national institutional readiness for market-based mitigation.",
+        "competencies": "Paris Agreement Article 6.2 & 6.4, Internationally Transferred Mitigation Outcomes (ITMOs), Carbon Market Decision-Making, Corresponding Adjustments, GHG Accounting & MRV, Carbon Crediting Mechanisms, Institutional Arrangements"
       },
       {
         "name": "201 Basics of Organizational GHG Accounting (Certificate of Proficiency)",
@@ -1551,7 +1587,7 @@ export const cvData = {
         "label": "Proyek Selesai"
       },
       {
-        "value": "67",
+        "value": "69",
         "label": "Sertifikasi"
       },
       {
@@ -2198,6 +2234,23 @@ export const cvData = {
         "competencies": "IPCC Inventory Software, 2006 IPCC Guidelines for National GHG Inventories, Enhanced Transparency Framework (ETF), LULUCF & AFOLU Emission Estimation, UNFCCC ETF Reporting Tool Interoperability, Activity Data & Emission Factor Management"
       },
       {
+        "name": "Pengelolaan Terpadu Hulu ke Hilir (Source-to-Sea / S2S Management)",
+        "issuer": "Cap-Net UNDP, SIWI & Action Platform for Source-to-Sea Management",
+        "date": "Sep 2026",
+        "category": "marine-fisheries",
+        "tags": [
+          "Cap-Net",
+          "UNDP",
+          "Source to Sea",
+          "IWRM",
+          "Coastal Governance"
+        ],
+        "link": "certificates/Source_to_Sea_Management_Course.pdf",
+        "credentialUrl": "https://cap-net.org",
+        "description": "Specialized international certification on holistic Source-to-Sea (S2S) management issued by Cap-Net UNDP, Stockholm International Water Institute (SIWI), and the Action Platform for Source-to-Sea Management. Comprehensive curriculum addressing transboundary river-coastal linkages, upstream land-based pollution mitigation, sediment and nutrient flow governance, and integrated watershed-to-marine ecosystem planning.",
+        "competencies": "Source-to-Sea (S2S) Governance, Integrated Water Resources Management (IWRM), Land-Sea Interaction Modeling, Freshwater & Coastal Linkages, Upstream Pollution Abatement, Marine Spatial Governance"
+      },
+      {
         "name": "Akademi REDD+: Peningkatan Kapasitas Karbon Hutan & Strategi Nasional",
         "issuer": "UN-REDD Programme (FAO, UNDP, UNEP)",
         "date": "Sep 2026",
@@ -2247,6 +2300,25 @@ export const cvData = {
         "credentialUrl": "https://alison.com/verify/5b82d8b9ba",
         "description": "Comprehensive professional diploma in Environmental Management accredited by Alison (Credential ID: 1917-10374639), covering environmental management systems (ISO 14001), EIA/ESIA screening and scoping, environmental auditing and compliance standards, waste and water resource governance, pollution abatement protocols, and strategic ecological sustainability.",
         "competencies": "Environmental Management Systems (EMS / ISO 14001), Environmental Impact Assessment (EIA / ESIA), Environmental Auditing & Compliance, Pollution Prevention & Control, Ecological Sustainability & Resource Efficiency"
+      },
+      {
+        "name": "Pengambilan Keputusan Pasal 6 Perjanjian Paris: Pelatihan untuk Praktisi (Article 6 Decision-Making)",
+        "issuer": "Paris Agreement Article 6 Implementation Partnership (A6IP) Center, Perspectives Climate Research & GHGMI",
+        "date": "Sep 2026",
+        "category": "carbon-climate",
+        "tags": [
+          "Article 6",
+          "A6IP",
+          "GHGMI",
+          "ITMOs",
+          "Carbon Markets",
+          "Paris Agreement",
+          "Carbon Crediting"
+        ],
+        "link": null,
+        "credentialUrl": "https://a6partnership.org/article-6-decision-making-training-for-practitioners",
+        "description": "Advanced professional training for carbon market practitioners developed by Perspectives Climate Research and the Greenhouse Gas Management Institute (GHGMI), supported by the Paris Agreement Article 6 Implementation Partnership (A6IP) Center, Ministry of the Environment Japan (MOEJ), and BMWK Germany. Rigorous curriculum covering strategic evaluation of Article 6 mechanisms (6.2 cooperative approaches and 6.4 crediting mechanism), international carbon market dynamics, project-level GHG accounting, corresponding adjustments, and national institutional readiness for market-based mitigation.",
+        "competencies": "Paris Agreement Article 6.2 & 6.4, Internationally Transferred Mitigation Outcomes (ITMOs), Carbon Market Decision-Making, Corresponding Adjustments, GHG Accounting & MRV, Carbon Crediting Mechanisms, Institutional Arrangements"
       },
       {
         "name": "Dasar-Dasar Akuntansi GRK Organisasi - 201 Basics of Organizational GHG Accounting (Sertifikat Profisiensi)",
