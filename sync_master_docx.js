@@ -169,20 +169,16 @@ export function generateMasterMarkdown() {
 
   md += `---\n\n`;
   md += `## Honors, Awards & Recognitions\n\n`;
-  const awards = [
-    { year: '2026', name: 'Fellowship in Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance', org: 'The United Nations Institute for Training and Research (UNITAR)' },
-    { year: '2022', name: 'The 114th Prospective Innovation Award of Indonesia – 2022 Indonesia Scientist Award', org: 'Business Innovation Center (BIC) & Ministry of Research and Technology' },
-    { year: '2022', name: 'Candidate in Youth Economic Leadership Program (YELP)', org: 'Bank Indonesia Institute' },
-    { year: '2019', name: 'Speaker at DigiFish "Incubating Ecosystem of Digital Innovation"', org: 'DigiFish Network & Ministry of Marine Affairs and Fisheries' },
-    { year: '2014', name: 'Indonesian Young Innovator Award', org: 'Inovasia Indonesia' },
-    { year: '2013', name: 'Indonesian Youth Parliament Delegate for North Maluku', org: 'Indonesian Youth Parliament' },
-    { year: '2012', name: 'The 104th Prospective Innovation Award of Indonesia – 2012 Indonesia Scientist Award', org: 'Business Innovation Center (BIC)' },
-    { year: '2012', name: 'Candidate in Indonesian Leadership Camp', org: 'IPB University' }
-  ];
+  const awards = cvData.en.awards || [];
   awards.forEach((aw, i) => {
-    md += `${i + 1}. **[${aw.year}] ${aw.name}** — ${aw.org}\n`;
+    md += `${i + 1}. **[${aw.year}] ${aw.name}**\n`;
+    md += `   - **Issued by**: ${aw.issuer}\n`;
+    if (aw.description) {
+      md += `   - **Summary**: ${aw.description}\n`;
+    }
+    md += `\n`;
   });
-  md += `\n---\n\n`;
+  md += `---\n\n`;
 
   md += `## Professional References\n\n`;
   md += `1. **Dr. Lida Pet-Soede**  \n`;
@@ -473,29 +469,31 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
 
   // 8. Awards
   docChildren.push(...createSectionHeading('Honors, Awards & Recognitions'));
-  const awards = [
-    { year: '2026', name: 'Fellowship in Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance', org: 'The United Nations Institute for Training and Research (UNITAR)' },
-    { year: '2022', name: 'The 114th Prospective Innovation Award of Indonesia – 2022 Indonesia Scientist Award', org: 'Business Innovation Center (BIC) & Ministry of Research and Technology' },
-    { year: '2022', name: 'Candidate in Youth Economic Leadership Program (YELP)', org: 'Bank Indonesia Institute' },
-    { year: '2019', name: 'Speaker at DigiFish "Incubating Ecosystem of Digital Innovation"', org: 'DigiFish Network & Ministry of Marine Affairs and Fisheries' },
-    { year: '2014', name: 'Indonesian Young Innovator Award', org: 'Inovasia Indonesia' },
-    { year: '2013', name: 'Indonesian Youth Parliament Delegate for North Maluku', org: 'Indonesian Youth Parliament' },
-    { year: '2012', name: 'The 104th Prospective Innovation Award of Indonesia – 2012 Indonesia Scientist Award', org: 'Business Innovation Center (BIC)' },
-    { year: '2012', name: 'Candidate in Indonesian Leadership Camp', org: 'IPB University' }
-  ];
+  const awards = cvData.en.awards || [];
 
   awards.forEach(aw => {
     docChildren.push(
       new Paragraph({
         bullet: { level: 0 },
-        spacing: { before: 20, after: 30 },
+        spacing: { before: 20, after: 20 },
         children: [
           new TextRun({ text: `[${aw.year}] `, bold: true, size: 19, color: PRIMARY_COLOR, font: 'Arial' }),
           new TextRun({ text: `${aw.name} `, bold: true, size: 19, color: TEXT_DARK, font: 'Arial' }),
-          new TextRun({ text: `— ${aw.org}`, italic: true, size: 18, color: TEXT_MUTED, font: 'Arial' })
+          new TextRun({ text: `— ${aw.issuer || aw.org}`, italic: true, size: 18, color: TEXT_MUTED, font: 'Arial' })
         ]
       })
     );
+    if (aw.description) {
+      docChildren.push(
+        new Paragraph({
+          indent: { left: 360 },
+          spacing: { before: 0, after: 30 },
+          children: [
+            new TextRun({ text: aw.description, size: 17, color: TEXT_MUTED, font: 'Arial' })
+          ]
+        })
+      );
+    }
   });
 
   // 9. References

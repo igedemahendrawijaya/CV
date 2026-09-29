@@ -17,6 +17,7 @@ const timelineContainer = document.getElementById('experience-timeline');
 const educationGrid = document.getElementById('education-grid');
 const projectsGrid = document.getElementById('projects-grid');
 const publicationsList = document.getElementById('publications-list');
+const awardsList = document.getElementById('awards-list');
 const certificatesGrid = document.getElementById('certificates-grid');
 const referencesGrid = document.getElementById('references-grid');
 const projectFilterBtns = document.querySelectorAll('[data-filter]');
@@ -161,6 +162,27 @@ function renderPublications(lang) {
   `).join('');
 }
 
+// Render Honors & Awards
+function renderAwards(lang) {
+  if (!awardsList) return;
+  const awards = cvData[lang].awards || [];
+  awardsList.innerHTML = awards.map(aw => `
+    <div class="publication-item glass">
+      <div class="card-glow"></div>
+      <div class="pub-year-badge" style="background: rgba(13, 148, 136, 0.1); border-color: rgba(13, 148, 136, 0.25); color: var(--primary-teal);">${aw.year}</div>
+      <div class="pub-info">
+        <h3 style="color: var(--text-primary); font-size: 1.12rem; margin-bottom: 6px;">
+          ${aw.name}
+        </h3>
+        <p class="pub-journal" style="color: var(--primary-teal); font-weight: 600; font-style: normal; margin-bottom: 6px;">
+          <i class="fa-solid fa-award" style="margin-right: 6px;"></i>${aw.issuer}
+        </p>
+        ${aw.description ? `<p class="pub-desc" style="font-size: 0.88rem; color: var(--text-secondary); margin-top: 6px; line-height: 1.5;">${aw.description}</p>` : ''}
+      </div>
+    </div>
+  `).join('');
+}
+
 // Render Certificates Cards
 function renderCertificates(lang, query = currentCertSearch, category = currentCertCategory) {
   if (!certificatesGrid) return;
@@ -279,6 +301,7 @@ function translateUI(lang) {
   renderEducation(lang);
   renderProjects(lang, currentProjectFilter);
   renderPublications(lang);
+  renderAwards(lang);
   renderCertificates(lang, currentCertSearch);
   renderReferences(lang);
 }

@@ -1526,6 +1526,7 @@ export const cvData = {
       "navExperience": "Journey",
       "navProjects": "Projects",
       "navPublications": "Publications",
+      "navAwards": "Awards",
       "navCertificates": "Certificates",
       "navContact": "Contact",
       "downloadCV": "Download CV",
@@ -1533,6 +1534,7 @@ export const cvData = {
       "roleSubtitle": "Marine Environmental Specialist | Carbon & Fisheries Management",
       "statsTitle": "Professional Highlights",
       "experienceTitle": "Professional Journey",
+      "awardsTitle": "Honors & Awards",
       "projectsTitle": "Key Projects",
       "projectAll": "All Categories",
       "projectCarbon": "Carbon & Ecosystems",
@@ -1563,7 +1565,72 @@ export const cvData = {
       "certHse": "HSE & Quality Assurance",
       "certProject": "Project Management & Leadership",
       "educationTitle": "Education & Academic Background"
-    }
+    },
+    "awards": [
+      {
+        "year": "2026",
+        "name": "Key Essentials: The Sustainable Development Goals and the Law",
+        "issuer": "Democratising Education for Global Sustainability and Justice (DemEd Global) / University of Cambridge",
+        "date": "Sep 2026",
+        "description": "Selected among 4,800+ global applicants across 150+ countries to receive a donor-funded scholarship for the intensive short course on Sustainable Development Goals and the Law, delivered by Lucy Cavendish College and Hughes Hall, University of Cambridge."
+      },
+      {
+        "year": "2026",
+        "name": "UNITAR Green Economic Acceleration: A Japan–ASEAN Strategic Programme for Sustainable Green Finance",
+        "issuer": "United Nations Institute for Training and Research (UNITAR) and UN CC:Learn",
+        "date": "Jul 2026",
+        "description": "Selected through a competitive selection process among applicants across the ASEAN region for the Japan–ASEAN strategic initiative delivered by UNITAR. The program focuses on sustainable green finance mechanisms, bankable green project design, and regional policies driving the green economic transition."
+      },
+      {
+        "year": "2022",
+        "name": "The 114th Prospective Innovation Award of Indonesia – 2022 Indonesia Scientist Award",
+        "issuer": "Business Innovation Center (BIC) & Ministry of Research and Technology (Kemenristek/BRIN)",
+        "date": "2022",
+        "description": "National innovation recognition awarded for applied marine technology and sustainable fisheries innovation."
+      },
+      {
+        "year": "2022",
+        "name": "Candidate in Youth Economic Leadership Program (YELP)",
+        "issuer": "Bank Indonesia Institute",
+        "date": "2022",
+        "description": "Selected candidate for the national economic and leadership acceleration initiative by Bank Indonesia Institute."
+      },
+      {
+        "year": "2019",
+        "name": "Featured Speaker at DigiFish Incubating Ecosystem of Digital Innovation",
+        "issuer": "DigiFish Network & Ministry of Marine Affairs and Fisheries (KKP)",
+        "date": "2019",
+        "description": "Invited keynote and expert speaker on digital transformation, satellite VMS, and IoT smart aquaculture platforms."
+      },
+      {
+        "year": "2014",
+        "name": "Indonesian Young Innovator Award",
+        "issuer": "Inovasia Indonesia & Kemenpora RI",
+        "date": "2014",
+        "description": "Recognized among top national youth innovators for applied environmental and acoustic research."
+      },
+      {
+        "year": "2013",
+        "name": "Indonesian Youth Parliament Delegate for North Maluku",
+        "issuer": "Indonesian Youth Parliament",
+        "date": "2013",
+        "description": "Selected youth parliamentary representative advocating coastal governance, archipelagic policy, and marine conservation."
+      },
+      {
+        "year": "2012",
+        "name": "The 104th Prospective Innovation Award of Indonesia – 2012 Indonesia Scientist Award",
+        "issuer": "Business Innovation Center (BIC)",
+        "date": "2012",
+        "description": "Awarded for pioneering undergraduate research on bioacoustics and acoustic fish behavior."
+      },
+      {
+        "year": "2012",
+        "name": "Candidate in Indonesian Leadership Camp",
+        "issuer": "IPB University",
+        "date": "2012",
+        "description": "Selected participant for intensive student leadership and governance camp."
+      }
+    ]
   },
   "id": {
     "personal": {
@@ -3092,6 +3159,7 @@ export const cvData = {
       "navExperience": "Perjalanan",
       "navProjects": "Proyek",
       "navPublications": "Publikasi",
+      "navAwards": "Penghargaan",
       "navCertificates": "Sertifikat",
       "navContact": "Kontak",
       "downloadCV": "Unduh CV",
@@ -3099,6 +3167,7 @@ export const cvData = {
       "roleSubtitle": "Spesialis Lingkungan Laut | Manajemen Karbon & Perikanan",
       "statsTitle": "Sorotan Profesional",
       "experienceTitle": "Perjalanan Karir",
+      "awardsTitle": "Penghargaan & Rekognisi",
       "projectsTitle": "Proyek Kunci",
       "projectAll": "Semua Kategori",
       "projectCarbon": "Karbon & Ekosistem",
@@ -3129,6 +3198,71 @@ export const cvData = {
       "certHse": "K3L (HSE) & Mutu",
       "certProject": "Manajemen Proyek & Kepemimpinan",
       "educationTitle": "Pendidikan Formal & Akademik"
-    }
+    },
+    "awards": [
+      {
+        "year": "2026",
+        "name": "Beasiswa Studi: Key Essentials - The Sustainable Development Goals and the Law",
+        "issuer": "Democratising Education for Global Sustainability and Justice (DemEd Global) / University of Cambridge",
+        "date": "Sep 2026",
+        "description": "Terpilih dari lebih dari 4.800 pelamar global di lebih dari 150 negara untuk menerima beasiswa penuh yang didanai donor dalam kursus intensif Sustainable Development Goals and the Law, yang diselenggarakan oleh Lucy Cavendish College dan Hughes Hall, University of Cambridge."
+      },
+      {
+        "year": "2026",
+        "name": "UNITAR Green Economic Acceleration: A Japan–ASEAN Strategic Programme for Sustainable Green Finance",
+        "issuer": "United Nations Institute for Training and Research (UNITAR) dan UN CC:Learn",
+        "date": "Jul 2026",
+        "description": "Terpilih melalui proses seleksi kompetitif dari pelamar di seluruh kawasan ASEAN untuk inisiatif strategis Jepang–ASEAN yang diselenggarakan oleh UNITAR. Program ini berfokus pada mekanisme keuangan hijau berkelanjutan, perancangan proyek hijau yang bankable, dan kebijakan regional pendorong transisi ekonomi hijau."
+      },
+      {
+        "year": "2022",
+        "name": "Penghargaan 114 Inovasi Prospektif Indonesia – Anugerah Ilmuwan Indonesia 2022",
+        "issuer": "Business Innovation Center (BIC) & Kementerian Riset dan Teknologi (Kemenristek/BRIN)",
+        "date": "2022",
+        "description": "Penghargaan inovasi nasional atas pengembangan teknologi kelautan terapan dan inovasi perikanan berkelanjutan."
+      },
+      {
+        "year": "2022",
+        "name": "Kandidat Terpilih Youth Economic Leadership Program (YELP)",
+        "issuer": "Bank Indonesia Institute",
+        "date": "2022",
+        "description": "Peserta terpilih dalam program akselerasi kepemimpinan ekonomi nasional oleh Bank Indonesia Institute."
+      },
+      {
+        "year": "2019",
+        "name": "Pembicara Utama Konferensi Internasional DigiFish Incubating Ecosystem of Digital Innovation",
+        "issuer": "DigiFish Network & Kementerian Kelautan dan Perikanan (KKP)",
+        "date": "2019",
+        "description": "Pembicara ahli dalam transformasi digital, pemantauan satelit VMS, dan platform IoT smart aquaculture."
+      },
+      {
+        "year": "2014",
+        "name": "Penghargaan Inovator Muda Indonesia",
+        "issuer": "Inovasia Indonesia & Kemenpora RI",
+        "date": "2014",
+        "description": "Dianugerahi sebagai salah satu inovator muda nasional terbaik untuk riset lingkungan dan akustik terapan."
+      },
+      {
+        "year": "2013",
+        "name": "Delegasi Parlemen Muda Indonesia Wilayah Maluku Utara",
+        "issuer": "Parlemen Muda Indonesia",
+        "date": "2013",
+        "description": "Wakil pemuda terpilih yang memperjuangkan kebijakan tata kelola kepulauan, perikanan, dan konservasi laut."
+      },
+      {
+        "year": "2012",
+        "name": "Penghargaan 104 Inovasi Prospektif Indonesia – Anugerah Ilmuwan Indonesia 2012",
+        "issuer": "Business Innovation Center (BIC)",
+        "date": "2012",
+        "description": "Penghargaan inovasi nasional atas riset pionir bioakustik dan respon tingkah laku ikan terhadap frekuensi suara."
+      },
+      {
+        "year": "2012",
+        "name": "Kandidat Terpilih Indonesian Leadership Camp",
+        "issuer": "Institut Pertanian Bogor (IPB)",
+        "date": "2012",
+        "description": "Peserta terpilih dalam pelatihan intensif kepemimpinan mahasiswa dan tata kelola organisasi."
+      }
+    ]
   }
 };

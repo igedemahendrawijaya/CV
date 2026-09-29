@@ -439,14 +439,41 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 
 ## Honors, Awards & Recognitions
 
-1. **[2026] Fellowship in Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance** — The United Nations Institute for Training and Research (UNITAR)
-2. **[2022] The 114th Prospective Innovation Award of Indonesia – 2022 Indonesia Scientist Award** — Business Innovation Center (BIC) & Ministry of Research and Technology
-3. **[2022] Candidate in Youth Economic Leadership Program (YELP)** — Bank Indonesia Institute
-4. **[2019] Speaker at DigiFish "Incubating Ecosystem of Digital Innovation"** — DigiFish Network & Ministry of Marine Affairs and Fisheries
-5. **[2014] Indonesian Young Innovator Award** — Inovasia Indonesia
-6. **[2013] Indonesian Youth Parliament Delegate for North Maluku** — Indonesian Youth Parliament
-7. **[2012] The 104th Prospective Innovation Award of Indonesia – 2012 Indonesia Scientist Award** — Business Innovation Center (BIC)
-8. **[2012] Candidate in Indonesian Leadership Camp** — IPB University
+1. **[2026] Key Essentials: The Sustainable Development Goals and the Law**
+   - **Issued by**: Democratising Education for Global Sustainability and Justice (DemEd Global) / University of Cambridge
+   - **Summary**: Selected among 4,800+ global applicants across 150+ countries to receive a donor-funded scholarship for the intensive short course on Sustainable Development Goals and the Law, delivered by Lucy Cavendish College and Hughes Hall, University of Cambridge.
+
+2. **[2026] UNITAR Green Economic Acceleration: A Japan–ASEAN Strategic Programme for Sustainable Green Finance**
+   - **Issued by**: United Nations Institute for Training and Research (UNITAR) and UN CC:Learn
+   - **Summary**: Selected through a competitive selection process among applicants across the ASEAN region for the Japan–ASEAN strategic initiative delivered by UNITAR. The program focuses on sustainable green finance mechanisms, bankable green project design, and regional policies driving the green economic transition.
+
+3. **[2022] The 114th Prospective Innovation Award of Indonesia – 2022 Indonesia Scientist Award**
+   - **Issued by**: Business Innovation Center (BIC) & Ministry of Research and Technology (Kemenristek/BRIN)
+   - **Summary**: National innovation recognition awarded for applied marine technology and sustainable fisheries innovation.
+
+4. **[2022] Candidate in Youth Economic Leadership Program (YELP)**
+   - **Issued by**: Bank Indonesia Institute
+   - **Summary**: Selected candidate for the national economic and leadership acceleration initiative by Bank Indonesia Institute.
+
+5. **[2019] Featured Speaker at DigiFish Incubating Ecosystem of Digital Innovation**
+   - **Issued by**: DigiFish Network & Ministry of Marine Affairs and Fisheries (KKP)
+   - **Summary**: Invited keynote and expert speaker on digital transformation, satellite VMS, and IoT smart aquaculture platforms.
+
+6. **[2014] Indonesian Young Innovator Award**
+   - **Issued by**: Inovasia Indonesia & Kemenpora RI
+   - **Summary**: Recognized among top national youth innovators for applied environmental and acoustic research.
+
+7. **[2013] Indonesian Youth Parliament Delegate for North Maluku**
+   - **Issued by**: Indonesian Youth Parliament
+   - **Summary**: Selected youth parliamentary representative advocating coastal governance, archipelagic policy, and marine conservation.
+
+8. **[2012] The 104th Prospective Innovation Award of Indonesia – 2012 Indonesia Scientist Award**
+   - **Issued by**: Business Innovation Center (BIC)
+   - **Summary**: Awarded for pioneering undergraduate research on bioacoustics and acoustic fish behavior.
+
+9. **[2012] Candidate in Indonesian Leadership Camp**
+   - **Issued by**: IPB University
+   - **Summary**: Selected participant for intensive student leadership and governance camp.
 
 ---
 
