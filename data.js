@@ -9,7 +9,7 @@ export const cvData = {
       "location": "Denpasar, Bali, Indonesia",
       "linkedin": "linkedin.com/in/gmwijaya",
       "orcid": "0000-0003-2312-7031",
-      "profileSummary": "Marine environmental specialist with over 13 years of experience delivering high-level technical support across marine-based industries directly affected by climate change. Expertise spans marine and coastal management, fisheries governance, carbon and ecosystem services, environmental and social impact assessment, and community development. A track record of success with major international clients: World Bank, ADB, FAO, UNDP, WWF, and The Nature Conservancy, including award-winning innovation recognised by Indonesia's Business Innovation Centre (BIC). Highly skilled in project management, stakeholder engagement, M&E frameworks, and applying innovative digital solutions to conservation challenges. Passionate about advancing marine environmental management through rigorous research and collaborative partnerships."
+      "profileSummary": "Marine environmental specialist with over 13 years of experience delivering high-level technical leadership across marine-based sectors, forest concessions, and industrial waste decarbonization. Formally trained in marine science and acoustics (IPB University), with expertise spanning coastal and ocean governance, sustainable fisheries, forest concession licensing (PBPH), and carbon mitigation across AFOLU (>200,000 ha peatland/wetland concessions in Papua) and Waste sectors (Palm Oil Mill Effluent / POME methane capture & biogas-to-energy). Proven track record with major international institutions (World Bank, ADB, FAO, UNDP, WWF, TNC) and national innovation award recognition (BIC). Highly skilled in carbon accounting (SRUK, VCM, Paris Agreement Article 6), MRV, environmental safeguards (ESIA/AMDAL), and multi-stakeholder engagement."
     },
     "stats": [
       {
@@ -1564,7 +1564,8 @@ export const cvData = {
       "certSafeguards": "ESG, Social & Safeguards",
       "certHse": "HSE & Quality Assurance",
       "certProject": "Project Management & Leadership",
-      "educationTitle": "Education & Academic Background"
+      "educationTitle": "Education & Academic Background",
+      "membershipsTitle": "Professional Memberships & Affiliations"
     },
     "awards": [
       {
@@ -1630,6 +1631,15 @@ export const cvData = {
         "date": "2012",
         "description": "Selected participant for intensive student leadership and governance camp."
       }
+    ],
+    "memberships": [
+      {
+        "name": "Asian Fisheries Acoustics Society (AFAS)",
+        "role": "Member",
+        "period": "2012 – Present",
+        "url": "https://www.afas-acoustic.org/",
+        "description": "Active member contributing to regional advancements in underwater bioacoustics, fisheries acoustic survey technologies, optical-acoustic integration, and marine ecosystem monitoring across Asian and global waters."
+      }
     ]
   },
   "id": {
@@ -1642,7 +1652,7 @@ export const cvData = {
       "location": "Denpasar, Bali, Indonesia",
       "linkedin": "linkedin.com/in/gmwijaya",
       "orcid": "0000-0003-2312-7031",
-      "profileSummary": "Spesialis lingkungan laut dengan lebih dari 13 tahun pengalaman dalam memberikan dukungan teknis tingkat tinggi di berbagai industri berbasis laut yang terkena dampak langsung perubahan iklim. Keahlian mencakup pengelolaan laut dan pesisir, tata kelola perikanan, layanan karbon dan ekosistem, penilaian dampak lingkungan dan sosial, serta pengembangan masyarakat. Memiliki rekam jejak kesuksesan bersama klien internasional utama: Bank Dunia, ADB, FAO, UNDP, WWF, dan The Nature Conservancy, termasuk penghargaan inovasi yang diakui oleh Business Innovation Centre (BIC) Indonesia. Sangat terampil dalam manajemen proyek, pelibatan pemangku kepentingan, kerangka kerja M&E, dan penerapan solusi digital inovatif untuk tantangan konservasi. Bersemangat dalam memajukan pengelolaan lingkungan laut melalui penelitian yang ketat dan kemitraan kolaboratif."
+      "profileSummary": "Spesialis lingkungan laut dan praktisi mitigasi karbon senior dengan lebih dari 13 tahun pengalaman dalam memimpin kajian teknis strategis di sektor kelautan, perizinan konsesi kehutanan, dan dekarbonisasi limbah industri. Memiliki latar belakang akademis ilmu kelautan dan bioakustik (Institut Pertanian Bogor), dengan keahlian komprehensif mencakup tata kelola pesisir dan laut, perikanan berkelanjutan, perizinan berusaha pemanfaatan hutan (PBPH), serta mitigasi karbon pada sektor AFOLU (konsesi lahan gambut dan lahan basah >200.000 ha di Papua) dan sektor Limbah (penangkapan metana dan pemanfaatan biogas dari POME limbah cair pabrik kelapa sawit). Berpengalaman menangani proyek bersama institusi internasional utama (Bank Dunia, ADB, FAO, UNDP, WWF, TNC) serta peraih penghargaan inovasi nasional (BIC). Ahli dalam akuntansi karbon (SRUK, VCM, Pasal 6 Perjanjian Paris), MRV, safeguards lingkungan (AMDAL/ESIA), dan pelibatan pemangku kepentingan adat serta kementerian terkait."
     },
     "stats": [
       {
@@ -3197,7 +3207,8 @@ export const cvData = {
       "certSafeguards": "ESG, Sosial & Safeguards",
       "certHse": "K3L (HSE) & Mutu",
       "certProject": "Manajemen Proyek & Kepemimpinan",
-      "educationTitle": "Pendidikan Formal & Akademik"
+      "educationTitle": "Pendidikan Formal & Akademik",
+      "membershipsTitle": "Keanggotaan Profesi & Afiliasi"
     },
     "awards": [
       {
@@ -3262,6 +3273,15 @@ export const cvData = {
         "issuer": "Institut Pertanian Bogor (IPB)",
         "date": "2012",
         "description": "Peserta terpilih dalam pelatihan intensif kepemimpinan mahasiswa dan tata kelola organisasi."
+      }
+    ],
+    "memberships": [
+      {
+        "name": "Asian Fisheries Acoustics Society (AFAS)",
+        "role": "Anggota Profesional",
+        "period": "2012 – Sekarang",
+        "url": "https://www.afas-acoustic.org/",
+        "description": "Anggota aktif yang berkontribusi dalam riset dan penerapan teknologi bioakustik bawah air, survei akustik perikanan, integrasi optik-akustik, serta pemantauan ekosistem laut di kawasan Asia."
       }
     ]
   }

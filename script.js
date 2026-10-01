@@ -18,6 +18,7 @@ const educationGrid = document.getElementById('education-grid');
 const projectsGrid = document.getElementById('projects-grid');
 const publicationsList = document.getElementById('publications-list');
 const awardsList = document.getElementById('awards-list');
+const membershipsList = document.getElementById('memberships-list');
 const certificatesGrid = document.getElementById('certificates-grid');
 const referencesGrid = document.getElementById('references-grid');
 const projectFilterBtns = document.querySelectorAll('[data-filter]');
@@ -183,6 +184,29 @@ function renderAwards(lang) {
   `).join('');
 }
 
+// Render Professional Memberships & Affiliations
+function renderMemberships(lang) {
+  if (!membershipsList) return;
+  const memberships = cvData[lang].memberships || [];
+  membershipsList.innerHTML = memberships.map(m => `
+    <div class="publication-item glass">
+      <div class="card-glow"></div>
+      <div class="pub-year-badge" style="background: rgba(13, 148, 136, 0.1); border-color: rgba(13, 148, 136, 0.25); color: var(--primary-teal); display: flex; align-items: center; justify-content: center;">
+        <i class="fa-solid fa-users" style="font-size: 1.15rem;"></i>
+      </div>
+      <div class="pub-info">
+        <h3 style="color: var(--text-primary); font-size: 1.12rem; margin-bottom: 6px;">
+          ${m.url ? `<a href="${m.url}" target="_blank" class="pub-link">${m.name} <i class="fa-solid fa-arrow-up-right-from-square" style="font-size: 0.8rem; margin-left: 6px; color: var(--primary-teal);"></i></a>` : m.name}
+        </h3>
+        <p class="pub-journal" style="color: var(--primary-teal); font-weight: 600; font-style: normal; margin-bottom: 6px;">
+          <i class="fa-solid fa-id-badge" style="margin-right: 6px;"></i>${m.role} • <span>${m.period}</span>
+        </p>
+        ${m.description ? `<p class="pub-desc" style="font-size: 0.88rem; color: var(--text-secondary); margin-top: 6px; line-height: 1.5;">${m.description}</p>` : ''}
+      </div>
+    </div>
+  `).join('');
+}
+
 // Render Certificates Cards
 function renderCertificates(lang, query = currentCertSearch, category = currentCertCategory) {
   if (!certificatesGrid) return;
@@ -302,6 +326,7 @@ function translateUI(lang) {
   renderProjects(lang, currentProjectFilter);
   renderPublications(lang);
   renderAwards(lang);
+  renderMemberships(lang);
   renderCertificates(lang, currentCertSearch);
   renderReferences(lang);
 }

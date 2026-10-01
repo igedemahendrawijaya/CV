@@ -179,7 +179,19 @@ export function generateMasterMarkdown() {
     md += `\n`;
   });
   md += `---\n\n`;
+  md += `## Professional Memberships & Affiliations\n\n`;
+  const memberships = cvData.en.memberships || [];
+  memberships.forEach((m, i) => {
+    const linkPart = m.url ? `[${m.name}](${m.url})` : m.name;
+    md += `${i + 1}. **${linkPart}**\n`;
+    md += `   - **Role / Status**: ${m.role} *(${m.period})*\n`;
+    if (m.description) {
+      md += `   - **Scope / Contribution**: ${m.description}\n`;
+    }
+    md += `\n`;
+  });
 
+  md += `---\n\n`;
   md += `## Professional References\n\n`;
   md += `1. **Dr. Lida Pet-Soede**  \n`;
   md += `   Director of Marine Unit Service, Hatfield Group  \n`;
@@ -496,7 +508,36 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
     }
   });
 
-  // 9. References
+  // 9. Memberships & Affiliations
+  const memberships = cvData.en.memberships || [];
+  if (memberships.length > 0) {
+    docChildren.push(...createSectionHeading('Professional Memberships & Affiliations'));
+    memberships.forEach(m => {
+      docChildren.push(
+        new Paragraph({
+          bullet: { level: 0 },
+          spacing: { before: 20, after: 20 },
+          children: [
+            new TextRun({ text: `${m.name} `, bold: true, size: 19, color: PRIMARY_COLOR, font: 'Arial' }),
+            new TextRun({ text: `— ${m.role} (${m.period})`, italic: true, size: 18, color: TEXT_DARK, font: 'Arial' })
+          ]
+        })
+      );
+      if (m.description) {
+        docChildren.push(
+          new Paragraph({
+            indent: { left: 360 },
+            spacing: { before: 0, after: 30 },
+            children: [
+              new TextRun({ text: m.description, size: 17, color: TEXT_MUTED, font: 'Arial' })
+            ]
+          })
+        );
+      }
+    });
+  }
+
+  // 10. References
   docChildren.push(...createSectionHeading('Professional References'));
   const refs = [
     {

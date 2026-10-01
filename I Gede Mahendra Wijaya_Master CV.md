@@ -12,7 +12,7 @@
 
 ## Executive Profile Summary
 
-Marine environmental specialist with over 13 years of experience delivering high-level technical support across marine-based industries directly affected by climate change. Expertise spans marine and coastal management, fisheries governance, carbon and ecosystem services, environmental and social impact assessment, and community development. A track record of success with major international clients: World Bank, ADB, FAO, UNDP, WWF, and The Nature Conservancy, including award-winning innovation recognised by Indonesia's Business Innovation Centre (BIC). Highly skilled in project management, stakeholder engagement, M&E frameworks, and applying innovative digital solutions to conservation challenges. Passionate about advancing marine environmental management through rigorous research and collaborative partnerships.
+Marine environmental specialist with over 13 years of experience delivering high-level technical leadership across marine-based sectors, forest concessions, and industrial waste decarbonization. Formally trained in marine science and acoustics (IPB University), with expertise spanning coastal and ocean governance, sustainable fisheries, forest concession licensing (PBPH), and carbon mitigation across AFOLU (>200,000 ha peatland/wetland concessions in Papua) and Waste sectors (Palm Oil Mill Effluent / POME methane capture & biogas-to-energy). Proven track record with major international institutions (World Bank, ADB, FAO, UNDP, WWF, TNC) and national innovation award recognition (BIC). Highly skilled in carbon accounting (SRUK, VCM, Paris Agreement Article 6), MRV, environmental safeguards (ESIA/AMDAL), and multi-stakeholder engagement.
 
 ---
 
@@ -474,6 +474,14 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 9. **[2012] Candidate in Indonesian Leadership Camp**
    - **Issued by**: IPB University
    - **Summary**: Selected participant for intensive student leadership and governance camp.
+
+---
+
+## Professional Memberships & Affiliations
+
+1. **[Asian Fisheries Acoustics Society (AFAS)](https://www.afas-acoustic.org/)**
+   - **Role / Status**: Member *(2012 – Present)*
+   - **Scope / Contribution**: Active member contributing to regional advancements in underwater bioacoustics, fisheries acoustic survey technologies, optical-acoustic integration, and marine ecosystem monitoring across Asian and global waters.
 
 ---
 
