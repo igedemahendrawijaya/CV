@@ -19,6 +19,7 @@ if (!fs.existsSync(CERT_SOURCE_DIR)) {
 // Files that are duplicate variants or multi-page aggregate compilations
 const EXCLUDED_FILES = new Set([
   'List of Certifications_IGMW.pdf',
+  'Certificate Compilation_Gede Mahendra.pdf',
   'c1f49f09-be60-4467-9301-4fab7b39a04a.pdf',
   '7b770b4a-066c-4225-af63-309878d120ef.pdf',
   'Certificate (1).pdf',
@@ -43,6 +44,39 @@ console.log(`Found ${files.length} valid certificate files to process.`);
 
 // Comprehensive verified mapping for every certificate file in Certificate/
 const MASTER_MAPPINGS = {
+  'Operationalizing-Article-6.2-of-the-Paris-Agreement-Achieving-Ambitious-Climate-Action-Through-Cooperative-Approaches-en-us-certificate.pdf.pdf': {
+    en: 'Operationalizing Article 6.2 of the Paris Agreement: Achieving Ambitious Climate Action Through Cooperative Approaches',
+    id: 'Operasionalisasi Pasal 6.2 Perjanjian Paris: Pencapaian Aksi Iklim Ambisius Melalui Pendekatan Kooperatif (Article 6.2 Operationalization)',
+    issuer: 'United Nations Development Programme (UNDP), UNFCCC & Learning for Nature',
+    date: 'Oct 2026',
+    category: 'carbon-climate',
+    tags: ['Paris Agreement', 'Article 6.2', 'ITMOs', 'Carbon Markets', 'UNDP', 'UNFCCC'],
+    credentialUrl: 'https://www.learningfornature.org/en/courses/operationalizing-article-6-2-of-the-paris-agreement-achieving-ambitious-climate-action-through-cooperative-approaches/',
+    competencies: 'Paris Agreement Article 6.2 Governance, Internationally Transferred Mitigation Outcomes (ITMOs), Bilateral Cooperative Approaches, Corresponding Adjustments & NDC Accounting, National Registry & Tracking, Authorization Frameworks',
+    description: 'Specialized training certification developed by UNDP in partnership with the UNFCCC and delivered via Learning for Nature / UN CC:Learn. Covers key requirements and national building blocks for operationalizing Article 6.2 cooperative approaches, including bilateral trading of Internationally Transferred Mitigation Outcomes (ITMOs), robust NDC accounting, avoiding double-counting with corresponding adjustments, and institutional arrangements.'
+  },
+  'Climate-Finance-Transparency-en-us-certificate.pdf.pdf': {
+    en: 'Climate Finance Transparency',
+    id: 'Transparansi Keuangan Iklim (Climate Finance Transparency)',
+    issuer: 'Initiative for Climate Action Transparency (ICAT) & Learning for Nature',
+    date: 'Sep 2026',
+    category: 'carbon-climate',
+    tags: ['ICAT', 'Climate Finance', 'Enhanced Transparency Framework', 'ETF', 'Paris Agreement'],
+    credentialUrl: 'https://www.learningfornature.org/en/courses/climate-finance-transparency/',
+    competencies: 'Climate Finance Tracking, Enhanced Transparency Framework (ETF), Article 9 & 13 Paris Agreement, Climate Finance Needs Assessment, Climate Finance Mobilization, Transparency Metrics & MRV',
+    description: 'Professional certification developed by the Initiative for Climate Action Transparency (ICAT) on Learning for Nature. Comprehensive training on establishing national climate finance tracking frameworks, assessing financial needs for mitigation and adaptation, mapping climate finance flows, and aligning with the Paris Agreement\'s Enhanced Transparency Framework (ETF).'
+  },
+  'Building Skills for Coastal Restoration with Nature and People.pdf': {
+    en: 'Building Skills for Coastal Restoration with Nature and People',
+    id: 'Pengembangan Keahlian Restorasi Pesisir Berbasis Alam dan Masyarakat (Coastal Restoration with Nature & People)',
+    issuer: 'UNESCO/IOC OceanTeacher Global Academy (OTGA) & A-AAGORA Project',
+    date: 'Sep 2026',
+    category: 'marine-fisheries',
+    tags: ['UNESCO/IOC', 'OTGA', 'Coastal Restoration', 'Nature-based Solutions', 'Marine Conservation', 'NbS'],
+    credentialUrl: 'https://classroom.oceanteacher.org',
+    competencies: 'Coastal Ecosystem Restoration, Nature-based Solutions (NbS), Community-Led Marine Stewardship, Marine Spatial Planning, Biodiversity Enhancement, Ecosystem Resilience',
+    description: 'Specialized 25-hour professional MOOC certification delivered by the UNESCO/IOC OceanTeacher Global Academy (OTGA) in partnership with the EU A-AAGORA project. Comprehensive training on designing and scaling real-world Nature-based Solutions (NbS) for coastal restoration, engaging local coastal communities, marine biodiversity protection, and climate resilience.'
+  },
   '201EX2046_I Gede Mahendra Wijaya_20260819.pdf': {
     en: '201 Basics of Organizational GHG Accounting (Certificate of Proficiency)',
     id: 'Dasar-Dasar Akuntansi GRK Organisasi - 201 Basics of Organizational GHG Accounting (Sertifikat Profisiensi)',

@@ -21,7 +21,7 @@ export const cvData = {
         "label": "Projects Completed"
       },
       {
-        "value": "69",
+        "value": "72",
         "label": "Certifications"
       },
       {
@@ -615,6 +615,42 @@ export const cvData = {
     ],
     "certificates": [
       {
+        "name": "Operationalizing Article 6.2 of the Paris Agreement: Achieving Ambitious Climate Action Through Cooperative Approaches",
+        "issuer": "United Nations Development Programme (UNDP), UNFCCC & Learning for Nature",
+        "date": "Oct 2026",
+        "category": "carbon-climate",
+        "tags": [
+          "Paris Agreement",
+          "Article 6.2",
+          "ITMOs",
+          "Carbon Markets",
+          "UNDP",
+          "UNFCCC"
+        ],
+        "link": "certificates/Operationalizing-Article-6.2-of-the-Paris-Agreement-Achieving-Ambitious-Climate-Action-Through-Cooperative-Approaches-en-us-certificate.pdf.pdf",
+        "credentialUrl": "https://www.learningfornature.org/en/courses/operationalizing-article-6-2-of-the-paris-agreement-achieving-ambitious-climate-action-through-cooperative-approaches/",
+        "description": "Specialized training certification developed by UNDP in partnership with the UNFCCC and delivered via Learning for Nature / UN CC:Learn. Covers key requirements and national building blocks for operationalizing Article 6.2 cooperative approaches, including bilateral trading of Internationally Transferred Mitigation Outcomes (ITMOs), robust NDC accounting, avoiding double-counting with corresponding adjustments, and institutional arrangements.",
+        "competencies": "Paris Agreement Article 6.2 Governance, Internationally Transferred Mitigation Outcomes (ITMOs), Bilateral Cooperative Approaches, Corresponding Adjustments & NDC Accounting, National Registry & Tracking, Authorization Frameworks"
+      },
+      {
+        "name": "Building Skills for Coastal Restoration with Nature and People",
+        "issuer": "UNESCO/IOC OceanTeacher Global Academy (OTGA) & A-AAGORA Project",
+        "date": "Sep 2026",
+        "category": "marine-fisheries",
+        "tags": [
+          "UNESCO/IOC",
+          "OTGA",
+          "Coastal Restoration",
+          "Nature-based Solutions",
+          "Marine Conservation",
+          "NbS"
+        ],
+        "link": "certificates/Building_Skills_for_Coastal_Restoration_with_Nature_and_People.pdf",
+        "credentialUrl": "https://classroom.oceanteacher.org",
+        "description": "Specialized 25-hour professional MOOC certification delivered by the UNESCO/IOC OceanTeacher Global Academy (OTGA) in partnership with the EU A-AAGORA project. Comprehensive training on designing and scaling real-world Nature-based Solutions (NbS) for coastal restoration, engaging local coastal communities, marine biodiversity protection, and climate resilience.",
+        "competencies": "Coastal Ecosystem Restoration, Nature-based Solutions (NbS), Community-Led Marine Stewardship, Marine Spatial Planning, Biodiversity Enhancement, Ecosystem Resilience"
+      },
+      {
         "name": "Introduction to Biodiversity Credits (Learning Journey)",
         "issuer": "Biodiversity Credit Alliance (BCA), Nature for Life Hub & University of Nottingham",
         "date": "Sep 2026",
@@ -630,6 +666,23 @@ export const cvData = {
         "credentialUrl": "https://natureforlifehub.org",
         "description": "Specialized learning journey certification on biodiversity credits awarded by the Biodiversity Credit Alliance (BCA) and Nature for Life Hub in collaboration with the University of Nottingham. Comprehensive training on high-integrity biodiversity credit markets, nature-positive crediting mechanisms, biodiversity metrics, integrity governance, and community benefit-sharing models.",
         "competencies": "Biodiversity Credits Framework, High-Integrity Nature Credits, Biodiversity Credit Alliance (BCA) Principles, Nature-Positive Market Mechanisms, Indigenous & Community Rights (IPLC Safeguards), Biodiversity Metrics & Monitoring"
+      },
+      {
+        "name": "Climate Finance Transparency",
+        "issuer": "Initiative for Climate Action Transparency (ICAT) & Learning for Nature",
+        "date": "Sep 2026",
+        "category": "carbon-climate",
+        "tags": [
+          "ICAT",
+          "Climate Finance",
+          "Enhanced Transparency Framework",
+          "ETF",
+          "Paris Agreement"
+        ],
+        "link": "certificates/Climate-Finance-Transparency-en-us-certificate.pdf.pdf",
+        "credentialUrl": "https://www.learningfornature.org/en/courses/climate-finance-transparency/",
+        "description": "Professional certification developed by the Initiative for Climate Action Transparency (ICAT) on Learning for Nature. Comprehensive training on establishing national climate finance tracking frameworks, assessing financial needs for mitigation and adaptation, mapping climate finance flows, and aligning with the Paris Agreement's Enhanced Transparency Framework (ETF).",
+        "competencies": "Climate Finance Tracking, Enhanced Transparency Framework (ETF), Article 9 & 13 Paris Agreement, Climate Finance Needs Assessment, Climate Finance Mobilization, Transparency Metrics & MRV"
       },
       {
         "name": "Biodiversity Finance: Designing and Implementing Finance Plans for Nature",
@@ -1664,7 +1717,7 @@ export const cvData = {
         "label": "Proyek Selesai"
       },
       {
-        "value": "69",
+        "value": "72",
         "label": "Sertifikasi"
       },
       {
@@ -2258,6 +2311,42 @@ export const cvData = {
     ],
     "certificates": [
       {
+        "name": "Operasionalisasi Pasal 6.2 Perjanjian Paris: Pencapaian Aksi Iklim Ambisius Melalui Pendekatan Kooperatif (Article 6.2 Operationalization)",
+        "issuer": "United Nations Development Programme (UNDP), UNFCCC & Learning for Nature",
+        "date": "Oct 2026",
+        "category": "carbon-climate",
+        "tags": [
+          "Paris Agreement",
+          "Article 6.2",
+          "ITMOs",
+          "Carbon Markets",
+          "UNDP",
+          "UNFCCC"
+        ],
+        "link": "certificates/Operationalizing-Article-6.2-of-the-Paris-Agreement-Achieving-Ambitious-Climate-Action-Through-Cooperative-Approaches-en-us-certificate.pdf.pdf",
+        "credentialUrl": "https://www.learningfornature.org/en/courses/operationalizing-article-6-2-of-the-paris-agreement-achieving-ambitious-climate-action-through-cooperative-approaches/",
+        "description": "Specialized training certification developed by UNDP in partnership with the UNFCCC and delivered via Learning for Nature / UN CC:Learn. Covers key requirements and national building blocks for operationalizing Article 6.2 cooperative approaches, including bilateral trading of Internationally Transferred Mitigation Outcomes (ITMOs), robust NDC accounting, avoiding double-counting with corresponding adjustments, and institutional arrangements.",
+        "competencies": "Paris Agreement Article 6.2 Governance, Internationally Transferred Mitigation Outcomes (ITMOs), Bilateral Cooperative Approaches, Corresponding Adjustments & NDC Accounting, National Registry & Tracking, Authorization Frameworks"
+      },
+      {
+        "name": "Pengembangan Keahlian Restorasi Pesisir Berbasis Alam dan Masyarakat (Coastal Restoration with Nature & People)",
+        "issuer": "UNESCO/IOC OceanTeacher Global Academy (OTGA) & A-AAGORA Project",
+        "date": "Sep 2026",
+        "category": "marine-fisheries",
+        "tags": [
+          "UNESCO/IOC",
+          "OTGA",
+          "Coastal Restoration",
+          "Nature-based Solutions",
+          "Marine Conservation",
+          "NbS"
+        ],
+        "link": "certificates/Building_Skills_for_Coastal_Restoration_with_Nature_and_People.pdf",
+        "credentialUrl": "https://classroom.oceanteacher.org",
+        "description": "Specialized 25-hour professional MOOC certification delivered by the UNESCO/IOC OceanTeacher Global Academy (OTGA) in partnership with the EU A-AAGORA project. Comprehensive training on designing and scaling real-world Nature-based Solutions (NbS) for coastal restoration, engaging local coastal communities, marine biodiversity protection, and climate resilience.",
+        "competencies": "Coastal Ecosystem Restoration, Nature-based Solutions (NbS), Community-Led Marine Stewardship, Marine Spatial Planning, Biodiversity Enhancement, Ecosystem Resilience"
+      },
+      {
         "name": "Pengantar Kredit Keanekaragaman Hayati - Introduction to Biodiversity Credits (Nature for Life)",
         "issuer": "Biodiversity Credit Alliance (BCA), Nature for Life Hub & University of Nottingham",
         "date": "Sep 2026",
@@ -2273,6 +2362,23 @@ export const cvData = {
         "credentialUrl": "https://natureforlifehub.org",
         "description": "Specialized learning journey certification on biodiversity credits awarded by the Biodiversity Credit Alliance (BCA) and Nature for Life Hub in collaboration with the University of Nottingham. Comprehensive training on high-integrity biodiversity credit markets, nature-positive crediting mechanisms, biodiversity metrics, integrity governance, and community benefit-sharing models.",
         "competencies": "Biodiversity Credits Framework, High-Integrity Nature Credits, Biodiversity Credit Alliance (BCA) Principles, Nature-Positive Market Mechanisms, Indigenous & Community Rights (IPLC Safeguards), Biodiversity Metrics & Monitoring"
+      },
+      {
+        "name": "Transparansi Keuangan Iklim (Climate Finance Transparency)",
+        "issuer": "Initiative for Climate Action Transparency (ICAT) & Learning for Nature",
+        "date": "Sep 2026",
+        "category": "carbon-climate",
+        "tags": [
+          "ICAT",
+          "Climate Finance",
+          "Enhanced Transparency Framework",
+          "ETF",
+          "Paris Agreement"
+        ],
+        "link": "certificates/Climate-Finance-Transparency-en-us-certificate.pdf.pdf",
+        "credentialUrl": "https://www.learningfornature.org/en/courses/climate-finance-transparency/",
+        "description": "Professional certification developed by the Initiative for Climate Action Transparency (ICAT) on Learning for Nature. Comprehensive training on establishing national climate finance tracking frameworks, assessing financial needs for mitigation and adaptation, mapping climate finance flows, and aligning with the Paris Agreement's Enhanced Transparency Framework (ETF).",
+        "competencies": "Climate Finance Tracking, Enhanced Transparency Framework (ETF), Article 9 & 13 Paris Agreement, Climate Finance Needs Assessment, Climate Finance Mobilization, Transparency Metrics & MRV"
       },
       {
         "name": "Keuangan Keanekaragaman Hayati: Perancangan dan Implementasi Rencana Pembiayaan untuk Alam (Biodiversity Finance)",

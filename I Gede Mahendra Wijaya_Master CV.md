@@ -19,7 +19,7 @@ Marine environmental specialist with over 13 years of experience delivering high
 ## Key Core Metrics & Statistics
 - **13+** Years Professional Experience
 - **32** Completed High-Impact Projects & Technical Reports
-- **69+** Professional Certifications & Specialized Training Programs
+- **72+** Professional Certifications & Specialized Training Programs
 - **5** Peer-Reviewed Scientific Publications & Conference Papers
 
 ---
@@ -287,72 +287,81 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 
 ---
 
-## Professional Certifications & Specialized Training by Thematic Pillar (Total: 69)
+## Professional Certifications & Specialized Training by Thematic Pillar (Total: 72)
 
-### 1. Carbon, Climate & Ecosystem Services (Blue Carbon, Forest Carbon & Climate Finance) (20 Trainings)
+### 1. Carbon, Climate & Ecosystem Services (Blue Carbon, Forest Carbon & Climate Finance) (22 Trainings)
 
-1. **Introduction to Biodiversity Credits (Learning Journey)** — [Biodiversity Credit Alliance (BCA), Nature for Life Hub & University of Nottingham](https://natureforlifehub.org) *(Sep 2026)*
+1. **Operationalizing Article 6.2 of the Paris Agreement: Achieving Ambitious Climate Action Through Cooperative Approaches** — [United Nations Development Programme (UNDP), UNFCCC & Learning for Nature](https://www.learningfornature.org/en/courses/operationalizing-article-6-2-of-the-paris-agreement-achieving-ambitious-climate-action-through-cooperative-approaches/) *(Oct 2026)*
+   - **Competencies**: Paris Agreement Article 6.2 Governance, Internationally Transferred Mitigation Outcomes (ITMOs), Bilateral Cooperative Approaches, Corresponding Adjustments & NDC Accounting, National Registry & Tracking, Authorization Frameworks
+   - **Summary**: Specialized training certification developed by UNDP in partnership with the UNFCCC and delivered via Learning for Nature / UN CC:Learn. Covers key requirements and national building blocks for operationalizing Article 6.2 cooperative approaches, including bilateral trading of Internationally Transferred Mitigation Outcomes (ITMOs), robust NDC accounting, avoiding double-counting with corresponding adjustments, and institutional arrangements.
+2. **Introduction to Biodiversity Credits (Learning Journey)** — [Biodiversity Credit Alliance (BCA), Nature for Life Hub & University of Nottingham](https://natureforlifehub.org) *(Sep 2026)*
    - **Competencies**: Biodiversity Credits Framework, High-Integrity Nature Credits, Biodiversity Credit Alliance (BCA) Principles, Nature-Positive Market Mechanisms, Indigenous & Community Rights (IPLC Safeguards), Biodiversity Metrics & Monitoring
    - **Summary**: Specialized learning journey certification on biodiversity credits awarded by the Biodiversity Credit Alliance (BCA) and Nature for Life Hub in collaboration with the University of Nottingham. Comprehensive training on high-integrity biodiversity credit markets, nature-positive crediting mechanisms, biodiversity metrics, integrity governance, and community benefit-sharing models.
-2. **Biodiversity Finance: Designing and Implementing Finance Plans for Nature** — [UNDP Biodiversity Finance Initiative (BIOFIN) & Learning for Nature](https://www.learningfornature.org/en/courses/biodiversity-finance-designing-and-implementing-finance-plans-for-nature-self-paced/) *(Sep 2026)*
+3. **Climate Finance Transparency** — [Initiative for Climate Action Transparency (ICAT) & Learning for Nature](https://www.learningfornature.org/en/courses/climate-finance-transparency/) *(Sep 2026)*
+   - **Competencies**: Climate Finance Tracking, Enhanced Transparency Framework (ETF), Article 9 & 13 Paris Agreement, Climate Finance Needs Assessment, Climate Finance Mobilization, Transparency Metrics & MRV
+   - **Summary**: Professional certification developed by the Initiative for Climate Action Transparency (ICAT) on Learning for Nature. Comprehensive training on establishing national climate finance tracking frameworks, assessing financial needs for mitigation and adaptation, mapping climate finance flows, and aligning with the Paris Agreement's Enhanced Transparency Framework (ETF).
+4. **Biodiversity Finance: Designing and Implementing Finance Plans for Nature** — [UNDP Biodiversity Finance Initiative (BIOFIN) & Learning for Nature](https://www.learningfornature.org/en/courses/biodiversity-finance-designing-and-implementing-finance-plans-for-nature-self-paced/) *(Sep 2026)*
    - **Competencies**: BIOFIN Methodology, Biodiversity Expenditure Review (BER), Financial Needs Assessment (FNA), Biodiversity Finance Plan (BFP), Nature-Positive Finance Mechanisms, Sustainable Blended Finance & Impact Investment
    - **Summary**: Comprehensive 12-hour specialized professional course developed by the UNDP Biodiversity Finance Initiative (BIOFIN) on Learning for Nature, based on the BIOFIN Workbook 2024. Covers the complete BIOFIN national methodology: Policy and Institutional Review (PIR), Biodiversity Expenditure Review (BER), Financial Needs Assessment (FNA), and designing and mobilizing high-impact national Biodiversity Finance Plans (BFP) to close global biodiversity financing gaps.
-3. **ICAT Training on the Use of the IPCC Inventory Software** — [Initiative for Climate Action Transparency (ICAT), IPCC TSU & UNDP Learning for Nature](https://www.learningfornature.org/en/courses/icat-training-on-the-use-of-the-ipcc-inventory-software/) *(Sep 2026)*
+5. **ICAT Training on the Use of the IPCC Inventory Software** — [Initiative for Climate Action Transparency (ICAT), IPCC TSU & UNDP Learning for Nature](https://www.learningfornature.org/en/courses/icat-training-on-the-use-of-the-ipcc-inventory-software/) *(Sep 2026)*
    - **Competencies**: IPCC Inventory Software, 2006 IPCC Guidelines for National GHG Inventories, Enhanced Transparency Framework (ETF), LULUCF & AFOLU Emission Estimation, UNFCCC ETF Reporting Tool Interoperability, Activity Data & Emission Factor Management
    - **Summary**: Specialized technical training program developed by the Initiative for Climate Action Transparency (ICAT) and the IPCC Task Force on National Greenhouse Gas Inventories Technical Support Unit (IPCC TSU) on UNDP Learning for Nature. Comprehensive operational training covering all IPCC sectors (Energy, IPPU, Agriculture, LULUCF/Forestry, and Waste) to calculate national GHG emissions and removals, apply 2006 IPCC Guidelines, and ensure interoperability with the UNFCCC ETF reporting tool under the Paris Agreement.
-4. **REDD+ Academy: Forest Carbon & National Strategy Capacity Building** — [UN-REDD Programme (FAO, UNDP, UNEP)](https://reddacademy.in.howspace.com/welcome) *(Sep 2026)*
+6. **REDD+ Academy: Forest Carbon & National Strategy Capacity Building** — [UN-REDD Programme (FAO, UNDP, UNEP)](https://reddacademy.in.howspace.com/welcome) *(Sep 2026)*
    - **Competencies**: REDD+ Architecture & National Strategy, National Forest Monitoring Systems (NFMS), Forest Reference Emission Levels (FREL/FRL), Safeguard Information Systems (SIS), Results-Based Finance & Carbon Markets
    - **Summary**: Flagship capacity-building training program by the UN-REDD Programme (FAO, UNDP, UNEP), covering national REDD+ architecture, Forest Reference Emission Levels (FREL), National Forest Monitoring Systems (NFMS), Safeguards & Safeguard Information Systems (SIS), and results-based climate finance.
-5. **Article 6 Decision-Making: Training for Practitioners** — [Paris Agreement Article 6 Implementation Partnership (A6IP) Center, Perspectives Climate Research & GHGMI](https://a6partnership.org/article-6-decision-making-training-for-practitioners) *(Sep 2026)*
+7. **Article 6 Decision-Making: Training for Practitioners** — [Paris Agreement Article 6 Implementation Partnership (A6IP) Center, Perspectives Climate Research & GHGMI](https://a6partnership.org/article-6-decision-making-training-for-practitioners) *(Sep 2026)*
    - **Competencies**: Paris Agreement Article 6.2 & 6.4, Internationally Transferred Mitigation Outcomes (ITMOs), Carbon Market Decision-Making, Corresponding Adjustments, GHG Accounting & MRV, Carbon Crediting Mechanisms, Institutional Arrangements
    - **Summary**: Advanced professional training for carbon market practitioners developed by Perspectives Climate Research and the Greenhouse Gas Management Institute (GHGMI), supported by the Paris Agreement Article 6 Implementation Partnership (A6IP) Center, Ministry of the Environment Japan (MOEJ), and BMWK Germany. Rigorous curriculum covering strategic evaluation of Article 6 mechanisms (6.2 cooperative approaches and 6.4 crediting mechanism), international carbon market dynamics, project-level GHG accounting, corresponding adjustments, and national institutional readiness for market-based mitigation.
-6. **201 Basics of Organizational GHG Accounting (Certificate of Proficiency)** — [The Greenhouse Gas Management Institute (GHGMI)](https://ghginstitute.org) *(Aug 2026)*
+8. **201 Basics of Organizational GHG Accounting (Certificate of Proficiency)** — [The Greenhouse Gas Management Institute (GHGMI)](https://ghginstitute.org) *(Aug 2026)*
    - **Competencies**: Organizational GHG Accounting, GHG Protocol Corporate Standard, ISO 14064-1, Scope 1, Scope 2 & Scope 3 Emissions, Inventory Quality Management, Baseline Recalculation
    - **Summary**: Formal professional certificate of proficiency issued by the Greenhouse Gas Management Institute (GHGMI) under Dean Michael Gillenwater (Credential Code: 201EX2046 / BOGAEX2046). Rigorous curriculum covering organizational carbon accounting principles, organizational and operational boundary setting, Scope 1, 2, and 3 emission quantification methodologies, activity data collection, emission factor selection, and uncertainty management aligned with the GHG Protocol and ISO 14064.
-7. **The German Supply Chain Due Diligence Act (LkSG / SCDDA)** — [Import Promotion Desk (IPD Germany)](https://www.importpromotiondesk.com/exporters/en/market-information/e-learning) *(Aug 2026)*
+9. **The German Supply Chain Due Diligence Act (LkSG / SCDDA)** — [Import Promotion Desk (IPD Germany)](https://www.importpromotiondesk.com/exporters/en/market-information/e-learning) *(Aug 2026)*
    - **Competencies**: Supply Chain Due Diligence (LkSG / SCDDA), Human Rights & Environmental Risk Analysis, EU Market Compliance, Sustainable Sourcing
    - **Summary**: Comprehensive e-learning program on complying with the German Supply Chain Due Diligence Act (Lieferkettensorgfaltspflichtengesetz - LkSG), addressing human rights and environmental risk analysis, grievance mechanisms, and sustainable supply chain governance for international exporters.
-8. **EU Deforestation Regulation (EUDR) Compliance & Due Diligence** — [Import Promotion Desk (IPD Germany)](https://www.importpromotiondesk.com/exporters/en/market-information/e-learning) *(Aug 2026)*
+10. **EU Deforestation Regulation (EUDR) Compliance & Due Diligence** — [Import Promotion Desk (IPD Germany)](https://www.importpromotiondesk.com/exporters/en/market-information/e-learning) *(Aug 2026)*
    - **Competencies**: EU Deforestation Regulation (EUDR) Compliance, Supply Chain Geolocation & Traceability, Deforestation-Free Commodity Due Diligence, Legality & Risk Assessment
    - **Summary**: Specialized training on the EU Deforestation Regulation (EUDR), addressing regulatory compliance, supply chain due diligence, geolocation traceability, and legality verification for deforestation-free commodities entering the EU market (palm oil, wood, rubber, cocoa, coffee, soy, cattle).
-9. **Blue Carbon Fundamentals** — World Bank Group *(Jul 2026)*
-10. **Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance** — United Nations Institute for Training and Research (UNITAR) *(Jul 2026)*
-11. **Blue Carbon Project Development & MRV Specialist Training** — [Fair Carbon (Blue Carbon Academy)](https://faircarbon.mykajabi.com/library) *(May 2026)*
+11. **Blue Carbon Fundamentals** — World Bank Group *(Jul 2026)*
+12. **Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance** — United Nations Institute for Training and Research (UNITAR) *(Jul 2026)*
+13. **Blue Carbon Project Development & MRV Specialist Training** — [Fair Carbon (Blue Carbon Academy)](https://faircarbon.mykajabi.com/library) *(May 2026)*
    - **Competencies**: Blue Carbon Project Development, Feasibility & PIN Assessment, Project Design Document (PDD), Investment Due Diligence, MRV Design & Verification
    - **Summary**: Comprehensive training covering the full project development lifecycle for coastal blue carbon (mangroves and seagrass), from baseline feasibility & Project Idea Note (PIN), standardized PDD design, investment due diligence, to scientific Monitoring, Reporting & Verification (MRV) systems and carbon credit integrity.
-12. **Carbon Credits Project Fundamentals** — Blooms Academy *(Apr 2026)*
-13. **Global Carbon Summit Indonesia 2025** — Global Carbon Summit *(Nov 2025)*
-14. **Human Dimensions of Forest and Landscape Restoration** — Society for Ecological Restoration (SER) *(Jul 2024)*
-15. **Climate Action Now Program** — Pachamama Alliance *(Jun 2024)*
-16. **Ground-Based Forest Carbon Stock Accounting (SNI 7724)** — Generasi Biologi Indonesia *(Jun 2024)*
-17. **Introduction to Forest and Landscape Restoration** — Food and Agriculture Organization (FAO) *(Apr 2024)*
-18. **Sustainable Financing of Forest and Landscape Restoration** — Food and Agriculture Organization (FAO) *(Apr 2024)*
-19. **Climate Change and Sovereign Risk** — [Asian Development Bank Institute (ADBI)](https://elearning-adbi.org/certificate-verifier/?&code=98936-170-081-2015) *(Nov 2023)*
-20. **B20 Side Event: Technology & Market Innovation for Decarbonization** — B20 Indonesia / KADIN *(Aug 2022)*
+14. **Carbon Credits Project Fundamentals** — Blooms Academy *(Apr 2026)*
+15. **Global Carbon Summit Indonesia 2025** — Global Carbon Summit *(Nov 2025)*
+16. **Human Dimensions of Forest and Landscape Restoration** — Society for Ecological Restoration (SER) *(Jul 2024)*
+17. **Climate Action Now Program** — Pachamama Alliance *(Jun 2024)*
+18. **Ground-Based Forest Carbon Stock Accounting (SNI 7724)** — Generasi Biologi Indonesia *(Jun 2024)*
+19. **Introduction to Forest and Landscape Restoration** — Food and Agriculture Organization (FAO) *(Apr 2024)*
+20. **Sustainable Financing of Forest and Landscape Restoration** — Food and Agriculture Organization (FAO) *(Apr 2024)*
+21. **Climate Change and Sovereign Risk** — [Asian Development Bank Institute (ADBI)](https://elearning-adbi.org/certificate-verifier/?&code=98936-170-081-2015) *(Nov 2023)*
+22. **B20 Side Event: Technology & Market Innovation for Decarbonization** — B20 Indonesia / KADIN *(Aug 2022)*
 
-### 2. Marine, Coastal & Fisheries Governance (Ocean Governance, IWRM & Bioacoustics) (17 Trainings)
+### 2. Marine, Coastal & Fisheries Governance (Ocean Governance, IWRM & Bioacoustics) (18 Trainings)
 
-1. **Source-to-Sea (S2S) Management Course** — [Cap-Net UNDP, SIWI & Action Platform for Source-to-Sea Management](https://cap-net.org) *(Sep 2026)*
+1. **Building Skills for Coastal Restoration with Nature and People** — [UNESCO/IOC OceanTeacher Global Academy (OTGA) & A-AAGORA Project](https://classroom.oceanteacher.org) *(Sep 2026)*
+   - **Competencies**: Coastal Ecosystem Restoration, Nature-based Solutions (NbS), Community-Led Marine Stewardship, Marine Spatial Planning, Biodiversity Enhancement, Ecosystem Resilience
+   - **Summary**: Specialized 25-hour professional MOOC certification delivered by the UNESCO/IOC OceanTeacher Global Academy (OTGA) in partnership with the EU A-AAGORA project. Comprehensive training on designing and scaling real-world Nature-based Solutions (NbS) for coastal restoration, engaging local coastal communities, marine biodiversity protection, and climate resilience.
+2. **Source-to-Sea (S2S) Management Course** — [Cap-Net UNDP, SIWI & Action Platform for Source-to-Sea Management](https://cap-net.org) *(Sep 2026)*
    - **Competencies**: Source-to-Sea (S2S) Governance, Integrated Water Resources Management (IWRM), Land-Sea Interaction Modeling, Freshwater & Coastal Linkages, Upstream Pollution Abatement, Marine Spatial Governance
    - **Summary**: Specialized international certification on holistic Source-to-Sea (S2S) management issued by Cap-Net UNDP, Stockholm International Water Institute (SIWI), and the Action Platform for Source-to-Sea Management. Comprehensive curriculum addressing transboundary river-coastal linkages, upstream land-based pollution mitigation, sediment and nutrient flow governance, and integrated watershed-to-marine ecosystem planning.
-2. **IWRM for Climate Resilience (20-Hour Training Course)** — [Cap-Net UNDP & UNEP-DHI Centre](https://campus.cap-net.org/certificates/fd36a0339b364500a601922c8fd08ba9) *(Aug 2026)*
+3. **IWRM for Climate Resilience (20-Hour Training Course)** — [Cap-Net UNDP & UNEP-DHI Centre](https://campus.cap-net.org/certificates/fd36a0339b364500a601922c8fd08ba9) *(Aug 2026)*
    - **Competencies**: Integrated Water Resources Management (IWRM), Climate Change Adaptation, Watershed & Coastal Hydrology, Disaster Risk Reduction, Water Governance
    - **Summary**: 20-hour intensive training on Integrated Water Resources Management (IWRM) for Climate Resilience accredited by Cap-Net UNDP and UNEP-DHI Centre, addressing climate change adaptation in water resources, basin management, and resilient water governance frameworks.
-3. **Ocean Governance Capacity Building Training Program (Elective Modules)** — World Bank Group *(Jul 2026)*
-4. **Acoustic Analysis in Kaleidoscope (Part 2): Batch Processing** — Wildlife Acoustics *(Feb 2026)*
-5. **Introduction to Kaleidoscope for Bat Sound Analysis (Beginner Batch 2)** — Wildlife Acoustics *(Feb 2026)*
-6. **How to Use Bat Auto-ID in Kaleidoscope Pro (Advanced)** — Wildlife Acoustics *(Feb 2026)*
-7. **How to Start a General Survey with Kaleidoscope Pro (Advanced)** — Wildlife Acoustics *(Feb 2026)*
-8. **Intro to Acoustic Indices for Biodiversity Monitoring (Intermediate)** — Wildlife Acoustics *(Feb 2026)*
-9. **How to Perform a Targeted Search with Kaleidoscope Pro (Advanced)** — Wildlife Acoustics *(Feb 2026)*
-10. **Introduction to Kaleidoscope for Bat Sound Analysis (Beginner)** — Wildlife Acoustics *(Feb 2026)*
-11. **Kaleidoscope Lite for Bat Analysis** — Wildlife Acoustics *(Feb 2026)*
-12. **Social Network Analysis for Environmental Governance** — International Network for Social Network Analysis (INSNA) *(Feb 2024)*
-13. **Acoustic Analysis in Kaleidoscope (Part 1): Getting Started** — Wildlife Acoustics *(Dec 2023)*
-14. **Ecosystem Approach to Fisheries Management (EAFM) Planning** — Food and Agriculture Organization (FAO) *(Oct 2023)*
-15. **Training of Trainers (ToT) for ASC and IndoGAP Sustainable Aquaculture Standards** — Politeknik AUP & Kementerian Kelautan dan Perikanan (KKP) *(Sep 2023)*
-16. **Evaluating Fisheries Co-Management Effectiveness** — Food and Agriculture Organization (FAO) *(Sep 2023)*
-17. **Assessing Marine Ecosystem Health with Copernicus Marine Data** — Copernicus Marine Service *(Jul 2023)*
+4. **Ocean Governance Capacity Building Training Program (Elective Modules)** — World Bank Group *(Jul 2026)*
+5. **Acoustic Analysis in Kaleidoscope (Part 2): Batch Processing** — Wildlife Acoustics *(Feb 2026)*
+6. **Introduction to Kaleidoscope for Bat Sound Analysis (Beginner Batch 2)** — Wildlife Acoustics *(Feb 2026)*
+7. **How to Use Bat Auto-ID in Kaleidoscope Pro (Advanced)** — Wildlife Acoustics *(Feb 2026)*
+8. **How to Start a General Survey with Kaleidoscope Pro (Advanced)** — Wildlife Acoustics *(Feb 2026)*
+9. **Intro to Acoustic Indices for Biodiversity Monitoring (Intermediate)** — Wildlife Acoustics *(Feb 2026)*
+10. **How to Perform a Targeted Search with Kaleidoscope Pro (Advanced)** — Wildlife Acoustics *(Feb 2026)*
+11. **Introduction to Kaleidoscope for Bat Sound Analysis (Beginner)** — Wildlife Acoustics *(Feb 2026)*
+12. **Kaleidoscope Lite for Bat Analysis** — Wildlife Acoustics *(Feb 2026)*
+13. **Social Network Analysis for Environmental Governance** — International Network for Social Network Analysis (INSNA) *(Feb 2024)*
+14. **Acoustic Analysis in Kaleidoscope (Part 1): Getting Started** — Wildlife Acoustics *(Dec 2023)*
+15. **Ecosystem Approach to Fisheries Management (EAFM) Planning** — Food and Agriculture Organization (FAO) *(Oct 2023)*
+16. **Training of Trainers (ToT) for ASC and IndoGAP Sustainable Aquaculture Standards** — Politeknik AUP & Kementerian Kelautan dan Perikanan (KKP) *(Sep 2023)*
+17. **Evaluating Fisheries Co-Management Effectiveness** — Food and Agriculture Organization (FAO) *(Sep 2023)*
+18. **Assessing Marine Ecosystem Health with Copernicus Marine Data** — Copernicus Marine Service *(Jul 2023)*
 
 ### 3. Environmental, Social & Safeguards (ADB/World Bank Safeguards, FPIC, ESG & Community) (20 Trainings)
 
