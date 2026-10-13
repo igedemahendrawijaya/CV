@@ -9,7 +9,7 @@ export const cvData = {
       "location": "Denpasar, Bali, Indonesia",
       "linkedin": "linkedin.com/in/gmwijaya",
       "orcid": "0000-0003-2312-7031",
-      "profileSummary": "Marine environmental specialist with over 13 years of experience delivering high-level technical leadership across marine-based sectors, forest concessions, and industrial waste decarbonization. Formally trained in marine science and acoustics (IPB University), with expertise spanning coastal and ocean governance, sustainable fisheries, forest concession licensing (PBPH), and carbon mitigation across AFOLU (>200,000 ha peatland/wetland concessions in Papua) and Waste sectors (Palm Oil Mill Effluent / POME methane capture & biogas-to-energy). Proven track record with major international institutions (World Bank, ADB, FAO, UNDP, WWF, TNC) and national innovation award recognition (BIC). Highly skilled in carbon accounting (SRUK, VCM, Paris Agreement Article 6), MRV, environmental safeguards (ESIA/AMDAL), and multi-stakeholder engagement."
+      "profileSummary": "Marine environmental specialist with over 13 years of experience delivering high-level technical leadership across marine-based sectors, forest concessions, and industrial waste decarbonization. Formally trained in marine science and acoustics (IPB University), with expertise spanning coastal and ocean governance, sustainable fisheries, forest concession licensing (PBPH), and carbon mitigation across AFOLU (>200,000 ha peatland/wetland concessions in Papua) and Waste sectors (Palm Oil Mill Effluent / POME methane capture & biogas-to-energy). Proven track record with major international institutions (World Bank, ADB, FAO, UNDP, TNC) and national innovation award recognition (BIC). Highly skilled in carbon accounting (SRUK, VCM, Paris Agreement Article 6), MRV, environmental safeguards (ESIA/AMDAL), and multi-stakeholder engagement."
     },
     "stats": [
       {
@@ -17,7 +17,7 @@ export const cvData = {
         "label": "Years Experience"
       },
       {
-        "value": "32",
+        "value": "31",
         "label": "Projects Completed"
       },
       {
@@ -56,7 +56,7 @@ export const cvData = {
         "company": "PT Hatfield Indonesia",
         "location": "Bogor / Jakarta",
         "period": "June 2016 - December 2021",
-        "description": "Served as technical lead and specialist for marine ecology, oceanographic baseline assessments, fisheries resource economics, and environmental impact assessments (ESIA / AMDAL / UKL-UPL). Designed and executed extensive marine field sampling campaigns (water quality, sediment chemistry, benthic communities, coral reef health, and pelagic fish biomass). Formulated Environmental and Social Management Plans (ESMP), stakeholder engagement frameworks, and Marine Protected Area (MPA) zoning plans. Led digital innovation initiatives for sustainable fisheries, including the development and deployment of satellite Vessel Monitoring Systems (VMS) with Inmarsat and UK Space Agency, smart aquaculture IoT solutions, and geofencing applications. Authored major technical reports and policy briefs for the World Bank, Asian Development Bank, AFD, FAO, WWF, and Indonesian government ministries."
+        "description": "Served as technical lead and specialist for marine ecology, oceanographic baseline assessments, fisheries resource economics, and environmental impact assessments (ESIA / AMDAL / UKL-UPL). Designed and executed extensive marine field sampling campaigns (water quality, sediment chemistry, benthic communities, coral reef health, and pelagic fish biomass). Formulated Environmental and Social Management Plans (ESMP), stakeholder engagement frameworks, and Marine Protected Area (MPA) zoning plans. Led digital innovation initiatives for sustainable fisheries, including the development and deployment of satellite Vessel Monitoring Systems (VMS) with Inmarsat and UK Space Agency, smart aquaculture IoT solutions, and geofencing applications. Authored major technical reports and policy briefs for the World Bank, Asian Development Bank, AFD, FAO, and Indonesian government ministries."
       },
       {
         "role": "Assistant Project Director",
@@ -236,20 +236,6 @@ export const cvData = {
         ],
         "description": "Authored specialized thematic diagnostic chapters on oceanographic baseline conditions, fisheries resources, marine environmental degradation, and governance frameworks for the Indonesian Seas Large Marine Ecosystem (ISLME) spanning Indonesia and Timor-Leste, establishing the scientific baseline for the regional Strategic Action Programme (SAP).",
         "image": "images/coastal_fisheries.jpg"
-      },
-      {
-        "title": "Independent Evaluation of the Marine Conservation Programme of WWF Malaysia",
-        "client": "WWF Malaysia",
-        "period": "March 2020 - December 2021",
-        "category": "marine",
-        "tags": [
-          "WWF",
-          "M&E",
-          "Marine Spatial Planning",
-          "Conservation Evaluation"
-        ],
-        "description": "Conducted an independent, rigorous performance evaluation of WWF Malaysia's multi-year Marine Conservation Programme. Evaluated achievements, financial efficacy, and conservation impacts across Marine Spatial Planning, sustainable fisheries management (MSC certification support), shark conservation, and community co-management models in Sabah and Peninsular Malaysia.",
-        "image": "images/coral_reef.jpg"
       },
       {
         "title": "Outer Ring Fishing Ports Development Project (Eco-Fishing Ports) ESIA",
@@ -1705,7 +1691,7 @@ export const cvData = {
       "location": "Denpasar, Bali, Indonesia",
       "linkedin": "linkedin.com/in/gmwijaya",
       "orcid": "0000-0003-2312-7031",
-      "profileSummary": "Spesialis lingkungan laut dan praktisi mitigasi karbon senior dengan lebih dari 13 tahun pengalaman dalam memimpin kajian teknis strategis di sektor kelautan, perizinan konsesi kehutanan, dan dekarbonisasi limbah industri. Memiliki latar belakang akademis ilmu kelautan dan bioakustik (Institut Pertanian Bogor), dengan keahlian komprehensif mencakup tata kelola pesisir dan laut, perikanan berkelanjutan, perizinan berusaha pemanfaatan hutan (PBPH), serta mitigasi karbon pada sektor AFOLU (konsesi lahan gambut dan lahan basah >200.000 ha di Papua) dan sektor Limbah (penangkapan metana dan pemanfaatan biogas dari POME limbah cair pabrik kelapa sawit). Berpengalaman menangani proyek bersama institusi internasional utama (Bank Dunia, ADB, FAO, UNDP, WWF, TNC) serta peraih penghargaan inovasi nasional (BIC). Ahli dalam akuntansi karbon (SRUK, VCM, Pasal 6 Perjanjian Paris), MRV, safeguards lingkungan (AMDAL/ESIA), dan pelibatan pemangku kepentingan adat serta kementerian terkait."
+      "profileSummary": "Spesialis lingkungan laut dan praktisi mitigasi karbon senior dengan lebih dari 13 tahun pengalaman dalam memimpin kajian teknis strategis di sektor kelautan, perizinan konsesi kehutanan, dan dekarbonisasi limbah industri. Memiliki latar belakang akademis ilmu kelautan dan bioakustik (Institut Pertanian Bogor), dengan keahlian komprehensif mencakup tata kelola pesisir dan laut, perikanan berkelanjutan, perizinan berusaha pemanfaatan hutan (PBPH), serta mitigasi karbon pada sektor AFOLU (konsesi lahan gambut dan lahan basah >200.000 ha di Papua) dan sektor Limbah (penangkapan metana dan pemanfaatan biogas dari POME limbah cair pabrik kelapa sawit). Berpengalaman menangani proyek bersama institusi internasional utama (Bank Dunia, ADB, FAO, UNDP, TNC) serta peraih penghargaan inovasi nasional (BIC). Ahli dalam akuntansi karbon (SRUK, VCM, Pasal 6 Perjanjian Paris), MRV, safeguards lingkungan (AMDAL/ESIA), dan pelibatan pemangku kepentingan adat serta kementerian terkait."
     },
     "stats": [
       {
@@ -1713,7 +1699,7 @@ export const cvData = {
         "label": "Tahun Pengalaman"
       },
       {
-        "value": "32",
+        "value": "31",
         "label": "Proyek Selesai"
       },
       {
@@ -1752,7 +1738,7 @@ export const cvData = {
         "company": "PT Hatfield Indonesia",
         "location": "Bogor / Jakarta",
         "period": "Juni 2016 - Desember 2021",
-        "description": "Bertindak sebagai tenaga ahli teknis untuk ekologi laut, kajian rona awal oseanografi, ekonomi sumber daya perikanan, dan analisis dampak lingkungan (AMDAL / ESIA / UKL-UPL). Merancang dan memimpin survei lapangan kelautan (kualitas air, sedimen, benthos, terumbu karang, dan biomassa ikan pelagis). Menyusun Rencana Pengelolaan Lingkungan dan Sosial (ESMP), kerangka pelibatan pemangku kepentingan, dan rencana zonasi Kawasan Konservasi Perairan (KKP/MPA). Memimpin inovasi digital perikanan berkelanjutan, termasuk pengembangan sistem monitoring kapal berbasis satelit (VMS) bersama Inmarsat dan UK Space Agency, IoT akuakultur cerdas, serta aplikasi geofencing. Menyusun laporan teknis utama dan policy brief untuk Bank Dunia, ADB, AFD, FAO, WWF, dan kementerian terkait."
+        "description": "Bertindak sebagai tenaga ahli teknis untuk ekologi laut, kajian rona awal oseanografi, ekonomi sumber daya perikanan, dan analisis dampak lingkungan (AMDAL / ESIA / UKL-UPL). Merancang dan memimpin survei lapangan kelautan (kualitas air, sedimen, benthos, terumbu karang, dan biomassa ikan pelagis). Menyusun Rencana Pengelolaan Lingkungan dan Sosial (ESMP), kerangka pelibatan pemangku kepentingan, dan rencana zonasi Kawasan Konservasi Perairan (KKP/MPA). Memimpin inovasi digital perikanan berkelanjutan, termasuk pengembangan sistem monitoring kapal berbasis satelit (VMS) bersama Inmarsat dan UK Space Agency, IoT akuakultur cerdas, serta aplikasi geofencing. Menyusun laporan teknis utama dan policy brief untuk Bank Dunia, ADB, AFD, FAO, dan kementerian terkait."
       },
       {
         "role": "Assistant Project Director",
@@ -1932,20 +1918,6 @@ export const cvData = {
         ],
         "description": "Menulis bab diagnostik tematik spesifik mengenai kondisi oseanografi, sumber daya perikanan, degradasi lingkungan laut, dan tata kelola kelembagaan di Kawasan Ekosistem Laut Besar Laut Indonesia (ISLME) yang mencakup wilayah Indonesia dan Timor-Leste, menjadi fondasi ilmiah pembentukan Strategic Action Programme (SAP) regional.",
         "image": "images/coastal_fisheries.jpg"
-      },
-      {
-        "title": "Evaluasi Independen Program Konservasi Laut WWF Malaysia",
-        "client": "WWF Malaysia",
-        "period": "Maret 2020 - Desember 2021",
-        "category": "marine",
-        "tags": [
-          "WWF",
-          "Monev",
-          "Tata Ruang Laut",
-          "Evaluasi Konservasi"
-        ],
-        "description": "Melaksanakan evaluasi kinerja independen terhadap capaian Program Konservasi Laut multi-tahun WWF Malaysia. Menilai efektivitas program, alokasi finansial, dan dampak konservasi pada tata ruang laut (MSP), sertifikasi perikanan berkelanjutan MSC, konservasi hiu, serta model ko-manajemen masyarakat di Sabah dan Semenanjung Malaysia.",
-        "image": "images/coral_reef.jpg"
       },
       {
         "title": "Kajian Perlindungan Lingkungan & Sosial Proyek Pelabuhan Perikanan Berwawasan Lingkungan (Eco-Fishing Ports)",
