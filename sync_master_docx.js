@@ -54,7 +54,7 @@ export function generateMasterMarkdown() {
   const projExp = stats.find(s => s.label.includes('Projects'))?.value || `${projects.length}`;
   const pubsExp = stats.find(s => s.label.includes('Publications'))?.value || `${pubs.length}`;
 
-  let md = `# ${p.name}, S.Pi.\n`;
+  let md = `# ${p.name}\n`;
   md += `**${p.title}**  \n`;
   md += `*${p.subtitle}*\n\n`;
   md += `- **Email**: [${p.email}](mailto:${p.email})\n`;
@@ -221,7 +221,7 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
       spacing: { before: 0, after: 40 },
       children: [
         new TextRun({
-          text: 'I GEDE MAHENDRA WIJAYA, S.Pi.',
+          text: 'I GEDE MAHENDRA WIJAYA',
           bold: true,
           size: 34, // 17pt
           color: PRIMARY_COLOR,

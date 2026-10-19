@@ -1,4 +1,4 @@
-# I Gede Mahendra Wijaya, S.Pi.
+# I Gede Mahendra Wijaya
 **Marine Environmental Specialist**  
 *Carbon & Fisheries Management | Coastal & Ocean Governance*
 
