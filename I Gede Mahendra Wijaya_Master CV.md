@@ -444,7 +444,7 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 
 1. **[2026] Key Essentials: The Global Biodiversity Framework, Sustainable Development and the Law**
    - **Issued by**: Democratising Education for Global Sustainability and Justice (DemEd Global) / University of Cambridge
-   - **Summary**: Selected among competitive global applicants to receive a donor-funded scholarship for the executive course on the Kunming-Montreal Global Biodiversity Framework (GBF), Sustainable Development and the Law, delivered by Lucy Cavendish College and Hughes Hall, University of Cambridge.
+   - **Summary**: Selected again through a highly competitive global selection process to receive a donor-funded scholarship, and successfully completed the executive short course on the Kunming-Montreal Global Biodiversity Framework (GBF), Sustainable Development and the Law, delivered by Lucy Cavendish College and Hughes Hall, University of Cambridge.
 
 2. **[2026] Key Essentials: The Sustainable Development Goals and the Law**
    - **Issued by**: Democratising Education for Global Sustainability and Justice (DemEd Global) / University of Cambridge

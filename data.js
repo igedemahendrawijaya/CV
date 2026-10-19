@@ -1612,7 +1612,7 @@ export const cvData = {
         "name": "Key Essentials: The Global Biodiversity Framework, Sustainable Development and the Law",
         "issuer": "Democratising Education for Global Sustainability and Justice (DemEd Global) / University of Cambridge",
         "date": "Oct 2026",
-        "description": "Selected among competitive global applicants to receive a donor-funded scholarship for the executive course on the Kunming-Montreal Global Biodiversity Framework (GBF), Sustainable Development and the Law, delivered by Lucy Cavendish College and Hughes Hall, University of Cambridge."
+        "description": "Selected again through a highly competitive global selection process to receive a donor-funded scholarship, and successfully completed the executive short course on the Kunming-Montreal Global Biodiversity Framework (GBF), Sustainable Development and the Law, delivered by Lucy Cavendish College and Hughes Hall, University of Cambridge."
       },
       {
         "year": "2026",
@@ -3301,7 +3301,7 @@ export const cvData = {
         "name": "Beasiswa Studi: Key Essentials - The Global Biodiversity Framework, Sustainable Development and the Law",
         "issuer": "Democratising Education for Global Sustainability and Justice (DemEd Global) / University of Cambridge",
         "date": "Okt 2026",
-        "description": "Terpilih melalui seleksi kompetitif global untuk menerima beasiswa penuh yang didanai donor dalam kursus eksekutif mengenai Kerangka Keanekaragaman Hayati Global Kunming-Montreal (GBF), Pembangunan Berkelanjutan, dan Hukum Lingkungan, yang diselenggarakan oleh Lucy Cavendish College dan Hughes Hall, University of Cambridge."
+        "description": "Terpilih kembali melalui proses seleksi kompetitif global untuk menerima beasiswa penuh yang didanai donor, dan telah berhasil menyelesaikan program kursus eksekutif mengenai Kerangka Keanekaragaman Hayati Global Kunming-Montreal (GBF), Pembangunan Berkelanjutan, dan Hukum Internasional yang diselenggarakan oleh Lucy Cavendish College dan Hughes Hall, University of Cambridge."
       },
       {
         "year": "2026",
