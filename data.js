@@ -34,14 +34,14 @@ export const cvData = {
         "role": "Head of Technical Workstream",
         "company": "PT Aksi Mitigasi Iklim (GHG Actions)",
         "location": "Denpasar (Hybrid Bali & Papua)",
-        "period": "June 2026 – Present",
+        "period": "June 2026 - Present",
         "description": "Providing strategic and technical leadership for end-to-end carbon mitigation projects across market-based carbon mechanisms, spanning both Voluntary Carbon Markets (VCM) and Compliance Markets (Indonesian National Carbon Registry / SRUK, IDXCarbon, and international compliance). Directing the development, technical review, and validation of Project Design Documents (PDD) and Dokumen Rencana Aksi Mitigasi Iklim (DRAM) aligned with Core Carbon Principles (CCPs) of the Integrity Council for the Voluntary Carbon Market (ICVCM) and Paris Agreement Article 6 mechanisms (Articles 6.2 and 6.4 for ITMOs and authorized carbon crediting). Overseeing portfolio-wide carbon rating evaluations and integrity due diligence (benchmarked against BeZero, Sylvera, and Calyx Global) to guarantee robust additionality, baseline credibility, and permanence. Managing technical compliance, MRV, and greenhouse gas accounting for AFOLU (Agriculture, Forestry, and Other Land Use - REDD+, ARR, coastal blue carbon) and Waste Sectors (Palm Oil Mill Effluent / POME Methane Capture & Biogas-to-Energy). Providing technical direction over >200,000 hectares of peatlands and wetlands concessions in West Papua and Southwest Papua, embedding ESG frameworks, Verra VCS + CCB, ART TREES, and high-integrity nature and biodiversity credit standards."
       },
       {
         "role": "Project Manager - GHG Actions & Marine Ecosystem Restoration",
         "company": "PT Aksi Mitigasi Iklim (GHG Actions)",
         "location": "Denpasar (Hybrid Bali & Papua)",
-        "period": "February 2023 – June 2026",
+        "period": "February 2023 - June 2026",
         "description": "Managed full project lifecycles for large-scale terrestrial, peatland, and coastal wetland ecosystem restoration concessions (>200,000 ha) across West Papua and Southwest Papua. Directed multidisciplinary field teams conducting ecological baseline surveys, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), and ground-based carbon stock accounting (SNI 7724). Designed and facilitated Free, Prior, and Informed Consent (FPIC) processes and inclusive benefit-sharing frameworks with indigenous customary communities (Masyarakat Hukum Adat). Led regulatory liaison and licensing with the Ministry of Environment and Forestry (MoEF / KLHK), Peatland & Mangrove Restoration Agency (BRGM), and Ministry of Marine Affairs and Fisheries (KKP). Formulated comprehensive Environmental & Social Management Plans (ESMP), ESIA / AMDAL compliance frameworks, and established rigorous Monitoring, Reporting, and Verification (MRV) systems."
       },
       {
@@ -85,14 +85,14 @@ export const cvData = {
         "degree": "Bachelor of Marine Science and Technology (S.Pi.)",
         "institution": "Bogor Agricultural University (IPB University), Indonesia",
         "faculty": "Faculty of Fisheries and Marine Sciences",
-        "period": "June 2008 – April 2013",
+        "period": "June 2008 - April 2013",
         "details": "Concentration in Marine Acoustic and Remote Sensing Technology | GPA: 3.04. Undergraduate Thesis: \"Penerapan Metode Radon Transform untuk Reduksi Gelombang Multiple Seismik 2D di Perairan Barat Sumatra\" (Advisor: Prof. Dr. Henry M. Manik | IPB Scientific Repository)."
       },
       {
         "degree": "Diploma in Carbon Management",
         "institution": "The Greenhouse Gas Management Institute (GHGMI)",
         "faculty": "Online Professional Program",
-        "period": "2023 – Present (Ongoing)",
+        "period": "2023 - Present (Ongoing)",
         "details": "Specialized curriculum in GHG accounting, carbon project management, baseline determination, and MRV frameworks."
       },
       {
@@ -573,21 +573,21 @@ export const cvData = {
       {
         "year": "2016",
         "title": "Observations on Australian Humpback Dolphins (Sousa sahulensis) in Waters of the Pacific Islands and New Guinea",
-        "publisher": "Current Status and Conservation, Part 2, Vol 73, AMB, UK: Academic Press, pp. 219–271",
+        "publisher": "Current Status and Conservation, Part 2, Vol 73, AMB, UK: Academic Press, pp. 219-271",
         "link": "https://doi.org/10.1016/bs.amb.2015.08.003",
         "description": "Comprehensive peer-reviewed book chapter and field study documenting the distribution, ecology, and conservation status of Australian humpback dolphins in the Pacific and New Guinea."
       },
       {
         "year": "2013",
         "title": "Penerapan Metode Radon Transform untuk Reduksi Gelombang Multiple Seismik 2D di Perairan Barat Sumatra (Application of Radon Transform for 2D Seismic Multiple Wave Reduction)",
-        "publisher": "IPB University Scientific Repository — Undergraduate Thesis (Advisor: Prof. Dr. Henry M. Manik)",
+        "publisher": "IPB University Scientific Repository - Undergraduate Thesis (Advisor: Prof. Dr. Henry M. Manik)",
         "link": "https://repository.ipb.ac.id/handle/123456789/63281",
         "description": "Undergraduate research in marine geophysics and seismic data processing applying Radon Transform (Tau-P Analysis) to attenuate surface multiples on 2D marine seismic line SUME23.31 in West Sumatra waters."
       },
       {
         "year": "2012",
         "title": "Sound of Fish Affects Fish Productivity",
-        "publisher": "Research Innovation Award — Business Innovation Center (BIC), Indonesia",
+        "publisher": "Research Innovation Award - Business Innovation Center (BIC), Indonesia",
         "link": "https://www.antaranews.com/berita/342159/mahasiswa-ipb-temukan-cara-deteksi-produktivitas-ikan",
         "description": "National award-winning research innovation on passive acoustic detection and bioacoustic monitoring for fish productivity."
       },
@@ -1623,14 +1623,14 @@ export const cvData = {
       },
       {
         "year": "2026",
-        "name": "UNITAR Green Economic Acceleration: A Japan–ASEAN Strategic Programme for Sustainable Green Finance",
+        "name": "UNITAR Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance",
         "issuer": "United Nations Institute for Training and Research (UNITAR) and UN CC:Learn",
         "date": "Jul 2026",
-        "description": "Selected through a competitive selection process among applicants across the ASEAN region for the Japan–ASEAN strategic initiative delivered by UNITAR. The program focuses on sustainable green finance mechanisms, bankable green project design, and regional policies driving the green economic transition."
+        "description": "Selected through a competitive selection process among applicants across the ASEAN region for the Japan-ASEAN strategic initiative delivered by UNITAR. The program focuses on sustainable green finance mechanisms, bankable green project design, and regional policies driving the green economic transition."
       },
       {
         "year": "2022",
-        "name": "The 114th Prospective Innovation Award of Indonesia – 2022 Indonesia Scientist Award",
+        "name": "The 114th Prospective Innovation Award of Indonesia - 2022 Indonesia Scientist Award",
         "issuer": "Business Innovation Center (BIC) & Ministry of Research and Technology (Kemenristek/BRIN)",
         "date": "2022",
         "description": "National innovation recognition awarded for applied marine technology and sustainable fisheries innovation."
@@ -1665,7 +1665,7 @@ export const cvData = {
       },
       {
         "year": "2012",
-        "name": "The 104th Prospective Innovation Award of Indonesia – 2012 Indonesia Scientist Award",
+        "name": "The 104th Prospective Innovation Award of Indonesia - 2012 Indonesia Scientist Award",
         "issuer": "Business Innovation Center (BIC)",
         "date": "2012",
         "description": "Awarded for pioneering undergraduate research on bioacoustics and acoustic fish behavior."
@@ -1682,7 +1682,7 @@ export const cvData = {
       {
         "name": "Asian Fisheries Acoustics Society (AFAS)",
         "role": "Member",
-        "period": "2012 – Present",
+        "period": "2012 - Present",
         "url": "https://www.afas-acoustic.org/",
         "description": "Active member contributing to regional advancements in underwater bioacoustics, fisheries acoustic survey technologies, optical-acoustic integration, and marine ecosystem monitoring across Asian and global waters."
       }
@@ -1723,14 +1723,14 @@ export const cvData = {
         "role": "Head of Technical Workstream",
         "company": "PT Aksi Mitigasi Iklim (GHG Actions)",
         "location": "Denpasar (Hybrid Bali & Papua)",
-        "period": "Juni 2026 – Sekarang",
+        "period": "Juni 2026 - Sekarang",
         "description": "Memimpin gugus kerja teknis (Technical Workstream) dan strategi tata kelola proyek mitigasi perubahan iklim berbasis pasar, mencakup pasar sukarela (Voluntary Carbon Market / VCM) maupun pasar kepatuhan (compliance markets seperti Indonesian National Carbon Registry / SRUK, IDXCarbon, dan regulasi internasional). Mengarahkan penyusunan, tinjauan teknis, dan validasi Project Design Document (PDD) serta Dokumen Rencana Aksi Mitigasi Iklim (DRAM) yang selaras dengan Core Carbon Principles (CCPs) dari Integrity Council for the Voluntary Carbon Market (ICVCM) dan mekanisme Perjanjian Paris Pasal 6 (Pasal 6.2 ITMOs dan Pasal 6.4 multilateral crediting). Mengawasi metodologi evaluasi Carbon Rating (tolok ukur BeZero Carbon, Sylvera, Calyx Global) guna menjamin integritas karbon tinggi, tambahan (additionality), kredibilitas baseline, dan pencegahan risiko non-permanensi. Mengelola kepatuhan teknis, MRV, dan inventarisasi GRK untuk sektor AFOLU (Agriculture, Forestry, and Other Land Use - REDD+, ARR, blue carbon pesisir, rewetting gambut) dan sektor Limbah / Waste (POME - Palm Oil Mill Effluent Methane Capture & Biogas). Mengelola secara teknis konsesi lahan gambut dan lahan basah (peatlands & wetlands) seluas >200.000 hektar di Papua Barat dan Papua Barat Daya, mengintegrasikan standar ESG, Verra VCS + CCB, ART TREES, serta kerangka kredit keanekaragaman hayati (nature/biodiversity credits)."
       },
       {
         "role": "Project Manager - GHG Actions & Marine Ecosystem Restoration",
         "company": "PT Aksi Mitigasi Iklim (GHG Actions)",
         "location": "Denpasar (Hybrid Bali & Papua)",
-        "period": "Februari 2023 – Juni 2026",
+        "period": "Februari 2023 - Juni 2026",
         "description": "Mengelola siklus hidup penuh proyek restorasi ekosistem terestrial, lahan gambut, dan lahan basah pesisir (wetlands) skala besar (>200.000 ha) di Papua Barat dan Papua Barat Daya. Memimpin tim lapangan multidisiplin dalam survei baseline ekologi, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), dan inventarisasi cadangan karbon berbasis darat (SNI 7724). Merancang dan memfasilitasi proses Free, Prior, and Informed Consent (FPIC) serta mekanisme pembagian manfaat yang adil bersama masyarakat hukum adat. Memimpin koordinasi perizinan dan kepatuhan regulasi dengan Kementerian Lingkungan Hidup dan Kehutanan (KLHK), Badan Restorasi Gambut dan Mangrove (BRGM), serta Kementerian Kelautan dan Perikanan (KKP). Menyusun Rencana Pengelolaan Lingkungan dan Sosial (ESMP), AMDAL/ESIA, serta membangun sistem Monitoring, Reporting, and Verification (MRV) yang kredibel."
       },
       {
@@ -1774,14 +1774,14 @@ export const cvData = {
         "degree": "Sarjana Ilmu dan Teknologi Kelautan (S.Pi.)",
         "institution": "Institut Pertanian Bogor (IPB University), Indonesia",
         "faculty": "Fakultas Perikanan dan Ilmu Kelautan",
-        "period": "Juni 2008 – April 2013",
+        "period": "Juni 2008 - April 2013",
         "details": "Konsentrasi Akustik Kelautan dan Teknologi Penginderaan Jauh | IPK: 3.04. Skripsi Sarjana: \"Penerapan Metode Radon Transform untuk Reduksi Gelombang Multiple Seismik 2D di Perairan Barat Sumatra\" (Pembimbing: Prof. Dr. Henry M. Manik | IPB Scientific Repository)."
       },
       {
         "degree": "Diploma in Carbon Management",
         "institution": "The Greenhouse Gas Management Institute (GHGMI)",
         "faculty": "Program Profesional Daring",
-        "period": "2023 – Sekarang (Sedang Berjalan)",
+        "period": "2023 - Sekarang (Sedang Berjalan)",
         "details": "Kurikulum spesialisasi inventarisasi GRK, manajemen proyek mitigasi karbon, dan kerangka kerja MRV."
       },
       {
@@ -2262,21 +2262,21 @@ export const cvData = {
       {
         "year": "2016",
         "title": "Pengamatan Lumba-lumba Punggung Bungkuk Australia (Sousa sahulensis) di Perairan Kepulauan Pasifik dan Papua Nugini",
-        "publisher": "Status Terkini dan Konservasi, Bagian 2, Vol 73, AMB, UK: Academic Press, hal. 219–271",
+        "publisher": "Status Terkini dan Konservasi, Bagian 2, Vol 73, AMB, UK: Academic Press, hal. 219-271",
         "link": "https://doi.org/10.1016/bs.amb.2015.08.003",
         "description": "Bab buku ilmiah internasional dan studi lapangan komprehensif mengenai distribusi, ekologi, dan status konservasi lumba-lumba punggung bungkuk Australia di Pasifik dan Papua Nugini."
       },
       {
         "year": "2013",
         "title": "Penerapan Metode Radon Transform untuk Reduksi Gelombang Multiple Seismik 2D di Perairan Barat Sumatra",
-        "publisher": "IPB University Scientific Repository — Skripsi Sarjana S1 (Pembimbing: Prof. Dr. Henry M. Manik)",
+        "publisher": "IPB University Scientific Repository - Skripsi Sarjana S1 (Pembimbing: Prof. Dr. Henry M. Manik)",
         "link": "https://repository.ipb.ac.id/handle/123456789/63281",
         "description": "Penelitian skripsi sarjana di bidang geofisika kelautan dan pengolahan data seismik dengan menerapkan metode Transformasi Radon (Analisis Tau-P) untuk mereduksi multiple permukaan pada lintasan seismik laut 2D SUME23.31 di perairan barat Sumatera."
       },
       {
         "year": "2012",
         "title": "Suara Ikan Memengaruhi Produktivitas Ikan",
-        "publisher": "Penghargaan Inovasi Riset — Business Innovation Center (BIC), Indonesia",
+        "publisher": "Penghargaan Inovasi Riset - Business Innovation Center (BIC), Indonesia",
         "link": "https://www.antaranews.com/berita/342159/mahasiswa-ipb-temukan-cara-deteksi-produktivitas-ikan",
         "description": "Inovasi riset nasional pemenang penghargaan 104 Inovasi Indonesia mengenai teknologi bioakustik pasif untuk mendeteksi produktivitas dan perilaku ikan."
       },
@@ -3312,14 +3312,14 @@ export const cvData = {
       },
       {
         "year": "2026",
-        "name": "UNITAR Green Economic Acceleration: A Japan–ASEAN Strategic Programme for Sustainable Green Finance",
+        "name": "UNITAR Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance",
         "issuer": "United Nations Institute for Training and Research (UNITAR) dan UN CC:Learn",
         "date": "Jul 2026",
-        "description": "Terpilih melalui proses seleksi kompetitif dari pelamar di seluruh kawasan ASEAN untuk inisiatif strategis Jepang–ASEAN yang diselenggarakan oleh UNITAR. Program ini berfokus pada mekanisme keuangan hijau berkelanjutan, perancangan proyek hijau yang bankable, dan kebijakan regional pendorong transisi ekonomi hijau."
+        "description": "Terpilih melalui proses seleksi kompetitif dari pelamar di seluruh kawasan ASEAN untuk inisiatif strategis Jepang-ASEAN yang diselenggarakan oleh UNITAR. Program ini berfokus pada mekanisme keuangan hijau berkelanjutan, perancangan proyek hijau yang bankable, dan kebijakan regional pendorong transisi ekonomi hijau."
       },
       {
         "year": "2022",
-        "name": "Penghargaan 114 Inovasi Prospektif Indonesia – Anugerah Ilmuwan Indonesia 2022",
+        "name": "Penghargaan 114 Inovasi Prospektif Indonesia - Anugerah Ilmuwan Indonesia 2022",
         "issuer": "Business Innovation Center (BIC) & Kementerian Riset dan Teknologi (Kemenristek/BRIN)",
         "date": "2022",
         "description": "Penghargaan inovasi nasional atas pengembangan teknologi kelautan terapan dan inovasi perikanan berkelanjutan."
@@ -3354,7 +3354,7 @@ export const cvData = {
       },
       {
         "year": "2012",
-        "name": "Penghargaan 104 Inovasi Prospektif Indonesia – Anugerah Ilmuwan Indonesia 2012",
+        "name": "Penghargaan 104 Inovasi Prospektif Indonesia - Anugerah Ilmuwan Indonesia 2012",
         "issuer": "Business Innovation Center (BIC)",
         "date": "2012",
         "description": "Penghargaan inovasi nasional atas riset pionir bioakustik dan respon tingkah laku ikan terhadap frekuensi suara."
@@ -3371,7 +3371,7 @@ export const cvData = {
       {
         "name": "Asian Fisheries Acoustics Society (AFAS)",
         "role": "Anggota Profesional",
-        "period": "2012 – Sekarang",
+        "period": "2012 - Sekarang",
         "url": "https://www.afas-acoustic.org/",
         "description": "Anggota aktif yang berkontribusi dalam riset dan penerapan teknologi bioakustik bawah air, survei akustik perikanan, integrasi optik-akustik, serta pemantauan ekosistem laut di kawasan Asia."
       }

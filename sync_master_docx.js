@@ -137,7 +137,7 @@ export function generateMasterMarkdown() {
       md += `*No certifications listed under this pillar.*\n\n`;
     } else {
       pillarCerts.forEach((c, idx) => {
-        const linkPart = c.credentialUrl ? ` — [${c.issuer}](${c.credentialUrl})` : ` — ${c.issuer}`;
+        const linkPart = c.credentialUrl ? ` - [${c.issuer}](${c.credentialUrl})` : ` - ${c.issuer}`;
         md += `${idx + 1}. **${c.name}**${linkPart} *(${c.date})*\n`;
         if (c.competencies) {
           md += `   - **Competencies**: ${c.competencies}\n`;
@@ -301,7 +301,7 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
         spacing: { before: 0, after: edu.details ? 20 : 100 },
         children: [
           new TextRun({ text: edu.institution, bold: true, size: 19, color: TEXT_DARK, font: 'Arial' }),
-          ...(edu.faculty ? [new TextRun({ text: ` — ${edu.faculty}`, size: 19, color: TEXT_MUTED, font: 'Arial' })] : [])
+          ...(edu.faculty ? [new TextRun({ text: ` - ${edu.faculty}`, size: 19, color: TEXT_MUTED, font: 'Arial' })] : [])
         ]
       })
     );
@@ -419,7 +419,7 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
           spacing: { before: 20, after: 20 },
           children: [
             new TextRun({ text: `${c.name}`, bold: true, size: 19, color: TEXT_DARK, font: 'Arial' }),
-            new TextRun({ text: ` — ${c.issuer} (${c.date})`, italic: true, size: 18, color: TEXT_MUTED, font: 'Arial' })
+            new TextRun({ text: ` - ${c.issuer} (${c.date})`, italic: true, size: 18, color: TEXT_MUTED, font: 'Arial' })
           ]
         })
       );
@@ -491,7 +491,7 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
         children: [
           new TextRun({ text: `[${aw.year}] `, bold: true, size: 19, color: PRIMARY_COLOR, font: 'Arial' }),
           new TextRun({ text: `${aw.name} `, bold: true, size: 19, color: TEXT_DARK, font: 'Arial' }),
-          new TextRun({ text: `— ${aw.issuer || aw.org}`, italic: true, size: 18, color: TEXT_MUTED, font: 'Arial' })
+          new TextRun({ text: `- ${aw.issuer || aw.org}`, italic: true, size: 18, color: TEXT_MUTED, font: 'Arial' })
         ]
       })
     );
@@ -519,7 +519,7 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
           spacing: { before: 20, after: 20 },
           children: [
             new TextRun({ text: `${m.name} `, bold: true, size: 19, color: PRIMARY_COLOR, font: 'Arial' }),
-            new TextRun({ text: `— ${m.role} (${m.period})`, italic: true, size: 18, color: TEXT_DARK, font: 'Arial' })
+            new TextRun({ text: `- ${m.role} (${m.period})`, italic: true, size: 18, color: TEXT_DARK, font: 'Arial' })
           ]
         })
       );
@@ -560,7 +560,7 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
         spacing: { before: 60, after: 20 },
         children: [
           new TextRun({ text: r.name, bold: true, size: 20, color: PRIMARY_COLOR, font: 'Arial' }),
-          new TextRun({ text: ` — ${r.title}, ${r.org}`, italic: true, size: 19, color: TEXT_DARK, font: 'Arial' })
+          new TextRun({ text: ` - ${r.title}, ${r.org}`, italic: true, size: 19, color: TEXT_DARK, font: 'Arial' })
         ]
       }),
       new Paragraph({
