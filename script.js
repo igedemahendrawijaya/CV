@@ -581,7 +581,7 @@ window.selectGisLocation = (locId) => {
 };
 
 
-function selectMapLocation(locId, lang, shouldFly = true) {
+function selectMapLocation(locId, lang, shouldFly = true, shouldOpenPopup = true) {
   currentSelectedLocId = locId;
   const locations = cvData[lang].mapLocations || {};
   const loc = locations[locId];
@@ -593,9 +593,11 @@ function selectMapLocation(locId, lang, shouldFly = true) {
   // Fly to location on map
   if (gisMapInstance && shouldFly && loc.lat !== undefined && loc.lng !== undefined) {
     gisMapInstance.flyTo([loc.lat, loc.lng], 8, { duration: 1.2 });
-    if (gisMarkers[locId]) {
+    if (gisMarkers[locId] && shouldOpenPopup) {
       gisMarkers[locId].openPopup();
     }
+  } else if (gisMarkers[locId] && shouldOpenPopup) {
+    gisMarkers[locId].openPopup();
   }
 
   // Highlight Pin DOM
@@ -701,11 +703,26 @@ function renderCareerMap(lang) {
     };
   });
 
+  
+// Auto-dock Hero Card to top-left corner after initial reveal
+function initHeroDocking() {
+  const heroContent = document.getElementById('hero-content');
+  const heroOverlay = document.getElementById('hero-bg-overlay');
+  if (!heroContent) return;
+
+  // Let user see title and name centered for 850ms, then smoothly slide to corner revealing full map
+  setTimeout(() => {
+    heroContent.classList.add('docked-top-corner');
+    if (heroOverlay) heroOverlay.classList.add('docked-overlay');
+  }, 850);
+}
+
   // Initialize or update GIS Map
   initOrUpdateGisMap(lang);
+  initHeroDocking();
 
-  // Select current location (without auto flying on initial load)
-  selectMapLocation(currentSelectedLocId, lang, false);
+  // Select current location (without auto flying or auto popup on initial load)
+  selectMapLocation(currentSelectedLocId, lang, false, false);
 }
 
 // Capitalize helper
