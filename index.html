@@ -55,14 +55,22 @@
     </div>
   </header>
 
-  <!-- Hero Section -->
+  <!-- Hero Section with Interactive WebGIS Basemap Background -->
   <section id="home" class="hero-section">
+    <!-- Basemap in Background -->
+    <div id="hero-map-bg" class="hero-map-bg-wrapper">
+      <div id="career-gis-map"></div>
+    </div>
+    
+    <!-- Translucent Overlay so Text & CTAs are Pristine and Readable -->
     <div class="hero-bg-overlay"></div>
+    
     <div class="hero-waves">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" preserveAspectRatio="none">
         <path fill="#030f26" fill-opacity="1" d="M0,160L48,176C96,192,192,224,288,218.7C384,213,480,171,576,149.3C672,128,768,128,864,154.7C960,181,1056,235,1152,240C1248,245,1344,203,1392,181.3L1440,160L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
       </svg>
     </div>
+
     <div class="container hero-container">
       <div class="hero-content">
         <div class="badge-container fade-in-up">
@@ -70,11 +78,18 @@
         </div>
         <h1 class="hero-title fade-in-up" id="hero-title" data-i18n="personal.name">I Gede Mahendra Wijaya</h1>
         <p class="hero-subtitle fade-in-up" id="hero-subtitle" data-i18n="personal.subtitle">Carbon & Fisheries Management | Coastal & Ocean Governance</p>
-        <div class="hero-cta fade-in-up" style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; margin-bottom: 24px;">
-          <a href="#career-map" class="btn btn-primary" style="display: inline-flex; align-items: center; gap: 8px;">
+        
+        <!-- Live Map Stat Badge -->
+        <div class="hero-map-badge fade-in-up" style="display: inline-flex; align-items: center; gap: 8px; margin-bottom: 20px; padding: 6px 16px; border-radius: 999px; background: rgba(255, 255, 255, 0.85); backdrop-filter: blur(8px); border: 1px solid rgba(14, 148, 136, 0.2); box-shadow: 0 4px 15px rgba(0,0,0,0.05); font-size: 0.82rem; font-weight: 600; color: var(--text-primary);">
+          <span class="live-dot" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #0d9488;"></span>
+          <span data-i18n="ui.mapLiveBadge">37 Active Project Sites Across Indonesia</span>
+        </div>
+
+        <div class="hero-cta fade-in-up" style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
+          <button id="btn-open-footprint" class="btn btn-primary" style="display: inline-flex; align-items: center; gap: 8px; cursor: pointer;">
             <i class="fa-solid fa-map-location-dot"></i>
-            <span data-i18n="ui.mapExploreBtn">Interactive Map</span>
-          </a>
+            <span data-i18n="ui.mapExploreBtn">Career Footprint</span>
+          </button>
           <a href="#projects" class="btn btn-secondary" style="display: inline-flex; align-items: center; gap: 8px;">
             <i class="fa-solid fa-briefcase"></i>
             <span data-i18n="viewProjects">View Projects</span>
@@ -85,99 +100,46 @@
           </a>
         </div>
       </div>
-
-      <!-- Interactive WebGIS Map directly on the Front Landing Page -->
-      <div id="career-map" class="map-card glass fade-in-up" style="border-radius: 20px; overflow: hidden; border: 1px solid var(--border-glass); box-shadow: var(--shadow-premium); background: #ffffff; text-align: left; margin-top: 32px;">
-        
-        <!-- Header Bar: Metric Badges & Filter Tabs -->
-        <div class="map-card-header" style="padding: 24px; border-bottom: 1px solid rgba(14, 148, 136, 0.12); background: linear-gradient(135deg, rgba(13, 148, 136, 0.05) 0%, rgba(2, 132, 199, 0.03) 100%);">
-          <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 16px;">
-            <div>
-              <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 6px;">
-                <span class="live-dot" style="display: inline-block; width: 10px; height: 10px; border-radius: 50%; background: #0d9488;"></span>
-                <span style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.08em; font-weight: 700; color: var(--primary-teal);" data-i18n="ui.mapQuickListTitle">Interactive Work Locations</span>
-              </div>
-              <p style="font-size: 0.88rem; color: var(--text-muted); margin: 0;" data-i18n="ui.mapHint">💡 Click on map pins or buttons below to inspect project details</p>
-            </div>
-
-            <!-- Stats Chips -->
-            <div style="display: flex; gap: 12px; flex-wrap: wrap;">
-              <div class="map-stat-chip">
-                <span class="stat-number">13+</span>
-                <span class="stat-label" data-i18n="ui.mapExpLabel">Years Experience</span>
-              </div>
-              <div class="map-stat-chip">
-                <span class="stat-number">29</span>
-                <span class="stat-label" data-i18n="ui.mapProjectsLabel">Projects & Clients</span>
-              </div>
-              <div class="map-stat-chip">
-                <span class="stat-number">>850k Ha</span>
-                <span class="stat-label" data-i18n="ui.mapLandscapeLabel">Managed Landscape</span>
-              </div>
-            </div>
-          </div>
-
-          <!-- GIS Controls & Cloud Platform Integrations -->
-          <div class="gis-toolbar-container" style="margin-top: 18px; padding-top: 16px; border-top: 1px solid rgba(14, 148, 136, 0.12); display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 12px;">
-            <!-- Basemap Switcher -->
-            <div class="gis-basemap-group" style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center;">
-              <span style="font-size: 0.78rem; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; margin-right: 4px;">Layers:</span>
-              <button class="gis-layer-btn active" data-basemap="satellite" data-i18n="ui.mapLayerSatellite">🛰️ Satellite</button>
-              <button class="gis-layer-btn" data-basemap="ocean" data-i18n="ui.mapLayerOcean">🌊 Ocean</button>
-              <button class="gis-layer-btn" data-basemap="dark" data-i18n="ui.mapLayerDark">🌃 Dark</button>
-              <button class="gis-layer-btn" data-basemap="osm" data-i18n="ui.mapLayerOSM">🗺️ Streets</button>
-            </div>
-
-            <!-- Cloud GIS Platform & Export Actions -->
-            <div class="gis-actions-group" style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-              <a href="https://web.geolibre.app/" target="_blank" rel="noopener noreferrer" class="gis-action-btn" title="Open cloud-native GeoLibre platform" data-i18n="ui.mapOpenGeoLibre">
-                <i class="fa-solid fa-earth-americas"></i> GeoLibre
-              </a>
-              <a href="https://rustgis.app/" target="_blank" rel="noopener noreferrer" class="gis-action-btn" title="Open GPU-accelerated RustGIS WebAssembly platform" data-i18n="ui.mapOpenRustGIS">
-                <i class="fa-solid fa-bolt"></i> RustGIS
-              </a>
-              <button id="btn-export-geojson" class="gis-action-btn primary" title="Download footprint data as standard OGC GeoJSON for GIS applications" data-i18n="ui.mapExportGeoJSON">
-                <i class="fa-solid fa-file-arrow-down"></i> Export GeoJSON
-              </button>
-              <button id="btn-fit-map" class="gis-action-btn" title="Reset map zoom to show all Indonesia project areas" data-i18n="ui.mapResetZoom">
-                <i class="fa-solid fa-expand"></i> Fit Indonesia
-              </button>
-            </div>
-          </div>
-
-          <!-- Sector Filters -->
-          <div class="map-filter-group" style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; padding-top: 14px; border-top: 1px dashed rgba(14, 148, 136, 0.15);">
-            <button class="map-filter-btn active" data-sector="all" data-i18n="ui.mapFilterAll">All Locations (37)</button>
-            <button class="map-filter-btn" data-sector="carbon" data-i18n="ui.mapFilterCarbon">🌲 Carbon & Forests</button>
-            <button class="map-filter-btn" data-sector="marine" data-i18n="ui.mapFilterMarine">🌊 Marine & MPAs</button>
-            <button class="map-filter-btn" data-sector="fisheries" data-i18n="ui.mapFilterFisheries">🐟 Fisheries & Ports</button>
-            <button class="map-filter-btn" data-sector="offshore" data-i18n="ui.mapFilterOffshore">🚢 Offshore & Seismic</button>
-          </div>
-        </div>
-
-        <!-- Interactive WebGIS Map Viewport (Leaflet Engine) -->
-        <div class="map-viewport-gis" style="position: relative; background: #071526; width: 100%; border-top: 1px solid rgba(14, 148, 136, 0.12); border-bottom: 1px solid rgba(14, 148, 136, 0.12);">
-          <div id="career-gis-map" style="width: 100%; height: 500px; min-height: 420px; z-index: 1;"></div>
-        </div>
-
-        <!-- Detail Card -->
-        <div id="site-map-detail-card" style="padding: 24px; border-top: 1px solid var(--border-glass); background: #ffffff;">
-          <!-- Dynamically populated by script.js -->
-        </div>
-
-        <!-- Quick Location Chips -->
-        <div style="padding: 24px; border-top: 1px solid var(--border-glass); background: rgba(13, 148, 136, 0.02);">
-          <div style="font-size: 0.78rem; text-transform: uppercase; font-weight: 700; color: var(--text-muted); margin-bottom: 12px; letter-spacing: 0.05em;" data-i18n="ui.mapQuickListTitle">
-            Interactive Work Locations (Click to Inspect)
-          </div>
-          <div id="site-map-chips-container" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px;">
-            <!-- Rendered by script.js -->
-          </div>
-        </div>
-
-      </div>
     </div>
   </section>
+
+  <!-- Career Footprint Modal / Off-Canvas Drawer -->
+  <div id="gis-location-modal" class="gis-modal-backdrop" style="display: none;">
+    <div class="gis-modal-content glass">
+      <div class="gis-modal-header">
+        <div style="display: flex; align-items: center; gap: 10px;">
+          <span class="live-dot" style="display: inline-block; width: 10px; height: 10px; border-radius: 50%; background: #0d9488;"></span>
+          <div>
+            <h3 style="margin: 0; font-size: 1.15rem; font-weight: 800; color: var(--text-primary);" data-i18n="ui.mapQuickListTitle">Geospatial Career Footprint</h3>
+            <span style="font-size: 0.78rem; color: var(--text-muted);">37 Project Locations Across Indonesia (2012 - Present)</span>
+          </div>
+        </div>
+        <button class="gis-modal-close" id="btn-close-gis-modal" aria-label="Close dialog">&times;</button>
+      </div>
+
+      <!-- Sector Filters -->
+      <div class="map-filter-group" style="display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0 14px;">
+        <button class="map-filter-btn active" data-sector="all" data-i18n="ui.mapFilterAll">All Locations (37)</button>
+        <button class="map-filter-btn" data-sector="carbon" data-i18n="ui.mapFilterCarbon">🌲 Carbon & Forests</button>
+        <button class="map-filter-btn" data-sector="marine" data-i18n="ui.mapFilterMarine">🌊 Marine & MPAs</button>
+        <button class="map-filter-btn" data-sector="fisheries" data-i18n="ui.mapFilterFisheries">🐟 Fisheries & Ports</button>
+        <button class="map-filter-btn" data-sector="offshore" data-i18n="ui.mapFilterOffshore">🚢 Offshore & Seismic</button>
+      </div>
+
+      <!-- Active Location Detail Card -->
+      <div id="site-map-detail-card"></div>
+
+      <!-- Quick Location Chips -->
+      <div style="border-top: 1px solid var(--border-glass); padding-top: 16px; margin-top: 16px;">
+        <div style="font-size: 0.78rem; text-transform: uppercase; font-weight: 700; color: var(--text-muted); margin-bottom: 10px; letter-spacing: 0.05em;" data-i18n="ui.mapSelectSite">
+          Select Site to Inspect
+        </div>
+        <div id="site-map-chips-container" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 8px; max-height: 220px; overflow-y: auto;">
+          <!-- Rendered by script.js -->
+        </div>
+      </div>
+    </div>
+  </div>
 
   <!-- About / Bio Section -->
   <section id="about" class="about-section section-padding">

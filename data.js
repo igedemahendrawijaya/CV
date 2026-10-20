@@ -1593,7 +1593,7 @@ export const cvData = {
       "educationTitle": "Education & Academic Background",
       "membershipsTitle": "Professional Memberships & Affiliations",
       "navMap": "Map",
-      "mapExploreBtn": "Interactive Map",
+      "mapExploreBtn": "Career Footprint",
       "mapTitle": "",
       "mapSubtitle": "",
       "mapFilterAll": "All Locations (37)",
@@ -1620,7 +1620,9 @@ export const cvData = {
       "mapLandscapeLabel": "Managed Landscape",
       "mapClientLabel": "Client / Institution:",
       "mapLandscapeScope": "Landscape Scope:",
-      "mapScopeLabel": "Key Achievements & Technical Scope:"
+      "mapScopeLabel": "Key Achievements & Technical Scope:",
+      "mapLiveBadge": "37 Active Project Sites Across Indonesia",
+      "mapSelectSite": "Select Site to Inspect"
     },
     "awards": [
       {
@@ -4003,7 +4005,7 @@ export const cvData = {
       "educationTitle": "Pendidikan Formal & Akademik",
       "membershipsTitle": "Keanggotaan Profesi & Afiliasi",
       "navMap": "Peta",
-      "mapExploreBtn": "Peta Interaktif",
+      "mapExploreBtn": "Jejak Wilayah Kerja",
       "mapTitle": "",
       "mapSubtitle": "",
       "mapFilterAll": "Semua Wilayah (37)",
@@ -4030,7 +4032,9 @@ export const cvData = {
       "mapLandscapeLabel": "Bentang Alam",
       "mapClientLabel": "Klien / Lembaga:",
       "mapLandscapeScope": "Cakupan Wilayah:",
-      "mapScopeLabel": "Pencapaian & Ruang Lingkup Kerja:"
+      "mapScopeLabel": "Pencapaian & Ruang Lingkup Kerja:",
+      "mapLiveBadge": "37 Titik Wilayah Kerja & Proyek di Seluruh Indonesia",
+      "mapSelectSite": "Pilih Wilayah untuk Melihat Detail"
     },
     "awards": [
       {

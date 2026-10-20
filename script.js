@@ -451,6 +451,48 @@ function initOrUpdateGisMap(lang) {
         exportFootprintGeoJSON(currentLang);
       });
     }
+
+    // Career Footprint Modal & Button Triggers
+    const btnOpenFootprint = document.getElementById('btn-open-footprint');
+    if (btnOpenFootprint) {
+      btnOpenFootprint.onclick = () => window.openGisModal(currentSelectedLocId);
+    }
+
+    const modalEl = document.getElementById('gis-location-modal');
+    const btnCloseModal = document.getElementById('btn-close-gis-modal');
+    if (btnCloseModal && modalEl) {
+      btnCloseModal.onclick = () => window.closeGisModal();
+      modalEl.onclick = (e) => {
+        if (e.target === modalEl) window.closeGisModal();
+      };
+      document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && modalEl.style.display === 'flex') {
+          window.closeGisModal();
+        }
+      });
+    }
+
+    // Nav link trigger
+    document.querySelectorAll('a[href="#career-map"]').forEach(a => {
+      a.onclick = (e) => {
+        e.preventDefault();
+        window.openGisModal(currentSelectedLocId);
+      };
+    });
+
+    // Ensure Leaflet fits hero background smoothly
+    setTimeout(() => {
+      if (gisMapInstance) {
+        gisMapInstance.invalidateSize();
+      }
+    }, 300);
+
+    window.addEventListener('resize', () => {
+      if (gisMapInstance) {
+        gisMapInstance.invalidateSize();
+      }
+    });
+
   }
 
   // Clear existing markers
@@ -493,7 +535,7 @@ function initOrUpdateGisMap(lang) {
         <h4 style="margin: 4px 0 2px; font-size: 0.95rem; font-weight: 700; color: #0f172a;">${loc.name}</h4>
         <div style="font-size: 0.8rem; font-weight: 600; color: #0d9488; margin-bottom: 4px;">${loc.roles}</div>
         <div style="font-size: 0.75rem; color: #64748b; margin-bottom: 8px;"><strong>${loc.employer}</strong></div>
-        <button style="width: 100%; padding: 6px 10px; border-radius: 8px; background: #0d9488; color: #ffffff; border: none; font-size: 0.78rem; font-weight: 600; cursor: pointer;" onclick="window.selectGisLocation('${loc.id}')">
+        <button style="width: 100%; padding: 6px 10px; border-radius: 8px; background: #0d9488; color: #ffffff; border: none; font-size: 0.78rem; font-weight: 600; cursor: pointer;" onclick="window.openGisModal('${loc.id}')">
           ${lang === 'id' ? 'Lihat Detail Portofolio' : 'View Project Highlights'}
         </button>
       </div>
@@ -512,10 +554,32 @@ function initOrUpdateGisMap(lang) {
   applySectorFilterToMap(currentMapSector);
 }
 
+
+// Career Footprint Modal Control
+window.openGisModal = (locId) => {
+  const modal = document.getElementById('gis-location-modal');
+  if (modal) {
+    modal.style.display = 'flex';
+    document.body.style.overflow = 'hidden';
+    if (locId) {
+      selectMapLocation(locId, currentLang, false);
+    }
+  }
+};
+
+window.closeGisModal = () => {
+  const modal = document.getElementById('gis-location-modal');
+  if (modal) {
+    modal.style.display = 'none';
+    document.body.style.overflow = '';
+  }
+};
+
 // Global hook for Leaflet popup click
 window.selectGisLocation = (locId) => {
-  selectMapLocation(locId, currentLang, true);
+  window.openGisModal(locId);
 };
+
 
 function selectMapLocation(locId, lang, shouldFly = true) {
   currentSelectedLocId = locId;
@@ -587,6 +651,7 @@ function selectMapLocation(locId, lang, shouldFly = true) {
 }
 
 window.flyToSelectedLoc = () => {
+  window.closeGisModal();
   const loc = (cvData[currentLang].mapLocations || {})[currentSelectedLocId];
   if (loc && gisMapInstance && loc.lat !== undefined && loc.lng !== undefined) {
     gisMapInstance.flyTo([loc.lat, loc.lng], 8, { duration: 1.2 });

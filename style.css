@@ -360,15 +360,35 @@ a {
   cursor: pointer;
 }
 
-/* --- Hero Section --- */
+/* --- Hero Section with Interactive WebGIS Basemap Background --- */
 .hero-section {
   position: relative;
-  min-height: auto;
-  display: block;
-  background: url('./images/coral_reef.jpg') no-repeat center top/cover;
-  padding-top: calc(var(--header-height) + 36px);
+  min-height: 82vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: calc(var(--header-height) + 20px);
   padding-bottom: 70px;
-  overflow: visible;
+  overflow: hidden;
+  background: #022030;
+}
+
+.hero-map-bg-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+}
+
+#career-gis-map {
+  width: 100% !important;
+  height: 100% !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #022030;
 }
 
 .hero-bg-overlay {
@@ -377,8 +397,9 @@ a {
   left: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(180deg, rgba(244, 249, 248, 0.88) 0%, rgba(244, 249, 248, 0.98) 100%);
+  background: radial-gradient(circle at 50% 50%, rgba(244, 249, 248, 0.72) 0%, rgba(244, 249, 248, 0.86) 65%, rgba(244, 249, 248, 0.98) 100%);
   z-index: 1;
+  pointer-events: none;
 }
 
 .hero-waves {
@@ -400,9 +421,13 @@ a {
   position: relative;
   z-index: 3;
   width: 100%;
-  max-width: 1200px;
+  max-width: 950px;
   margin: 0 auto;
   text-align: center;
+  pointer-events: none;
+}
+.hero-content {
+  pointer-events: auto;
 }
 
 .badge-container {
@@ -1804,5 +1829,75 @@ a {
   .gis-toolbar-container {
     flex-direction: column;
     align-items: flex-start !important;
+  }
+}
+
+
+/* --- Career Footprint Modal Drawer --- */
+.gis-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(15, 23, 42, 0.7);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  animation: fadeInModal 0.25s ease-out;
+}
+
+.gis-modal-content {
+  background: #ffffff;
+  border-radius: 20px;
+  max-width: 880px;
+  width: 100%;
+  max-height: 85vh;
+  overflow-y: auto;
+  padding: 24px 28px;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(14, 148, 136, 0.25);
+  position: relative;
+  text-align: left;
+  animation: slideUpModal 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.gis-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid rgba(14, 148, 136, 0.12);
+  padding-bottom: 12px;
+}
+
+.gis-modal-close {
+  background: transparent;
+  border: none;
+  font-size: 1.8rem;
+  line-height: 1;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: color 0.2s;
+  padding: 4px 8px;
+}
+
+.gis-modal-close:hover {
+  color: #ef4444;
+}
+
+@keyframes fadeInModal {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUpModal {
+  from {
+    opacity: 0;
+    transform: translateY(24px) scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
   }
 }
