@@ -1596,7 +1596,7 @@ export const cvData = {
       "mapExploreBtn": "Interactive Map",
       "mapTitle": "",
       "mapSubtitle": "",
-      "mapFilterAll": "All Locations (26)",
+      "mapFilterAll": "All Locations (37)",
       "mapFilterCarbon": "🌲 Carbon & Forests",
       "mapFilterMarine": "🌊 Marine & MPAs",
       "mapFilterFisheries": "🐟 Fisheries & Ports",
@@ -2196,6 +2196,215 @@ export const cvData = {
           "Authored specialized diagnostic chapters on regional oceanography, fisheries baselines, and marine environmental degradation.",
           "Synthesized transboundary governance frameworks across Indonesian throughflow (ITF) corridors.",
           "Established baseline scientific reports for the regional Strategic Action Programme (SAP)."
+        ]
+      },
+      "kupang": {
+        "id": "kupang",
+        "lat": -10.1772,
+        "lng": 123.5824,
+        "name": "Kupang & Savu Sea (East Nusa Tenggara)",
+        "sector": "fisheries",
+        "sectorLabel": "Fisheries Port & Marine Conservation",
+        "color": "indigo",
+        "badgeClass": "badge-indigo",
+        "employer": "World Bank / Poseidon & MMAF",
+        "roles": "Marine & Fisheries Specialist / Port Assessor",
+        "period": "2020 - 2022",
+        "landscape": "Kupang Bay, Tenau Fishing Port & Savu Sea Marine Protected Area",
+        "highlights": [
+          "Assessed fishing port reception facilities, gear management, and baseline plastic generation at Tenau Fishing Port (Kupang) supporting the World Bank ALDFG and LAUTRA pre-feasibility programs.",
+          "Conducted field surveys and consultations with small-scale fishers in Savu Sea regarding lost fishing gear retrieval, gear marking, and circular economy options.",
+          "Evaluated transboundary small-scale fisheries dynamics and marine debris accumulation patterns in the Timor and Savu Seas."
+        ]
+      },
+      "atambua": {
+        "id": "atambua",
+        "lat": -9.1068,
+        "lng": 124.8925,
+        "name": "Atambua & Belu Coastal Border (East Nusa Tenggara)",
+        "sector": "marine",
+        "sectorLabel": "Transboundary Marine & Coastal Fisheries",
+        "color": "teal",
+        "badgeClass": "badge-teal",
+        "employer": "FAO ISLME / World Bank LAUTRA",
+        "roles": "Marine Resources Consultant",
+        "period": "2020 - 2022",
+        "landscape": "Northern Coastal Border of Timor Island & Atapupu Port (Belu Regency)",
+        "highlights": [
+          "Analyzed coastal fisheries profiles, artisanal gear usage, and transboundary marine resource governance along the Atambua/Belu border facing the Ombai Strait and Timor-Leste.",
+          "Integrated northern Timor coastal communities into national marine plastic debris and ALDFG mitigation roadmaps under the LAUTRA program.",
+          "Mapped small-scale fisher supply chains and cross-border fisheries movements supporting the FAO Transboundary Diagnostic Analysis (TDA ISLME)."
+        ]
+      },
+      "wakatobi": {
+        "id": "wakatobi",
+        "lat": -5.3216,
+        "lng": 123.5932,
+        "name": "Wakatobi Archipelago (Southeast Sulawesi)",
+        "sector": "marine",
+        "sectorLabel": "Marine National Park & Coral Reef Safeguards",
+        "color": "teal",
+        "badgeClass": "badge-teal",
+        "employer": "World Bank / Poseidon & MMAF",
+        "roles": "Marine Environmental & ALDFG Specialist",
+        "period": "2020 - 2022",
+        "landscape": "1,390,000 Hectares Wakatobi National Park (WPPNRI 714 / Banda Sea Rim)",
+        "highlights": [
+          "Assessed abandoned, lost, and discarded fishing gear (ALDFG) risks impacting pristine coral reef systems across Wangi-Wangi, Kaledupa, Tomia, and Binongko.",
+          "Conducted coastal community interviews on fishing net lifecycle, loss rates, and local stewardship mechanisms in custom-managed marine zones.",
+          "Formulated circular gear recovery recommendations for Marine Protected Area managers under the national ALDFG and LAUTRA action plan."
+        ]
+      },
+      "ternate": {
+        "id": "ternate",
+        "lat": 0.7901,
+        "lng": 127.3828,
+        "name": "Ternate & North Maluku Waters (North Maluku)",
+        "sector": "fisheries",
+        "sectorLabel": "Archipelagic Fisheries Hub & Port Logistics",
+        "color": "indigo",
+        "badgeClass": "badge-indigo",
+        "employer": "World Bank (LAUTRA) / MMAF",
+        "roles": "Senior Marine & Fisheries Specialist",
+        "period": "2020 - 2022",
+        "landscape": "PPN Ternate, Halmahera Waters & Molucca Sea (WPPNRI 715 / 716)",
+        "highlights": [
+          "Conducted institutional and operational baseline assessments of PPN Ternate to support national port modernization and LAUTRA project investments.",
+          "Evaluated skipjack and yellowfin tuna supply chains, cold storage infrastructure, and fisher cooperative readiness in the Molucca Sea.",
+          "Integrated circular port reception and gear disposal protocols into regional North Maluku fisheries infrastructure planning."
+        ]
+      },
+      "biak": {
+        "id": "biak",
+        "lat": -1.0182,
+        "lng": 136.0848,
+        "name": "Biak Numfor Island (Papua)",
+        "sector": "fisheries",
+        "sectorLabel": "Pacific Ocean Tuna Hub & Island MPAs",
+        "color": "indigo",
+        "badgeClass": "badge-indigo",
+        "employer": "World Bank / Inmarsat / MMAF",
+        "roles": "Marine Fisheries Specialist",
+        "period": "2019 - 2022",
+        "landscape": "PPN Biak, Padaido Islands MPA & Western Pacific Ocean (WPPNRI 717)",
+        "highlights": [
+          "Assessed PPN Biak port operations, direct tuna air export logistics to regional markets, and small-scale handline fisher fleet dynamics.",
+          "Analyzed satellite VMS compliance, vessel tracking, and maritime safety for fishing vessels operating in the open Pacific Ocean.",
+          "Surveyed Padaido Islands marine habitats and ghost gear accumulation points in proximity to offshore pelagic migratory corridors."
+        ]
+      },
+      "kaltim": {
+        "id": "kaltim",
+        "lat": -0.5022,
+        "lng": 117.1536,
+        "name": "East Kalimantan & Mahakam Coastal (East Kalimantan)",
+        "sector": "carbon",
+        "sectorLabel": "Mangrove Carbon & Delta Ecosystems",
+        "color": "emerald",
+        "badgeClass": "badge-emerald",
+        "employer": "PT Aksi Mitigasi Iklim & Marine Partners",
+        "roles": "Technical Carbon Specialist / Coastal Assessor",
+        "period": "2022 - Present",
+        "landscape": "Mahakam Delta Mangrove Forests & Balikpapan Bay Coastal Landscapes",
+        "highlights": [
+          "Conducted carbon stratification, mangrove biomass sampling, and baseline carbon stock assessments across tidal delta landscapes.",
+          "Mapped historical aquaculture conversion drivers and silvofisheries restoration potential for high-integrity Blue Carbon project design.",
+          "Engaged local shrimp farming communities and village authorities on mangrove conservation agreements and sustainable brackish water aquaculture."
+        ]
+      },
+      "pulaumaya": {
+        "id": "pulaumaya",
+        "lat": -1.1738,
+        "lng": 109.5824,
+        "name": "Maya Island & Kayong Utara (West Kalimantan)",
+        "sector": "marine",
+        "sectorLabel": "Coastal Mangroves & Community Fisheries",
+        "color": "teal",
+        "badgeClass": "badge-teal",
+        "employer": "Marine Partners / Hatfield",
+        "roles": "Coastal Ecology & Safeguards Specialist",
+        "period": "2018 - 2021",
+        "landscape": "Maya Island Mangrove Ecosystems & Karimata Strait Coastal Waters",
+        "highlights": [
+          "Conducted coastal ecosystem surveys and socio-fisheries profiling across artisanal crab and coastal fisheries communities on Maya Island.",
+          "Evaluated mangrove health, mud crab habitat integrity, and community-based coastal zoning in Kayong Utara Regency.",
+          "Assessed fishing gear loss risks and plastic waste generation from small-scale coastal traps and drift nets in the Karimata Strait."
+        ]
+      },
+      "pekalongan": {
+        "id": "pekalongan",
+        "lat": -6.8724,
+        "lng": 109.6845,
+        "name": "PPN Pekalongan (Central Java)",
+        "sector": "fisheries",
+        "sectorLabel": "Fisheries Port & Net Recycling Pilot",
+        "color": "indigo",
+        "badgeClass": "badge-indigo",
+        "employer": "World Bank / Poseidon Aquatic Resource Management",
+        "roles": "ALDFG Field Assessor & Circular Economy Specialist",
+        "period": "2020 - 2022",
+        "landscape": "Pekalongan Fishing Port (PPN Pekalongan) & Java Sea Purse Seine Hub",
+        "highlights": [
+          "Executed in-depth technical evaluation of the ongoing commercial fishing net recycling and collection pilot at PPN Pekalongan for the World Bank.",
+          "Quantified end-of-life nylon and polyethylene purse seine net turnover rates, scrap value chains, and recycling barriers with port recyclers.",
+          "Formulated national policy recommendations and port-reception economic models to scale net retrieval across major North Java fishing ports."
+        ]
+      },
+      "brondong": {
+        "id": "brondong",
+        "lat": -6.8833,
+        "lng": 112.2833,
+        "name": "PPN Brondong, Lamongan (East Java)",
+        "sector": "fisheries",
+        "sectorLabel": "Java Sea Pelagic Hub & Port Logistics",
+        "color": "indigo",
+        "badgeClass": "badge-indigo",
+        "employer": "World Bank (ALDFG) / Hatfield / Inmarsat",
+        "roles": "Fisheries Operations & Port Safeguards Specialist",
+        "period": "2019 - 2022",
+        "landscape": "PPN Brondong Fishing Port Complex & Java Sea / Madura Strait Fishing Fleet",
+        "highlights": [
+          "Evaluated landing operations, fishing fleet density (>30 GT & cantrang transitions), and waste management at PPN Brondong.",
+          "Collected empirical data on discarded and worn fishing gear volumes from multi-day offshore purse seine and Danish seine operations.",
+          "Assessed satellite tracking (VMS) coverage and fishing vessel compliance in high-density fishing zones across Fisheries Management Area 712."
+        ]
+      },
+      "sendangbiru": {
+        "id": "sendangbiru",
+        "lat": -8.4333,
+        "lng": 112.6833,
+        "name": "PPP Sendang Biru, Malang (East Java)",
+        "sector": "fisheries",
+        "sectorLabel": "Indian Ocean Tuna Handline Hub",
+        "color": "indigo",
+        "badgeClass": "badge-indigo",
+        "employer": "World Bank / Inmarsat / MMAF",
+        "roles": "Tuna Fisheries & Port Assessor",
+        "period": "2018 - 2022",
+        "landscape": "Sendang Biru Coastal Port & Southern Java Indian Ocean Waters (WPPNRI 573)",
+        "highlights": [
+          "Analyzed small-scale and semi-industrial tuna handline and longline fleets landing yellowfin and bigeye tuna from Indian Ocean waters.",
+          "Assessed low-cost satellite VMS pilot adoption and safety-at-sea alert mechanisms for artisanal fishers braving severe southern swell conditions.",
+          "Conducted gear loss surveys and ghost gear impact assessments along the rugged south coast of East Java."
+        ]
+      },
+      "muncar": {
+        "id": "muncar",
+        "lat": -8.4312,
+        "lng": 114.3333,
+        "name": "PPP Muncar, Banyuwangi (East Java)",
+        "sector": "fisheries",
+        "sectorLabel": "Bali Strait Pelagic Hub & Marine Debris",
+        "color": "indigo",
+        "badgeClass": "badge-indigo",
+        "employer": "World Bank (ALDFG) / Poseidon / MMAF",
+        "roles": "Fisheries Port Specialist & Marine Debris Assessor",
+        "period": "2020 - 2022",
+        "landscape": "Muncar Fishing Port Complex, Bali Strait & Lemuru Sardine Fishery Grounds",
+        "highlights": [
+          "Conducted comprehensive diagnostic on port reception facilities, discarded purse seine gear, and industrial fish canning plastic leakage at Muncar.",
+          "Evaluated the famous Bali Strait lemuru (Sardinella lemuru) purse seine fishery, seasonal fishing patterns, and port basin debris congestion.",
+          "Formulated community and municipal plastic waste interceptor strategies supporting national marine debris reduction targets."
         ]
       }
     }
@@ -3797,7 +4006,7 @@ export const cvData = {
       "mapExploreBtn": "Peta Interaktif",
       "mapTitle": "",
       "mapSubtitle": "",
-      "mapFilterAll": "Semua Wilayah (26)",
+      "mapFilterAll": "Semua Wilayah (37)",
       "mapFilterCarbon": "🌲 Karbon & Hutan",
       "mapFilterMarine": "🌊 Konservasi Laut & KKP",
       "mapFilterFisheries": "🐟 Perikanan & Pelabuhan",
@@ -4397,6 +4606,215 @@ export const cvData = {
           "Menulis bab diagnostik khusus mengenai oseanografi regional, rona perikanan, dan degradasi lingkungan laut.",
           "Mensintesis kerangka kerja tata kelola lintas batas di sepanjang koridor Arus Lintas Indonesia (ARLINDO).",
           "Menyusun laporan ilmiah dasar untuk Strategic Action Programme (SAP) regional."
+        ]
+      },
+      "kupang": {
+        "id": "kupang",
+        "lat": -10.1772,
+        "lng": 123.5824,
+        "name": "Kupang & Laut Sawu (Nusa Tenggara Timur)",
+        "sector": "fisheries",
+        "sectorLabel": "Pelabuhan Perikanan & Konservasi Laut",
+        "color": "indigo",
+        "badgeClass": "badge-indigo",
+        "employer": "World Bank / Poseidon & KKP",
+        "roles": "Spesialis Kelautan & Perikanan / Penilai Pelabuhan",
+        "period": "2020 - 2022",
+        "landscape": "Teluk Kupang, Pelabuhan Perikanan Tenau & Kawasan Konservasi Perairan Laut Sawu",
+        "highlights": [
+          "Melakukan penilaian fasilitas penerimaan pelabuhan perikanan, pengelolaan alat tangkap, dan baseline timbulan plastik di Pelabuhan Perikanan Tenau Kupang mendukung studi pre-feasibility ALDFG dan LAUTRA World Bank.",
+          "Melaksanakan survei lapangan dan konsultasi dengan nelayan skala kecil di perairan Laut Sawu terkait penarikan alat tangkap hilang (ghost gear) dan ekonomi sirkular.",
+          "Mengevaluasi dinamika perikanan tangkap skala kecil lintas batas dan pola akumulasi sampah laut di Laut Sawu dan Laut Timor."
+        ]
+      },
+      "atambua": {
+        "id": "atambua",
+        "lat": -9.1068,
+        "lng": 124.8925,
+        "name": "Atambua & Pesisir Perbatasan Belu (Nusa Tenggara Timur)",
+        "sector": "marine",
+        "sectorLabel": "Kelautan Lintas Batas & Perikanan Pesisir",
+        "color": "teal",
+        "badgeClass": "badge-teal",
+        "employer": "FAO ISLME / World Bank LAUTRA",
+        "roles": "Konsultan Sumber Daya Kelautan",
+        "period": "2020 - 2022",
+        "landscape": "Pesisir Utara Pulau Timor & Pelabuhan Atapupu (Kabupaten Belu)",
+        "highlights": [
+          "Menganalisis profil perikanan pesisir, pola penggunaan alat tangkap tradisional, dan tata kelola sumber daya laut lintas batas di pesisir Belu/Atambua menghadap Selat Ombai dan Timor Leste.",
+          "Mengintegrasikan komunitas pesisir utara Pulau Timor ke dalam peta jalan mitigasi sampah plastik laut dan ALDFG di bawah program LAUTRA.",
+          "Memetakan rantai pasok nelayan skala kecil dan pergerakan perikanan lintas batas mendukung Transboundary Diagnostic Analysis FAO (TDA ISLME)."
+        ]
+      },
+      "wakatobi": {
+        "id": "wakatobi",
+        "lat": -5.3216,
+        "lng": 123.5932,
+        "name": "Kepulauan Wakatobi (Sulawesi Tenggara)",
+        "sector": "marine",
+        "sectorLabel": "Taman Nasional Kepulauan & Konservasi Terumbu Karang",
+        "color": "teal",
+        "badgeClass": "badge-teal",
+        "employer": "World Bank / Poseidon & KKP",
+        "roles": "Spesialis Lingkungan Laut & ALDFG",
+        "period": "2020 - 2022",
+        "landscape": "1.390.000 Hektar Taman Nasional Wakatobi (WPPNRI 714 / Tepian Laut Banda)",
+        "highlights": [
+          "Menilai risiko alat tangkap hilang atau terbuang (ALDFG / ghost gear) terhadap ekosistem terumbu karang di Pulau Wangi-Wangi, Kaledupa, Tomia, dan Binongko.",
+          "Melaksanakan wawancara komunitas pesisir terkait siklus hidup jaring, tingkat kehilangan, dan kearifan lokal pengelolaan perairan adat.",
+          "Merumuskan rekomendasi penarikan jaring sirkular bagi pengelola kawasan konservasi dalam rencana aksi nasional ALDFG dan LAUTRA."
+        ]
+      },
+      "ternate": {
+        "id": "ternate",
+        "lat": 0.7901,
+        "lng": 127.3828,
+        "name": "Ternate & Perairan Maluku Utara (Maluku Utara)",
+        "sector": "fisheries",
+        "sectorLabel": "Hub Perikanan Kepulauan & Logistik Pelabuhan",
+        "color": "indigo",
+        "badgeClass": "badge-indigo",
+        "employer": "World Bank (LAUTRA) / KKP",
+        "roles": "Spesialis Senior Kelautan & Perikanan",
+        "period": "2020 - 2022",
+        "landscape": "PPN Ternate, Perairan Halmahera & Laut Maluku (WPPNRI 715 / 716)",
+        "highlights": [
+          "Melaksanakan kajian baseline operasional dan kelembagaan PPN Ternate untuk mendukung modernisasi pelabuhan nasional dan investasi program LAUTRA.",
+          "Mengevaluasi rantai pasok tuna cakalang dan madidihang, fasilitas rantai dingin, serta kesiapan koperasi nelayan di perairan Laut Maluku.",
+          "Mengintegrasikan protokol penerimaan pelabuhan sirkular dan tata kelola limbah alat tangkap ke dalam perencanaan infrastruktur perikanan Maluku Utara."
+        ]
+      },
+      "biak": {
+        "id": "biak",
+        "lat": -1.0182,
+        "lng": 136.0848,
+        "name": "Pulau Biak Numfor (Papua)",
+        "sector": "fisheries",
+        "sectorLabel": "Hub Tuna Samudera Pasifik & Konservasi Perairan",
+        "color": "indigo",
+        "badgeClass": "badge-indigo",
+        "employer": "World Bank / Inmarsat / KKP",
+        "roles": "Spesialis Perikanan Laut",
+        "period": "2019 - 2022",
+        "landscape": "PPN Biak, Kawasan Konservasi Kepulauan Padaido & Samudera Pasifik (WPPNRI 717)",
+        "highlights": [
+          "Menilai operasional Pelabuhan Perikanan Biak, rantai logistik ekspor tuna langsung via udara, dan dinamika armada nelayan tuna handline skala kecil.",
+          "Menganalisis kepatuhan VMS satelit, pelacakan armada kapal, dan keselamatan pelayaran nelayan di perairan Samudera Pasifik (WPPNRI 717).",
+          "Meneliti kondisi ekosistem perairan Kepulauan Padaido dan titik akumulasi sampah alat tangkap di dekat koridor ruaya pelagis lepas pantai."
+        ]
+      },
+      "kaltim": {
+        "id": "kaltim",
+        "lat": -0.5022,
+        "lng": 117.1536,
+        "name": "Kalimantan Timur & Pesisir Mahakam (Kalimantan Timur)",
+        "sector": "carbon",
+        "sectorLabel": "Karbon Mangrove & Ekosistem Delta",
+        "color": "emerald",
+        "badgeClass": "badge-emerald",
+        "employer": "PT Aksi Mitigasi Iklim & Mitra Kelautan",
+        "roles": "Spesialis Teknis Karbon / Penilai Pesisir",
+        "period": "2022 - Sekarang",
+        "landscape": "Hutan Mangrove Delta Mahakam & Bentang Pesisir Teluk Balikpapan",
+        "highlights": [
+          "Melaksanakan stratifikasi karbon, pengambilan sampel biomassa mangrove, dan penilaian stok karbon baseline di bentang alam delta pasang surut.",
+          "Memetakan pemicu historis konversi tambak dan potensi restorasi silvofisheries untuk perancangan proyek Karbon Biru berintegritas tinggi.",
+          "Memfasilitasi dialog dengan petambak udang lokal dan pemerintah desa terkait kesepakatan konservasi mangrove dan akuakultur payau berkelanjutan."
+        ]
+      },
+      "pulaumaya": {
+        "id": "pulaumaya",
+        "lat": -1.1738,
+        "lng": 109.5824,
+        "name": "Pulau Maya & Kayong Utara (Kalimantan Barat)",
+        "sector": "marine",
+        "sectorLabel": "Mangrove Pesisir & Perikanan Komunitas",
+        "color": "teal",
+        "badgeClass": "badge-teal",
+        "employer": "Mitra Kelautan / Hatfield",
+        "roles": "Spesialis Ekologi Pesisir & Pengamanan Lingkungan",
+        "period": "2018 - 2021",
+        "landscape": "Ekosistem Mangrove Pulau Maya & Perairan Pesisir Selat Karimata",
+        "highlights": [
+          "Melakukan survei ekosistem pesisir dan pemetaan sosial-perikanan pada komunitas nelayan rajungan dan kepiting bakau di Pulau Maya.",
+          "Mengevaluasi kesehatan mangrove, habitat kepiting bakau, dan zonasi pesisir berbasis masyarakat di Kabupaten Kayong Utara.",
+          "Menilai risiko kehilangan alat tangkap dan timbulan limbah plastik dari bubu pesisir dan jaring insang hanyut di Selat Karimata."
+        ]
+      },
+      "pekalongan": {
+        "id": "pekalongan",
+        "lat": -6.8724,
+        "lng": 109.6845,
+        "name": "PPN Pekalongan (Jawa Tengah)",
+        "sector": "fisheries",
+        "sectorLabel": "Pelabuhan Perikanan & Pilot Daur Ulang Jaring",
+        "color": "indigo",
+        "badgeClass": "badge-indigo",
+        "employer": "World Bank / Poseidon Aquatic Resource Management",
+        "roles": "Penilai Lapangan ALDFG & Spesialis Ekonomi Sirkular",
+        "period": "2020 - 2022",
+        "landscape": "Pelabuhan Perikanan Nusantara (PPN) Pekalongan & Pusat Pukat Cincin Laut Jawa",
+        "highlights": [
+          "Melaksanakan evaluasi teknis mendalam terhadap percontohan pengumpulan dan daur ulang jaring perikanan komersial di PPN Pekalongan untuk Bank Dunia.",
+          "Mengukur tingkat perputaran jaring pukat cincin nilon dan polietilen bekas, rantai nilai daur ulang, dan kendala bisnis bersama pelapak daur ulang pelabuhan.",
+          "Merumuskan rekomendasi kebijakan nasional dan model ekonomi fasilitas penerimaan pelabuhan untuk mereplikasi penarikan jaring di pelabuhan pantura Jawa."
+        ]
+      },
+      "brondong": {
+        "id": "brondong",
+        "lat": -6.8833,
+        "lng": 112.2833,
+        "name": "PPN Brondong, Lamongan (Jawa Timur)",
+        "sector": "fisheries",
+        "sectorLabel": "Hub Pelagis Laut Jawa & Logistik Pelabuhan",
+        "color": "indigo",
+        "badgeClass": "badge-indigo",
+        "employer": "World Bank (ALDFG) / Hatfield / Inmarsat",
+        "roles": "Spesialis Operasional Perikanan & Safeguards Pelabuhan",
+        "period": "2019 - 2022",
+        "landscape": "Kawasan PPN Brondong & Armada Kapal Perikanan Laut Jawa / Selat Madura",
+        "highlights": [
+          "Mengevaluasi operasional pendaratan ikan, kepadatan armada (>30 GT dan transisi alat tangkap cantrang), serta sistem pengelolaan limbah di PPN Brondong.",
+          "Mengumpulkan data empiris volume alat tangkap usang dan terbuang dari kapal purse seine dan pukat tarik yang melaut multi-hari.",
+          "Menilai ketercakupan pelacakan satelit (VMS) dan kepatuhan kapal perikanan di zona tangkap padat Wilayah Pengelolaan Perikanan (WPPNRI) 712."
+        ]
+      },
+      "sendangbiru": {
+        "id": "sendangbiru",
+        "lat": -8.4333,
+        "lng": 112.6833,
+        "name": "PPP Sendang Biru, Malang (Jawa Timur)",
+        "sector": "fisheries",
+        "sectorLabel": "Hub Pancing Ulur Tuna Samudera Hindia",
+        "color": "indigo",
+        "badgeClass": "badge-indigo",
+        "employer": "World Bank / Inmarsat / KKP",
+        "roles": "Penilai Perikanan Tuna & Pelabuhan",
+        "period": "2018 - 2022",
+        "landscape": "Pangkalan Pendaratan Ikan Sendang Biru & Perairan Samudera Hindia Selatan Jawa (WPPNRI 573)",
+        "highlights": [
+          "Menganalisis armada pancing ulur (handline) dan rawai tuna skala kecil hingga semi-industri yang mendaratkan tuna madidihang dan mata besar dari Samudera Hindia.",
+          "Menilai adopsi uji coba VMS satelit berbiaya rendah dan mekanisme peringatan keselamatan pelayaran bagi nelayan tradisional di ombak selatan Jawa.",
+          "Melaksanakan survei kehilangan alat tangkap dan penilaian dampak jaring hilang (ghost gear) di sepanjang pesisir selatan Jawa Timur."
+        ]
+      },
+      "muncar": {
+        "id": "muncar",
+        "lat": -8.4312,
+        "lng": 114.3333,
+        "name": "PPP Muncar, Banyuwangi (Jawa Timur)",
+        "sector": "fisheries",
+        "sectorLabel": "Pusat Pelagis Selat Bali & Mitigasi Sampah Laut",
+        "color": "indigo",
+        "badgeClass": "badge-indigo",
+        "employer": "World Bank (ALDFG) / Poseidon / KKP",
+        "roles": "Spesialis Pelabuhan Perikanan & Penilai Sampah Laut",
+        "period": "2020 - 2022",
+        "landscape": "Kawasan Pelabuhan Perikanan Muncar, Selat Bali & Daerah Tangkapan Lemuru",
+        "highlights": [
+          "Melakukan diagnostik komprehensif fasilitas penampungan pelabuhan, jaring pukat cincin terbuang, dan limbah plastik industri pengalengan ikan di Muncar.",
+          "Mengevaluasi perikanan purse seine lemuru (Sardinella lemuru) Selat Bali, dinamika musiman armada slerek, dan kongesti sampah di kolam labuh.",
+          "Merumuskan strategi interseptor sampah plastik berbasis pelabuhan dan komunitas untuk mendukung target pengurangan sampah plastik laut nasional."
         ]
       }
     }
