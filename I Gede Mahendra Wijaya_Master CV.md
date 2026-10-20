@@ -495,14 +495,22 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 ## Professional References
 
 1. **Dr. Lida Pet-Soede**  
-   Director of Marine Unit Service, Hatfield Consultant  
+   Director of Marine Unit Service, Hatfield Group  
    *Contact available upon request*
 
 2. **Dr. I Wayan Nurjaya**  
-   Head of Department of Marine Science and Technology, IPB University  
+   Head of Department of Marine Science and Technology, Bogor Agricultural University (IPB University)  
    *Contact available upon request*
 
 3. **Prof. Henry M. Manik, S.Pi., M.T., Ph.D.**  
    Professor of Ocean Acoustics and Instrumentation, Department of Marine Science and Technology, IPB University  
+   *Contact available upon request*
+
+4. **Dr. Windi Al Zahra**  
+   Senior Researcher / Climate & Environmental Specialist, Centre for Climate Risk and Opportunity Management (CCROM SEAP), IPB University  
+   *Contact available upon request*
+
+5. **Dias Natasasmita**  
+   Marine Specialist, World Bank Group  
    *Contact available upon request*
 
