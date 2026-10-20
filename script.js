@@ -291,6 +291,131 @@ function renderReferences(lang) {
   `).join('');
 }
 
+// --- Career Footprint Map ---
+let currentMapSector = 'all';
+let currentSelectedLocId = 'sorong';
+
+function selectMapLocation(locId, lang) {
+  currentSelectedLocId = locId;
+  const locations = cvData[lang].mapLocations || {};
+  const loc = locations[locId];
+  if (!loc) return;
+
+  const detailCard = document.getElementById('site-map-detail-card');
+  const ui = cvData[lang].ui || {};
+
+  // Highlight SVG Pin
+  document.querySelectorAll('.map-pin-site').forEach(pin => {
+    if (pin.getAttribute('data-loc') === locId) {
+      pin.classList.add('active');
+    } else {
+      pin.classList.remove('active');
+    }
+  });
+
+  // Highlight Location Chip
+  document.querySelectorAll('.loc-chip-btn').forEach(chip => {
+    if (chip.getAttribute('data-loc') === locId) {
+      chip.classList.add('active');
+    } else {
+      chip.classList.remove('active');
+    }
+  });
+
+  // Render Details
+  if (detailCard) {
+    detailCard.innerHTML = `
+      <div style="display: flex; flex-direction: column; gap: 12px;">
+        <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 12px;">
+          <div>
+            <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 6px;">
+              <span class="badge-sector ${loc.badgeClass || 'badge-teal'}">${loc.sectorLabel}</span>
+              <span style="font-size: 0.82rem; font-family: monospace; color: var(--text-muted);">${loc.period}</span>
+            </div>
+            <h3 style="font-size: 1.25rem; font-weight: 800; color: var(--text-primary); margin: 0 0 4px;">${loc.name}</h3>
+            <div style="font-size: 0.95rem; font-weight: 600; color: var(--primary-teal);">${loc.roles}</div>
+          </div>
+        </div>
+
+        <div style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.6; border-top: 1px solid rgba(14, 148, 136, 0.1); padding-top: 10px;">
+          <div><strong style="color: var(--text-primary);">${ui.mapClientLabel || 'Client / Institution:'}</strong> ${loc.employer}</div>
+          <div><strong style="color: var(--text-primary);">${ui.mapLandscapeScope || 'Landscape Scope:'}</strong> ${loc.landscape}</div>
+        </div>
+
+        <div style="margin-top: 6px; padding: 14px 18px; border-radius: 12px; background: rgba(13, 148, 136, 0.04); border: 1px solid rgba(14, 148, 136, 0.12);">
+          <div style="font-size: 0.78rem; text-transform: uppercase; font-weight: 700; color: var(--text-primary); letter-spacing: 0.04em; margin-bottom: 8px;">
+            ${ui.mapScopeLabel || 'Key Achievements & Technical Scope:'}
+          </div>
+          <ul style="margin: 0; padding-left: 18px; font-size: 0.86rem; color: var(--text-secondary); line-height: 1.6;">
+            ${(loc.highlights || []).map(h => `<li style="margin-bottom: 4px;">${h}</li>`).join('')}
+          </ul>
+        </div>
+      </div>
+    `;
+  }
+}
+
+function renderCareerMap(lang) {
+  const container = document.getElementById('site-map-chips-container');
+  const locations = cvData[lang].mapLocations || {};
+  if (!container) return;
+
+  // Render chips
+  container.innerHTML = Object.values(locations).map(loc => `
+    <button class="loc-chip-btn ${loc.id === currentSelectedLocId ? 'active' : ''}" data-loc="${loc.id}" data-sector="${loc.sector}">
+      <div style="font-weight: 700; font-size: 0.88rem; color: var(--text-primary); margin-bottom: 2px;">${loc.name.split('(')[0]}</div>
+      <div style="font-size: 0.75rem; color: var(--text-muted);">${loc.sectorLabel}</div>
+    </button>
+  `).join('');
+
+  // Attach chip click
+  container.querySelectorAll('.loc-chip-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const locId = btn.getAttribute('data-loc');
+      selectMapLocation(locId, lang);
+    });
+  });
+
+  // Attach SVG Pin click
+  document.querySelectorAll('.map-pin-site').forEach(pin => {
+    pin.onclick = () => {
+      const locId = pin.getAttribute('data-loc');
+      selectMapLocation(locId, lang);
+    };
+  });
+
+  // Attach Sector Filters
+  document.querySelectorAll('.map-filter-btn').forEach(btn => {
+    btn.onclick = () => {
+      document.querySelectorAll('.map-filter-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const sector = btn.getAttribute('data-sector');
+      currentMapSector = sector;
+
+      document.querySelectorAll('.map-pin-site').forEach(pin => {
+        const pinSector = pin.getAttribute('data-sector');
+        if (sector === 'all' || pinSector === sector) {
+          pin.style.display = 'block';
+        } else {
+          pin.style.display = 'none';
+        }
+      });
+
+      document.querySelectorAll('.loc-chip-btn').forEach(chip => {
+        const chipSector = chip.getAttribute('data-sector');
+        if (sector === 'all' || chipSector === sector) {
+          chip.style.display = 'block';
+        } else {
+          chip.style.display = 'none';
+        }
+      });
+    };
+  });
+
+  // Select current location
+  selectMapLocation(currentSelectedLocId, lang);
+}
+
 // Capitalize helper
 function capitalize(str) {
   return str.charAt(0).toUpperCase() + str.slice(1);
@@ -329,6 +454,7 @@ function translateUI(lang) {
   renderMemberships(lang);
   renderCertificates(lang, currentCertSearch);
   renderReferences(lang);
+  renderCareerMap(lang);
 }
 
 // --- Language Toggle Handler ---
