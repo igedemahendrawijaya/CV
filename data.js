@@ -1593,6 +1593,7 @@ export const cvData = {
       "educationTitle": "Education & Academic Background",
       "membershipsTitle": "Professional Memberships & Affiliations",
       "navMap": "Map",
+      "mapExploreBtn": "Interactive Project Map",
       "mapTitle": "Geospatial Career Footprint & Project GIS",
       "mapSubtitle": "Interactive WebGIS displaying spatial distribution of forest carbon concessions, marine protected areas, offshore energy, and fishing port engagements across Indonesia",
       "mapFilterAll": "All Locations (12)",
@@ -1694,20 +1695,6 @@ export const cvData = {
       }
     ],
     "memberships": [
-      {
-        "name": "Center for Climate Risk and Opportunity Management (CCROM SEAP - IPB University)",
-        "role": "Affiliated Researcher / Climate Mitigation Specialist",
-        "period": "2026 - Present",
-        "url": "https://ccromseap.ipb.ac.id/",
-        "description": "Contributing technical expertise to climate risk assessment, carbon accounting frameworks, and nature-based solutions research in Indonesia."
-      },
-      {
-        "name": "Center for Agricultural and Rural Development Studies (PSP3 - IPB University)",
-        "role": "Associate Researcher / Coastal & Rural Development Specialist",
-        "period": "2024 - 2025",
-        "url": "https://psp3.ipb.ac.id/",
-        "description": "Supported participatory customary governance assessments, coastal community livelihood frameworks, and social safeguard audits across Indonesian coastal regions."
-      },
       {
         "name": "Asian Fisheries Acoustics Society (AFAS)",
         "role": "Member",
@@ -3536,6 +3523,7 @@ export const cvData = {
       "educationTitle": "Pendidikan Formal & Akademik",
       "membershipsTitle": "Keanggotaan Profesi & Afiliasi",
       "navMap": "Peta",
+      "mapExploreBtn": "Peta Interaktif Proyek",
       "mapTitle": "Peta Geospasial Wilayah Kerja & Proyek GIS",
       "mapSubtitle": "WebGIS interaktif visualisasi sebaran spasial konsesi karbon kehutanan, kawasan konservasi laut, survei energi lepas pantai, dan pelabuhan perikanan di seluruh Indonesia",
       "mapFilterAll": "Semua Wilayah (12)",
@@ -3637,20 +3625,6 @@ export const cvData = {
       }
     ],
     "memberships": [
-      {
-        "name": "Center for Climate Risk and Opportunity Management (CCROM SEAP - IPB University)",
-        "role": "Peneliti Terafiliasi / Spesialis Mitigasi Perubahan Iklim",
-        "period": "2026 - Sekarang",
-        "url": "https://ccromseap.ipb.ac.id/",
-        "description": "Memberikan keahlian teknis dalam penilaian risiko iklim, kerangka kerja akuntansi karbon, dan riset solusi berbasis alam (nature-based solutions) di Indonesia."
-      },
-      {
-        "name": "Pusat Studi Pembangunan Pertanian dan Pedesaan (PSP3 - IPB University)",
-        "role": "Peneliti Madya / Spesialis Tata Kelola Pesisir & Pedesaan",
-        "period": "2024 - 2025",
-        "url": "https://psp3.ipb.ac.id/",
-        "description": "Mendukung kajian partisipatif tata kelola adat, kerangka penghidupan masyarakat pesisir, serta audit safeguard sosial di berbagai wilayah pesisir Indonesia."
-      },
       {
         "name": "Asian Fisheries Acoustics Society (AFAS)",
         "role": "Anggota",

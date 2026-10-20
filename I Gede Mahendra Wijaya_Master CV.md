@@ -474,15 +474,7 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 
 ## Professional Memberships & Academic Affiliations
 
-1. **[Center for Climate Risk and Opportunity Management (CCROM SEAP - IPB University)](https://ccromseap.ipb.ac.id/)**
-   - **Role / Status**: Affiliated Researcher / Climate Mitigation Specialist *(2026 - Present)*
-   - **Scope / Contribution**: Contributing technical expertise to climate risk assessment, carbon accounting frameworks, and nature-based solutions research in Indonesia.
-
-2. **[Center for Agricultural and Rural Development Studies (PSP3 - IPB University)](https://psp3.ipb.ac.id/)**
-   - **Role / Status**: Associate Researcher / Coastal & Rural Development Specialist *(2024 - 2025)*
-   - **Scope / Contribution**: Supported participatory customary governance assessments, coastal community livelihood frameworks, and social safeguard audits across Indonesian coastal regions.
-
-3. **[Asian Fisheries Acoustics Society (AFAS)](https://www.afas-acoustic.org/)**
+1. **[Asian Fisheries Acoustics Society (AFAS)](https://www.afas-acoustic.org/)**
    - **Role / Status**: Member *(2012 - Present)*
    - **Scope / Contribution**: Active member contributing to regional advancements in underwater bioacoustics, fisheries acoustic survey technologies, optical-acoustic integration, and marine ecosystem monitoring.
 
