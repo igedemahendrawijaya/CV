@@ -62,7 +62,7 @@ Providing strategic and technical leadership for end-to-end carbon mitigation pr
 ### 2. Project Manager - GHG Actions & Marine Ecosystem Restoration
 **PT Aksi Mitigasi Iklim (GHG Actions)** | Denpasar (Hybrid Bali & Papua) | February 2023 - June 2026  
 
-Managed full project lifecycles for large-scale terrestrial, peatland, and coastal wetland ecosystem restoration concessions (>200,000 ha) across West Papua and Southwest Papua. Directed multidisciplinary field teams conducting ecological baseline surveys, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), and ground-based carbon stock accounting (SNI 7724). Designed and facilitated Free, Prior, and Informed Consent (FPIC) processes and inclusive benefit-sharing frameworks with indigenous customary communities (Masyarakat Hukum Adat). Led regulatory liaison and licensing with the Ministry of Environment and Forestry (MoEF / KLHK), Peatland & Mangrove Restoration Agency (BRGM), and Ministry of Marine Affairs and Fisheries (KKP). Formulated comprehensive Environmental & Social Management Plans (ESMP), ESIA / AMDAL compliance frameworks, and established rigorous Monitoring, Reporting, and Verification (MRV) systems.
+Managed full project lifecycles for large-scale terrestrial, peatland, and coastal wetland ecosystem restoration concessions (>200,000 ha) across West Papua and Southwest Papua. Directed multidisciplinary field teams conducting ecological baseline surveys, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), and ground-based carbon stock accounting (SNI 7724). Designed and facilitated Free, Prior, and Informed Consent (FPIC) processes and inclusive benefit-sharing frameworks with indigenous customary communities (Masyarakat Hukum Adat). Led regulatory liaison and licensing with the Ministry of Environment and Forestry (MoEF / KLHK) and Ministry of Marine Affairs and Fisheries (KKP). Formulated comprehensive Environmental & Social Management Plans (ESMP), ESIA / AMDAL compliance frameworks, and established rigorous Monitoring, Reporting, and Verification (MRV) systems.
 
 ### 3. Deputy Unit Leader - Marine and Coastal Development Unit
 **PT Hatfield Indonesia** | Bogor / Jakarta | January 2022 - February 2023  
@@ -121,7 +121,7 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 - **Client / Partner**: UNDP / ATSEA-2 Program
 - **Period**: November 2021 - September 2022
 - **Category / Focus**: MARINE (MPA, UNDP, Kolepom Island, Customary Governance)
-- **Technical Scope & Output**: Led technical facilitation and Working Group (POKJA) coordination for the formal establishment of the 356,000-hectare Kolepom Island Marine Protected Area in Merauke District, South Papua. Authored technical resource potential reports, facilitated public consultations with indigenous coastal tribes, and drafted the MPA management and spatial zoning plan formally gazetted by the Ministry of Marine Affairs and Fisheries (KKP).
+- **Technical Scope & Output**: Supported technical facilitation and Working Group (POKJA) coordination for the formal establishment of the 356,000-hectare Kolepom Island Marine Protected Area in Merauke District, South Papua. Authored technical resource potential reports, facilitated public consultations with indigenous coastal tribes, and drafted the MPA management and spatial zoning plan formally gazetted by the Ministry of Marine Affairs and Fisheries (KKP).
 
 ### 6. Fisheries Management & Coastal Community Livelihoods (LAUTRA Phase 1)
 - **Client / Partner**: World Bank Group

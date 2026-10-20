@@ -42,7 +42,7 @@ export const cvData = {
         "company": "PT Aksi Mitigasi Iklim (GHG Actions)",
         "location": "Denpasar (Hybrid Bali & Papua)",
         "period": "February 2023 - June 2026",
-        "description": "Managed full project lifecycles for large-scale terrestrial, peatland, and coastal wetland ecosystem restoration concessions (>200,000 ha) across West Papua and Southwest Papua. Directed multidisciplinary field teams conducting ecological baseline surveys, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), and ground-based carbon stock accounting (SNI 7724). Designed and facilitated Free, Prior, and Informed Consent (FPIC) processes and inclusive benefit-sharing frameworks with indigenous customary communities (Masyarakat Hukum Adat). Led regulatory liaison and licensing with the Ministry of Environment and Forestry (MoEF / KLHK), Peatland & Mangrove Restoration Agency (BRGM), and Ministry of Marine Affairs and Fisheries (KKP). Formulated comprehensive Environmental & Social Management Plans (ESMP), ESIA / AMDAL compliance frameworks, and established rigorous Monitoring, Reporting, and Verification (MRV) systems."
+        "description": "Managed full project lifecycles for large-scale terrestrial, peatland, and coastal wetland ecosystem restoration concessions (>200,000 ha) across West Papua and Southwest Papua. Directed multidisciplinary field teams conducting ecological baseline surveys, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), and ground-based carbon stock accounting (SNI 7724). Designed and facilitated Free, Prior, and Informed Consent (FPIC) processes and inclusive benefit-sharing frameworks with indigenous customary communities (Masyarakat Hukum Adat). Led regulatory liaison and licensing with the Ministry of Environment and Forestry (MoEF / KLHK) and Ministry of Marine Affairs and Fisheries (KKP). Formulated comprehensive Environmental & Social Management Plans (ESMP), ESIA / AMDAL compliance frameworks, and established rigorous Monitoring, Reporting, and Verification (MRV) systems."
       },
       {
         "role": "Deputy Unit Leader - Marine and Coastal Development Unit",
@@ -178,7 +178,7 @@ export const cvData = {
           "Kolepom Island",
           "Customary Governance"
         ],
-        "description": "Led technical facilitation and Working Group (POKJA) coordination for the formal establishment of the 356,000-hectare Kolepom Island Marine Protected Area in Merauke District, South Papua. Authored technical resource potential reports, facilitated public consultations with indigenous coastal tribes, and drafted the MPA management and spatial zoning plan formally gazetted by the Ministry of Marine Affairs and Fisheries (KKP).",
+        "description": "Supported technical facilitation and Working Group (POKJA) coordination for the formal establishment of the 356,000-hectare Kolepom Island Marine Protected Area in Merauke District, South Papua. Authored technical resource potential reports, facilitated public consultations with indigenous coastal tribes, and drafted the MPA management and spatial zoning plan formally gazetted by the Ministry of Marine Affairs and Fisheries (KKP).",
         "image": "images/mangrove.jpg"
       },
       {
@@ -1731,7 +1731,7 @@ export const cvData = {
         "company": "PT Aksi Mitigasi Iklim (GHG Actions)",
         "location": "Denpasar (Hybrid Bali & Papua)",
         "period": "Februari 2023 - Juni 2026",
-        "description": "Mengelola siklus hidup penuh proyek restorasi ekosistem terestrial, lahan gambut, dan lahan basah pesisir (wetlands) skala besar (>200.000 ha) di Papua Barat dan Papua Barat Daya. Memimpin tim lapangan multidisiplin dalam survei baseline ekologi, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), dan inventarisasi cadangan karbon berbasis darat (SNI 7724). Merancang dan memfasilitasi proses Free, Prior, and Informed Consent (FPIC) serta mekanisme pembagian manfaat yang adil bersama masyarakat hukum adat. Memimpin koordinasi perizinan dan kepatuhan regulasi dengan Kementerian Lingkungan Hidup dan Kehutanan (KLHK), Badan Restorasi Gambut dan Mangrove (BRGM), serta Kementerian Kelautan dan Perikanan (KKP). Menyusun Rencana Pengelolaan Lingkungan dan Sosial (ESMP), AMDAL/ESIA, serta membangun sistem Monitoring, Reporting, and Verification (MRV) yang kredibel."
+        "description": "Mengelola siklus hidup penuh proyek restorasi ekosistem terestrial, lahan gambut, dan lahan basah pesisir (wetlands) skala besar (>200.000 ha) di Papua Barat dan Papua Barat Daya. Memimpin tim lapangan multidisiplin dalam survei baseline ekologi, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), dan inventarisasi cadangan karbon berbasis darat (SNI 7724). Merancang dan memfasilitasi proses Free, Prior, and Informed Consent (FPIC) serta mekanisme pembagian manfaat yang adil bersama masyarakat hukum adat. Memimpin koordinasi perizinan dan kepatuhan regulasi dengan Kementerian Lingkungan Hidup dan Kehutanan (KLHK) serta Kementerian Kelautan dan Perikanan (KKP). Menyusun Rencana Pengelolaan Lingkungan dan Sosial (ESMP), AMDAL/ESIA, serta membangun sistem Monitoring, Reporting, and Verification (MRV) yang kredibel."
       },
       {
         "role": "Deputy Unit Leader - Marine and Coastal Development Unit",
@@ -1867,7 +1867,7 @@ export const cvData = {
           "Pulau Kolepom",
           "Tata Kelola Adat"
         ],
-        "description": "Memimpin fasilitasi teknis dan koordinasi Kelompok Kerja (POKJA) dalam pembentukan Kawasan Konservasi Perairan (KKP) Pulau Kolepom seluas 356.000 hektar di Kabupaten Merauke, Papua Selatan. Menyusun laporan teknis potensi sumber daya alam, memfasilitasi konsultasi publik bersama suku adat pesisir, dan merancang dokumen rencana zonasi yang telah resmi ditetapkan oleh Kementerian Kelautan dan Perikanan (KKP).",
+        "description": "Mendukung fasilitasi teknis dan koordinasi Kelompok Kerja (POKJA) dalam pembentukan Kawasan Konservasi Perairan (KKP) Pulau Kolepom seluas 356.000 hektar di Kabupaten Merauke, Papua Selatan. Menyusun laporan teknis potensi sumber daya alam, memfasilitasi konsultasi publik bersama suku adat pesisir, dan merancang dokumen rencana zonasi yang telah resmi ditetapkan oleh Kementerian Kelautan dan Perikanan (KKP).",
         "image": "images/mangrove.jpg"
       },
       {
