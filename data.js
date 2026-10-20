@@ -92,7 +92,7 @@ export const cvData = {
         "degree": "Diploma in Carbon Management",
         "institution": "The Greenhouse Gas Management Institute (GHGMI)",
         "faculty": "Online Professional Program",
-        "period": "2023 - Present (Ongoing)",
+        "period": "(Ongoing)",
         "details": "Specialized curriculum in GHG accounting, carbon project management, baseline determination, and MRV frameworks."
       },
       {
@@ -1781,7 +1781,7 @@ export const cvData = {
         "degree": "Diploma in Carbon Management",
         "institution": "The Greenhouse Gas Management Institute (GHGMI)",
         "faculty": "Program Profesional Daring",
-        "period": "2023 - Sekarang (Sedang Berjalan)",
+        "period": "(Ongoing)",
         "details": "Kurikulum spesialisasi inventarisasi GRK, manajemen proyek mitigasi karbon, dan kerangka kerja MRV."
       },
       {

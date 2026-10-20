@@ -35,7 +35,7 @@ Marine environmental specialist with over 13 years of experience delivering high
 2. **Diploma in Carbon Management**
    - **Institution**: The Greenhouse Gas Management Institute (GHGMI)
    - **Faculty / Program**: Online Professional Program
-   - **Period**: 2023 - Present (Ongoing)
+   - **Period**: (Ongoing)
    - **Focus / Details**: Specialized curriculum in GHG accounting, carbon project management, baseline determination, and MRV frameworks.
 
 3. **Diploma in Environmental Management**
