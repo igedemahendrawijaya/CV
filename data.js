@@ -1596,7 +1596,7 @@ export const cvData = {
       "mapExploreBtn": "Interactive Project Map",
       "mapTitle": "Geospatial Career Footprint & Project GIS",
       "mapSubtitle": "Interactive WebGIS displaying spatial distribution of forest carbon concessions, marine protected areas, offshore energy, and fishing port engagements across Indonesia",
-      "mapFilterAll": "All Locations (12)",
+      "mapFilterAll": "All Locations (26)",
       "mapFilterCarbon": "🌲 Carbon & Forests",
       "mapFilterMarine": "🌊 Marine & MPAs",
       "mapFilterFisheries": "🐟 Fisheries & Ports",
@@ -1616,7 +1616,7 @@ export const cvData = {
       "mapExpLabel": "Field & Advisory",
       "mapProjectsCount": "31+",
       "mapProjectsLabel": "Projects & Clients",
-      "mapLandscapeArea": ">550k Ha",
+      "mapLandscapeArea": ">850k Ha",
       "mapLandscapeLabel": "Managed Landscape",
       "mapClientLabel": "Client / Institution:",
       "mapLandscapeScope": "Landscape Scope:",
@@ -1723,6 +1723,63 @@ export const cvData = {
           "Facilitating multi-stakeholder institutional mapping and Free, Prior, and Informed Consent (FPIC) with local customary communities."
         ]
       },
+      "sorong_selatan": {
+        "id": "sorong_selatan",
+        "lat": -1.5,
+        "lng": 131.75,
+        "name": "South Sorong (Southwest Papua)",
+        "sector": "carbon",
+        "sectorLabel": "Peat Swamp Forest Carbon & Safeguards",
+        "color": "emerald",
+        "badgeClass": "badge-emerald",
+        "employer": "PT Aksi Mitigasi Iklim (GHG Actions) & Forest Concession Partners",
+        "roles": "Project Manager / Forest Carbon Specialist",
+        "period": "2023 - Present",
+        "landscape": "Extensive Tropical Peat Swamp Forest & Customary Territories",
+        "highlights": [
+          "Executing carbon scoping and feasibility assessments across peat swamp forest concession areas in South Sorong regency.",
+          "Leading stakeholder engagement, Free, Prior, and Informed Consent (FPIC), and customary community benefit-sharing models.",
+          "Formulating Climate Mitigation Action Plans aligned with the national carbon unit registry system of Indonesia and international standards."
+        ]
+      },
+      "bintuni": {
+        "id": "bintuni",
+        "lat": -2.25,
+        "lng": 133.3,
+        "name": "Bintuni Bay (West Papua)",
+        "sector": "marine",
+        "sectorLabel": "Mangrove Ecology & Blue Carbon",
+        "color": "cyan",
+        "badgeClass": "badge-cyan",
+        "employer": "PT Hatfield Indonesia / Environmental Assessment Partners",
+        "roles": "Marine Environmental & Mangrove Specialist",
+        "period": "2019 - 2021",
+        "landscape": "World's Largest Contiguous Mangrove Ecosystem (>260k Ha)",
+        "highlights": [
+          "Conducted coastal environmental baseline evaluations and marine ecology assessments across Bintuni Bay's world-class mangrove ecosystem.",
+          "Assessed benthic biodiversity, mangrove carbon density, and estuarine nursery habitats.",
+          "Formulated environmental management and monitoring plans (RKL-RPL) to safeguard critical coastal nurseries."
+        ]
+      },
+      "arguni": {
+        "id": "arguni",
+        "lat": -2.85,
+        "lng": 133.55,
+        "name": "Arguni Bay, Fakfak & Kaimana (West Papua)",
+        "sector": "offshore",
+        "sectorLabel": "Marine Seismic MMO & Fisheries Assessment",
+        "color": "amber",
+        "badgeClass": "badge-amber",
+        "employer": "PT Quest Geophysical Asia / KrisEnergy (Udan Emas) BV",
+        "roles": "Marine Mammal Observer & Environmental Safeguards Lead",
+        "period": "January 2015 - August 2015",
+        "landscape": "Transition Zone (TZ) & Marine Concession Waters",
+        "highlights": [
+          "Led visual observation protocols and safety exclusion zones during 2D Transition Zone marine seismic survey in Arguni Bay.",
+          "Safeguarded cetacean populations, coastal fish stocks, and dugongs through strict soft-start ramp-up procedures.",
+          "Conducted socio-fisheries impact assessments and consultations with indigenous artisanal fishers."
+        ]
+      },
       "kolepom": {
         "id": "kolepom",
         "lat": -7.95,
@@ -1742,6 +1799,272 @@ export const cvData = {
           "Gazetted officially by the Ministry of Marine Affairs and Fisheries (KKP)."
         ]
       },
+      "jambi": {
+        "id": "jambi",
+        "lat": -1.61,
+        "lng": 103.61,
+        "name": "Jambi Province (Central Sumatra)",
+        "sector": "carbon",
+        "sectorLabel": "Peatland Hydrology & Forest Ecosystems",
+        "color": "emerald",
+        "badgeClass": "badge-emerald",
+        "employer": "Environmental & Sustainability Advisory Partners",
+        "roles": "Environmental Safeguards & Landscape Specialist",
+        "period": "2020 - 2022",
+        "landscape": "Sumatran Peatland Landscapes & River Basins",
+        "highlights": [
+          "Conducted landscape-level environmental and social assessments across peatland and wetland ecosystems in Jambi.",
+          "Assessed hydrological restoration potentials, community customary land rights, and fire-risk mitigation strategies.",
+          "Delivered technical evaluations supporting sustainable land management and biodiversity conservation."
+        ]
+      },
+      "riau": {
+        "id": "riau",
+        "lat": 0.51,
+        "lng": 101.45,
+        "name": "Riau Province (Central Sumatra)",
+        "sector": "carbon",
+        "sectorLabel": "HCV-HCSA & Zero-Deforestation",
+        "color": "emerald",
+        "badgeClass": "badge-emerald",
+        "employer": "APRIL Group / Sustainability Partners",
+        "roles": "Social & Conservation Expert (HCV-HCSA)",
+        "period": "2021 - 2022",
+        "landscape": "High Carbon Stock Peatland & Forest Concessions",
+        "highlights": [
+          "Executed High Carbon Stock (HCSA) and High Conservation Value (HCV) assessments for forest concession supply partners across Riau.",
+          "Conducted participatory field mapping, customary tenure surveys, and FPIC verification.",
+          "Delineated conservation set-asides and community buffer zones to ensure zero-deforestation compliance."
+        ]
+      },
+      "lampung": {
+        "id": "lampung",
+        "lat": -5.45,
+        "lng": 105.26,
+        "name": "Lampung Province & Gulf (Southern Sumatra)",
+        "sector": "fisheries",
+        "sectorLabel": "Coastal Fisheries & Aquaculture Baseline",
+        "color": "teal",
+        "badgeClass": "badge-teal",
+        "employer": "PT Hatfield Indonesia / Fisheries & Coastal Partners",
+        "roles": "Coastal Fisheries & Marine Specialist",
+        "period": "2019 - 2021",
+        "landscape": "Gulf of Lampung & Coastal Fisheries Hub",
+        "highlights": [
+          "Conducted coastal fisheries supply chain mapping, cold chain evaluations, and aquaculture waste assessments.",
+          "Surveyed small-scale coastal fishing fleets and port landing dynamics across Lampung Bay.",
+          "Formulated sustainable coastal management and environmental safeguard guidelines."
+        ]
+      },
+      "kalteng": {
+        "id": "kalteng",
+        "lat": -2.21,
+        "lng": 113.92,
+        "name": "Central Kalimantan (Peatland Landscapes)",
+        "sector": "carbon",
+        "sectorLabel": "Peat Swamp Carbon & Restoration",
+        "color": "emerald",
+        "badgeClass": "badge-emerald",
+        "employer": "Ecosystem Restoration & Carbon Project Developers",
+        "roles": "Senior Carbon & Forest Concession Specialist",
+        "period": "2022 - 2024",
+        "landscape": "Tropical Peat Swamp Forest & AFOLU Restoration",
+        "highlights": [
+          "Evaluated peat swamp forest carbon dynamics, hydrological canal blocking monitoring, and fire prevention baselines.",
+          "Assessed compliance against the national carbon unit registry system of Indonesia and international standards (Verra VCS, CCB).",
+          "Facilitated participatory community livelihood programs and non-timber forest product (NTFP) value chains."
+        ]
+      },
+      "berau": {
+        "id": "berau",
+        "lat": 2.15,
+        "lng": 117.5,
+        "name": "Berau & Derawan (East Kalimantan)",
+        "sector": "marine",
+        "sectorLabel": "Marine Protected Areas & Mangrove Ecology",
+        "color": "cyan",
+        "badgeClass": "badge-cyan",
+        "employer": "Marine Conservation & Fisheries Partners",
+        "roles": "Marine Protected Area & Fisheries Specialist",
+        "period": "2018 - 2021",
+        "landscape": "Berau MPA, Coral Reef Corridors & Mangrove Deltas",
+        "highlights": [
+          "Supported ecological monitoring of coral reefs, sea turtle nesting sanctuaries, and mangrove carbon stocks in Berau MPA.",
+          "Assessed artisanal reef fisheries harvest patterns and community-based surveillance (POKWASMAS).",
+          "Delivered technical inputs for sustainable marine ecotourism and coastal zoning."
+        ]
+      },
+      "sulut": {
+        "id": "sulut",
+        "lat": 1.48,
+        "lng": 124.84,
+        "name": "North Sulawesi (Bitung & Manado)",
+        "sector": "fisheries",
+        "sectorLabel": "Oceanic Tuna Fleet & Port Governance",
+        "color": "teal",
+        "badgeClass": "badge-teal",
+        "employer": "PT Hatfield Indonesia / Fisheries Partners",
+        "roles": "Tuna Fisheries & Port Specialist",
+        "period": "2019 - 2022",
+        "landscape": "Strategic Oceanic Tuna Port Hub & FMA 715/716 Waters",
+        "highlights": [
+          "Evaluated industrial tuna purse seine and pole-and-line fleet operations and port traceability at Bitung Oceanic Fishing Port.",
+          "Assessed MSC certification readiness and Fisheries Improvement Project (FIP) milestones.",
+          "Conducted marine mammal interaction and bycatch mitigation assessments."
+        ]
+      },
+      "sulsel": {
+        "id": "sulsel",
+        "lat": -5.14,
+        "lng": 119.43,
+        "name": "South Sulawesi (Makassar & Spermonde)",
+        "sector": "fisheries",
+        "sectorLabel": "Coastal Fisheries & Livelihoods",
+        "color": "teal",
+        "badgeClass": "badge-teal",
+        "employer": "World Bank Group / PT Hatfield Indonesia",
+        "roles": "Coastal Livelihoods & Fisheries Specialist",
+        "period": "2020 - 2022",
+        "landscape": "Spermonde Coral Reefs & Regional Marine Trade Hub",
+        "highlights": [
+          "Analyzed coastal fisheries value chains, octopus and reef fish landing dynamics, and cold storage infrastructure.",
+          "Supported business incubation and environmental due diligence for smallholder fisheries under CFI Challenge Fund.",
+          "Evaluated sustainable mariculture opportunities and coastal women-empowerment programs."
+        ]
+      },
+      "kendari": {
+        "id": "kendari",
+        "lat": -3.98,
+        "lng": 122.58,
+        "name": "PPS Kendari (Southeast Sulawesi)",
+        "sector": "fisheries",
+        "sectorLabel": "Port Modernization ESIA & Decarbonization",
+        "color": "teal",
+        "badgeClass": "badge-teal",
+        "employer": "AFD (France) / PT Hatfield Indonesia",
+        "roles": "Senior ESIA Author & National Focal Point",
+        "period": "2021 - 2023",
+        "landscape": "Kendari Bay & Oceanic Fishing Port Basin",
+        "highlights": [
+          "Authored the Environmental & Social Impact Assessment (ESIA) and ESMP for Kendari Oceanic Fishing Port Modernization (USD 111M AFD funding).",
+          "Formulated port climate resilience profiles, cold storage energy audits, and industrial wastewater treatment (WWTP) standards.",
+          "Led stakeholder engagement across 40+ fisher associations, customary groups, and government agencies."
+        ]
+      },
+      "maluku": {
+        "id": "maluku",
+        "lat": -3.2,
+        "lng": 128.8,
+        "name": "Maluku Archipelagic Waters (FMA 714)",
+        "sector": "marine",
+        "sectorLabel": "Pelagic Tuna Bioacoustics & FAD Ecology",
+        "color": "cyan",
+        "badgeClass": "badge-cyan",
+        "employer": "The Nature Conservancy (TNC) / Marine Partners",
+        "roles": "Fisheries Acoustics & Marine Specialist",
+        "period": "2016 - 2020",
+        "landscape": "Deep Pelagic Ocean & Deep-Water FAD Network",
+        "highlights": [
+          "Executed hydroacoustic biomass surveys and telemetry beneath oceanic Fish Aggregating Devices (FADs / Rumpon).",
+          "Quantified yellowfin and skipjack juvenile aggregation dynamics in deep pelagic waters.",
+          "Delivered policy briefs on voluntary national FAD management guidelines and harvest strategies."
+        ]
+      },
+      "ambon": {
+        "id": "ambon",
+        "lat": -3.7,
+        "lng": 128.18,
+        "name": "Ambon Island & Ambon Bay (Maluku)",
+        "sector": "marine",
+        "sectorLabel": "Marine Ecology & Acoustic Telemetry",
+        "color": "cyan",
+        "badgeClass": "badge-cyan",
+        "employer": "PT Hatfield Indonesia / Marine Science Partners",
+        "roles": "Ocean Acoustics & Marine Specialist",
+        "period": "2017 - 2021",
+        "landscape": "Deep Estuary, Coral Ecosystems & Oceanic Port Hub",
+        "highlights": [
+          "Conducted marine environmental baseline surveys and underwater acoustic assessments in Ambon Bay.",
+          "Evaluated port reception facilities and marine plastics retrieval mechanisms.",
+          "Supported regional capacity building in oceanographic monitoring and fisheries bioacoustics."
+        ]
+      },
+      "flotim": {
+        "id": "flotim",
+        "lat": -8.34,
+        "lng": 123.01,
+        "name": "East Flores & Solor (East Nusa Tenggara)",
+        "sector": "marine",
+        "sectorLabel": "Cetacean Corridors & Marine Conservation",
+        "color": "cyan",
+        "badgeClass": "badge-cyan",
+        "employer": "Marine Conservation & Fisheries Partners",
+        "roles": "Marine Protected Area & Cetacean Specialist",
+        "period": "2018 - 2022",
+        "landscape": "Solor Cetacean Sanctuary & Strong Marine Tidal Strait",
+        "highlights": [
+          "Assessed cetacean migration corridors and whale shark habitat usage across Solor Strait and East Flores waters.",
+          "Facilitated community-based marine protected area zoning and customary fisheries agreements.",
+          "Formulated acoustic and spatial safeguard protocols to protect migratory marine megafauna from maritime traffic."
+        ]
+      },
+      "saburaijua": {
+        "id": "saburaijua",
+        "lat": -10.5,
+        "lng": 121.8,
+        "name": "Sabu Raijua & Savu Sea (East Nusa Tenggara)",
+        "sector": "marine",
+        "sectorLabel": "Marine National Park & Whale Sanctuary",
+        "color": "cyan",
+        "badgeClass": "badge-cyan",
+        "employer": "UNDP / ATSEA-2 & Marine Partners",
+        "roles": "Marine Protected Area & Coastal Safeguards Specialist",
+        "period": "2019 - 2022",
+        "landscape": "Savu Sea Marine National Park (TNP Laut Sawu - 3.3M Ha)",
+        "highlights": [
+          "Supported spatial management assessments and artisanal fisheries zoning within Savu Sea Marine National Park (TNP Laut Sawu).",
+          "Assessed blue whale and sperm whale migration corridors and seasonal upwelling zones around Sabu and Raijua islands.",
+          "Formulated community livelihood resilience and sustainable seaweed aquaculture frameworks."
+        ]
+      },
+      "timor_osmp": {
+        "id": "timor_osmp",
+        "lat": -10.7,
+        "lng": 126.1,
+        "name": "Timor Sea & Timor-Leste (Buffalo-10 OSMP)",
+        "sector": "offshore",
+        "sectorLabel": "Transboundary OSMP & Offshore Safeguards",
+        "color": "amber",
+        "badgeClass": "badge-amber",
+        "employer": "MCC Environmental (Australia)",
+        "roles": "Senior Marine Ecologist & OSMP Specialist",
+        "period": "October 2021 - January 2022",
+        "landscape": "Transboundary Timor Sea Petroleum Concession & Coastal Buffers",
+        "highlights": [
+          "Formulated the Operational and Scientific Monitoring Plan (OSMP) for Buffalo-10 offshore drilling campaign in Timor Sea.",
+          "Established cross-border marine fauna sensitivity profiles for cetaceans, sea turtles, and seabirds across Indonesia and Timor-Leste waters.",
+          "Developed Shoreline Cleanup Assessment Technique (SCAT) protocols and emergency oil spill response readiness."
+        ]
+      },
+      "mentawai": {
+        "id": "mentawai",
+        "lat": -1.9,
+        "lng": 99.6,
+        "name": "Mentawai Block & West Sumatra Waters",
+        "sector": "offshore",
+        "sectorLabel": "3D Seismic Survey MMO & Cetacean Safeguards",
+        "color": "amber",
+        "badgeClass": "badge-amber",
+        "employer": "Total E&P Indonesie Mentawai B.V. / PPLH IPB",
+        "roles": "Lead Marine Mammal Observer (MMO) & HSE Specialist",
+        "period": "December 2015 - January 2016",
+        "landscape": "Deep-Water Indian Ocean Seismic Block",
+        "highlights": [
+          "Led JNCC-compliant Marine Mammal Observation (MMO) during deep-water 3D marine seismic acquisition using airgun arrays.",
+          "Executed 360-degree visual scans, enforced safety exclusion zones, and soft-start ramp-up procedures.",
+          "Delivered environmental compliance reports safeguarding cetaceans from acoustic impact."
+        ]
+      },
       "bali": {
         "id": "bali",
         "lat": -8.67,
@@ -1749,8 +2072,8 @@ export const cvData = {
         "name": "Denpasar & Nusa Dua (Bali)",
         "sector": "marine",
         "sectorLabel": "Technical Operations & Coral Reef Restoration",
-        "color": "teal",
-        "badgeClass": "badge-teal",
+        "color": "cyan",
+        "badgeClass": "badge-cyan",
         "employer": "PT Aksi Mitigasi Iklim (HQ) & Nusa Dua Reef Foundation (NDRF)",
         "roles": "Head of Technical Workstream / Assistant Project Director",
         "period": "2016 - 2018 (NDRF), 2023 - Present (GHG Actions)",
@@ -1767,36 +2090,17 @@ export const cvData = {
         "lng": 106.8,
         "name": "Jakarta & Bogor (Jabodetabek)",
         "sector": "fisheries",
-        "sectorLabel": "Consulting Management & Academic Research",
-        "color": "blue",
-        "badgeClass": "badge-blue",
-        "employer": "PT Hatfield Indonesia & IPB University",
-        "roles": "Deputy Unit Leader (Marine & Coastal Development) / Marine Specialist",
-        "period": "2018 - 2023 (Hatfield), 2011 - 2014 (IPB)",
-        "landscape": "Environmental Advisory Headquarters & IPB Bioacoustics Lab",
+        "sectorLabel": "Academic, Regulatory & Policy Advisory",
+        "color": "teal",
+        "badgeClass": "badge-teal",
+        "employer": "IPB University / ADB ETM Consultations",
+        "roles": "Researcher / Climate Safeguards Specialist",
+        "period": "2011 - Present",
+        "landscape": "Academic Base (IPB) & Central Policy Hub (Jakarta)",
         "highlights": [
-          "Led multinational marine & fisheries consulting projects with World Bank, ADB, AFD, UNDP, and Inmarsat.",
-          "Directed environmental analysts in EIA/ESIA screenings, fisheries safeguard frameworks, and environmental due diligence.",
-          "Alumni and research assistant at Department of Marine Science & Technology (ITK), IPB University."
-        ]
-      },
-      "kendari": {
-        "id": "kendari",
-        "lat": -3.98,
-        "lng": 122.58,
-        "name": "PPS Kendari (Southeast Sulawesi)",
-        "sector": "fisheries",
-        "sectorLabel": "Eco-Fishing Port Modernization",
-        "color": "blue",
-        "badgeClass": "badge-blue",
-        "employer": "Agence Française de Développement (AFD) / Hatfield Indonesia",
-        "roles": "Lead Environmental & Social Safeguard Specialist",
-        "period": "2021 - 2022",
-        "landscape": "Kendari Oceanic Fishing Port (Kendari Bay)",
-        "highlights": [
-          "Led Environmental & Social Impact Assessment (ESIA) for modernizing PPS Kendari into an Eco-Fishing Port.",
-          "Integrated AFD international safeguards and Indonesian environmental compliance standards.",
-          "Formulated effluent wastewater mitigation, port energy efficiency, and cold chain sanitization plans."
+          "Academic foundation in Marine Science & Technology (B.Sc & M.Sc programs).",
+          "Delivered multi-stakeholder consultations for ADB Energy Transition Mechanism (ETM) SESA.",
+          "Liaison with central government ministries (MMAF/KKP, MoEF/KLHK, ESDM, Bappenas) on marine governance and carbon regulations."
         ]
       },
       "cilacap": {
@@ -1805,17 +2109,17 @@ export const cvData = {
         "lng": 109.02,
         "name": "PPS Cilacap (Central Java)",
         "sector": "fisheries",
-        "sectorLabel": "Indian Ocean Fishing Port Infrastructure",
-        "color": "blue",
-        "badgeClass": "badge-blue",
-        "employer": "Agence Française de Développement (AFD) / Hatfield Indonesia",
-        "roles": "Senior Marine Safeguard & Socio-Economic Specialist",
-        "period": "2021 - 2022",
-        "landscape": "Southern Coast of Java & Indian Ocean (FMA 573)",
+        "sectorLabel": "Oceanic Fishing Port ESIA & Social Safeguards",
+        "color": "teal",
+        "badgeClass": "badge-teal",
+        "employer": "AFD / PT Hatfield Indonesia",
+        "roles": "Social & Environmental Specialist",
+        "period": "2021 - 2023",
+        "landscape": "Indian Ocean Coast & Cilacap Port Basin",
         "highlights": [
-          "Conducted socio-economic baseline survey, Gender Action Plan (GAP), and stakeholder impact analysis for PPS Cilacap modernization.",
-          "Assessed oceanic tuna and skipjack landing supply chains and fishing community welfare.",
-          "Formulated Environmental & Social Management Plan (ESMP) compliance framework."
+          "Executed extensive socio-economic surveys, gender vulnerability analyses, and stakeholder matrices for PPS Cilacap modernization.",
+          "Formulated inclusive resettlement frameworks and coastal women-empowerment livelihood strategies.",
+          "Conducted water quality and sediment dispersion impact modeling for port deepening."
         ]
       },
       "patimban": {
@@ -1824,16 +2128,17 @@ export const cvData = {
         "lng": 107.9,
         "name": "Patimban Deep-Sea Port, Subang (West Java)",
         "sector": "fisheries",
-        "sectorLabel": "Deep-Sea Port Infrastructure Monitoring",
-        "color": "blue",
-        "badgeClass": "badge-blue",
-        "employer": "Penta Ocean Construction / PT Hatfield Indonesia",
+        "sectorLabel": "Marine Environmental Monitoring & Water Quality",
+        "color": "teal",
+        "badgeClass": "badge-teal",
+        "employer": "Penta Ocean Construction / Hatfield Indonesia",
         "roles": "Marine Environmental Monitoring Specialist",
         "period": "2019 - 2020",
-        "landscape": "Subang Coastline & Java Sea",
+        "landscape": "Java Sea Coastal Waters & Port Breakwater Zone",
         "highlights": [
-          "Supervised marine water quality monitoring, sedimentation dynamics, and benthos community surveys during Patimban port construction.",
-          "Ensured strict compliance with port EIA (AMDAL) and JICA international environmental standards."
+          "Conducted seawater quality monitoring, turbidity measurements, and sediment plume tracking during deep-sea port capital dredging.",
+          "Monitored coral and benthic habitats in proximity to breakwater construction.",
+          "Ensured environmental compliance with JICA international environmental standards."
         ]
       },
       "semarang": {
@@ -1842,52 +2147,17 @@ export const cvData = {
         "lng": 110.43,
         "name": "CCPP Tambak Lorok Block 3, Semarang (Central Java)",
         "sector": "fisheries",
-        "sectorLabel": "Energy Transition Due Diligence",
-        "color": "purple",
-        "badgeClass": "badge-purple",
-        "employer": "PT Indonesia Power / PT Hatfield Indonesia",
-        "roles": "Independent Environmental & Social Due Diligence Specialist",
-        "period": "2020",
-        "landscape": "Tanjung Emas Port Coastal Zone, Semarang",
+        "sectorLabel": "Coastal Thermal Due Diligence & Safeguards",
+        "color": "teal",
+        "badgeClass": "badge-teal",
+        "employer": "PT Indonesia Power / Hatfield Indonesia",
+        "roles": "Marine Environmental Specialist",
+        "period": "2020 - 2021",
+        "landscape": "Semarang Port Coastal Waters & Cooling Water Outfall",
         "highlights": [
-          "Executed independent environmental & social due diligence audit for the 780 MW Tambak Lorok Combined Cycle Power Plant Block 3.",
-          "Audited compliance with Environmental & Social Action Plan (ESAP) and international lender financing safeguards."
-        ]
-      },
-      "mentawai": {
-        "id": "mentawai",
-        "lat": -1.9,
-        "lng": 99.6,
-        "name": "Mentawai Block & West Sumatra Waters",
-        "sector": "offshore",
-        "sectorLabel": "Offshore Oil & Gas Seismic & Geophysics",
-        "color": "amber",
-        "badgeClass": "badge-amber",
-        "employer": "Total E&P Indonesie Mentawai B.V. & IPB University",
-        "roles": "Marine Mammal Observer (MMO) / Geophysics Researcher",
-        "period": "2012 - 2013",
-        "landscape": "Indian Ocean Offshore Deepwater (Mentawai Block)",
-        "highlights": [
-          "Developed Marine Mammal Monitoring and Mitigation Plan for 3D offshore seismic acquisition in Mentawai Block with Total E&P.",
-          "Conducted undergraduate thesis research applying Radon Transform to attenuate multiple waves on 2D seismic line SUME23.31 in West Sumatra waters."
-        ]
-      },
-      "arguni": {
-        "id": "arguni",
-        "lat": -2.85,
-        "lng": 133.55,
-        "name": "Arguni Bay, Fakfak & Kaimana (West Papua)",
-        "sector": "offshore",
-        "sectorLabel": "Shallow Marine Seismic & Marine Fauna",
-        "color": "amber",
-        "badgeClass": "badge-amber",
-        "employer": "PT Quest Geophysical Asia",
-        "roles": "Marine Mammal Observer (MMO)",
-        "period": "2014 - 2015",
-        "landscape": "Bintuni Basin & Arguni Estuarine Waters",
-        "highlights": [
-          "Enforced marine mammal and sea turtle mitigation protocols during 2D transitional and shallow-water seismic acquisition.",
-          "Implemented safety exclusion zones and soft-start airgun firing procedures to prevent acoustic injury to marine megafauna."
+          "Delivered environmental and social due diligence (ESDD) for the 780 MW Combined Cycle Power Plant (CCPP) Tambak Lorok Block 3.",
+          "Assessed thermal discharge dispersion, cooling water entrainment risks, and coastal artisanal fishing impact.",
+          "Verified compliance with World Bank / IFC Environmental, Health, and Safety (EHS) Guidelines."
         ]
       },
       "banda": {
@@ -1896,16 +2166,17 @@ export const cvData = {
         "lng": 126,
         "name": "Flores & Banda Seas (FMA 713 & 714)",
         "sector": "marine",
-        "sectorLabel": "Fisheries Bioacoustics & Tuna FADs",
+        "sectorLabel": "Pelagic Tuna Telemetry & Hydroacoustics",
         "color": "cyan",
         "badgeClass": "badge-cyan",
-        "employer": "The Nature Conservancy (TNC) / Hatfield Indonesia",
-        "roles": "Marine Fisheries Bioacoustics Specialist",
-        "period": "2018 - 2021",
-        "landscape": "Eastern Indonesia Pelagic Waters (FMA 713/714)",
+        "employer": "The Nature Conservancy (TNC) / IPB University",
+        "roles": "Lead Acoustic Telemetry Specialist",
+        "period": "2016 - 2018",
+        "landscape": "Pelagic Deep-Water Fisheries Management Area (WPPNRI 714)",
         "highlights": [
-          "Conducted hydroacoustic underwater biomass measurements on deep-sea Fish Aggregating Devices (FADs).",
-          "Analyzed yellowfin tuna supply chains and fisheries monitoring through Crew-Operated Data Recording System (CODRS)."
+          "Pioneered low-cost hydroacoustic telemetry beneath anchored Fish Aggregating Devices (FADs / Rumpon).",
+          "Quantified pelagic juvenile tuna biomass and deep vertical schooling patterns.",
+          "Integrated hydroacoustic measurements with captain-operated data recording systems (CODRS)."
         ]
       },
       "islme": {
@@ -1914,17 +2185,17 @@ export const cvData = {
         "lng": 118.5,
         "name": "Indonesian Seas Large Marine Ecosystem (ISLME)",
         "sector": "marine",
-        "sectorLabel": "Transboundary Governance & Satellite VMS",
-        "color": "blue",
-        "badgeClass": "badge-blue",
-        "employer": "FAO, Inmarsat (UK) & World Bank (LAUTRA)",
-        "roles": "Marine Specialist / VMS Program Manager",
-        "period": "2019 - 2024",
-        "landscape": "Indonesian Seas (Java, Flores, Banda, and Timor Seas)",
+        "sectorLabel": "Regional Transboundary Diagnostic Analysis",
+        "color": "cyan",
+        "badgeClass": "badge-cyan",
+        "employer": "Food and Agriculture Organization of the UN (FAO) / GEF",
+        "roles": "Lead Thematic Author & Oceanographic Specialist",
+        "period": "2020 - 2021",
+        "landscape": "Transboundary Seas of Indonesia & Timor-Leste (2.13M km²)",
         "highlights": [
-          "Contributed to Transboundary Diagnostic Analysis (TDA) for Indonesian Seas and Timor-Leste with FAO.",
-          "Managed national satellite Vessel Monitoring System (VMS) migration program with Inmarsat and MMAF.",
-          "Supported preparation of World Bank USD 210M LAUTRA Phase 1 program for coastal fisheries governance."
+          "Authored specialized diagnostic chapters on regional oceanography, fisheries baselines, and marine environmental degradation.",
+          "Synthesized transboundary governance frameworks across Indonesian throughflow (ITF) corridors.",
+          "Established baseline scientific reports for the regional Strategic Action Programme (SAP)."
         ]
       }
     }
@@ -3526,7 +3797,7 @@ export const cvData = {
       "mapExploreBtn": "Peta Interaktif Proyek",
       "mapTitle": "Peta Geospasial Wilayah Kerja & Proyek GIS",
       "mapSubtitle": "WebGIS interaktif visualisasi sebaran spasial konsesi karbon kehutanan, kawasan konservasi laut, survei energi lepas pantai, dan pelabuhan perikanan di seluruh Indonesia",
-      "mapFilterAll": "Semua Wilayah (12)",
+      "mapFilterAll": "Semua Wilayah (26)",
       "mapFilterCarbon": "🌲 Karbon & Hutan",
       "mapFilterMarine": "🌊 Konservasi Laut & KKP",
       "mapFilterFisheries": "🐟 Perikanan & Pelabuhan",
@@ -3546,7 +3817,7 @@ export const cvData = {
       "mapExpLabel": "Pengalaman",
       "mapProjectsCount": "31+",
       "mapProjectsLabel": "Proyek & Klien",
-      "mapLandscapeArea": ">550k Ha",
+      "mapLandscapeArea": ">850k Ha",
       "mapLandscapeLabel": "Bentang Alam",
       "mapClientLabel": "Klien / Lembaga:",
       "mapLandscapeScope": "Cakupan Wilayah:",
@@ -3646,11 +3917,68 @@ export const cvData = {
         "employer": "PT Aksi Mitigasi Iklim (GHG Actions) & PT Salawati Hijau Lestari",
         "roles": "Head of Technical Workstream / Project Manager GHG Actions",
         "period": "2023 - Sekarang",
-        "landscape": ">200.000 Hektar Hutan Lahan Basah & Gambut (Peatlands & Wetlands)",
+        "landscape": ">200.000 Hektar Konsesi Hutan Lahan Basah & Gambut",
         "highlights": [
-          "Memimpin studi kelayakan (Carbon Scoping & Feasibility Assessment) konsesi kehutanan skala bentang alam >200.000 ha di Papua Barat dan Papua Barat Daya.",
-          "Penyusunan kerangka perizinan konsesi kehutanan restorasi ekosistem, registrasi sistem registri unit karbon Indonesia, serta standar internasional Verra VCS + CCB, SD VISta, dan Nature Framework.",
-          "Memfasilitasi pemetaan kelembagaan dan Free, Prior, and Informed Consent (FPIC) bersama komunitas adat setempat."
+          "Memimpin studi kelayakan (Carbon Scoping & Feasibility Assessment) di >200.000 ha konsesi hutan lahan basah dan gambut di Papua Barat dan Papua Barat Daya.",
+          "Mengawal perizinan restorasi ekosistem konsesi hutan, pendaftaran di sistem registri unit karbon Indonesia, Verra VCS + CCB, SD VISta, dan Nature Framework.",
+          "Memfasilitasi pemetaan kelembagaan multi-pihak serta Free, Prior, and Informed Consent (FPIC) dengan masyarakat adat setempat."
+        ]
+      },
+      "sorong_selatan": {
+        "id": "sorong_selatan",
+        "lat": -1.5,
+        "lng": 131.75,
+        "name": "Sorong Selatan (Papua Barat Daya)",
+        "sector": "carbon",
+        "sectorLabel": "Karbon Gambut & Safeguard Sosial Adat",
+        "color": "emerald",
+        "badgeClass": "badge-emerald",
+        "employer": "PT Aksi Mitigasi Iklim (GHG Actions) & Mitra Konsesi Hutan",
+        "roles": "Project Manager / Spesialis Karbon Hutan",
+        "period": "2023 - Sekarang",
+        "landscape": "Bentang Alam Hutan Rawa Gambut Tropika & Wilayah Adat",
+        "highlights": [
+          "Melaksanakan studi kelayakan dan carbon scoping di kawasan konsesi hutan rawa gambut Kabupaten Sorong Selatan.",
+          "Memimpin pelibatan pemangku kepentingan, Free Prior Informed Consent (FPIC), dan model pembagian manfaat (benefit-sharing) masyarakat adat.",
+          "Menyusun Dokumen Rencana Aksi Mitigasi Iklim yang selaras dengan sistem registri unit karbon Indonesia dan standar internasional."
+        ]
+      },
+      "bintuni": {
+        "id": "bintuni",
+        "lat": -2.25,
+        "lng": 133.3,
+        "name": "Teluk Bintuni (Papua Barat)",
+        "sector": "marine",
+        "sectorLabel": "Ekologi Mangrove & Karbon Biru",
+        "color": "cyan",
+        "badgeClass": "badge-cyan",
+        "employer": "PT Hatfield Indonesia / Mitra Kajian Lingkungan",
+        "roles": "Spesialis Lingkungan Laut & Mangrove",
+        "period": "2019 - 2021",
+        "landscape": "Ekosistem Mangrove Terluas di Indonesia (>260.000 Ha)",
+        "highlights": [
+          "Melaksanakan evaluasi rona lingkungan pesisir dan kajian ekologi laut di ekosistem mangrove kelas dunia Teluk Bintuni.",
+          "Menilai keanekaragaman bentik, kerapatan cadangan karbon mangrove, serta habitat pembesaran ikan muara.",
+          "Menyusun rencana pengelolaan dan pemantauan lingkungan (RKL-RPL) guna melindungi kawasan pesisir penting."
+        ]
+      },
+      "arguni": {
+        "id": "arguni",
+        "lat": -2.85,
+        "lng": 133.55,
+        "name": "Teluk Arguni, Fakfak & Kaimana (Papua Barat)",
+        "sector": "offshore",
+        "sectorLabel": "MMO Seismik Laut & Kajian Perikanan",
+        "color": "amber",
+        "badgeClass": "badge-amber",
+        "employer": "PT Quest Geophysical Asia / KrisEnergy (Udan Emas) BV",
+        "roles": "Marine Mammal Observer & Lead Environmental Safeguards",
+        "period": "Januari 2015 - Agustus 2015",
+        "landscape": "Zona Transisi (TZ) & Perairan Wilayah Kerja Seismik",
+        "highlights": [
+          "Memimpin protokol observasi visual dan penetapan zona eksklusi keselamatan selama survei seismik laut 2D Zona Transisi di Teluk Arguni.",
+          "Melindungi populasi cetacea, stok ikan pesisir, dan dugong melalui prosedur ramp-up soft-start yang ketat.",
+          "Melakukan kajian dampak sosial-perikanan dan konsultasi langsung dengan nelayan tradisional lokal."
         ]
       },
       "kolepom": {
@@ -3659,129 +3987,264 @@ export const cvData = {
         "lng": 138.45,
         "name": "Pulau Kolepom, Merauke (Papua Selatan)",
         "sector": "marine",
-        "sectorLabel": "Konservasi Laut & KKP",
+        "sectorLabel": "Kawasan Konservasi Laut (KKP)",
         "color": "cyan",
         "badgeClass": "badge-cyan",
-        "employer": "UNDP / ATSEA-2 Program & KKP RI",
-        "roles": "Spesialis Pengelolaan Kawasan Konservasi Laut / Hatfield Indonesia",
+        "employer": "UNDP / Program ATSEA-2 & Kementerian Kelautan dan Perikanan",
+        "roles": "Spesialis Kawasan Konservasi Laut / Hatfield Indonesia",
         "period": "2021 - 2022",
         "landscape": "356.000 Hektar Kawasan Konservasi Perairan (KKP)",
         "highlights": [
-          "Mendukung fasilitasi teknis dan koordinasi Kelompok Kerja (POKJA) dalam pembentukan Kawasan Konservasi Perairan (KKP) Pulau Kolepom seluas 356.000 hektar.",
-          "Merumuskan dokumen teknis rencana zonasi spasial dan rencana pengelolaan 20 tahun yang mengintegrasikan zona inti konservasi dan zona pemanfaatan perikanan adat.",
-          "Kawasan ini resmi ditetapkan melalui Keputusan Menteri Kelautan dan Perikanan (Kepmen KP)."
+          "Mendukung fasilitasi teknis dan koordinasi Kelompok Kerja (POKJA) dalam penetapan resmi KKP Pulau Kolepom seluas 356.000 ha.",
+          "Merumuskan dokumen zonasi teknis dan rencana pengelolaan spasial 20 tahun yang mengintegrasikan zona inti dan wilayah tangkap tradisional.",
+          "Ditetapkan secara resmi melalui Keputusan Menteri Kelautan dan Perikanan (KKP)."
         ]
       },
-      "bali": {
-        "id": "bali",
-        "lat": -8.67,
-        "lng": 115.22,
-        "name": "Denpasar & Nusa Dua (Bali)",
-        "sector": "marine",
-        "sectorLabel": "Kantor Pusat & Restorasi Terumbu Karang",
+      "jambi": {
+        "id": "jambi",
+        "lat": -1.61,
+        "lng": 103.61,
+        "name": "Provinsi Jambi (Sumatera)",
+        "sector": "carbon",
+        "sectorLabel": "Hidrologi Gambut & Ekosistem Hutan",
+        "color": "emerald",
+        "badgeClass": "badge-emerald",
+        "employer": "Mitra Konsultan Lingkungan & Keberlanjutan",
+        "roles": "Spesialis Safeguard Lingkungan & Bentang Alam",
+        "period": "2020 - 2022",
+        "landscape": "Bentang Alam Gambut Sumatera & Daerah Aliran Sungai",
+        "highlights": [
+          "Melaksanakan penilaian lingkungan dan sosial di tingkat bentang alam pada ekosistem gambut dan lahan basah di Jambi.",
+          "Mengkaji potensi restorasi hidrologis, hak tenurial adat masyarakat, dan strategi mitigasi bahaya kebakaran lahan.",
+          "Memberikan rekomendasi teknis untuk tata kelola lahan berkelanjutan dan pelestarian keanekaragaman hayati."
+        ]
+      },
+      "riau": {
+        "id": "riau",
+        "lat": 0.51,
+        "lng": 101.45,
+        "name": "Provinsi Riau (Sumatera)",
+        "sector": "carbon",
+        "sectorLabel": "HCV-HCSA & Kepatuhan Nol Deforestasi",
+        "color": "emerald",
+        "badgeClass": "badge-emerald",
+        "employer": "APRIL Group / Mitra Keberlanjutan",
+        "roles": "Tenaga Ahli Sosial & Konservasi (HCV-HCSA)",
+        "period": "2021 - 2022",
+        "landscape": "Konsesi Hutan Gambut & Stok Karbon Tinggi (HCS)",
+        "highlights": [
+          "Melaksanakan penilaian Stok Karbon Tinggi (HCSA) dan Nilai Konservasi Tinggi (HCV) pada konsesi hutan mitra pemasok di Riau.",
+          "Memimpin pemetaan partisipatif lapangan, survei tenurial adat, dan verifikasi FPIC.",
+          "Menentukan batas kawasan konservasi dan zona penyangga masyarakat untuk memastikan kepatuhan nol deforestasi."
+        ]
+      },
+      "lampung": {
+        "id": "lampung",
+        "lat": -5.45,
+        "lng": 105.26,
+        "name": "Provinsi & Teluk Lampung (Sumatera Selatan)",
+        "sector": "fisheries",
+        "sectorLabel": "Perikanan Pesisir & Rona Akuakultur",
         "color": "teal",
         "badgeClass": "badge-teal",
-        "employer": "PT Aksi Mitigasi Iklim (HQ) & Nusa Dua Reef Foundation (NDRF)",
-        "roles": "Head of Technical Workstream / Assistant Project Director",
-        "period": "2016 - 2018 (NDRF), 2023 - Sekarang (GHG Actions)",
-        "landscape": "Pesisir Nusa Dua, Benoa, dan Basis Operasi Karbon Nasional",
+        "employer": "PT Hatfield Indonesia / Mitra Perikanan & Pesisir",
+        "roles": "Spesialis Perikanan Pesisir & Lingkungan Laut",
+        "period": "2019 - 2021",
+        "landscape": "Teluk Lampung & Sentra Perikanan Pesisir",
         "highlights": [
-          "Basis kepemimpinan teknis PT Aksi Mitigasi Iklim untuk operasional mitigasi karbon di seluruh Indonesia.",
-          "Mengelola restorasi terumbu karang skala besar di Nusa Dua menggunakan struktur terumbu buatan (Biorock, Fishdom, Reef Stars).",
-          "Melatih kelompok nelayan lokal dalam pemantauan ekologi karang, transplantasi, serta ekowisata bahari berkelanjutan."
+          "Melakukan pemetaan rantai pasok perikanan pesisir, evaluasi rantai dingin, dan kajian limbah budidaya perikanan.",
+          "Mensurvei armada nelayan skala kecil dan dinamika pendaratan ikan di Teluk Lampung.",
+          "Menyusun pedoman pengelolaan pesisir berkelanjutan dan instrumen pengamanan lingkungan."
         ]
       },
-      "jakarta": {
-        "id": "jakarta",
-        "lat": -6.4,
-        "lng": 106.8,
-        "name": "Jakarta & Bogor (Jabodetabek)",
-        "sector": "fisheries",
-        "sectorLabel": "Manajemen Konsultansi & Riset",
-        "color": "blue",
-        "badgeClass": "badge-blue",
-        "employer": "PT Hatfield Indonesia & IPB University",
-        "roles": "Deputy Unit Leader (Marine & Coastal Development) / Marine Specialist",
-        "period": "2018 - 2023 (Hatfield), 2011 - 2014 (IPB)",
-        "landscape": "Kantor Pusat Konsultansi Lingkungan & Laboratorium Akustik Kelautan IPB",
+      "kalteng": {
+        "id": "kalteng",
+        "lat": -2.21,
+        "lng": 113.92,
+        "name": "Kalimantan Tengah (Bentang Alam Gambut)",
+        "sector": "carbon",
+        "sectorLabel": "Karbon Rawa Gambut & Restorasi",
+        "color": "emerald",
+        "badgeClass": "badge-emerald",
+        "employer": "Pengembang Restorasi Ekosistem & Proyek Karbon",
+        "roles": "Spesialis Senior Karbon & Konsesi Hutan",
+        "period": "2022 - 2024",
+        "landscape": "Hutan Rawa Gambut Tropika & Restorasi AFOLU",
         "highlights": [
-          "Memimpin portofolio proyek kelautan dan perikanan multinasional bersama World Bank, ADB, AFD, UNDP, dan Inmarsat.",
-          "Mengarahkan tim analis lingkungan dalam penapisan AMDAL/ESIA, kajian safeguard perikanan, dan uji tuntas sosial-lingkungan.",
-          "Almamater dan asisten riset Departemen Ilmu dan Teknologi Kelautan (ITK) IPB University."
+          "Mengevaluasi dinamika karbon hutan rawa gambut, pemantauan sekat kanal hidrologi, dan rona pencegahan kebakaran.",
+          "Menilai kepatuhan terhadap sistem registri unit karbon Indonesia dan standar internasional (Verra VCS, CCB).",
+          "Memfasilitasi program penghidupan partisipatif masyarakat dan rantai nilai hasil hutan bukan kayu (HHBK)."
+        ]
+      },
+      "berau": {
+        "id": "berau",
+        "lat": 2.15,
+        "lng": 117.5,
+        "name": "Berau & Derawan (Kalimantan Timur)",
+        "sector": "marine",
+        "sectorLabel": "Kawasan Konservasi Laut & Ekologi Mangrove",
+        "color": "cyan",
+        "badgeClass": "badge-cyan",
+        "employer": "Mitra Konservasi Laut & Tata Kelola Perikanan",
+        "roles": "Spesialis Kawasan Konservasi Laut & Perikanan",
+        "period": "2018 - 2021",
+        "landscape": "KKP Berau, Koridor Terumbu Karang & Delta Mangrove",
+        "highlights": [
+          "Mendukung pemantauan ekologi terumbu karang, suaka peneluran penyu laut, dan stok karbon mangrove di KKP Berau.",
+          "Menilai pola tangkapan perikanan karang tradisional dan pengawasan berbasis masyarakat (POKWASMAS).",
+          "Memberikan masukan teknis untuk ekowisata bahari berkelanjutan dan zonasi pesisir."
+        ]
+      },
+      "sulut": {
+        "id": "sulut",
+        "lat": 1.48,
+        "lng": 124.84,
+        "name": "Sulawesi Utara (Bitung & Manado)",
+        "sector": "fisheries",
+        "sectorLabel": "Armada Tuna Samudera & Pelabuhan",
+        "color": "teal",
+        "badgeClass": "badge-teal",
+        "employer": "PT Hatfield Indonesia / Mitra Perikanan",
+        "roles": "Spesialis Perikanan Tuna & Pelabuhan Perikanan",
+        "period": "2019 - 2022",
+        "landscape": "Hub Pelabuhan Tuna Samudera & Perairan WPPNRI 715/716",
+        "highlights": [
+          "Mengevaluasi operasional armada purse seine dan pole-and-line tuna serta keterlusuran pelabuhan di PPS Bitung.",
+          "Menilai kesiapan sertifikasi MSC dan capaian Fisheries Improvement Project (FIP).",
+          "Melakukan kajian mitigasi interaksi dan tangkapan sampingan (bycatch) mamalia laut."
+        ]
+      },
+      "sulsel": {
+        "id": "sulsel",
+        "lat": -5.14,
+        "lng": 119.43,
+        "name": "Sulawesi Selatan (Makassar & Spermonde)",
+        "sector": "fisheries",
+        "sectorLabel": "Perikanan Pesisir & Penghidupan Masyarakat",
+        "color": "teal",
+        "badgeClass": "badge-teal",
+        "employer": "Bank Dunia / PT Hatfield Indonesia",
+        "roles": "Spesialis Penghidupan Pesisir & Perikanan",
+        "period": "2020 - 2022",
+        "landscape": "Terumbu Karang Spermonde & Pusat Perdagangan Hasil Laut",
+        "highlights": [
+          "Menganalisis rantai nilai perikanan pesisir, dinamika pendaratan gurita dan ikan karang, serta sarana rantai dingin.",
+          "Mendukung inkubasi bisnis dan uji tuntas lingkungan bagi usaha perikanan skala kecil dalam CFI Challenge Fund.",
+          "Mengevaluasi peluang marikultur berkelanjutan dan program pemberdayaan perempuan pesisir."
         ]
       },
       "kendari": {
         "id": "kendari",
         "lat": -3.98,
         "lng": 122.58,
-        "name": "Pelabuhan Perikanan Samudera (PPS) Kendari (Sulawesi Tenggara)",
+        "name": "PPS Kendari (Sulawesi Tenggara)",
         "sector": "fisheries",
-        "sectorLabel": "Pelabuhan Perikanan & Infrastruktur Hijau",
-        "color": "blue",
-        "badgeClass": "badge-blue",
-        "employer": "Agence Française de Développement (AFD) / Hatfield Indonesia",
-        "roles": "Lead Environmental & Social Safeguard Specialist",
-        "period": "2021 - 2022",
-        "landscape": "Pelabuhan Perikanan Samudera Kendari (Teluk Kendari)",
+        "sectorLabel": "Modernisasi Pelabuhan ESIA & Dekarbonisasi",
+        "color": "teal",
+        "badgeClass": "badge-teal",
+        "employer": "AFD (Prancis) / PT Hatfield Indonesia",
+        "roles": "Senior ESIA Author & National Focal Point",
+        "period": "2021 - 2023",
+        "landscape": "Teluk Kendari & Kolam Pelabuhan Perikanan Samudera",
         "highlights": [
-          "Memimpin penyusunan Analisis Mengenai Dampak Lingkungan dan Sosial (ESIA) untuk proyek modernisasi pelabuhan perikanan ramah lingkungan (Eco-Fishing Ports).",
-          "Mengintegrasikan standar safeguard lingkungan dan sosial internasional AFD serta peraturan perundangan nasional.",
-          "Merumuskan rencana mitigasi limbah cair perikanan, efisiensi energi pelabuhan, dan sanitasi cold storage."
+          "Memimpin penyusunan AMDAL / ESIA internasional dan ESMP untuk Modernisasi Pelabuhan Perikanan Samudera (PPS) Kendari (Pendanaan AFD USD 111 Juta).",
+          "Merumuskan profil ketahanan iklim pelabuhan, audit efisiensi energi cold storage, dan instalasi pengolahan air limbah (IPAL).",
+          "Memimpin konsultasi publik multi-stakeholder yang melibatkan 40+ asosiasi nelayan, masyarakat adat, dan dinas teknis."
         ]
       },
-      "cilacap": {
-        "id": "cilacap",
-        "lat": -7.73,
-        "lng": 109.02,
-        "name": "Pelabuhan Perikanan Samudera (PPS) Cilacap (Jawa Tengah)",
-        "sector": "fisheries",
-        "sectorLabel": "Pelabuhan Perikanan Samudera Hindia",
-        "color": "blue",
-        "badgeClass": "badge-blue",
-        "employer": "Agence Française de Développement (AFD) / Hatfield Indonesia",
-        "roles": "Senior Marine Safeguard & Socio-Economic Specialist",
-        "period": "2021 - 2022",
-        "landscape": "Pesisir Selatan Jawa & Samudera Hindia (WPPNRI 573)",
+      "maluku": {
+        "id": "maluku",
+        "lat": -3.2,
+        "lng": 128.8,
+        "name": "Perairan Kepulauan Maluku (WPPNRI 714)",
+        "sector": "marine",
+        "sectorLabel": "Bioakustik Tuna Pelagis & Ekologi Rumpon",
+        "color": "cyan",
+        "badgeClass": "badge-cyan",
+        "employer": "The Nature Conservancy (TNC) / Mitra Kelautan",
+        "roles": "Spesialis Akustik Perikanan & Lingkungan Laut",
+        "period": "2016 - 2020",
+        "landscape": "Samudera Pelagis Dalam & Jaringan Rumpon Laut Dalam",
         "highlights": [
-          "Melaksanakan kajian baseline sosial-ekonomi nelayan, Gender Action Plan (GAP), dan analisis dampak pemangku kepentingan modernisasi PPS Cilacap.",
-          "Mengevaluasi rantai pasok pendaratan tuna dan cakalang samudera serta kesejahteraan komunitas pesisir.",
-          "Penyusunan kerangka kepatuhan Environmental & Social Management Plan (ESMP)."
+          "Melaksanakan survei biomassa hidroakustik dan telemetri di bawah Rumpon laut dalam.",
+          "Mengukur dinamika agregasi juvenil madidihang dan cakalang di perairan oseanik dalam.",
+          "Menyusun policy brief pedoman pengelolaan rumpon nasional sukarela dan strategi panen tuna."
         ]
       },
-      "patimban": {
-        "id": "patimban",
-        "lat": -6.24,
-        "lng": 107.9,
-        "name": "Pelabuhan Internasional Patimban, Subang (Jawa Barat)",
-        "sector": "fisheries",
-        "sectorLabel": "Infrastruktur Pelabuhan Laut Dalam",
-        "color": "blue",
-        "badgeClass": "badge-blue",
-        "employer": "Penta Ocean Construction / PT Hatfield Indonesia",
-        "roles": "Marine Environmental Monitoring Specialist",
-        "period": "2019 - 2020",
-        "landscape": "Pesisir Utara Subang & Laut Jawa",
+      "ambon": {
+        "id": "ambon",
+        "lat": -3.7,
+        "lng": 128.18,
+        "name": "Pulau Ambon & Teluk Ambon (Maluku)",
+        "sector": "marine",
+        "sectorLabel": "Ekologi Laut & Telemetri Akustik",
+        "color": "cyan",
+        "badgeClass": "badge-cyan",
+        "employer": "PT Hatfield Indonesia / Mitra Riset Kelautan",
+        "roles": "Spesialis Akustik Laut & Oseanografi",
+        "period": "2017 - 2021",
+        "landscape": "Estuari Dalam, Terumbu Karang & Hub Pelabuhan Oseanik",
         "highlights": [
-          "Memimpin program pemantauan kualitas air laut, dinamika sedimentasi, dan struktur komunitas benthos selama masa konstruksi pelabuhan laut dalam Patimban.",
-          "Memastikan kepatuhan ketat terhadap dokumen AMDAL pelabuhan dan standar lingkungan JICA (Japan International Cooperation Agency)."
+          "Melakukan survei rona lingkungan laut dan pengukuran akustik bawah air di Teluk Ambon.",
+          "Mengevaluasi fasilitas penerimaan limbah pelabuhan dan mekanisme pengumpulan sampah plastik laut.",
+          "Mendukung peningkatan kapasitas regional dalam pemantauan oseanografi dan bioakustik perikanan."
         ]
       },
-      "semarang": {
-        "id": "semarang",
-        "lat": -6.95,
-        "lng": 110.43,
-        "name": "PLTGU Tambak Lorok Blok 3, Semarang (Jawa Tengah)",
-        "sector": "fisheries",
-        "sectorLabel": "Transisi Energi & Uji Tuntas Lingkungan",
-        "color": "purple",
-        "badgeClass": "badge-purple",
-        "employer": "PT Indonesia Power / PT Hatfield Indonesia",
-        "roles": "Independent Environmental & Social Due Diligence Specialist",
-        "period": "2020",
-        "landscape": "Kawasan Pesisir Pelabuhan Tanjung Emas, Semarang",
+      "flotim": {
+        "id": "flotim",
+        "lat": -8.34,
+        "lng": 123.01,
+        "name": "Flores Timur & Solor (Nusa Tenggara Timur)",
+        "sector": "marine",
+        "sectorLabel": "Koridor Cetacea & Konservasi Perairan",
+        "color": "cyan",
+        "badgeClass": "badge-cyan",
+        "employer": "Mitra Konservasi Laut & Tata Kelola Perikanan",
+        "roles": "Spesialis Kawasan Konservasi Laut & Mamalia Laut",
+        "period": "2018 - 2022",
+        "landscape": "Suaka Cetacea Solor & Selat Arus Kuat",
         "highlights": [
-          "Melaksanakan audit independen uji tuntas sosial dan lingkungan (Due Diligence) pada proyek PLTGU Blok 3 Tambak Lorok (780 MW).",
-          "Audit kepatuhan terhadap Environmental and Social Action Plan (ESAP) dan standar keuangan internasional lender."
+          "Mengkaji koridor migrasi cetacea dan habitat hiu paus di Selat Solor dan perairan Flores Timur.",
+          "Memfasilitasi zonasi kawasan konservasi perairan berbasis masyarakat dan kesepakatan adat nelayan.",
+          "Menyusun protokol perlindungan akustik dan spasial guna melindungi megafauna laut dari lalu lintas kapal."
+        ]
+      },
+      "saburaijua": {
+        "id": "saburaijua",
+        "lat": -10.5,
+        "lng": 121.8,
+        "name": "Sabu Raijua & TNP Laut Sawu (Nusa Tenggara Timur)",
+        "sector": "marine",
+        "sectorLabel": "Taman Nasional Perairan & Suaka Paus",
+        "color": "cyan",
+        "badgeClass": "badge-cyan",
+        "employer": "UNDP / ATSEA-2 & Mitra Kelautan",
+        "roles": "Spesialis Kawasan Konservasi Laut & Safeguard Pesisir",
+        "period": "2019 - 2022",
+        "landscape": "Taman Nasional Perairan Laut Sawu (TNP Laut Sawu - 3,3 Juta Ha)",
+        "highlights": [
+          "Mendukung kajian pengelolaan spasial dan zonasi perikanan tradisional di TNP Laut Sawu.",
+          "Menilai jalur migrasi paus biru dan paus sperma serta zona upwelling musiman di sekitar Pulau Sabu dan Raijua.",
+          "Merumuskan ketahanan penghidupan masyarakat pesisir dan kerangka budidaya rumput laut berkelanjutan."
+        ]
+      },
+      "timor_osmp": {
+        "id": "timor_osmp",
+        "lat": -10.7,
+        "lng": 126.1,
+        "name": "Laut Timor & Timor-Leste (OSMP Buffalo-10)",
+        "sector": "offshore",
+        "sectorLabel": "OSMP Lintas Batas & Safeguard Migas Lepas Pantai",
+        "color": "amber",
+        "badgeClass": "badge-amber",
+        "employer": "MCC Environmental (Australia)",
+        "roles": "Senior Marine Ecologist & OSMP Specialist",
+        "period": "Oktober 2021 - Januari 2022",
+        "landscape": "Wilayah Kerja Migas Laut Timor & Penyangga Pesisir Lintas Batas",
+        "highlights": [
+          "Menyusun Rencana Pemantauan Operasional dan Ilmiah (OSMP) untuk kampanye pemboran lepas pantai Buffalo-10 di Laut Timor.",
+          "Menetapkan profil sensitivitas fauna laut lintas batas (cetacea, penyu laut, dan burung laut) di perairan Indonesia dan Timor-Leste.",
+          "Mengembangkan protokol Shoreline Cleanup Assessment Technique (SCAT) dan kesiapsiagaan tumpahan minyak."
         ]
       },
       "mentawai": {
@@ -3790,71 +4253,150 @@ export const cvData = {
         "lng": 99.6,
         "name": "Blok Mentawai & Perairan Barat Sumatera",
         "sector": "offshore",
-        "sectorLabel": "Seismik Migas Lepas Pantai & Akustik",
+        "sectorLabel": "MMO Survei Seismik 3D & Safeguard Cetacea",
         "color": "amber",
         "badgeClass": "badge-amber",
-        "employer": "Total E&P Indonesie Mentawai B.V. & IPB University",
-        "roles": "Marine Mammal Observer (MMO) / Geophysics Researcher",
-        "period": "2012 - 2013",
-        "landscape": "Lepas Pantai Samudera Hindia (Mentawai Block)",
+        "employer": "Total E&P Indonesie Mentawai B.V. / PPLH IPB",
+        "roles": "Lead Marine Mammal Observer (MMO) & HSE Specialist",
+        "period": "Desember 2015 - Januari 2016",
+        "landscape": "Blok Seismik Laut Dalam Samudera Hindia",
         "highlights": [
-          "Menyusun Rencana Pemantauan dan Mitigasi Mamalia Laut untuk survei akuisisi seismik laut 3D di Blok Mentawai bersama Total E&P.",
-          "Penelitian skripsi pengolahan data seismik 2D lintasan SUME23.31 perairan barat Sumatera dengan metode Transformasi Radon."
+          "Memimpin Marine Mammal Observation (MMO) standar JNCC selama akuisisi seismik laut 3D laut dalam menggunakan airgun array.",
+          "Melakukan pemindaian visual 360 derajat, menegakkan zona eksklusi keselamatan, dan prosedur ramp-up soft-start.",
+          "Menyampaikan laporan kepatuhan lingkungan harian untuk melindungi mamalia laut dari dampak akustik."
         ]
       },
-      "arguni": {
-        "id": "arguni",
-        "lat": -2.85,
-        "lng": 133.55,
-        "name": "Teluk Arguni, Kaimana & Fakfak (Papua Barat)",
-        "sector": "offshore",
-        "sectorLabel": "Survei Seismik Laut Dangkal & Mamalia Laut",
-        "color": "amber",
-        "badgeClass": "badge-amber",
-        "employer": "PT Quest Geophysical Asia",
-        "roles": "Marine Mammal Observer (MMO)",
-        "period": "2014 - 2015",
-        "landscape": "Perairan Estuari & Teluk Arguni, Cekungan Bintuni",
+      "bali": {
+        "id": "bali",
+        "lat": -8.67,
+        "lng": 115.22,
+        "name": "Denpasar & Nusa Dua (Bali)",
+        "sector": "marine",
+        "sectorLabel": "Operasional Teknis & Restorasi Terumbu Karang",
+        "color": "cyan",
+        "badgeClass": "badge-cyan",
+        "employer": "PT Aksi Mitigasi Iklim (HQ) & Nusa Dua Reef Foundation (NDRF)",
+        "roles": "Head of Technical Workstream / Assistant Project Director",
+        "period": "2016 - 2018 (NDRF), 2023 - Sekarang (GHG Actions)",
+        "landscape": "Pesisir Nusa Dua & Basis Operasi Karbon Nasional",
         "highlights": [
-          "Memimpin protokol mitigasi mamalia laut dan penyu selama akuisisi seismik laut 2D transisi dan laut dangkal.",
-          "Menerapkan zona eksklusi (safety exclusion zone) serta protokol soft-start airgun untuk mencegah cedera akustik pada megafauna laut."
+          "Basis operasional teknis untuk tata kelola mitigasi iklim dan registri karbon skala nasional.",
+          "Memimpin rehabilitasi terumbu karang skala besar di Nusa Dua menggunakan struktur terumbu buatan (Biorock, Fishdom, Reef Stars).",
+          "Melatih kelompok nelayan lokal dalam pemantauan ekologi karang dan ekowisata berkelanjutan."
+        ]
+      },
+      "jakarta": {
+        "id": "jakarta",
+        "lat": -6.4,
+        "lng": 106.8,
+        "name": "Jakarta & Bogor (Jabodetabek)",
+        "sector": "fisheries",
+        "sectorLabel": "Akademik, Regulasi & Kebijakan Nasional",
+        "color": "teal",
+        "badgeClass": "badge-teal",
+        "employer": "Institut Pertanian Bogor (IPB) / Konsultasi ADB ETM",
+        "roles": "Peneliti / Spesialis Safeguard Iklim",
+        "period": "2011 - Sekarang",
+        "landscape": "Basis Akademik (IPB) & Pusat Kebijakan Nasional (Jakarta)",
+        "highlights": [
+          "Fondasi akademik di Departemen Ilmu dan Teknologi Kelautan (Program Sarjana & Magister IPB).",
+          "Memimpin konsultasi multi-pihak untuk SESA Energy Transition Mechanism (ETM) ADB.",
+          "Koordinasi erat dengan kementerian pusat (KKP, KLHK, ESDM, Bappenas) terkait tata kelola laut dan regulasi karbon."
+        ]
+      },
+      "cilacap": {
+        "id": "cilacap",
+        "lat": -7.73,
+        "lng": 109.02,
+        "name": "PPS Cilacap (Jawa Tengah)",
+        "sector": "fisheries",
+        "sectorLabel": "AMDAL Pelabuhan Perikanan Samudera & Sosial",
+        "color": "teal",
+        "badgeClass": "badge-teal",
+        "employer": "AFD / PT Hatfield Indonesia",
+        "roles": "Spesialis Sosial & Lingkungan",
+        "period": "2021 - 2023",
+        "landscape": "Pesisir Samudera Hindia & Kolam Pelabuhan Cilacap",
+        "highlights": [
+          "Melaksanakan survei sosial-ekonomi mendalam, analisis kerentanan gender, dan matriks pemangku kepentingan untuk modernisasi PPS Cilacap.",
+          "Merumuskan kerangka pemukiman kembali yang inklusif dan strategi penghidupan perempuan pesisir.",
+          "Melakukan pemodelan kualitas air dan dispersi sedimen pengerukan pelabuhan."
+        ]
+      },
+      "patimban": {
+        "id": "patimban",
+        "lat": -6.24,
+        "lng": 107.9,
+        "name": "Pelabuhan Patimban, Subang (Jawa Barat)",
+        "sector": "fisheries",
+        "sectorLabel": "Pemantauan Lingkungan Laut & Kualitas Air",
+        "color": "teal",
+        "badgeClass": "badge-teal",
+        "employer": "Penta Ocean Construction / Hatfield Indonesia",
+        "roles": "Spesialis Pemantauan Lingkungan Laut",
+        "period": "2019 - 2020",
+        "landscape": "Perairan Pesisir Laut Jawa & Zona Breakwater Pelabuhan",
+        "highlights": [
+          "Melakukan pemantauan kualitas air laut, kekeruhan, dan sebaran sedimen selama pengerukan alur pelabuhan laut dalam Patimban.",
+          "Memantau kondisi habitat bentik dan terumbu karang di sekitar konstruksi pemecah gelombang (breakwater).",
+          "Memastikan kepatuhan ketat terhadap standar lingkungan internasional JICA."
+        ]
+      },
+      "semarang": {
+        "id": "semarang",
+        "lat": -6.95,
+        "lng": 110.43,
+        "name": "PLTGU Tambak Lorok Blok 3, Semarang (Jawa Tengah)",
+        "sector": "fisheries",
+        "sectorLabel": "Uji Tuntas Termal Pesisir & Pengamanan Lingkungan",
+        "color": "teal",
+        "badgeClass": "badge-teal",
+        "employer": "PT Indonesia Power / Hatfield Indonesia",
+        "roles": "Spesialis Lingkungan Laut",
+        "period": "2020 - 2021",
+        "landscape": "Perairan Pesisir Pelabuhan Semarang & Outfall Air Pendingin",
+        "highlights": [
+          "Melaksanakan uji tuntas lingkungan dan sosial (ESDD) untuk PLTGU Tambak Lorok Blok 3 berkapasitas 780 MW.",
+          "Mengkaji dispersi air bahang pendingin, risiko entrainment biota laut, dan dampak terhadap nelayan tradisional.",
+          "Memverifikasi kepatuhan terhadap Pedoman EHS Bank Dunia / IFC."
         ]
       },
       "banda": {
         "id": "banda",
         "lat": -5.5,
         "lng": 126,
-        "name": "Laut Flores, Laut Banda & WPPNRI 713/714",
+        "name": "Laut Banda & Flores (WPPNRI 713 & 714)",
         "sector": "marine",
-        "sectorLabel": "Bioakustik Perikanan & Rumpon Tuna",
+        "sectorLabel": "Telemetri Akustik Tuna Pelagis & Hidroakustik",
         "color": "cyan",
         "badgeClass": "badge-cyan",
-        "employer": "The Nature Conservancy (TNC) / Hatfield Indonesia",
-        "roles": "Marine Fisheries Bioacoustics Specialist",
-        "period": "2018 - 2021",
-        "landscape": "Perairan Pelagis Indonesia Timur (WPPNRI 713 & 714)",
+        "employer": "The Nature Conservancy (TNC) / IPB University",
+        "roles": "Lead Acoustic Telemetry Specialist",
+        "period": "2016 - 2018",
+        "landscape": "Wilayah Pengelolaan Perikanan Samudera Pelagis (WPPNRI 714)",
         "highlights": [
-          "Pengukuran akustik hidroakustik bawah air dan pemantauan biomassa ikan pelagis pada rumpon laut dalam (deep-sea FADs).",
-          "Penelitian rantai pasok dan pemantauan perikanan tuna sirip kuning (yellowfin tuna) menggunakan Crew-Operated Data Recording System (CODRS)."
+          "Mempelopori telemetri hidroakustik biaya terjangkau di bawah Rumpon laut dalam.",
+          "Mengukur biomassa ikan tuna pelagis muda dan pola agregasi vertikal di perairan dalam.",
+          "Mengintegrasikan pengukuran hidroakustik dengan sistem pendataan mandiri nahkoda kapal (CODRS)."
         ]
       },
       "islme": {
         "id": "islme",
         "lat": -4,
         "lng": 118.5,
-        "name": "Wilayah Perairan Nasional & Lintas Batas (ISLME)",
+        "name": "Indonesian Seas Large Marine Ecosystem (ISLME)",
         "sector": "marine",
-        "sectorLabel": "Tata Kelola Laut Lintas Batas & Pemantauan Satelit",
-        "color": "blue",
-        "badgeClass": "badge-blue",
-        "employer": "FAO, Inmarsat (UK) & World Bank (LAUTRA)",
-        "roles": "Marine Specialist / VMS Program Manager",
-        "period": "2019 - 2024",
-        "landscape": "Ekosistem Laut Besar Indonesia (ISLME: Jawa, Flores, Timor)",
+        "sectorLabel": "Analisis Diagnostik Lintas Batas Regional",
+        "color": "cyan",
+        "badgeClass": "badge-cyan",
+        "employer": "Organisasi Pangan dan Pertanian PBB (FAO) / GEF",
+        "roles": "Lead Thematic Author & Spesialis Oseanografi",
+        "period": "2020 - 2021",
+        "landscape": "Perairan Lintas Batas Indonesia & Timor-Leste (2,13 Juta km²)",
         "highlights": [
-          "Penyusunan Transboundary Diagnostic Analysis (TDA) untuk ekosistem laut besar Indonesia dan Timor-Leste bersama FAO.",
-          "Program migrasi sistem pemantauan kapal perikanan satelit (VMS) nasional bersama Inmarsat dan KKP RI.",
-          "Pengembangan kerangka kerja LAUTRA Fase 1 (USD 210M) bersama Bank Dunia untuk tata kelola perikanan pesisir."
+          "Menulis bab diagnostik khusus mengenai oseanografi regional, rona perikanan, dan degradasi lingkungan laut.",
+          "Mensintesis kerangka kerja tata kelola lintas batas di sepanjang koridor Arus Lintas Indonesia (ARLINDO).",
+          "Menyusun laporan ilmiah dasar untuk Strategic Action Programme (SAP) regional."
         ]
       }
     }
