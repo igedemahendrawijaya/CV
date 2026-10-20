@@ -291,11 +291,233 @@ function renderReferences(lang) {
   `).join('');
 }
 
-// --- Career Footprint Map ---
+// --- WebGIS & Career Footprint Map Engine ---
+let gisMapInstance = null;
+let gisTileLayers = {};
+let currentBasemap = 'satellite';
+let gisMarkers = {};
 let currentMapSector = 'all';
 let currentSelectedLocId = 'sorong';
 
-function selectMapLocation(locId, lang) {
+// Basemap URL configs (Free, High Performance, No API Keys Required)
+const basemapConfigs = {
+  satellite: {
+    url: 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
+    attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP',
+    maxZoom: 18
+  },
+  ocean: {
+    url: 'https://server.arcgisonline.com/ArcGIS/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}',
+    attribution: 'Tiles &copy; Esri &mdash; Sources: GEBCO, NOAA, CHS, OSU, UNH, CSUMB, National Geographic, DeLorme, NAVTEQ',
+    maxZoom: 13
+  },
+  dark: {
+    url: 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
+    subdomains: 'abcd',
+    maxZoom: 19
+  },
+  osm: {
+    url: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    maxZoom: 19
+  }
+};
+
+function exportFootprintGeoJSON(lang) {
+  const locations = cvData[lang].mapLocations || {};
+  const geojson = {
+    type: "FeatureCollection",
+    name: "IGMW_Career_Footprint_Indonesia",
+    crs: {
+      type: "name",
+      properties: { name: "urn:ogc:def:crs:OGC:1.3:CRS84" }
+    },
+    features: Object.values(locations).map(loc => ({
+      type: "Feature",
+      geometry: {
+        type: "Point",
+        coordinates: [loc.lng, loc.lat]
+      },
+      properties: {
+        id: loc.id,
+        name: loc.name,
+        sector: loc.sector,
+        sector_label: loc.sectorLabel,
+        employer_client: loc.employer,
+        role: loc.roles,
+        period: loc.period,
+        landscape_scope: loc.landscape,
+        highlights: loc.highlights
+      }
+    }))
+  };
+
+  const blob = new Blob([JSON.stringify(geojson, null, 2)], { type: "application/geo+json" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `igmw_career_footprint_${lang}.geojson`;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+}
+
+function applySectorFilterToMap(sector) {
+  currentMapSector = sector;
+  if (!gisMapInstance) return;
+
+  Object.entries(gisMarkers).forEach(([locId, marker]) => {
+    const loc = (cvData[currentLang].mapLocations || {})[locId];
+    if (!loc) return;
+    if (sector === 'all' || loc.sector === sector) {
+      if (!gisMapInstance.hasLayer(marker)) {
+        marker.addTo(gisMapInstance);
+      }
+    } else {
+      if (gisMapInstance.hasLayer(marker)) {
+        gisMapInstance.removeLayer(marker);
+      }
+    }
+  });
+}
+
+function initOrUpdateGisMap(lang) {
+  const mapContainer = document.getElementById('career-gis-map');
+  if (!mapContainer || typeof window.L === 'undefined') return;
+
+  const locations = cvData[lang].mapLocations || {};
+
+  if (!gisMapInstance) {
+    // Center of Indonesian Archipelago: [-2.5, 118.0], Zoom 5
+    gisMapInstance = window.L.map('career-gis-map', {
+      center: [-2.5, 118.0],
+      zoom: 5,
+      minZoom: 4,
+      maxZoom: 18,
+      scrollWheelZoom: false
+    });
+
+    // Enable scroll wheel upon clicking the map
+    gisMapInstance.on('focus click', () => {
+      gisMapInstance.scrollWheelZoom.enable();
+    });
+
+    // Initialize tile layers
+    Object.keys(basemapConfigs).forEach(key => {
+      const cfg = basemapConfigs[key];
+      gisTileLayers[key] = window.L.tileLayer(cfg.url, {
+        attribution: cfg.attribution,
+        maxZoom: cfg.maxZoom,
+        subdomains: cfg.subdomains || 'abc'
+      });
+    });
+
+    // Default layer: satellite
+    if (gisTileLayers[currentBasemap]) {
+      gisTileLayers[currentBasemap].addTo(gisMapInstance);
+    }
+
+    // Basemap Switcher Events
+    document.querySelectorAll('.gis-layer-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        document.querySelectorAll('.gis-layer-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        const targetMap = btn.getAttribute('data-basemap');
+        if (gisTileLayers[targetMap] && targetMap !== currentBasemap) {
+          gisMapInstance.removeLayer(gisTileLayers[currentBasemap]);
+          gisTileLayers[targetMap].addTo(gisMapInstance);
+          currentBasemap = targetMap;
+        }
+      });
+    });
+
+    // Fit Indonesia button
+    const btnFit = document.getElementById('btn-fit-map');
+    if (btnFit) {
+      btnFit.addEventListener('click', () => {
+        gisMapInstance.fitBounds([
+          [-10.8, 95.0],
+          [5.9, 141.0]
+        ], { padding: [25, 25] });
+      });
+    }
+
+    // Export GeoJSON button
+    const btnExport = document.getElementById('btn-export-geojson');
+    if (btnExport) {
+      btnExport.addEventListener('click', () => {
+        exportFootprintGeoJSON(currentLang);
+      });
+    }
+  }
+
+  // Clear existing markers
+  Object.values(gisMarkers).forEach(m => gisMapInstance.removeLayer(m));
+  gisMarkers = {};
+
+  // Sector Icon Mapping
+  const sectorIcons = {
+    carbon: 'fa-tree',
+    marine: 'fa-water',
+    fisheries: 'fa-anchor',
+    offshore: 'fa-ship'
+  };
+
+  // Add markers
+  Object.values(locations).forEach(loc => {
+    if (loc.lat === undefined || loc.lng === undefined) return;
+
+    const iconClass = sectorIcons[loc.sector] || 'fa-location-dot';
+    const customIcon = window.L.divIcon({
+      className: 'custom-gis-div-icon',
+      iconSize: [32, 32],
+      iconAnchor: [16, 16],
+      popupAnchor: [0, -18],
+      html: `
+        <div class="leaflet-gis-pin-container pin-${loc.sector} ${loc.id === currentSelectedLocId ? 'active' : ''}" id="gis-pin-${loc.id}">
+          <div class="gis-pin-pulse"></div>
+          <div class="gis-pin-core">
+            <i class="fa-solid ${iconClass}"></i>
+          </div>
+        </div>
+      `
+    });
+
+    const marker = window.L.marker([loc.lat, loc.lng], { icon: customIcon });
+
+    const popupContent = `
+      <div style="min-width: 210px; padding: 2px;">
+        <span class="badge-sector ${loc.badgeClass || 'badge-teal'}" style="margin-bottom: 6px;">${loc.sectorLabel}</span>
+        <h4 style="margin: 4px 0 2px; font-size: 0.95rem; font-weight: 700; color: #0f172a;">${loc.name}</h4>
+        <div style="font-size: 0.8rem; font-weight: 600; color: #0d9488; margin-bottom: 4px;">${loc.roles}</div>
+        <div style="font-size: 0.75rem; color: #64748b; margin-bottom: 8px;"><strong>${loc.employer}</strong></div>
+        <button style="width: 100%; padding: 6px 10px; border-radius: 8px; background: #0d9488; color: #ffffff; border: none; font-size: 0.78rem; font-weight: 600; cursor: pointer;" onclick="window.selectGisLocation('${loc.id}')">
+          ${lang === 'id' ? 'Lihat Detail Portofolio' : 'View Project Highlights'}
+        </button>
+      </div>
+    `;
+
+    marker.bindPopup(popupContent);
+
+    marker.on('click', () => {
+      selectMapLocation(loc.id, lang, false);
+    });
+
+    marker.addTo(gisMapInstance);
+    gisMarkers[loc.id] = marker;
+  });
+
+  applySectorFilterToMap(currentMapSector);
+}
+
+// Global hook for Leaflet popup click
+window.selectGisLocation = (locId) => {
+  selectMapLocation(locId, currentLang, true);
+};
+
+function selectMapLocation(locId, lang, shouldFly = true) {
   currentSelectedLocId = locId;
   const locations = cvData[lang].mapLocations || {};
   const loc = locations[locId];
@@ -304,14 +526,18 @@ function selectMapLocation(locId, lang) {
   const detailCard = document.getElementById('site-map-detail-card');
   const ui = cvData[lang].ui || {};
 
-  // Highlight SVG Pin
-  document.querySelectorAll('.map-pin-site').forEach(pin => {
-    if (pin.getAttribute('data-loc') === locId) {
-      pin.classList.add('active');
-    } else {
-      pin.classList.remove('active');
+  // Fly to location on map
+  if (gisMapInstance && shouldFly && loc.lat !== undefined && loc.lng !== undefined) {
+    gisMapInstance.flyTo([loc.lat, loc.lng], 8, { duration: 1.2 });
+    if (gisMarkers[locId]) {
+      gisMarkers[locId].openPopup();
     }
-  });
+  }
+
+  // Highlight Pin DOM
+  document.querySelectorAll('.leaflet-gis-pin-container').forEach(el => el.classList.remove('active'));
+  const activePinEl = document.getElementById(`gis-pin-${locId}`);
+  if (activePinEl) activePinEl.classList.add('active');
 
   // Highlight Location Chip
   document.querySelectorAll('.loc-chip-btn').forEach(chip => {
@@ -335,6 +561,11 @@ function selectMapLocation(locId, lang) {
             <h3 style="font-size: 1.25rem; font-weight: 800; color: var(--text-primary); margin: 0 0 4px;">${loc.name}</h3>
             <div style="font-size: 0.95rem; font-weight: 600; color: var(--primary-teal);">${loc.roles}</div>
           </div>
+          <div style="display: flex; gap: 8px;">
+            <button class="gis-action-btn primary" onclick="window.flyToSelectedLoc()" style="font-size: 0.78rem;">
+              <i class="fa-solid fa-location-crosshairs"></i> ${lang === 'id' ? 'Fokus Peta' : 'Center on Map'}
+            </button>
+          </div>
         </div>
 
         <div style="font-size: 0.85rem; color: var(--text-muted); line-height: 1.6; border-top: 1px solid rgba(14, 148, 136, 0.1); padding-top: 10px;">
@@ -355,6 +586,16 @@ function selectMapLocation(locId, lang) {
   }
 }
 
+window.flyToSelectedLoc = () => {
+  const loc = (cvData[currentLang].mapLocations || {})[currentSelectedLocId];
+  if (loc && gisMapInstance && loc.lat !== undefined && loc.lng !== undefined) {
+    gisMapInstance.flyTo([loc.lat, loc.lng], 8, { duration: 1.2 });
+    if (gisMarkers[currentSelectedLocId]) {
+      gisMarkers[currentSelectedLocId].openPopup();
+    }
+  }
+};
+
 function renderCareerMap(lang) {
   const container = document.getElementById('site-map-chips-container');
   const locations = cvData[lang].mapLocations || {};
@@ -372,16 +613,8 @@ function renderCareerMap(lang) {
   container.querySelectorAll('.loc-chip-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       const locId = btn.getAttribute('data-loc');
-      selectMapLocation(locId, lang);
+      selectMapLocation(locId, lang, true);
     });
-  });
-
-  // Attach SVG Pin click
-  document.querySelectorAll('.map-pin-site').forEach(pin => {
-    pin.onclick = () => {
-      const locId = pin.getAttribute('data-loc');
-      selectMapLocation(locId, lang);
-    };
   });
 
   // Attach Sector Filters
@@ -390,16 +623,7 @@ function renderCareerMap(lang) {
       document.querySelectorAll('.map-filter-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       const sector = btn.getAttribute('data-sector');
-      currentMapSector = sector;
-
-      document.querySelectorAll('.map-pin-site').forEach(pin => {
-        const pinSector = pin.getAttribute('data-sector');
-        if (sector === 'all' || pinSector === sector) {
-          pin.style.display = 'block';
-        } else {
-          pin.style.display = 'none';
-        }
-      });
+      applySectorFilterToMap(sector);
 
       document.querySelectorAll('.loc-chip-btn').forEach(chip => {
         const chipSector = chip.getAttribute('data-sector');
@@ -412,8 +636,11 @@ function renderCareerMap(lang) {
     };
   });
 
-  // Select current location
-  selectMapLocation(currentSelectedLocId, lang);
+  // Initialize or update GIS Map
+  initOrUpdateGisMap(lang);
+
+  // Select current location (without auto flying on initial load)
+  selectMapLocation(currentSelectedLocId, lang, false);
 }
 
 // Capitalize helper
