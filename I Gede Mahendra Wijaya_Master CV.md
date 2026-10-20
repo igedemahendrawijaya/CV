@@ -495,10 +495,14 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 ## Professional References
 
 1. **Dr. Lida Pet-Soede**  
-   Director of Marine Unit Service, Hatfield Group  
-   Email: [lpetsoede@hatfieldgroup.com](mailto:lpetsoede@hatfieldgroup.com) | Phone: +62 812 3818 742
+   Director of Marine Unit Service, Hatfield Consultant  
+   *Contact available upon request*
 
 2. **Dr. I Wayan Nurjaya**  
    Head of Department of Marine Science and Technology, IPB University  
-   Email: [i.wayan.nurjaya@ipb.ac.id](mailto:i.wayan.nurjaya@ipb.ac.id) | Phone: +62 811 110 2525
+   *Contact available upon request*
+
+3. **Prof. Henry M. Manik, S.Pi., M.T., Ph.D.**  
+   Professor of Ocean Acoustics and Instrumentation, Department of Marine Science and Technology, IPB University  
+   *Contact available upon request*
 

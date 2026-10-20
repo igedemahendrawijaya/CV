@@ -193,12 +193,12 @@ export function generateMasterMarkdown() {
 
   md += `---\n\n`;
   md += `## Professional References\n\n`;
-  md += `1. **Dr. Lida Pet-Soede**  \n`;
-  md += `   Director of Marine Unit Service, Hatfield Group  \n`;
-  md += `   Email: [lpetsoede@hatfieldgroup.com](mailto:lpetsoede@hatfieldgroup.com) | Phone: +62 812 3818 742\n\n`;
-  md += `2. **Dr. I Wayan Nurjaya**  \n`;
-  md += `   Head of Department of Marine Science and Technology, IPB University  \n`;
-  md += `   Email: [i.wayan.nurjaya@ipb.ac.id](mailto:i.wayan.nurjaya@ipb.ac.id) | Phone: +62 811 110 2525\n\n`;
+  const referencesList = cvData.en.references || [];
+  referencesList.forEach((r, idx) => {
+    md += `${idx + 1}. **${r.name}**  \n`;
+    md += `   ${r.role}, ${r.company}  \n`;
+    md += `   *${r.contact}*\n\n`;
+  });
 
   fs.writeFileSync(MD_FILE, md, 'utf8');
   console.log(`[Sync] Generated and updated ${MD_FILE} successfully!`);
@@ -539,20 +539,7 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
 
   // 10. References
   docChildren.push(...createSectionHeading('Professional References'));
-  const refs = [
-    {
-      name: 'Dr. Lida Pet-Soede',
-      title: 'Director of Marine Unit Service',
-      org: 'Hatfield Group',
-      contact: 'Email: lpetsoede@hatfieldgroup.com | Phone: +62 812 3818 742'
-    },
-    {
-      name: 'Dr. I Wayan Nurjaya',
-      title: 'Head of Department of Marine Science and Technology',
-      org: 'Faculty of Fisheries and Marine Sciences, IPB University',
-      contact: 'Email: i.wayan.nurjaya@ipb.ac.id | Phone: +62 811 110 2525'
-    }
-  ];
+  const refs = cvData.en.references || [];
 
   refs.forEach(r => {
     docChildren.push(
@@ -560,7 +547,7 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
         spacing: { before: 60, after: 20 },
         children: [
           new TextRun({ text: r.name, bold: true, size: 20, color: PRIMARY_COLOR, font: 'Arial' }),
-          new TextRun({ text: ` - ${r.title}, ${r.org}`, italic: true, size: 19, color: TEXT_DARK, font: 'Arial' })
+          new TextRun({ text: ` - ${r.role}, ${r.company}`, italic: true, size: 19, color: TEXT_DARK, font: 'Arial' })
         ]
       }),
       new Paragraph({

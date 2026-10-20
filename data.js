@@ -1547,15 +1547,21 @@ export const cvData = {
     ],
     "references": [
       {
-        "name": "Lida Pet-Soede",
+        "name": "Dr. Lida Pet-Soede",
         "role": "Director of Marine Unit Service",
         "company": "Hatfield Consultant",
         "contact": "Contact available upon request"
       },
       {
-        "name": "Dr. Wayan Nurjaya",
+        "name": "Dr. I Wayan Nurjaya",
         "role": "Head of Department of Marine Science and Technology",
         "company": "IPB University",
+        "contact": "Contact available upon request"
+      },
+      {
+        "name": "Prof. Henry M. Manik, S.Pi., M.T., Ph.D.",
+        "role": "Professor of Ocean Acoustics and Instrumentation",
+        "company": "Department of Marine Science and Technology, IPB University",
         "contact": "Contact available upon request"
       }
     ],
@@ -3236,15 +3242,21 @@ export const cvData = {
     ],
     "references": [
       {
-        "name": "Lida Pet-Soede",
+        "name": "Dr. Lida Pet-Soede",
         "role": "Direktur Layanan Unit Kelautan",
         "company": "Hatfield Consultant",
         "contact": "Kontak tersedia atas permintaan"
       },
       {
-        "name": "Dr. Wayan Nurjaya",
+        "name": "Dr. I Wayan Nurjaya",
         "role": "Kepala Departemen Sains dan Teknologi Kelautan",
-        "company": "IPB University",
+        "company": "Institut Pertanian Bogor (IPB University)",
+        "contact": "Kontak tersedia atas permintaan"
+      },
+      {
+        "name": "Prof. Henry M. Manik, S.Pi., M.T., Ph.D.",
+        "role": "Guru Besar Akustik dan Instrumentasi Kelautan",
+        "company": "Departemen Ilmu dan Teknologi Kelautan, IPB University",
         "contact": "Kontak tersedia atas permintaan"
       }
     ],
