@@ -9,7 +9,7 @@ export const cvData = {
       "location": "Denpasar, Bali, Indonesia",
       "linkedin": "linkedin.com/in/gmwijaya",
       "orcid": "0000-0003-2312-7031",
-      "profileSummary": "Marine environmental specialist with over 13 years of experience delivering high-level technical leadership across marine-based sectors, forest concessions, and industrial waste decarbonization. Formally trained in marine science and acoustics (IPB University), with expertise spanning coastal and ocean governance, sustainable fisheries, forest concession licensing (PBPH), and carbon mitigation across AFOLU (>200,000 ha peatland/wetland concessions in Papua) and Waste sectors (Palm Oil Mill Effluent / POME methane capture & biogas-to-energy). Proven track record with major international institutions (World Bank, ADB, FAO, UNDP, TNC) and national innovation award recognition (BIC). Highly skilled in carbon accounting (Indonesian National Carbon Units & Registry [SRUK / SRN], VCM, Paris Agreement Article 6), MRV, environmental safeguards (ESIA/AMDAL), and multi-stakeholder engagement."
+      "profileSummary": "Marine environmental specialist with over 13 years of experience delivering high-level technical leadership across marine-based sectors, forest concessions, and industrial waste decarbonization. Formally trained in marine science and acoustics (IPB University), with expertise spanning coastal and ocean governance, sustainable fisheries, forest concession area, and carbon mitigation across AFOLU (>200,000 ha peatland/wetland concessions in Papua) and Waste sectors (Palm Oil Mill Effluent / POME methane capture & biogas-to-energy). Proven track record with major international institutions (World Bank, ADB, FAO, UNDP, TNC) and national innovation award recognition (BIC). Highly skilled in carbon accounting (carbon unit registry system of Indonesia, VCM, Paris Agreement Article 6), MRV, environmental safeguards (ESIA/AMDAL), and multi-stakeholder engagement."
     },
     "stats": [
       {
@@ -17,7 +17,7 @@ export const cvData = {
         "label": "Years Experience"
       },
       {
-        "value": "31",
+        "value": "29",
         "label": "Projects Completed"
       },
       {
@@ -35,21 +35,21 @@ export const cvData = {
         "company": "PT Aksi Mitigasi Iklim (GHG Actions)",
         "location": "Denpasar (Hybrid Bali & Papua)",
         "period": "June 2026 - Present",
-        "description": "Providing strategic and technical leadership for end-to-end carbon mitigation projects across market-based carbon mechanisms, spanning both Voluntary Carbon Markets (VCM) and Compliance Markets (Indonesian National Carbon Units & Registry [SRUK / SRN], IDXCarbon, and international compliance). Directing the development, technical review, and validation of Project Design Documents (PDD) and Dokumen Rencana Aksi Mitigasi Iklim (DRAM) aligned with Core Carbon Principles (CCPs) of the Integrity Council for the Voluntary Carbon Market (ICVCM) and Paris Agreement Article 6 mechanisms (Articles 6.2 and 6.4 for ITMOs and authorized carbon crediting). Overseeing portfolio-wide carbon rating evaluations and integrity due diligence (benchmarked against BeZero, Sylvera, and Calyx Global) to guarantee robust additionality, baseline credibility, and permanence. Managing technical compliance, MRV, and greenhouse gas accounting for AFOLU (Agriculture, Forestry, and Other Land Use - REDD+, ARR, coastal blue carbon) and Waste Sectors (Palm Oil Mill Effluent / POME Methane Capture & Biogas-to-Energy). Providing technical direction over >200,000 hectares of peatlands and wetlands concessions in West Papua and Southwest Papua, embedding ESG frameworks, Verra VCS + CCB, Verra SD VISta (Sustainable Development Verified Impact Standard), Verra Nature Framework, ART TREES, and high-integrity nature and biodiversity credit standards."
+        "description": "Providing strategic and technical leadership for end-to-end carbon mitigation projects across market-based carbon mechanisms, spanning both Voluntary Carbon Markets (VCM) and Compliance Markets (carbon unit registry system of Indonesia, IDXCarbon, and international compliance). Directing the development, technical review, and validation of Project Design Documents and Climate Mitigation Action Plan Documents aligned with Core Carbon Principles (CCPs) of the Integrity Council for the Voluntary Carbon Market (ICVCM) and Paris Agreement Article 6 mechanisms (Articles 6.2 and 6.4 for ITMOs and authorized carbon crediting). Overseeing portfolio-wide carbon rating evaluations and integrity due diligence (benchmarked against BeZero, Sylvera, and Calyx Global) to guarantee robust additionality, baseline credibility, and permanence. Managing technical compliance, MRV, and greenhouse gas accounting for AFOLU (Agriculture, Forestry, and Other Land Use - REDD+, ARR, coastal blue carbon) and Waste Sectors (Palm Oil Mill Effluent / POME Methane Capture & Biogas-to-Energy). Providing technical direction over >200,000 hectares of peatlands and wetlands concessions in West Papua and Southwest Papua, embedding ESG frameworks, Verra VCS + CCB, Verra SD VISta (Sustainable Development Verified Impact Standard), Verra Nature Framework, ART TREES, and high-integrity nature and biodiversity credit standards."
       },
       {
-        "role": "Project Manager - GHG Actions & Marine Ecosystem Restoration",
+        "role": "Project Manager",
         "company": "PT Aksi Mitigasi Iklim (GHG Actions)",
         "location": "Denpasar (Hybrid Bali & Papua)",
         "period": "February 2023 - June 2026",
-        "description": "Managed full project lifecycles for large-scale terrestrial, peatland, and coastal wetland ecosystem restoration concessions (>200,000 ha) across West Papua and Southwest Papua. Directed multidisciplinary field teams conducting ecological baseline surveys, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), and ground-based carbon stock accounting (SNI 7724). Designed and facilitated Free, Prior, and Informed Consent (FPIC) processes and inclusive benefit-sharing frameworks with indigenous customary communities (Masyarakat Hukum Adat). Led regulatory liaison and licensing with the Ministry of Environment and Forestry (MoEF / KLHK) and Ministry of Marine Affairs and Fisheries (KKP). Formulated comprehensive Environmental & Social Management Plans (ESMP), ESIA / AMDAL compliance frameworks, and established rigorous Monitoring, Reporting, and Verification (MRV) systems."
+        "description": "Managed full project lifecycles for large-scale terrestrial, peatland, and coastal wetland ecosystem restoration concessions (>200,000 ha) across West Papua and Southwest Papua. Directed multidisciplinary field teams conducting ecological baseline surveys, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), and ground-based carbon stock accounting (SNI 7724). Designed and facilitated Free, Prior, and Informed Consent (FPIC) processes and inclusive benefit-sharing frameworks with local customary communities. Led regulatory liaison and licensing with the Ministry of Environment and Forestry (MoEF / KLHK) and Ministry of Marine Affairs and Fisheries (KKP). Formulated comprehensive Environmental & Social Management Plans (ESMP), environmental and social compliance, and established rigorous Monitoring, Reporting, and Verification (MRV) systems."
       },
       {
         "role": "Deputy Unit Leader - Marine and Coastal Development Unit",
         "company": "PT Hatfield Indonesia",
         "location": "Bogor / Jakarta",
         "period": "January 2022 - February 2023",
-        "description": "Co-led the strategic, operational, and financial management of the Marine and Coastal Development Business Unit, overseeing a multi-million-dollar portfolio of environmental consulting projects for international financial institutions (World Bank, ADB, AFD, UNDP, FAO) and private sector clients. Directed annual business planning, revenue forecasting, project budgeting, and commercial proposal development. Provided executive briefings and milestone reporting to the Board of Directors. Supervised and mentored senior and junior technical staff across marine ecology, fisheries governance, and environmental safeguards. Enforced corporate compliance with ISO 9001 (Quality Management), ISO 14001 (Environmental Management), and ISO 45001 (Occupational Health & Safety) standards across all project operations."
+        "description": "Co-led the strategic, operational, and financial management of the Marine and Coastal Development Business Unit, overseeing multiple environmental consulting projects for international financial institutions (World Bank, ADB, AFD, UNDP, FAO) and private sector clients. Directed annual business planning, revenue forecasting, project budgeting, and commercial proposal development. Provided executive briefings and milestone reporting to the Board of Directors. Supervised and mentored senior and junior technical staff across marine ecology, fisheries governance, and environmental safeguards. Enforced corporate compliance with ISO 9001 (Quality Management), ISO 14001 (Environmental Management), and ISO 45001 (Occupational Health & Safety) standards across all project operations."
       },
       {
         "role": "Marine Environmental Specialist",
@@ -70,7 +70,7 @@ export const cvData = {
         "company": "PT Quest Geophysical Asia - West Papua Project",
         "location": "Arguni Bay, West Papua",
         "period": "January 2015 - August 2015",
-        "description": "Led health, safety, and environmental (HSE) protocols and JNCC-compliant marine mammal observation (MMO) and passive acoustic monitoring (PAM) during 2D and Transition Zone (TZ) marine seismic surveys for KrisEnergy (Udan Emas) BV in Arguni Bay, West Papua. Enforced pre-shooting acoustic visual scans, exclusion zone protocols, and soft-start ramp-up procedures to safeguard cetaceans, dugongs, and coastal fish stocks. Conducted socio-fisheries impact assessments, underwater acoustic propagation analyses, and community consultation with indigenous artisanal fishers."
+        "description": "Led health, safety, and environmental (HSE) protocols and JNCC-compliant marine mammal observation (MMO) with dedicated visual observation during 2D and Transition Zone (TZ) marine seismic surveys for KrisEnergy (Udan Emas) BV in Arguni Bay, West Papua. Enforced pre-shooting visual scans, exclusion zone protocols, and soft-start ramp-up procedures to safeguard cetaceans, dugongs, and coastal fish stocks. Conducted socio-fisheries impact assessments, underwater acoustic propagation analyses, and community consultation with indigenous artisanal fishers."
       },
       {
         "role": "Marine Research Assistant",
@@ -122,7 +122,7 @@ export const cvData = {
           "FPIC",
           "Papua"
         ],
-        "description": "Conducted comprehensive pre-socialization assessments, institutional mapping, and multi-tier stakeholder analysis across district and provincial levels in Southwest Papua. Designed the initial stakeholder engagement strategy and Free, Prior, and Informed Consent (FPIC) framework required for PBPH (Perizinan Berusaha Pemanfaatan Hutan) ecosystem restoration and carbon project licensing, ensuring full alignment with local customary land rights (Masyarakat Hukum Adat).",
+        "description": "Conducted comprehensive pre-socialization assessments, institutional mapping, and multi-tier stakeholder analysis across district and provincial levels in Southwest Papua. Designed the initial stakeholder engagement strategy and Free, Prior, and Informed Consent (FPIC) framework required for forest concession ecosystem restoration and carbon project licensing, ensuring full alignment with local customary land rights.",
         "image": "images/rainforest.jpg"
       },
       {
@@ -136,7 +136,7 @@ export const cvData = {
           "Carbon Accounting",
           "Papua Barat"
         ],
-        "description": "Delivered a high-level feasibility study and carbon scoping assessment across >200,000 hectares of wetland and peatland forest concessions in Southwest Papua and West Papua Provinces. Synthesized remote sensing GIS analysis, forest carbon stock estimates, baseline deforestation drivers, regulatory compliance pathways (Indonesian National Carbon Units & Registry [SRUK / SRN], Verra VCS + CCB, SD VISta, and Nature Framework), and socio-economic risk evaluations to establish project viability for carbon credit generation and biodiversity conservation.",
+        "description": "Delivered a high-level feasibility study and carbon scoping assessment across >200,000 hectares of wetland and peatland forest concessions in Southwest Papua and West Papua Provinces. Synthesized remote sensing GIS analysis, forest carbon stock estimates, baseline deforestation drivers, regulatory compliance pathways (carbon unit registry system of Indonesia, Verra VCS + CCB, SD VISta, and Nature Framework), and socio-economic risk evaluations to establish project viability for carbon credit generation and biodiversity conservation.",
         "image": "images/rainforest.jpg"
       },
       {
@@ -248,7 +248,7 @@ export const cvData = {
           "ESIA",
           "Infrastructure Safeguards"
         ],
-        "description": "Led environmental, social, climate resilience, and gender safeguard preparation studies for the USD 111M AFD-funded Eco-Fishing Ports Modernization Project across four strategic national fishing ports (PPS Kendari, PPS Cilacap, PPN Belawan, and PPN Sibolga). Formulated ESIA terms of reference, climate vulnerability profiles, and port decarbonization action plans.",
+        "description": "Served as National Focal Point, led environmental, social, climate resilience, and gender safeguard preparation studies for the USD 111M AFD-funded Eco-Fishing Ports Modernization Project across four strategic national fishing ports (PPS Kendari, PPS Cilacap, PPN Belawan, and PPN Sibolga). Formulated ESIA terms of reference, climate vulnerability profiles, and port decarbonization action plans.",
         "image": "images/fishing_port.jpg"
       },
       {
@@ -378,21 +378,6 @@ export const cvData = {
         "restricted": true
       },
       {
-        "title": "Valuation of Pelagic Ecosystem Services and Marine Natural Capital",
-        "client": "PT Hatfield Indonesia / Marine Partners",
-        "period": "2021 - 2022",
-        "category": "marine",
-        "tags": [
-          "Ecosystem Valuation",
-          "Pelagic Ecosystems",
-          "Natural Capital Accounting",
-          "Restricted Access"
-        ],
-        "description": "Executed a comprehensive economic and ecological valuation of pelagic marine ecosystem services in Indonesian waters, quantifying carbon sequestration, primary productivity, commercial fisheries yields, and biodiversity resilience to inform national ocean accounting frameworks.",
-        "image": "images/pelagic_fish.jpg",
-        "restricted": true
-      },
-      {
         "title": "Tongkol (Eastern Little Tuna) Supply Chain, Market Dynamics & Post-Harvest Losses",
         "client": "PT Hatfield Indonesia / Marine & Fisheries Partners",
         "period": "2020 - 2022",
@@ -484,22 +469,6 @@ export const cvData = {
         "restricted": true
       },
       {
-        "title": "World Bank Coral Bond IPF: Marine Law Enforcement & Surveillance Capacity Assessment",
-        "client": "World Bank Group / PT Hatfield Indonesia",
-        "period": "2021 - 2022",
-        "category": "marine",
-        "tags": [
-          "Coral Bond",
-          "MCS Law Enforcement",
-          "Marine Conservation",
-          "World Bank",
-          "Restricted Access"
-        ],
-        "description": "Conducted a national institutional capacity assessment on maritime surveillance, monitoring, control, and surveillance (MCS) infrastructure, and judicial enforcement across priority Marine Protected Areas supporting the design of the World Bank Coral Bond Investment Project Financing (IPF).",
-        "image": "images/coral_reef.jpg",
-        "restricted": true
-      },
-      {
         "title": "Socio-Economic Baseline, Gender Action Plan & Stakeholder Impact Analysis for PPS Cilacap",
         "client": "AFD / PT Hatfield Indonesia",
         "period": "2021 - 2022",
@@ -558,7 +527,7 @@ export const cvData = {
           "Total E&P",
           "Offshore Mitigation"
         ],
-        "description": "Led technical health, safety, and environmental (HSE) protocols and JNCC-compliant Marine Mammal Observation (MMO) and Passive Acoustic Monitoring (PAM) during the deep-water 3D marine seismic survey using airgun arrays in the Total E&P Indonesie Mentawai B.V. Block (Indian Ocean). Executed 360-degree pre-shooting visual and acoustic scans, enforced safety exclusion zones, managed soft-start ramp-up procedures to prevent acoustic trauma to marine mammals, and delivered daily environmental compliance reports to the Party Chief and international operators.",
+        "description": "Led technical health, safety, and environmental (HSE) protocols and JNCC-compliant Marine Mammal Observation (MMO) with dedicated visual observation during the deep-water 3D marine seismic survey using airgun arrays in the Total E&P Indonesie Mentawai B.V. Block (Indian Ocean). Executed 360-degree pre-shooting visual scans, enforced safety exclusion zones, managed soft-start ramp-up procedures to prevent acoustic trauma to marine mammals, and delivered daily environmental compliance reports to the Party Chief and international operators.",
         "image": "./images/coral_reef.jpg"
       }
     ],
@@ -1717,11 +1686,25 @@ export const cvData = {
     ],
     "memberships": [
       {
+        "name": "Center for Climate Risk and Opportunity Management (CCROM SEAP - IPB University)",
+        "role": "Affiliated Researcher / Climate Mitigation Specialist",
+        "period": "2026 - Present",
+        "url": "https://ccromseap.ipb.ac.id/",
+        "description": "Contributing technical expertise to climate risk assessment, carbon accounting frameworks, and nature-based solutions research in Indonesia."
+      },
+      {
+        "name": "Center for Agricultural and Rural Development Studies (PSP3 - IPB University)",
+        "role": "Associate Researcher / Coastal & Rural Development Specialist",
+        "period": "2024 - 2025",
+        "url": "https://psp3.ipb.ac.id/",
+        "description": "Supported participatory customary governance assessments, coastal community livelihood frameworks, and social safeguard audits across Indonesian coastal regions."
+      },
+      {
         "name": "Asian Fisheries Acoustics Society (AFAS)",
         "role": "Member",
         "period": "2012 - Present",
         "url": "https://www.afas-acoustic.org/",
-        "description": "Active member contributing to regional advancements in underwater bioacoustics, fisheries acoustic survey technologies, optical-acoustic integration, and marine ecosystem monitoring across Asian and global waters."
+        "description": "Active member contributing to regional advancements in underwater bioacoustics, fisheries acoustic survey technologies, optical-acoustic integration, and marine ecosystem monitoring."
       }
     ],
     "mapLocations": {
@@ -1738,8 +1721,8 @@ export const cvData = {
         "landscape": ">200,000 Hectares Wetland & Peatland Forest Concessions",
         "highlights": [
           "Directing feasibility studies (Carbon Scoping & Feasibility Assessment) across >200,000 ha of wetland and peatland forest concessions in West Papua and Southwest Papua.",
-          "Leading PBPH ecosystem restoration licensing, registration under Indonesian National Carbon Units & Registry [SRUK / SRN], Verra VCS + CCB, SD VISta, and Nature Framework.",
-          "Facilitating multi-stakeholder institutional mapping and Free, Prior, and Informed Consent (FPIC) with local customary communities (Masyarakat Hukum Adat)."
+          "Leading forest concession ecosystem restoration licensing, registration under carbon unit registry system of Indonesia, Verra VCS + CCB, SD VISta, and Nature Framework.",
+          "Facilitating multi-stakeholder institutional mapping and Free, Prior, and Informed Consent (FPIC) with local customary communities."
         ]
       },
       "kolepom": {
@@ -1936,7 +1919,7 @@ export const cvData = {
       "location": "Denpasar, Bali, Indonesia",
       "linkedin": "linkedin.com/in/gmwijaya",
       "orcid": "0000-0003-2312-7031",
-      "profileSummary": "Spesialis lingkungan laut dan praktisi mitigasi karbon senior dengan lebih dari 13 tahun pengalaman dalam memimpin kajian teknis strategis di sektor kelautan, perizinan konsesi kehutanan, dan dekarbonisasi limbah industri. Memiliki latar belakang akademis ilmu kelautan dan bioakustik (Institut Pertanian Bogor), dengan keahlian komprehensif mencakup tata kelola pesisir dan laut, perikanan berkelanjutan, perizinan berusaha pemanfaatan hutan (PBPH), serta mitigasi karbon pada sektor AFOLU (konsesi lahan gambut dan lahan basah >200.000 ha di Papua) dan sektor Limbah (penangkapan metana dan pemanfaatan biogas dari POME limbah cair pabrik kelapa sawit). Berpengalaman menangani proyek bersama institusi internasional utama (Bank Dunia, ADB, FAO, UNDP, TNC) serta peraih penghargaan inovasi nasional (BIC). Ahli dalam akuntansi karbon (Indonesian National Carbon Units & Registry [SRUK / SRN], VCM, Pasal 6 Perjanjian Paris), MRV, safeguards lingkungan (AMDAL/ESIA), dan pelibatan pemangku kepentingan adat serta kementerian terkait."
+      "profileSummary": "Spesialis lingkungan laut dan praktisi mitigasi karbon senior dengan lebih dari 13 tahun pengalaman dalam memimpin kajian teknis strategis di sektor kelautan, perizinan konsesi kehutanan, dan dekarbonisasi limbah industri. Memiliki latar belakang akademis ilmu kelautan dan bioakustik (Institut Pertanian Bogor), dengan keahlian komprehensif mencakup tata kelola pesisir dan laut, perikanan berkelanjutan, area konsesi kehutanan (forest concession area), serta mitigasi karbon pada sektor AFOLU (konsesi lahan gambut dan lahan basah >200.000 ha di Papua) dan sektor Limbah (penangkapan metana dan pemanfaatan biogas dari POME limbah cair pabrik kelapa sawit). Berpengalaman menangani proyek bersama institusi internasional utama (Bank Dunia, ADB, FAO, UNDP, TNC) serta peraih penghargaan inovasi nasional (BIC). Ahli dalam akuntansi karbon (sistem registri unit karbon Indonesia, VCM, Pasal 6 Perjanjian Paris), MRV, safeguards lingkungan (AMDAL/ESIA), dan pelibatan pemangku kepentingan adat serta kementerian terkait."
     },
     "stats": [
       {
@@ -1944,7 +1927,7 @@ export const cvData = {
         "label": "Tahun Pengalaman"
       },
       {
-        "value": "31",
+        "value": "29",
         "label": "Proyek Selesai"
       },
       {
@@ -1962,21 +1945,21 @@ export const cvData = {
         "company": "PT Aksi Mitigasi Iklim (GHG Actions)",
         "location": "Denpasar (Hybrid Bali & Papua)",
         "period": "Juni 2026 - Sekarang",
-        "description": "Memimpin gugus kerja teknis (Technical Workstream) dan strategi tata kelola proyek mitigasi perubahan iklim berbasis pasar, mencakup pasar sukarela (Voluntary Carbon Market / VCM) maupun pasar kepatuhan (compliance markets seperti Indonesian National Carbon Units & Registry [SRUK / SRN], IDXCarbon, dan regulasi internasional). Mengarahkan penyusunan, tinjauan teknis, dan validasi Project Design Document (PDD) serta Dokumen Rencana Aksi Mitigasi Iklim (DRAM) yang selaras dengan Core Carbon Principles (CCPs) dari Integrity Council for the Voluntary Carbon Market (ICVCM) dan mekanisme Perjanjian Paris Pasal 6 (Pasal 6.2 ITMOs dan Pasal 6.4 multilateral crediting). Mengawasi metodologi evaluasi Carbon Rating (tolok ukur BeZero Carbon, Sylvera, Calyx Global) guna menjamin integritas karbon tinggi, tambahan (additionality), kredibilitas baseline, dan pencegahan risiko non-permanensi. Mengelola kepatuhan teknis, MRV, dan inventarisasi GRK untuk sektor AFOLU (Agriculture, Forestry, and Other Land Use - REDD+, ARR, blue carbon pesisir, rewetting gambut) dan sektor Limbah / Waste (POME - Palm Oil Mill Effluent Methane Capture & Biogas). Mengelola secara teknis konsesi lahan gambut dan lahan basah (peatlands & wetlands) seluas >200.000 hektar di Papua Barat dan Papua Barat Daya, mengintegrasikan standar ESG, Verra VCS + CCB, Verra SD VISta (Sustainable Development Verified Impact Standard), Verra Nature Framework, ART TREES, serta kerangka kredit keanekaragaman hayati (nature/biodiversity credits)."
+        "description": "Memimpin gugus kerja teknis (Technical Workstream) dan strategi tata kelola proyek mitigasi perubahan iklim berbasis pasar, mencakup pasar sukarela (Voluntary Carbon Market / VCM) maupun pasar kepatuhan (compliance markets seperti sistem registri unit karbon Indonesia, IDXCarbon, dan regulasi internasional). Mengarahkan penyusunan, tinjauan teknis, dan validasi Project Design Document serta Dokumen Rencana Aksi Mitigasi Iklim yang selaras dengan Core Carbon Principles (CCPs) dari Integrity Council for the Voluntary Carbon Market (ICVCM) dan mekanisme Perjanjian Paris Pasal 6 (Pasal 6.2 ITMOs dan Pasal 6.4 multilateral crediting). Mengawasi metodologi evaluasi Carbon Rating (tolok ukur BeZero Carbon, Sylvera, Calyx Global) guna menjamin integritas karbon tinggi, tambahan (additionality), kredibilitas baseline, dan pencegahan risiko non-permanensi. Mengelola kepatuhan teknis, MRV, dan inventarisasi GRK untuk sektor AFOLU (Agriculture, Forestry, and Other Land Use - REDD+, ARR, blue carbon pesisir, rewetting gambut) dan sektor Limbah / Waste (POME - Palm Oil Mill Effluent Methane Capture & Biogas). Mengelola secara teknis konsesi lahan gambut dan lahan basah (peatlands & wetlands) seluas >200.000 hektar di Papua Barat dan Papua Barat Daya, mengintegrasikan standar ESG, Verra VCS + CCB, Verra SD VISta (Sustainable Development Verified Impact Standard), Verra Nature Framework, ART TREES, serta kerangka kredit keanekaragaman hayati (nature/biodiversity credits)."
       },
       {
-        "role": "Project Manager - GHG Actions & Marine Ecosystem Restoration",
+        "role": "Project Manager",
         "company": "PT Aksi Mitigasi Iklim (GHG Actions)",
         "location": "Denpasar (Hybrid Bali & Papua)",
         "period": "Februari 2023 - Juni 2026",
-        "description": "Mengelola siklus hidup penuh proyek restorasi ekosistem terestrial, lahan gambut, dan lahan basah pesisir (wetlands) skala besar (>200.000 ha) di Papua Barat dan Papua Barat Daya. Memimpin tim lapangan multidisiplin dalam survei baseline ekologi, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), dan inventarisasi cadangan karbon berbasis darat (SNI 7724). Merancang dan memfasilitasi proses Free, Prior, and Informed Consent (FPIC) serta mekanisme pembagian manfaat yang adil bersama masyarakat hukum adat. Memimpin koordinasi perizinan dan kepatuhan regulasi dengan Kementerian Lingkungan Hidup dan Kehutanan (KLHK) serta Kementerian Kelautan dan Perikanan (KKP). Menyusun Rencana Pengelolaan Lingkungan dan Sosial (ESMP), AMDAL/ESIA, serta membangun sistem Monitoring, Reporting, and Verification (MRV) yang kredibel."
+        "description": "Mengelola siklus hidup penuh proyek restorasi ekosistem terestrial, lahan gambut, dan lahan basah pesisir (wetlands) skala besar (>200.000 ha) di Papua Barat dan Papua Barat Daya. Memimpin tim lapangan multidisiplin dalam survei baseline ekologi, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), dan inventarisasi cadangan karbon berbasis darat (SNI 7724). Merancang dan memfasilitasi proses Free, Prior, and Informed Consent (FPIC) serta mekanisme pembagian manfaat yang adil bersama komunitas adat setempat. Memimpin koordinasi perizinan dan kepatuhan regulasi dengan Kementerian Lingkungan Hidup dan Kehutanan (KLHK) serta Kementerian Kelautan dan Perikanan (KKP). Menyusun Rencana Pengelolaan Lingkungan dan Sosial (ESMP), kepatuhan lingkungan dan sosial (environmental and social compliance), serta membangun sistem Monitoring, Reporting, and Verification (MRV) yang kredibel."
       },
       {
         "role": "Deputy Unit Leader - Marine and Coastal Development Unit",
         "company": "PT Hatfield Indonesia",
         "location": "Bogor / Jakarta",
         "period": "Januari 2022 - Februari 2023",
-        "description": "Memimpin manajemen strategis, operasional, dan finansial Unit Pengembangan Kelautan dan Pesisir, mengawasi portofolio proyek konsultasi lingkungan bernilai tinggi untuk lembaga keuangan internasional (Bank Dunia, ADB, AFD, UNDP, FAO) dan sektor swasta. Mengarahkan perencanaan bisnis tahunan, proyeksi pendapatan, penganggaran proyek, serta pengembangan proposal komersial. Menyampaikan laporan capaian berkala kepada Dewan Direksi. Membimbing dan membina kapasitas teknis staf di bidang ekologi laut, tata kelola perikanan, dan safeguards lingkungan-sosial. Memastikan kepatuhan institusional terhadap standar sistem manajemen mutu ISO 9001, lingkungan ISO 14001, dan K3 ISO 45001 di seluruh operasional proyek."
+        "description": "Memimpin manajemen strategis, operasional, dan finansial Unit Pengembangan Kelautan dan Pesisir, mengawasi portofolio proyek konsultasi lingkungan untuk lembaga keuangan internasional (Bank Dunia, ADB, AFD, UNDP, FAO) dan sektor swasta. Mengarahkan perencanaan bisnis tahunan, proyeksi pendapatan, penganggaran proyek, serta pengembangan proposal komersial. Menyampaikan laporan capaian berkala kepada Dewan Direksi. Membimbing dan membina kapasitas teknis staf di bidang ekologi laut, tata kelola perikanan, dan safeguards lingkungan-sosial. Memastikan kepatuhan institusional terhadap standar sistem manajemen mutu ISO 9001, lingkungan ISO 14001, dan K3 ISO 45001 di seluruh operasional proyek."
       },
       {
         "role": "Marine Environmental Specialist",
@@ -1997,7 +1980,7 @@ export const cvData = {
         "company": "PT Quest Geophysical Asia - West Papua Project",
         "location": "Teluk Arguni, Papua Barat",
         "period": "Januari 2015 - Agustus 2015",
-        "description": "Memimpin protokol K3L (HSE) dan observasi mamalia laut (Marine Mammal Observer / MMO) berstandar JNCC serta pemantauan akustik pasif (PAM) selama survei seismik 2D dan Transition Zone (TZ) untuk KrisEnergy (Udan Emas) BV di Teluk Arguni, Papua Barat. Menegakkan protokol zona eksklusi dan prosedur soft-start guna melindungi mamalia laut, dugong, dan populasi ikan. Melakukan kajian dampak sosio-perikanan akibat operasi seismik dan sosialisasi kepada nelayan tradisional masyarakat adat setempat."
+        "description": "Memimpin protokol K3L (HSE) dan observasi mamalia laut (Marine Mammal Observer / MMO) melalui pengamatan visual (visual observation) berstandar JNCC selama survei seismik 2D dan Transition Zone (TZ) untuk KrisEnergy (Udan Emas) BV di Teluk Arguni, Papua Barat. Menegakkan pemindaian visual pra-penembakan, protokol zona eksklusi, dan prosedur soft-start guna melindungi mamalia laut, dugong, dan populasi ikan. Melakukan kajian dampak sosio-perikanan akibat operasi seismik dan sosialisasi kepada nelayan tradisional masyarakat adat setempat."
       },
       {
         "role": "Marine Research Assistant",
@@ -2049,7 +2032,7 @@ export const cvData = {
           "FPIC",
           "Papua"
         ],
-        "description": "Melaksanakan kajian pra-sosialisasi komprehensif, pemetaan kelembagaan, dan analisis pemangku kepentingan bertingkat di tingkat kabupaten dan provinsi Papua Barat Daya. Merancang strategi pelibatan pemangku kepentingan awal dan kerangka Free, Prior, and Informed Consent (FPIC) yang dipersyaratkan untuk perizinan PBPH (Perizinan Berusaha Pemanfaatan Hutan) restorasi ekosistem dan proyek karbon, memastikan penghormatan penuh terhadap hak ulayat Masyarakat Hukum Adat setempat.",
+        "description": "Melaksanakan kajian pra-sosialisasi komprehensif, pemetaan kelembagaan, dan analisis pemangku kepentingan bertingkat di tingkat kabupaten dan provinsi Papua Barat Daya. Merancang strategi pelibatan pemangku kepentingan awal dan kerangka Free, Prior, and Informed Consent (FPIC) yang dipersyaratkan untuk perizinan konsesi kehutanan restorasi ekosistem dan proyek karbon, memastikan penghormatan penuh terhadap hak ulayat adat setempat.",
         "image": "images/rainforest.jpg"
       },
       {
@@ -2063,7 +2046,7 @@ export const cvData = {
           "Inventarisasi Karbon",
           "Papua Barat"
         ],
-        "description": "Menyusun studi kelayakan tingkat tinggi dan kajian penjajakan karbon di areal konsesi hutan lahan basah dan gambut (wetland & peatland) seluas >200.000 hektar di Provinsi Papua Barat Daya dan Papua Barat. Mensintesiskan analisis spasial GIS penginderaan jauh, estimasi cadangan karbon hutan, pemicu deforestasi baseline, jalur kepatuhan regulasi (Indonesian National Carbon Units & Registry [SRUK / SRN], Verra VCS + CCB, SD VISta, dan Nature Framework), serta evaluasi risiko sosial-ekonomi guna menetapkan kelayakan penerbitan kredit karbon dan konservasi keanekaragaman hayati.",
+        "description": "Menyusun studi kelayakan tingkat tinggi dan kajian penjajakan karbon di areal konsesi hutan lahan basah dan gambut (wetland & peatland) seluas >200.000 hektar di Provinsi Papua Barat Daya dan Papua Barat. Mensintesiskan analisis spasial GIS penginderaan jauh, estimasi cadangan karbon hutan, pemicu deforestasi baseline, jalur kepatuhan regulasi (sistem registri unit karbon Indonesia, Verra VCS + CCB, SD VISta, dan Nature Framework), serta evaluasi risiko sosial-ekonomi guna menetapkan kelayakan penerbitan kredit karbon dan konservasi keanekaragaman hayati.",
         "image": "images/rainforest.jpg"
       },
       {
@@ -2305,21 +2288,6 @@ export const cvData = {
         "restricted": true
       },
       {
-        "title": "Valuasi Jasa Ekosistem Pelagis dan Neraca Modal Alami Laut",
-        "client": "PT Hatfield Indonesia / Mitra Kelautan",
-        "period": "2021 - 2022",
-        "category": "marine",
-        "tags": [
-          "Valuasi Ekosistem",
-          "Ekosistem Pelagis",
-          "Akuntansi Modal Alam",
-          "Akses Terbatas"
-        ],
-        "description": "Melakukan valuasi ekonomi dan ekologi mendalam terhadap jasa ekosistem laut pelagis di perairan Indonesia, mengkuantifikasi penyerapan karbon, produktivitas primer, hasil perikanan komersial, dan ketahanan keanekaragaman hayati guna mendukung kerangka akuntansi neraca laut nasional.",
-        "image": "images/pelagic_fish.jpg",
-        "restricted": true
-      },
-      {
         "title": "Rantai Pasok, Dinamika Pasar & Susut Pasca-Panen Perikanan Tongkol",
         "client": "PT Hatfield Indonesia / Mitra Perikanan & Kelautan",
         "period": "2020 - 2022",
@@ -2411,22 +2379,6 @@ export const cvData = {
         "restricted": true
       },
       {
-        "title": "World Bank Coral Bond IPF: Kajian Kapasitas Pengawasan & Penegakan Hukum Konservasi Laut",
-        "client": "World Bank Group / PT Hatfield Indonesia",
-        "period": "2021 - 2022",
-        "category": "marine",
-        "tags": [
-          "Coral Bond",
-          "Pengawasan MCS",
-          "Konservasi Laut",
-          "Bank Dunia",
-          "Akses Terbatas"
-        ],
-        "description": "Melaksanakan asesmen kapasitas kelembagaan nasional mengenai infrastruktur pengawasan maritim, sistem monitoring, control and surveillance (MCS), serta penegakan hukum peradilan di kawasan konservasi prioritas guna mendukung perancangan instrumen pembiayaan inovatif World Bank Coral Bond IPF.",
-        "image": "images/coral_reef.jpg",
-        "restricted": true
-      },
-      {
         "title": "Rona Sosial-Ekonomi, Rencana Aksi Gender & Analisis Dampak Pemangku Kepentingan di PPS Cilacap",
         "client": "AFD / PT Hatfield Indonesia",
         "period": "2021 - 2022",
@@ -2485,7 +2437,7 @@ export const cvData = {
           "Total E&P",
           "Mitigasi Lepas Pantai"
         ],
-        "description": "Memimpin protokol K3L (HSE) dan pemantauan mamalia laut (Marine Mammal Observer / MMO) serta pemantauan akustik pasif (Passive Acoustic Monitoring / PAM) berstandar JNCC selama survei seismik laut dalam 3D menggunakan airgun di Blok Total E&P Indonesie Mentawai B.V. (Samudra Hindia). Melakukan pemindaian visual dan akustik pra-penembakan 360 derajat, menegakkan zona eksklusi keselamatan, mengelola prosedur soft-start ramp-up guna mencegah trauma akustik pada mamalia laut, serta menyusun laporan kepatuhan lingkungan harian untuk Party Chief dan operator internasional.",
+        "description": "Memimpin protokol K3L (HSE) dan pemantauan mamalia laut (Marine Mammal Observer / MMO) melalui pengamatan visual (visual observation) berstandar JNCC selama survei seismik laut dalam 3D menggunakan airgun di Blok Total E&P Indonesie Mentawai B.V. (Samudra Hindia). Melakukan pemindaian visual pra-penembakan 360 derajat, menegakkan zona eksklusi keselamatan, mengelola prosedur soft-start ramp-up guna mencegah trauma akustik pada mamalia laut, serta menyusun laporan kepatuhan lingkungan harian untuk Party Chief dan operator internasional.",
         "image": "./images/coral_reef.jpg"
       }
     ],
@@ -3644,11 +3596,25 @@ export const cvData = {
     ],
     "memberships": [
       {
+        "name": "Center for Climate Risk and Opportunity Management (CCROM SEAP - IPB University)",
+        "role": "Peneliti Terafiliasi / Spesialis Mitigasi Perubahan Iklim",
+        "period": "2026 - Sekarang",
+        "url": "https://ccromseap.ipb.ac.id/",
+        "description": "Memberikan keahlian teknis dalam penilaian risiko iklim, kerangka kerja akuntansi karbon, dan riset solusi berbasis alam (nature-based solutions) di Indonesia."
+      },
+      {
+        "name": "Pusat Studi Pembangunan Pertanian dan Pedesaan (PSP3 - IPB University)",
+        "role": "Peneliti Madya / Spesialis Tata Kelola Pesisir & Pedesaan",
+        "period": "2024 - 2025",
+        "url": "https://psp3.ipb.ac.id/",
+        "description": "Mendukung kajian partisipatif tata kelola adat, kerangka penghidupan masyarakat pesisir, serta audit safeguard sosial di berbagai wilayah pesisir Indonesia."
+      },
+      {
         "name": "Asian Fisheries Acoustics Society (AFAS)",
-        "role": "Anggota Profesional",
+        "role": "Anggota",
         "period": "2012 - Sekarang",
         "url": "https://www.afas-acoustic.org/",
-        "description": "Anggota aktif yang berkontribusi dalam riset dan penerapan teknologi bioakustik bawah air, survei akustik perikanan, integrasi optik-akustik, serta pemantauan ekosistem laut di kawasan Asia."
+        "description": "Anggota aktif yang berkontribusi dalam kemajuan bioakustik bawah air regional, teknologi survei akustik perikanan, integrasi optik-akustik, serta pemantauan ekosistem laut."
       }
     ],
     "mapLocations": {
@@ -3665,8 +3631,8 @@ export const cvData = {
         "landscape": ">200.000 Hektar Hutan Lahan Basah & Gambut (Peatlands & Wetlands)",
         "highlights": [
           "Memimpin studi kelayakan (Carbon Scoping & Feasibility Assessment) konsesi kehutanan skala bentang alam >200.000 ha di Papua Barat dan Papua Barat Daya.",
-          "Penyusunan kerangka perizinan PBPH (Perizinan Berusaha Pemanfaatan Hutan) restorasi ekosistem, registrasi Indonesian National Carbon Units & Registry [SRUK / SRN], serta standar internasional Verra VCS + CCB, SD VISta, dan Nature Framework.",
-          "Memfasilitasi pemetaan kelembagaan dan Free, Prior, and Informed Consent (FPIC) bersama Masyarakat Hukum Adat setempat."
+          "Penyusunan kerangka perizinan konsesi kehutanan restorasi ekosistem, registrasi sistem registri unit karbon Indonesia, serta standar internasional Verra VCS + CCB, SD VISta, dan Nature Framework.",
+          "Memfasilitasi pemetaan kelembagaan dan Free, Prior, and Informed Consent (FPIC) bersama komunitas adat setempat."
         ]
       },
       "kolepom": {

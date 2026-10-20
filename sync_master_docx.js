@@ -179,7 +179,7 @@ export function generateMasterMarkdown() {
     md += `\n`;
   });
   md += `---\n\n`;
-  md += `## Professional Memberships & Affiliations\n\n`;
+  md += `## Professional Memberships & Academic Affiliations\n\n`;
   const memberships = cvData.en.memberships || [];
   memberships.forEach((m, i) => {
     const linkPart = m.url ? `[${m.name}](${m.url})` : m.name;
@@ -511,7 +511,7 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
   // 9. Memberships & Affiliations
   const memberships = cvData.en.memberships || [];
   if (memberships.length > 0) {
-    docChildren.push(...createSectionHeading('Professional Memberships & Affiliations'));
+    docChildren.push(...createSectionHeading('Professional Memberships & Academic Affiliations'));
     memberships.forEach(m => {
       docChildren.push(
         new Paragraph({
