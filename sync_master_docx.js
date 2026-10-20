@@ -591,8 +591,18 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
   });
 
   const buffer = await Packer.toBuffer(doc);
-  fs.writeFileSync(outputFile, buffer);
-  console.log(`[Docx] Master Word CV generated successfully: ${outputFile} (${buffer.length} bytes)`);
+  try {
+    fs.writeFileSync(outputFile, buffer);
+    console.log(`[Docx] Master Word CV generated successfully: ${outputFile} (${buffer.length} bytes)`);
+  } catch (err) {
+    if (err.code === 'EBUSY') {
+      console.warn(`[Docx Warning] File ${outputFile} is currently open in Microsoft Word. Please close Word to update this file.`);
+      fs.writeFileSync('I Gede Mahendra Wijaya_Master CV_latest.docx', buffer);
+      console.log(`[Docx] Saved latest copy to: I Gede Mahendra Wijaya_Master CV_latest.docx (${buffer.length} bytes)`);
+    } else {
+      throw err;
+    }
+  }
 }
 
 async function runMasterSync() {

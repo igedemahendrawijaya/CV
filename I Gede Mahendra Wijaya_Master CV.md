@@ -12,7 +12,7 @@
 
 ## Executive Profile Summary
 
-Marine environmental specialist with over 13 years of experience delivering high-level technical leadership across marine-based sectors, forest concessions, and industrial waste decarbonization. Formally trained in marine science and acoustics (IPB University), with expertise spanning coastal and ocean governance, sustainable fisheries, forest concession licensing (PBPH), and carbon mitigation across AFOLU (>200,000 ha peatland/wetland concessions in Papua) and Waste sectors (Palm Oil Mill Effluent / POME methane capture & biogas-to-energy). Proven track record with major international institutions (World Bank, ADB, FAO, UNDP, TNC) and national innovation award recognition (BIC). Highly skilled in carbon accounting (Indonesian National Carbon Registry / SRUK, VCM, Paris Agreement Article 6), MRV, environmental safeguards (ESIA/AMDAL), and multi-stakeholder engagement.
+Marine environmental specialist with over 13 years of experience delivering high-level technical leadership across marine-based sectors, forest concessions, and industrial waste decarbonization. Formally trained in marine science and acoustics (IPB University), with expertise spanning coastal and ocean governance, sustainable fisheries, forest concession licensing (PBPH), and carbon mitigation across AFOLU (>200,000 ha peatland/wetland concessions in Papua) and Waste sectors (Palm Oil Mill Effluent / POME methane capture & biogas-to-energy). Proven track record with major international institutions (World Bank, ADB, FAO, UNDP, TNC) and national innovation award recognition (BIC). Highly skilled in carbon accounting (Indonesian National Carbon Units & Registry [SRUK / SRN], VCM, Paris Agreement Article 6), MRV, environmental safeguards (ESIA/AMDAL), and multi-stakeholder engagement.
 
 ---
 
@@ -30,7 +30,7 @@ Marine environmental specialist with over 13 years of experience delivering high
    - **Institution**: Bogor Agricultural University (IPB University), Indonesia
    - **Faculty / Program**: Faculty of Fisheries and Marine Sciences
    - **Period**: June 2008 - April 2013
-   - **Focus / Details**: Concentration in Marine Acoustic and Remote Sensing Technology | GPA: 3.04. Undergraduate Thesis: "Penerapan Metode Radon Transform untuk Reduksi Gelombang Multiple Seismik 2D di Perairan Barat Sumatra" (Advisor: Prof. Dr. Henry M. Manik | IPB Scientific Repository).
+   - **Focus / Details**: Concentration in Marine Acoustic and Remote Sensing Technology | GPA: 3.04. Undergraduate Thesis: "Application of Radon Transform Method for 2D Seismic Multiple Wave Reduction in West Sumatra Waters" (Advisor: Prof. Dr. Henry M. Manik | IPB Scientific Repository).
 
 2. **Diploma in Carbon Management**
    - **Institution**: The Greenhouse Gas Management Institute (GHGMI)
@@ -57,7 +57,7 @@ Marine environmental specialist with over 13 years of experience delivering high
 ### 1. Head of Technical Workstream
 **PT Aksi Mitigasi Iklim (GHG Actions)** | Denpasar (Hybrid Bali & Papua) | June 2026 - Present  
 
-Providing strategic and technical leadership for end-to-end carbon mitigation projects across market-based carbon mechanisms, spanning both Voluntary Carbon Markets (VCM) and Compliance Markets (Indonesian National Carbon Registry / SRUK, IDXCarbon, and international compliance). Directing the development, technical review, and validation of Project Design Documents (PDD) and Dokumen Rencana Aksi Mitigasi Iklim (DRAM) aligned with Core Carbon Principles (CCPs) of the Integrity Council for the Voluntary Carbon Market (ICVCM) and Paris Agreement Article 6 mechanisms (Articles 6.2 and 6.4 for ITMOs and authorized carbon crediting). Overseeing portfolio-wide carbon rating evaluations and integrity due diligence (benchmarked against BeZero, Sylvera, and Calyx Global) to guarantee robust additionality, baseline credibility, and permanence. Managing technical compliance, MRV, and greenhouse gas accounting for AFOLU (Agriculture, Forestry, and Other Land Use - REDD+, ARR, coastal blue carbon) and Waste Sectors (Palm Oil Mill Effluent / POME Methane Capture & Biogas-to-Energy). Providing technical direction over >200,000 hectares of peatlands and wetlands concessions in West Papua and Southwest Papua, embedding ESG frameworks, Verra VCS + CCB, ART TREES, and high-integrity nature and biodiversity credit standards.
+Providing strategic and technical leadership for end-to-end carbon mitigation projects across market-based carbon mechanisms, spanning both Voluntary Carbon Markets (VCM) and Compliance Markets (Indonesian National Carbon Units & Registry [SRUK / SRN], IDXCarbon, and international compliance). Directing the development, technical review, and validation of Project Design Documents (PDD) and Dokumen Rencana Aksi Mitigasi Iklim (DRAM) aligned with Core Carbon Principles (CCPs) of the Integrity Council for the Voluntary Carbon Market (ICVCM) and Paris Agreement Article 6 mechanisms (Articles 6.2 and 6.4 for ITMOs and authorized carbon crediting). Overseeing portfolio-wide carbon rating evaluations and integrity due diligence (benchmarked against BeZero, Sylvera, and Calyx Global) to guarantee robust additionality, baseline credibility, and permanence. Managing technical compliance, MRV, and greenhouse gas accounting for AFOLU (Agriculture, Forestry, and Other Land Use - REDD+, ARR, coastal blue carbon) and Waste Sectors (Palm Oil Mill Effluent / POME Methane Capture & Biogas-to-Energy). Providing technical direction over >200,000 hectares of peatlands and wetlands concessions in West Papua and Southwest Papua, embedding ESG frameworks, Verra VCS + CCB, Verra SD VISta (Sustainable Development Verified Impact Standard), Verra Nature Framework, ART TREES, and high-integrity nature and biodiversity credit standards.
 
 ### 2. Project Manager - GHG Actions & Marine Ecosystem Restoration
 **PT Aksi Mitigasi Iklim (GHG Actions)** | Denpasar (Hybrid Bali & Papua) | February 2023 - June 2026  
@@ -103,7 +103,7 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 - **Client / Partner**: PT SHL & PT Sorong Hijau Ekosistem (SHE)
 - **Period**: March - June 2023
 - **Category / Focus**: CARBON (Carbon Scoping, Feasibility Study, Carbon Accounting, Papua Barat)
-- **Technical Scope & Output**: Delivered a high-level feasibility study and carbon scoping assessment across >200,000 hectares of wetland and peatland forest concessions in Southwest Papua and West Papua Provinces. Synthesized remote sensing GIS analysis, forest carbon stock estimates, baseline deforestation drivers, regulatory compliance pathways (Indonesian National Carbon Registry / SRUK & Verra VCS), and socio-economic risk evaluations to establish project viability for carbon credit generation and biodiversity conservation.
+- **Technical Scope & Output**: Delivered a high-level feasibility study and carbon scoping assessment across >200,000 hectares of wetland and peatland forest concessions in Southwest Papua and West Papua Provinces. Synthesized remote sensing GIS analysis, forest carbon stock estimates, baseline deforestation drivers, regulatory compliance pathways (Indonesian National Carbon Units & Registry [SRUK / SRN], Verra VCS + CCB, SD VISta, and Nature Framework), and socio-economic risk evaluations to establish project viability for carbon credit generation and biodiversity conservation.
 
 ### 3. High Carbon Stock Approach (HCSA) & High Conservation Value (HCV) Assessments
 - **Client / Partner**: APRIL Group
@@ -420,7 +420,7 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 - **DOI / Link**: [https://doi.org/10.1016/bs.amb.2015.08.003](https://doi.org/10.1016/bs.amb.2015.08.003)
 - **Summary**: Comprehensive peer-reviewed book chapter and field study documenting the distribution, ecology, and conservation status of Australian humpback dolphins in the Pacific and New Guinea.
 
-### 3. Penerapan Metode Radon Transform untuk Reduksi Gelombang Multiple Seismik 2D di Perairan Barat Sumatra (Application of Radon Transform for 2D Seismic Multiple Wave Reduction)
+### 3. Application of Radon Transform Method for 2D Seismic Multiple Wave Reduction in West Sumatra Waters
 - **Year**: 2013
 - **Publisher / Conference**: IPB University Scientific Repository - Undergraduate Thesis (Advisor: Prof. Dr. Henry M. Manik)
 - **DOI / Link**: [https://repository.ipb.ac.id/handle/123456789/63281](https://repository.ipb.ac.id/handle/123456789/63281)
