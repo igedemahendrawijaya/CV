@@ -158,7 +158,7 @@ export function generateMasterMarkdown() {
     md += `${idx + 1}. **${ref.name}**\n`;
     md += `   - **Position**: ${ref.role}\n`;
     md += `   - **Affiliation**: ${ref.company}\n`;
-    md += `   - **Contact / Relationship**: ${ref.contact} (${ref.relation})\n\n`;
+    md += `   - **Contact / Relationship**: ${ref.contact}${ref.relation ? ` (${ref.relation})` : ""}\n\n`;
   });
 
   fs.writeFileSync(MD_FILE, md, 'utf8');
@@ -475,7 +475,7 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
       new Paragraph({
         spacing: { before: 10, after: 50 },
         children: [
-          new TextRun({ text: `Contact / Context: ${ref.contact} (${ref.relation})`, size: 18, color: TEXT_MUTED, font: 'Arial' })
+          new TextRun({ text: `Contact / Context: ${ref.contact}${ref.relation ? ` (${ref.relation})` : ""}`, size: 18, color: TEXT_MUTED, font: 'Arial' })
         ]
       })
     );
