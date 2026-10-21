@@ -64,21 +64,21 @@ export const cvData = {
         "company": "Nusa Dua Reef Foundation",
         "location": "Bali, Indonesia",
         "period": "April 2016 - June 2016",
-        "description": "Assisted executive directors in coordinating coastal conservation, artificial reef deployment, coral reef restoration, and community-based marine ecotourism in Nusa Dua, Bali. Facilitated multi-stakeholder partnerships between government bodies (Ministry of Marine Affairs and Fisheries / MMAF, Bali Marine Affairs Agency), tourism operators (Indonesia Tourism Development Corporation / ITDC), local customary villages (Desa Adat), and dive operators. Managed educational outreach, conservation awareness campaigns, and community stewardship programs for coastal sustainability."
+        "description": "Assisted executive directors in coordinating coastal conservation, artificial reef deployment, coral reef restoration, and community-based marine ecotourism in Nusa Dua, Bali. Facilitated multi-stakeholder partnerships between government bodies (Ministry of Marine Affairs and Fisheries / MMAF, Bali Marine Affairs Agency), tourism operators (Indonesia Tourism Development Corporation / ITDC), local customary villages, and dive operators. Managed educational outreach, conservation awareness campaigns, and community stewardship programs for coastal sustainability."
       },
       {
         "role": "Marine Mammal Observer",
         "company": "PT Quest Geophysical Asia - West Papua Project",
         "location": "Arguni Bay, West Papua",
         "period": "January 2015 - August 2015",
-        "description": "Led Health, Safety, and Environment (HSE) protocols and Joint Nature Conservation Committee (JNCC)-compliant Marine Mammal Observation (MMO) with dedicated visual observation during 2D and Transition Zone (TZ) marine seismic surveys for KrisEnergy (Udan Emas) BV in Arguni Bay, West Papua. Enforced pre-shooting visual scans, exclusion zone protocols, and soft-start ramp-up procedures to safeguard cetaceans, dugongs, and coastal fish stocks. Conducted socio-fisheries impact assessments, underwater acoustic propagation analyses, and community consultation with indigenous artisanal fishers."
+        "description": "Led Health, Safety, and Environment (HSE) protocols and Joint Nature Conservation Committee (JNCC)-compliant Marine Mammal Observation (MMO) with dedicated visual observation during 2D and Transition Zone (TZ) marine seismic surveys for KrisEnergy (Udan Emas) BV in Arguni Bay, West Papua. Enforced pre-shooting visual scans, exclusion zone protocols, and soft-start ramp-up procedures to safeguard marine biotas."
       },
       {
         "role": "Marine Research Assistant",
         "company": "Marine Science & Technology Dept, IPB University",
         "location": "Bogor, Indonesia",
         "period": "2012 - 2014",
-        "description": "Conducted academic and applied research in underwater bioacoustics, marine acoustic telemetry, satellite remote sensing, Geographic Information Systems (GIS) spatial modeling, and physical oceanography. Operated scientific echo sounders, hydrophones, and Conductivity, Temperature, and Depth (CTD) oceanographic probes. Supported national research grants funded by the Ministry of Education and Culture (Kemendikbud), co-authoring peer-reviewed scientific publications on marine bioacoustics, oil spill detection using Advanced Land Observing Satellite Phased Array type L-band Synthetic Aperture Radar (ALOS PALSAR) imagery, and autonomous surface vessels for maritime surveillance."
+        "description": "Conducted academic and applied research in underwater bioacoustics, marine acoustic telemetry, satellite remote sensing, Geographic Information Systems (GIS) spatial modeling, and physical oceanography. Applied Active Acoustic Monitoring (AAM) and Passive Acoustic Monitoring (PAM), as well as Conductivity, Temperature, and Depth (CTD) oceanographic probes. Supported national research grants funded by the Ministry of Education and Culture (Kemendikbud), co-authoring peer-reviewed scientific publications on marine bioacoustics, oil spill detection using Advanced Land Observing Satellite Phased Array type L-band Synthetic Aperture Radar (ALOS PALSAR) imagery, and autonomous surface vessels for maritime surveillance."
       }
     ],
     "education": [
@@ -2497,14 +2497,14 @@ export const cvData = {
         "company": "PT Quest Geophysical Asia - West Papua Project",
         "location": "Teluk Arguni, Papua Barat",
         "period": "Januari 2015 - Agustus 2015",
-        "description": "Memimpin protokol K3L (HSE) dan observasi mamalia laut (Marine Mammal Observer / MMO) melalui pengamatan visual (visual observation) berstandar JNCC selama survei seismik 2D dan Transition Zone (TZ) untuk KrisEnergy (Udan Emas) BV di Teluk Arguni, Papua Barat. Menegakkan pemindaian visual pra-penembakan, protokol zona eksklusi, dan prosedur soft-start guna melindungi mamalia laut, dugong, dan populasi ikan. Melakukan kajian dampak sosio-perikanan akibat operasi seismik dan sosialisasi kepada nelayan tradisional masyarakat adat setempat."
+        "description": "Memimpin protokol K3L (HSE) dan observasi mamalia laut (Marine Mammal Observer / MMO) melalui pengamatan visual (visual observation) berstandar JNCC selama survei seismik 2D dan Transition Zone (TZ) untuk KrisEnergy (Udan Emas) BV di Teluk Arguni, Papua Barat. Menegakkan pemindaian visual pra-penembakan, protokol zona eksklusi, dan prosedur soft-start guna melindungi biota laut (marine biotas)."
       },
       {
         "role": "Marine Research Assistant",
         "company": "Departemen Ilmu dan Teknologi Kelautan, IPB University",
         "location": "Bogor, Indonesia",
         "period": "2012 - 2014",
-        "description": "Menjalankan penelitian akademis dan terapan di bidang bioakustik bawah air, telemetri akustik kelautan, penginderaan jauh satelit, pemodelan spasial GIS, dan oseanografi fisik. Mengoperasikan instrumen ilmiah seperti scientific echo sounder, hydrophone, dan CTD. Berkontribusi pada riset kompetitif nasional yang didanai Kemendikbud, serta menulis publikasi ilmiah bereputasi tentang bioakustik ikan, deteksi tumpahan minyak via satelit ALOS PALSAR, dan wahana patroli maritim tanpa awak."
+        "description": "Menjalankan penelitian akademis dan terapan di bidang bioakustik bawah air, telemetri akustik kelautan, penginderaan jauh satelit, pemodelan spasial GIS, dan oseanografi fisik. Menerapkan Active Acoustic Monitoring (AAM) dan Passive Acoustic Monitoring (PAM), serta instrumen oseanografi Conductivity, Temperature, and Depth (CTD). Berkontribusi pada riset kompetitif nasional yang didanai Kemendikbud, serta menulis publikasi ilmiah bereputasi tentang bioakustik ikan, deteksi tumpahan minyak via satelit ALOS PALSAR, dan wahana patroli maritim tanpa awak."
       }
     ],
     "education": [

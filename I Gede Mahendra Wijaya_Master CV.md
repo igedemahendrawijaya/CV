@@ -72,17 +72,17 @@ Served as technical specialist contributing to diverse marine and coastal develo
 ### 5. Assistant Project Director
 **Nusa Dua Reef Foundation** | Bali, Indonesia | April 2016 - June 2016  
 
-Assisted executive directors in coordinating coastal conservation, artificial reef deployment, coral reef restoration, and community-based marine ecotourism in Nusa Dua, Bali. Facilitated multi-stakeholder partnerships between government bodies (Ministry of Marine Affairs and Fisheries / MMAF, Bali Marine Affairs Agency), tourism operators (Indonesia Tourism Development Corporation / ITDC), local customary villages (Desa Adat), and dive operators. Managed educational outreach, conservation awareness campaigns, and community stewardship programs for coastal sustainability.
+Assisted executive directors in coordinating coastal conservation, artificial reef deployment, coral reef restoration, and community-based marine ecotourism in Nusa Dua, Bali. Facilitated multi-stakeholder partnerships between government bodies (Ministry of Marine Affairs and Fisheries / MMAF, Bali Marine Affairs Agency), tourism operators (Indonesia Tourism Development Corporation / ITDC), local customary villages, and dive operators. Managed educational outreach, conservation awareness campaigns, and community stewardship programs for coastal sustainability.
 
 ### 6. Marine Mammal Observer
 **PT Quest Geophysical Asia - West Papua Project** | Arguni Bay, West Papua | January 2015 - August 2015  
 
-Led Health, Safety, and Environment (HSE) protocols and Joint Nature Conservation Committee (JNCC)-compliant Marine Mammal Observation (MMO) with dedicated visual observation during 2D and Transition Zone (TZ) marine seismic surveys for KrisEnergy (Udan Emas) BV in Arguni Bay, West Papua. Enforced pre-shooting visual scans, exclusion zone protocols, and soft-start ramp-up procedures to safeguard cetaceans, dugongs, and coastal fish stocks. Conducted socio-fisheries impact assessments, underwater acoustic propagation analyses, and community consultation with indigenous artisanal fishers.
+Led Health, Safety, and Environment (HSE) protocols and Joint Nature Conservation Committee (JNCC)-compliant Marine Mammal Observation (MMO) with dedicated visual observation during 2D and Transition Zone (TZ) marine seismic surveys for KrisEnergy (Udan Emas) BV in Arguni Bay, West Papua. Enforced pre-shooting visual scans, exclusion zone protocols, and soft-start ramp-up procedures to safeguard marine biotas.
 
 ### 7. Marine Research Assistant
 **Marine Science & Technology Dept, IPB University** | Bogor, Indonesia | 2012 - 2014  
 
-Conducted academic and applied research in underwater bioacoustics, marine acoustic telemetry, satellite remote sensing, Geographic Information Systems (GIS) spatial modeling, and physical oceanography. Operated scientific echo sounders, hydrophones, and Conductivity, Temperature, and Depth (CTD) oceanographic probes. Supported national research grants funded by the Ministry of Education and Culture (Kemendikbud), co-authoring peer-reviewed scientific publications on marine bioacoustics, oil spill detection using Advanced Land Observing Satellite Phased Array type L-band Synthetic Aperture Radar (ALOS PALSAR) imagery, and autonomous surface vessels for maritime surveillance.
+Conducted academic and applied research in underwater bioacoustics, marine acoustic telemetry, satellite remote sensing, Geographic Information Systems (GIS) spatial modeling, and physical oceanography. Applied Active Acoustic Monitoring (AAM) and Passive Acoustic Monitoring (PAM), as well as Conductivity, Temperature, and Depth (CTD) oceanographic probes. Supported national research grants funded by the Ministry of Education and Culture (Kemendikbud), co-authoring peer-reviewed scientific publications on marine bioacoustics, oil spill detection using Advanced Land Observing Satellite Phased Array type L-band Synthetic Aperture Radar (ALOS PALSAR) imagery, and autonomous surface vessels for maritime surveillance.
 
 ---
 
