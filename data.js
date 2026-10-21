@@ -26,7 +26,7 @@ export const cvData = {
         "label": "Certifications"
       },
       {
-        "value": "9",
+        "value": "8",
         "label": "Publications"
       }
     ],
@@ -595,13 +595,6 @@ export const cvData = {
         "publisher": "104 Inovasi Indonesia 2012 - Business Innovation Center (BIC) & Ministry of Research and Technology",
         "link": "https://bic.web.id/general/view/Spionase+Bawah+Air",
         "description": "National award-winning research innovation on passive acoustic detection, bioacoustic monitoring, and fish behavior analysis to assess aquaculture fish productivity."
-      },
-      {
-        "year": "2012",
-        "title": "Investigation on Salinity, Turbidity, and Total Suspended Solid (TSS) in Cimandiri River and Its Impact on Marine Environment",
-        "publisher": "Marine Science and Technology Dept., Bogor Agriculture University Journal",
-        "link": "https://repository.ipb.ac.id",
-        "description": "Estuarine and coastal water quality assessment analyzing terrestrial sediment runoff, salinity gradients, and environmental impacts on coastal ecosystems."
       },
       {
         "year": "2012",
@@ -2508,7 +2501,7 @@ export const cvData = {
         "label": "Sertifikasi"
       },
       {
-        "value": "9",
+        "value": "8",
         "label": "Publikasi"
       }
     ],
@@ -3077,13 +3070,6 @@ export const cvData = {
         "publisher": "104 Inovasi Indonesia 2012 - Business Innovation Center (BIC) & Kementerian Riset dan Teknologi RI",
         "link": "https://bic.web.id/general/view/Spionase+Bawah+Air",
         "description": "Inovasi riset nasional pemenang 104 Inovasi Indonesia mengenai teknologi bioakustik pasif untuk mendeteksi produktivitas dan tingkah laku ikan budidaya."
-      },
-      {
-        "year": "2012",
-        "title": "Investigasi tentang Salinitas, Turbiditas, dan Total Suspended Solid (TSS) di Sungai Cimandiri dan Dampaknya terhadap Lingkungan Laut",
-        "publisher": "Jurnal Departemen Sains dan Teknologi Kelautan, Institut Pertanian Bogor",
-        "link": "https://repository.ipb.ac.id",
-        "description": "Kajian kualitas perairan estuari dan pesisir mengenai dinamika sedimentasi limpasan daratan, gradien salinitas, dan dampaknya bagi ekosistem laut."
       },
       {
         "year": "2012",
