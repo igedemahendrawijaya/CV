@@ -286,7 +286,7 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
   docChildren.push(
     new Paragraph({
       spacing: { before: 60, after: 120 },
-      alignment: AlignmentType.JUSTIFY,
+      alignment: AlignmentType.JUSTIFIED,
       children: [
         new TextRun({
           text: p.profileSummary,
@@ -307,7 +307,7 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
         bullet: { level: 0 },
         children: [
           new TextRun({ text: `${st.value}: `, bold: true, size: 20, color: PRIMARY_COLOR, font: 'Arial' }),
-          new TextRun({ text: `${st.label} - ${st.desc || ''}`, size: 20, color: TEXT_DARK, font: 'Arial' })
+          new TextRun({ text: st.desc ? `${st.label} - ${st.desc}` : st.label, size: 20, color: TEXT_DARK, font: 'Arial' })
         ]
       })
     );
@@ -338,7 +338,7 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
         new Paragraph({
           spacing: { before: 20, after: 60 },
           indent: { left: 360 },
-          alignment: AlignmentType.JUSTIFY,
+          alignment: AlignmentType.JUSTIFIED,
           children: [
             new TextRun({ text: `Curriculum Scope: `, bold: true, size: 19, color: TEXT_MUTED, font: 'Arial' }),
             new TextRun({ text: `${edu.details}`, size: 19, color: TEXT_DARK, font: 'Arial' })
@@ -367,7 +367,7 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
       }),
       new Paragraph({
         spacing: { before: 20, after: 80 },
-        alignment: AlignmentType.JUSTIFY,
+        alignment: AlignmentType.JUSTIFIED,
         children: [
           new TextRun({ text: exp.description, size: 19, color: TEXT_DARK, font: 'Arial' })
         ]
@@ -382,7 +382,7 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
   docChildren.push(
     new Paragraph({
       spacing: { before: 60, after: 120 },
-      alignment: AlignmentType.JUSTIFY,
+      alignment: AlignmentType.JUSTIFIED,
       children: [
         new TextRun({
           text: `Over the past 13+ years, I Gede Mahendra Wijaya has directed, managed, and contributed to ${projs.length} high-impact multidisciplinary projects spanning marine environmental assessments, nature-based climate solutions, sustainable fisheries governance, and environmental and social compliance across the Indonesian archipelago. His technical involvement encompasses leading international financial institution (IFI) and UN-backed programs (World Bank, ADB, AFD, FAO, UNDP), directing large-scale AFOLU carbon feasibility and ecosystem restoration concessions (>200,000 ha), conducting ecological baselines, formulating ESMP/ESIA safeguards, and deploying digital marine monitoring technologies. Below is the detailed catalog of key project assignments, technical scopes, and deliverables.`,
@@ -416,7 +416,7 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
       }),
       new Paragraph({
         spacing: { before: 20, after: 70 },
-        alignment: AlignmentType.JUSTIFY,
+        alignment: AlignmentType.JUSTIFIED,
         children: [
           new TextRun({ text: projDesc, size: 19, color: TEXT_DARK, font: 'Arial' })
         ]
@@ -452,7 +452,7 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
       docChildren.push(
         new Paragraph({
           spacing: { before: 10, after: 60 },
-          alignment: AlignmentType.JUSTIFY,
+          alignment: AlignmentType.JUSTIFIED,
           children: [
             new TextRun({ text: pub.description, size: 18, color: TEXT_DARK, font: 'Arial' })
           ]
@@ -496,7 +496,7 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
       docChildren.push(
         new Paragraph({
           spacing: { before: 10, after: 50 },
-          alignment: AlignmentType.JUSTIFY,
+          alignment: AlignmentType.JUSTIFIED,
           children: [
             new TextRun({ text: awDesc, size: 18, color: TEXT_DARK, font: 'Arial' })
           ]
@@ -524,7 +524,7 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
       docChildren.push(
         new Paragraph({
           spacing: { before: 10, after: 50 },
-          alignment: AlignmentType.JUSTIFY,
+          alignment: AlignmentType.JUSTIFIED,
           children: [
             new TextRun({ text: mDesc, size: 18, color: TEXT_DARK, font: 'Arial' })
           ]
