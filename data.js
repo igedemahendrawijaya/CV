@@ -1675,6 +1675,13 @@ export const cvData = {
         "description": "Invited keynote and expert speaker on digital transformation, satellite VMS, and IoT smart aquaculture platforms."
       },
       {
+        "year": "2015",
+        "name": "IPB Rector's Award: Tribute to Innovators and Authors 2015",
+        "issuer": "Rector of IPB University (Institut Pertanian Bogor)",
+        "date": "September 2015",
+        "description": "Conferred by the Rector of IPB University during the 52nd Dies Natalis commemoration in recognition of outstanding dedication and scientific contributions in delivering impactful innovations."
+      },
+      {
         "year": "2014",
         "name": "Indonesian Young Innovator Award",
         "issuer": "Inovasia Indonesia & Kemenpora RI",
@@ -4092,6 +4099,13 @@ export const cvData = {
         "issuer": "DigiFish Network & Kementerian Kelautan dan Perikanan (KKP)",
         "date": "2019",
         "description": "Pembicara ahli dalam transformasi digital, pemantauan satelit VMS, dan platform IoT smart aquaculture."
+      },
+      {
+        "year": "2015",
+        "name": "Penghargaan Rektor IPB: Tribute to Innovators and Authors 2015",
+        "issuer": "Rektor Institut Pertanian Bogor (IPB)",
+        "date": "September 2015",
+        "description": "Dianugerahkan oleh Rektor IPB dalam rangkaian peringatan Dies Natalis ke-52 atas dedikasi dan kontribusi nyata dalam menghasilkan inovasi."
       },
       {
         "year": "2014",

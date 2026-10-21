@@ -696,22 +696,27 @@ Over the past 13+ years, I Gede Mahendra Wijaya has directed, managed, and contr
 - **Year**: 2019
 - **Scope / Significance**: Invited keynote and expert speaker on digital transformation, satellite VMS, and IoT smart aquaculture platforms.
 
-### 7. Indonesian Young Innovator Award
+### 7. IPB Rector's Award: Tribute to Innovators and Authors 2015
+- **Issuer / Organization**: Rector of IPB University (Institut Pertanian Bogor)
+- **Year**: 2015
+- **Scope / Significance**: Conferred by the Rector of IPB University during the 52nd Dies Natalis commemoration in recognition of outstanding dedication and scientific contributions in delivering impactful innovations.
+
+### 8. Indonesian Young Innovator Award
 - **Issuer / Organization**: Inovasia Indonesia & Kemenpora RI
 - **Year**: 2014
 - **Scope / Significance**: Recognized among top national youth innovators for applied environmental and acoustic research.
 
-### 8. Indonesian Youth Parliament Delegate for North Maluku
+### 9. Indonesian Youth Parliament Delegate for North Maluku
 - **Issuer / Organization**: Indonesian Youth Parliament
 - **Year**: 2013
 - **Scope / Significance**: Selected youth parliamentary representative advocating coastal governance, archipelagic policy, and marine conservation.
 
-### 9. The 104th Prospective Innovation Award of Indonesia - 2012 Indonesia Scientist Award
+### 10. The 104th Prospective Innovation Award of Indonesia - 2012 Indonesia Scientist Award
 - **Issuer / Organization**: Business Innovation Center (BIC)
 - **Year**: 2012
 - **Scope / Significance**: Awarded for pioneering undergraduate research on bioacoustics and acoustic fish behavior.
 
-### 10. Candidate in Indonesian Leadership Camp
+### 11. Candidate in Indonesian Leadership Camp
 - **Issuer / Organization**: IPB University
 - **Year**: 2012
 - **Scope / Significance**: Selected participant for intensive student leadership and governance camp.
