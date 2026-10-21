@@ -726,24 +726,24 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 
 ## Professional References
 
-1. **Dr. Lida Pet-Soede**
-   - **Position**: Director of Marine Unit Service
-   - **Affiliation**: Hatfield Group
-   - **Contact / Relationship**: Contact available upon request
-
-2. **Dr. I Wayan Nurjaya**
-   - **Position**: Head of Department of Marine Science and Technology
-   - **Affiliation**: Bogor Agricultural University (IPB University)
-   - **Contact / Relationship**: Contact available upon request
-
-3. **Prof. Henry M. Manik, S.Pi., M.T., Ph.D.**
+1. **Prof. Henry M. Manik, S.Pi., M.T., Ph.D.**
    - **Position**: Professor of Ocean Acoustics and Instrumentation
    - **Affiliation**: Department of Marine Science and Technology, IPB University
    - **Contact / Relationship**: Contact available upon request
 
-4. **Dr. Windi Al Zahra**
-   - **Position**: Senior Researcher / Climate & Environmental Specialist
-   - **Affiliation**: Centre for Climate Risk and Opportunity Management (CCROM SEAP), IPB University
+2. **Prof. Dr. Ir. Harpasis Sanusi, M.Sc.**
+   - **Position**: Professor of Chemical Oceanography & Marine Pollution
+   - **Affiliation**: Department of Marine Science and Technology, IPB University
+   - **Contact / Relationship**: Contact available upon request
+
+3. **Dr. I Wayan Nurjaya**
+   - **Position**: Head of Department of Marine Science and Technology
+   - **Affiliation**: Bogor Agricultural University (IPB University)
+   - **Contact / Relationship**: Contact available upon request
+
+4. **Dr. Lida Pet-Soede**
+   - **Position**: Director of Marine Unit Service
+   - **Affiliation**: Hatfield Group
    - **Contact / Relationship**: Contact available upon request
 
 5. **Dias Natasasmita**
@@ -751,8 +751,8 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
    - **Affiliation**: World Bank Group
    - **Contact / Relationship**: Contact available upon request
 
-6. **Prof. Dr. Ir. Harpasis Sanusi, M.Sc.**
-   - **Position**: Professor of Chemical Oceanography & Marine Pollution
-   - **Affiliation**: Department of Marine Science and Technology, IPB University
+6. **Dr. Windi Al Zahra**
+   - **Position**: Senior Researcher / Climate & Environmental Specialist
+   - **Affiliation**: Centre for Climate Risk and Opportunity Management (CCROM SEAP), IPB University
    - **Contact / Relationship**: Contact available upon request
 

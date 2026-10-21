@@ -500,8 +500,15 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
   });
 
   const buffer = await Packer.toBuffer(doc);
-  fs.writeFileSync(outputFile, buffer);
-  fs.writeFileSync('I Gede Mahendra Wijaya_Master CV_latest.docx', buffer);
+  try {
+    fs.writeFileSync(outputFile, buffer);
+  } catch (err) {
+    if (err.code === 'EBUSY') {
+      console.warn('[Docx Warning] File ' + outputFile + ' sedang dibuka di Microsoft Word. Harap tutup Word agar berkas ini dapat diperbarui.');
+    } else {
+      throw err;
+    }
+  }
   console.log(`[Docx] Master Word CV generated successfully: ${outputFile} (${buffer.length} bytes)`);
 }
 

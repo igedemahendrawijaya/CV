@@ -1517,9 +1517,15 @@ export const cvData = {
     ],
     "references": [
       {
-        "name": "Dr. Lida Pet-Soede",
-        "role": "Director of Marine Unit Service",
-        "company": "Hatfield Group",
+        "name": "Prof. Henry M. Manik, S.Pi., M.T., Ph.D.",
+        "role": "Professor of Ocean Acoustics and Instrumentation",
+        "company": "Department of Marine Science and Technology, IPB University",
+        "contact": "Contact available upon request"
+      },
+      {
+        "name": "Prof. Dr. Ir. Harpasis Sanusi, M.Sc.",
+        "role": "Professor of Chemical Oceanography & Marine Pollution",
+        "company": "Department of Marine Science and Technology, IPB University",
         "contact": "Contact available upon request"
       },
       {
@@ -1529,15 +1535,9 @@ export const cvData = {
         "contact": "Contact available upon request"
       },
       {
-        "name": "Prof. Henry M. Manik, S.Pi., M.T., Ph.D.",
-        "role": "Professor of Ocean Acoustics and Instrumentation",
-        "company": "Department of Marine Science and Technology, IPB University",
-        "contact": "Contact available upon request"
-      },
-      {
-        "name": "Dr. Windi Al Zahra",
-        "role": "Senior Researcher / Climate & Environmental Specialist",
-        "company": "Centre for Climate Risk and Opportunity Management (CCROM SEAP), IPB University",
+        "name": "Dr. Lida Pet-Soede",
+        "role": "Director of Marine Unit Service",
+        "company": "Hatfield Group",
         "contact": "Contact available upon request"
       },
       {
@@ -1547,9 +1547,9 @@ export const cvData = {
         "contact": "Contact available upon request"
       },
       {
-        "name": "Prof. Dr. Ir. Harpasis Sanusi, M.Sc.",
-        "role": "Professor of Chemical Oceanography & Marine Pollution",
-        "company": "Department of Marine Science and Technology, IPB University",
+        "name": "Dr. Windi Al Zahra",
+        "role": "Senior Researcher / Climate & Environmental Specialist",
+        "company": "Centre for Climate Risk and Opportunity Management (CCROM SEAP), IPB University",
         "contact": "Contact available upon request"
       }
     ],
@@ -3936,9 +3936,15 @@ export const cvData = {
     ],
     "references": [
       {
-        "name": "Dr. Lida Pet-Soede",
-        "role": "Direktur Layanan Unit Kelautan",
-        "company": "Hatfield Group",
+        "name": "Prof. Henry M. Manik, S.Pi., M.T., Ph.D.",
+        "role": "Guru Besar Akustik dan Instrumentasi Kelautan",
+        "company": "Departemen Ilmu dan Teknologi Kelautan, IPB University",
+        "contact": "Kontak tersedia atas permintaan"
+      },
+      {
+        "name": "Prof. Dr. Ir. Harpasis Sanusi, M.Sc.",
+        "role": "Guru Besar Oseanografi Kimia & Pencemaran Laut",
+        "company": "Departemen Ilmu dan Teknologi Kelautan, IPB University",
         "contact": "Kontak tersedia atas permintaan"
       },
       {
@@ -3948,15 +3954,9 @@ export const cvData = {
         "contact": "Kontak tersedia atas permintaan"
       },
       {
-        "name": "Prof. Henry M. Manik, S.Pi., M.T., Ph.D.",
-        "role": "Guru Besar Akustik dan Instrumentasi Kelautan",
-        "company": "Departemen Ilmu dan Teknologi Kelautan, IPB University",
-        "contact": "Kontak tersedia atas permintaan"
-      },
-      {
-        "name": "Dr. Windi Al Zahra",
-        "role": "Peneliti Senior / Spesialis Risiko Iklim & Lingkungan",
-        "company": "Centre for Climate Risk and Opportunity Management (CCROM SEAP), IPB University",
+        "name": "Dr. Lida Pet-Soede",
+        "role": "Direktur Layanan Unit Kelautan",
+        "company": "Hatfield Group",
         "contact": "Kontak tersedia atas permintaan"
       },
       {
@@ -3966,9 +3966,9 @@ export const cvData = {
         "contact": "Kontak tersedia atas permintaan"
       },
       {
-        "name": "Prof. Dr. Ir. Harpasis Sanusi, M.Sc.",
-        "role": "Guru Besar Oseanografi Kimia & Pencemaran Laut",
-        "company": "Departemen Ilmu dan Teknologi Kelautan, IPB University",
+        "name": "Dr. Windi Al Zahra",
+        "role": "Peneliti Senior / Spesialis Risiko Iklim & Lingkungan",
+        "company": "Centre for Climate Risk and Opportunity Management (CCROM SEAP), IPB University",
         "contact": "Kontak tersedia atas permintaan"
       }
     ],
