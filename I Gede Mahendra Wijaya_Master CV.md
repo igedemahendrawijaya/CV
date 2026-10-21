@@ -15,7 +15,7 @@ Senior Marine Environmental Specialist and Climate Mitigation Technical Lead wit
 - **13+** Years Professional Experience
 - **31** Completed High-Impact Projects & Technical Reports
 - **72+** Professional Certifications & Specialized Training Programs
-- **6** Peer-Reviewed Scientific Publications & Conference Papers
+- **9** Peer-Reviewed Scientific Publications & Conference Papers
 
 ---
 
@@ -278,7 +278,7 @@ Over the past 13+ years, I Gede Mahendra Wijaya has directed, managed, and contr
 
 ---
 
-## Peer-Reviewed Scientific Publications & Technical Papers (Total: 6)
+## Peer-Reviewed Scientific Publications & Technical Papers (Total: 9)
 
 ### 1. Digital Shrimp Cultivation: SMARTSHRIMPS.ID - Smart Mobile & Web Application for Indonesian Shrimp Farmers (Budidaya Udang Cara Digital)
 - **Year**: 2022
@@ -315,6 +315,24 @@ Over the past 13+ years, I Gede Mahendra Wijaya has directed, managed, and contr
 - **Publisher / Conference**: Marine Science and Technology Dept., Bogor Agriculture University Journal
 - **DOI / Link**: [https://repository.ipb.ac.id](https://repository.ipb.ac.id)
 - **Scope / Summary**: Estuarine and coastal water quality assessment analyzing terrestrial sediment runoff, salinity gradients, and environmental impacts on coastal ecosystems.
+
+### 7. Prototype Radio Wave-Based Autonomous Patrol Vessel: Design for Maritime Border Security in Outer Islands of Indonesia (Prototipe Kapal Patroli Perairan Tanpa Awak)
+- **Year**: 2012
+- **Publisher / Conference**: National Seminar on Marine & Fisheries Socio-Economic Policy (SEMNAS SOSEK KP 2012) - Ministry of Marine Affairs and Fisheries (MMAF) & Indonesian Institute of Sciences (LIPI)
+- **DOI / Link**: [https://www.bbrse.kkp.go.id/semnas/](https://www.bbrse.kkp.go.id/semnas/)
+- **Scope / Summary**: Technical conference paper on the conceptual design of an autonomous surface/underwater vehicle (AUV/ASV) utilizing radio navigation and Differential GPS (DGPS) for automated maritime surveillance and border deterrence against illegal, unreported, and unregulated (IUU) fishing.
+
+### 8. Development of a Hydrokinetic Water Turbine Propeller for Small-Scale Fishing Vessels to Reduce Fossil Fuel Dependence
+- **Year**: 2012
+- **Publisher / Conference**: National Seminar on Marine & Fisheries Socio-Economic Policy (SEMNAS SOSEK KP 2012) - Ministry of Marine Affairs and Fisheries (MMAF) & Indonesian Institute of Sciences (LIPI)
+- **DOI / Link**: [https://www.bbrse.kkp.go.id/semnas/](https://www.bbrse.kkp.go.id/semnas/)
+- **Scope / Summary**: Applied engineering paper proposing a hydrokinetic Voith Schneider Propeller design to harness water flow kinetic energy during navigation on small-scale vessels (<5 GT), generating renewable electricity to reduce diesel fuel dependency and operational costs.
+
+### 9. Analysis of Vessel Gross Tonnage Impact on Fishermen Catch Yield at Tegal Coastal Fishing Port, Central Java
+- **Year**: 2012
+- **Publisher / Conference**: National Seminar on Marine & Fisheries Socio-Economic Policy (SEMNAS SOSEK KP 2012) - Ministry of Marine Affairs and Fisheries (MMAF) & Indonesian Institute of Sciences (LIPI)
+- **DOI / Link**: [https://www.bbrse.kkp.go.id/semnas/](https://www.bbrse.kkp.go.id/semnas/)
+- **Scope / Summary**: Quantitative empirical study evaluating the correlation between fishing vessel gross tonnage (GT), trip duration, and total catch yield efficiency across fishing fleets operating out of Tegal Coastal Fishing Port.
 
 ---
 

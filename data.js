@@ -26,7 +26,7 @@ export const cvData = {
         "label": "Certifications"
       },
       {
-        "value": "6",
+        "value": "9",
         "label": "Publications"
       }
     ],
@@ -602,6 +602,27 @@ export const cvData = {
         "publisher": "Marine Science and Technology Dept., Bogor Agriculture University Journal",
         "link": "https://repository.ipb.ac.id",
         "description": "Estuarine and coastal water quality assessment analyzing terrestrial sediment runoff, salinity gradients, and environmental impacts on coastal ecosystems."
+      },
+      {
+        "year": "2012",
+        "title": "Prototype Radio Wave-Based Autonomous Patrol Vessel: Design for Maritime Border Security in Outer Islands of Indonesia (Prototipe Kapal Patroli Perairan Tanpa Awak)",
+        "publisher": "National Seminar on Marine & Fisheries Socio-Economic Policy (SEMNAS SOSEK KP 2012) - Ministry of Marine Affairs and Fisheries (MMAF) & Indonesian Institute of Sciences (LIPI)",
+        "link": "https://www.bbrse.kkp.go.id/semnas/",
+        "description": "Technical conference paper on the conceptual design of an autonomous surface/underwater vehicle (AUV/ASV) utilizing radio navigation and Differential GPS (DGPS) for automated maritime surveillance and border deterrence against illegal, unreported, and unregulated (IUU) fishing."
+      },
+      {
+        "year": "2012",
+        "title": "Development of a Hydrokinetic Water Turbine Propeller for Small-Scale Fishing Vessels to Reduce Fossil Fuel Dependence",
+        "publisher": "National Seminar on Marine & Fisheries Socio-Economic Policy (SEMNAS SOSEK KP 2012) - Ministry of Marine Affairs and Fisheries (MMAF) & Indonesian Institute of Sciences (LIPI)",
+        "link": "https://www.bbrse.kkp.go.id/semnas/",
+        "description": "Applied engineering paper proposing a hydrokinetic Voith Schneider Propeller design to harness water flow kinetic energy during navigation on small-scale vessels (<5 GT), generating renewable electricity to reduce diesel fuel dependency and operational costs."
+      },
+      {
+        "year": "2012",
+        "title": "Analysis of Vessel Gross Tonnage Impact on Fishermen Catch Yield at Tegal Coastal Fishing Port, Central Java",
+        "publisher": "National Seminar on Marine & Fisheries Socio-Economic Policy (SEMNAS SOSEK KP 2012) - Ministry of Marine Affairs and Fisheries (MMAF) & Indonesian Institute of Sciences (LIPI)",
+        "link": "https://www.bbrse.kkp.go.id/semnas/",
+        "description": "Quantitative empirical study evaluating the correlation between fishing vessel gross tonnage (GT), trip duration, and total catch yield efficiency across fishing fleets operating out of Tegal Coastal Fishing Port."
       }
     ],
     "certificates": [
@@ -2487,7 +2508,7 @@ export const cvData = {
         "label": "Sertifikasi"
       },
       {
-        "value": "6",
+        "value": "9",
         "label": "Publikasi"
       }
     ],
@@ -3063,6 +3084,27 @@ export const cvData = {
         "publisher": "Jurnal Departemen Sains dan Teknologi Kelautan, Institut Pertanian Bogor",
         "link": "https://repository.ipb.ac.id",
         "description": "Kajian kualitas perairan estuari dan pesisir mengenai dinamika sedimentasi limpasan daratan, gradien salinitas, dan dampaknya bagi ekosistem laut."
+      },
+      {
+        "year": "2012",
+        "title": "Prototipe Kapal Patroli Perairan Tanpa Awak Berbasis Gelombang Radio: Desain Pengamanan Batas Laut Pulau Terluar NKRI",
+        "publisher": "Seminar Nasional Riset dan Kebijakan Sosial Ekonomi Kelautan dan Perikanan (SEMNAS SOSEK KP 2012) - Kementerian Kelautan dan Perikanan (KKP) & Lembaga Ilmu Pengetahuan Indonesia (LIPI)",
+        "link": "https://www.bbrse.kkp.go.id/semnas/",
+        "description": "Makalah ilmiah rancang bangun wahana patroli maritim tanpa awak (Autonomous Surface/Underwater Vehicle) berbasis komunikasi radio dan DGPS untuk pemantauan otomatis wilayah perbatasan laut dan pulau terluar dari ancaman illegal fishing (IUUF)."
+      },
+      {
+        "year": "2012",
+        "title": "Pengembangan Propeler Pembangkit Energi Listrik Tenaga Air pada Kapal Nelayan untuk Mengurangi Ketergantungan Penggunaan BBM",
+        "publisher": "Seminar Nasional Riset dan Kebijakan Sosial Ekonomi Kelautan dan Perikanan (SEMNAS SOSEK KP 2012) - Kementerian Kelautan dan Perikanan (KKP) & Lembaga Ilmu Pengetahuan Indonesia (LIPI)",
+        "link": "https://www.bbrse.kkp.go.id/semnas/",
+        "description": "Makalah rekayasa terapan mengenai rancang bangun turbin propeler air (Voith Schneider Propeller) pada kapal nelayan skala kecil (<5 GT) guna memanfaatkan aliran kinetik air untuk pembangkitan listrik terbarukan dan efisiensi bahan bakar minyak."
+      },
+      {
+        "year": "2012",
+        "title": "Analisis Pengaruh Gross Tonnage Kapal Terhadap Jumlah Hasil Tangkapan Nelayan di Pelabuhan Perikanan Pantai Tegal, Jawa Tengah",
+        "publisher": "Seminar Nasional Riset dan Kebijakan Sosial Ekonomi Kelautan dan Perikanan (SEMNAS SOSEK KP 2012) - Kementerian Kelautan dan Perikanan (KKP) & Lembaga Ilmu Pengetahuan Indonesia (LIPI)",
+        "link": "https://www.bbrse.kkp.go.id/semnas/",
+        "description": "Kajian empiris kuantitatif yang mengevaluasi korelasi kapasitas tonase kotor kapal (Gross Tonnage / GT) dan durasi operasi melaut terhadap efisiensi volume hasil tangkapan armada perikanan di Pelabuhan Perikanan Pantai (PPP) Tegal."
       }
     ],
     "certificates": [
