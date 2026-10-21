@@ -751,3 +751,8 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
    - **Affiliation**: World Bank Group
    - **Contact / Relationship**: Contact available upon request (undefined)
 
+6. **Prof. Dr. Ir. Harpasis Sanusi, M.Sc.**
+   - **Position**: Professor of Chemical Oceanography & Marine Pollution
+   - **Affiliation**: Department of Marine Science and Technology, IPB University
+   - **Contact / Relationship**: Contact available upon request (undefined)
+

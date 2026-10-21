@@ -1545,6 +1545,12 @@ export const cvData = {
         "role": "Marine Specialist",
         "company": "World Bank Group",
         "contact": "Contact available upon request"
+      },
+      {
+        "name": "Prof. Dr. Ir. Harpasis Sanusi, M.Sc.",
+        "role": "Professor of Chemical Oceanography & Marine Pollution",
+        "company": "Department of Marine Science and Technology, IPB University",
+        "contact": "Contact available upon request"
       }
     ],
     "ui": {
@@ -3957,6 +3963,12 @@ export const cvData = {
         "name": "Dias Natasasmita",
         "role": "Spesialis Kelautan (Marine Specialist)",
         "company": "World Bank Group",
+        "contact": "Kontak tersedia atas permintaan"
+      },
+      {
+        "name": "Prof. Dr. Ir. Harpasis Sanusi, M.Sc.",
+        "role": "Guru Besar Oseanografi Kimia & Pencemaran Laut",
+        "company": "Departemen Ilmu dan Teknologi Kelautan, IPB University",
         "contact": "Kontak tersedia atas permintaan"
       }
     ],
