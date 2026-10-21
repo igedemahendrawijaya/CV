@@ -88,213 +88,215 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 
 ## Key Projects & Technical Deliverables (Total: 29 Projects)
 
+Over the past 13+ years, I Gede Mahendra Wijaya has directed, managed, and contributed to 29 high-impact multidisciplinary projects spanning marine environmental assessments, nature-based climate solutions, sustainable fisheries governance, and environmental and social compliance across the Indonesian archipelago. His technical involvement encompasses leading international financial institution (IFI) and UN-backed programs (World Bank, ADB, AFD, FAO, UNDP), directing large-scale AFOLU carbon feasibility and ecosystem restoration concessions (>200,000 ha), conducting ecological baselines, formulating ESMP/ESIA safeguards, and deploying digital marine monitoring technologies. Below is the detailed catalog of key project assignments, technical scopes, and deliverables.
+
 ### 1. Pre-Socialization Report & Stakeholder Analysis for Forest Carbon Licensing
 - **Client / Partner**: PT Salawati Hijau Lestari (SHL)
 - **Period**: June - August 2023
 - **Category / Focus**: carbon
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Conducted comprehensive pre-socialization assessments, institutional mapping, and multi-tier stakeholder analysis across district and provincial levels in Southwest Papua. Designed the initial stakeholder engagement strategy and Free, Prior, and Informed Consent (FPIC) framework required for forest concession ecosystem restoration and carbon project licensing, ensuring full alignment with local customary land rights.
 
 ### 2. Carbon Scoping Study & Feasibility Assessment for Forest Concessions
 - **Client / Partner**: PT SHL & PT Sorong Hijau Ekosistem (SHE)
 - **Period**: March - June 2023
 - **Category / Focus**: carbon
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Delivered a high-level feasibility study and carbon scoping assessment across >200,000 hectares of wetland and peatland forest concessions in Southwest Papua and West Papua Provinces. Synthesized remote sensing GIS analysis, forest carbon stock estimates, baseline deforestation drivers, regulatory compliance pathways (carbon unit registry system of Indonesia, Verra VCS + CCB, SD VISta, and Nature Framework), and socio-economic risk evaluations to establish project viability for carbon credit generation and biodiversity conservation.
 
 ### 3. High Carbon Stock Approach (HCSA) & High Conservation Value (HCV) Assessments
 - **Client / Partner**: APRIL Group
 - **Period**: September 2022 - January 2023
 - **Category / Focus**: carbon
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Served as Social Expert for integrated HCV-HCSA full assessments covering three supply partner concessions in Northern Sumatra. Conducted field participatory mapping, customary land tenure analyses, community livelihood assessments, and FPIC verification to delineate High Carbon Stock forest patches and High Conservation Value areas for sustainable landscape management and zero-deforestation compliance.
 
 ### 4. Strategic Environmental and Social Assessment (SESA) for Energy Transition Mechanism (ETM)
 - **Client / Partner**: Asian Development Bank (ADB)
 - **Period**: August 2022 - January 2023
 - **Category / Focus**: carbon
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Delivered high-level scoping, environmental and social baseline evaluations, and regulatory framework analysis for the ADB Energy Transition Mechanism (ETM) in Indonesia. Facilitated national multi-stakeholder SESA consultation workshops involving central ministries (ESDM, MoEF, Bappenas), PLN, IPPs, CSOs, and academic experts to ensure social equity and environmental safeguards during the early retirement and repurposing of coal-fired power plants.
 
 ### 5. Establishment of Marine Protected Area (MPA) in Kolepom Island
 - **Client / Partner**: UNDP / ATSEA-2 Program
 - **Period**: November 2021 - September 2022
 - **Category / Focus**: marine
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Supported technical facilitation and Working Group (POKJA) coordination for the formal establishment of the 356,000-hectare Kolepom Island Marine Protected Area in Merauke District, South Papua. Authored technical resource potential reports, facilitated public consultations with indigenous coastal tribes, and drafted the MPA management and spatial zoning plan formally gazetted by the Ministry of Marine Affairs and Fisheries (KKP).
 
 ### 6. Fisheries Management & Coastal Community Livelihoods (LAUTRA Phase 1)
 - **Client / Partner**: World Bank Group
 - **Period**: September 2020 - September 2022
 - **Category / Focus**: marine
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Prepared foundational analytical studies and project design components for the World Bank Oceans for Prosperity Program (LAUTRA - USD 210M). Addressed fisheries governance reforms, coastal poverty alleviation, marine spatial planning, and sustainable value chain investments across Fisheries Management Areas (WPPNRI 715, 718, and 573).
 
 ### 7. Pre-Feasibility Study on Management and Retrieval of ALDFG and Aquaculture Plastics
 - **Client / Partner**: World Bank Group / Poseidon Aquatic Resource Management
 - **Period**: August 2020 - August 2022
 - **Category / Focus**: marine
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Conducted a nationwide pre-feasibility assessment on the retrieval, circular recycling, and port reception facilities for Abandoned, Lost, and Discarded Fishing Gear (ALDFG) and plastic waste generated by intensive shrimp and fish aquaculture. Formulated actionable policy roadmaps and circular economy interventions for the Ministry of Marine Affairs and Fisheries and donor agencies.
 
 ### 8. Coastal Fisheries Initiative Challenge Fund (CFI-CF) Business Incubation
 - **Client / Partner**: World Bank Group / GEF
 - **Period**: June 2020 - September 2022
 - **Category / Focus**: marine
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Supported business incubation, investment pitch development, and environmental-social due diligence for sustainable coastal fisheries enterprises under the GEF-World Bank CFI Challenge Fund. Evaluated SME business models in sustainable tuna, mud crab, and seaweed sectors to unlock private capital and impact investment.
 
 ### 9. Transboundary Diagnostic Analysis for Indonesian Seas Large Marine Ecosystem (TDA ISLME)
 - **Client / Partner**: Food and Agriculture Organization (FAO)
 - **Period**: June 2020 - March 2022
 - **Category / Focus**: marine
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Authored specialized thematic diagnostic chapters on oceanographic baseline conditions, fisheries resources, marine environmental degradation, and governance frameworks for the Indonesian Seas Large Marine Ecosystem (ISLME) spanning Indonesia and Timor-Leste, establishing the scientific baseline for the regional Strategic Action Programme (SAP).
 
 ### 10. Outer Ring Fishing Ports Development Project (Eco-Fishing Ports) ESIA
 - **Client / Partner**: Agence Française de Développement (AFD)
 - **Period**: March 2021 - October 2022
 - **Category / Focus**: marine
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Served as National Focal Point, led environmental, social, climate resilience, and gender safeguard preparation studies for the USD 111M AFD-funded Eco-Fishing Ports Modernization Project across four strategic national fishing ports (PPS Kendari, PPS Cilacap, PPN Belawan, and PPN Sibolga). Formulated ESIA terms of reference, climate vulnerability profiles, and port decarbonization action plans.
 
 ### 11. Benefit Story Development for IPP Low-Cost Technology Pilot Project
 - **Client / Partner**: Inmarsat (UK) / MMAF
 - **Period**: December 2021 - March 2022
 - **Category / Focus**: digital
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Developed impact evaluation benefit stories, socio-economic surveys, and case studies demonstrating the tangible safety-at-sea, operational efficiency, and catch reporting benefits of low-cost satellite Vessel Monitoring Systems (VMS) deployed on small-scale fishing vessels (<30 GT) across Indonesian coastal communities.
 
 ### 12. Satellite Vessel Monitoring System (VMS) Implementation & Migration Program
 - **Client / Partner**: Inmarsat (UK) / UK Space Agency
 - **Period**: August 2018 - October 2019
 - **Category / Focus**: digital
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Coordinated technical deployment, transceiver installation, API data pipeline integration, and user capacity building for advanced satellite VMS terminals across 400 commercial fishing vessels (20-30 GT and >30 GT) to strengthen national fisheries surveillance and combat Illegal, Unreported, and Unregulated (IUU) fishing.
 
 ### 13. Web-Based Geofencing Application Development for Marine Protected Areas
 - **Client / Partner**: Inmarsat (UK)
 - **Period**: October 2017 - October 2019
 - **Category / Focus**: digital
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Designed spatial specifications and user workflows for an automated web-based geofencing application integrating satellite VMS vessel telemetry with national Marine Protected Area boundaries, enabling real-time alerting for unauthorized incursions and spatial fisheries compliance.
 
 ### 14. Independent Environmental & Social Due Diligence (Block 3 CCPP Tambak Lorok)
 - **Client / Partner**: PT Indonesia Power
 - **Period**: January - November 2022
 - **Category / Focus**: environment
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Executed independent monitoring and technical compliance verification against the Environmental and Social Action Plan (ESAP) for the 780 MW Block 3 Combined Cycle Power Plant (CCPP) project in Tambak Lorok, Semarang, ensuring compliance with international lender standards (World Bank/IFC Performance Standards).
 
 ### 15. Operational and Scientific Monitoring Plan (OSMP) for Offshore Drilling Campaign
 - **Client / Partner**: MCC Environmental (Australia)
 - **Period**: October 2021 - January 2022
 - **Category / Focus**: environment
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Provided marine ecology expertise for the Buffalo-10 Offshore Drilling Campaign in the Timor Sea. Formulated Shoreline Cleanup Assessment Technique (SCAT) protocols and marine fauna sensitivity baseline profiles (cetaceans, marine turtles, and seabirds) for cross-border environmental risk preparedness in Indonesia and Timor-Leste waters.
 
 ### 16. Patimban Deep-Sea Port Construction Marine Environmental Monitoring Program
 - **Client / Partner**: Penta Ocean Construction
 - **Period**: July 2018 - August 2019
 - **Category / Focus**: environment
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Managed and executed monthly marine environmental compliance monitoring during the Phase 1 construction of Patimban Deep-Sea Port in Subang, West Java. Led offshore sampling and laboratory analysis of seawater physicochemical quality, heavy metal sediment chemistry, benthic infauna diversity, and nekton community dynamics.
 
 ### 17. Vocational Shrimp Aquaculture Curriculum & Digital Quality Control Solution
 - **Client / Partner**: Walton Family Foundation
 - **Period**: August 2019 - January 2022
 - **Category / Focus**: aquaculture
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Developed an accredited blended-learning vocational curriculum and digital standard operating procedure (SOP) quality control platform for commercial shrimp aquaculture, applying Human-Centered Design (HCD) methodologies with over 30 shrimp farm operators across Java and Bali.
 
 ### 18. Human-Centered Design (HCD) for Smart Aquaculture 4.0 IoT Platform
 - **Client / Partner**: Walton Family Foundation
 - **Period**: August 2018 - January 2021
 - **Category / Focus**: aquaculture
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Spearheaded user research, product prototyping, and field testing for an IoT-enabled aquaculture farm management platform combining real-time water quality sensors (DO, pH, salinity, temperature) with a farmer-facing mobile app for predictive disease prevention and feed optimization.
 
 ### 19. Comprehensive Assessment of Octopus Fishery, Supply Chain & International Trade Flow
 - **Client / Partner**: PT Hatfield Indonesia / Marine & Fisheries Partners
 - **Period**: 2021 - 2022
 - **Category / Focus**: marine
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Authored an in-depth technical report analyzing the biology, stock status, artisanal catch dynamics, cold chain infrastructure, and international export trade routes of Indonesian octopus fisheries (Octopus cyanea and Octopus vulgaris), identifying key pathways for MSC certification and Fisheries Improvement Projects (FIP).
 
 ### 20. Tongkol (Eastern Little Tuna) Supply Chain, Market Dynamics & Post-Harvest Losses
 - **Client / Partner**: PT Hatfield Indonesia / Marine & Fisheries Partners
 - **Period**: 2020 - 2022
 - **Category / Focus**: marine
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Conducted field supply chain mapping and market flow analysis for Eastern Little Tuna (Euthynnus affinis) across major landing sites in Indonesia. Evaluated cold chain bottlenecks, post-harvest quality degradation, pricing asymmetries, and socio-economic welfare of coastal smallholder fishing households.
 
 ### 21. Scientific Assessment of Marine Mammal Interactions with Commercial Fisheries
 - **Client / Partner**: PT Hatfield Indonesia / Conservation Partners
 - **Period**: 2019 - 2021
 - **Category / Focus**: marine
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Conducted scientific risk modeling and field investigations on acoustic disturbance, vessel strike vulnerability, and bycatch entanglement risks for cetaceans and dugongs interacting with commercial purse seine, longline, and artisanal fisheries in Indonesian seas, developing practical mitigation strategies to minimize fishery-mammal interactions.
 
 ### 22. Strategic Tuna Fisheries Investment Roadmap for Walton Family Foundation (WFF)
 - **Client / Partner**: Walton Family Foundation / PT Hatfield Indonesia
 - **Period**: 2020 - 2022
 - **Category / Focus**: marine
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Formulated a multi-year philanthropic investment strategy and intervention roadmap for WFF's marine portfolio, targeting rights-based fisheries management, harvest control rules, digital traceability, and coastal community empowerment in Indonesian tuna fisheries.
 
 ### 23. Rapid Scoping Study on High-Growth Investment Opportunities in Indonesian Aquaculture
 - **Client / Partner**: PT Hatfield Indonesia / Aquaculture Development Partners
 - **Period**: 2020 - 2021
 - **Category / Focus**: aquaculture
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Delivered a strategic scoping assessment analyzing bankable investment opportunities, technological scalability, biosecurity risks, and environmental sustainability in Indonesia's brackish water shrimp, marine finfish, and seaweed aquaculture sectors.
 
 ### 24. Sectoral Review of Indonesian Tuna Purse Seine Fisheries for FIP & MSC Readiness
 - **Client / Partner**: PT Hatfield Indonesia / FIP Partners
 - **Period**: 2020 - 2022
 - **Category / Focus**: marine
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Conducted a detailed technical review and Marine Stewardship Council (MSC) pre-assessment of Indonesia's industrial and semi-industrial tuna purse seine fleet, developing time-bound Action Plans for harvest strategy compliance, FAD management, and bycatch reduction.
 
 ### 25. Environmental and Social Impact Assessment (ESIA) for Kendari Eco-Fishing Port Modernization
 - **Client / Partner**: Agence Française de Développement (AFD) / PT Hatfield Indonesia
 - **Period**: 2021 - 2022
 - **Category / Focus**: environment
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Authored the full Environmental and Social Impact Assessment (ESIA), Environmental and Social Management Plan (ESMP), and Stakeholder Engagement Plan (SEP) for the major modernization and infrastructure expansion of PPS Kendari funded by AFD.
 
 ### 26. Socio-Economic Baseline, Gender Action Plan & Stakeholder Impact Analysis for PPS Cilacap
 - **Client / Partner**: AFD / PT Hatfield Indonesia
 - **Period**: 2021 - 2022
 - **Category / Focus**: environment
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Executed extensive socio-economic field surveys, gender vulnerability analyses, and stakeholder consultation matrices for the modernization of Cilacap Oceanic Fishing Port (PPS Cilacap), formulating inclusive resettlement frameworks and women-empowerment livelihood strategies.
 
 ### 27. Zoning Document and Spatial Management Plan for Kolepom Island Marine Protected Area
 - **Client / Partner**: UNDP / PT Hatfield Indonesia
 - **Period**: 2021 - 2022
 - **Category / Focus**: marine
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Formulated the comprehensive technical zoning document and 20-year spatial management plan for the 356,000-hectare Kolepom Island MPA in South Papua, integrating core conservation zones, limited utilization zones for indigenous artisanal fisheries, and other sustainable use sub-zones.
 
 ### 28. Sustainable Tuna Fisheries Management Based on Acoustic Measurement, Length-Based Assessment, and FAD Management
 - **Client / Partner**: The Nature Conservancy (TNC)
 - **Period**: January - December 2017
 - **Category / Focus**: Marine & Fisheries Governance
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Led the technical implementation of low-cost marine bioacoustic surveys and hydroacoustic telemetry beneath Fish Aggregating Devices (FADs / Rumpon) to quantify juvenile tuna biomass and deep-water pelagic schooling behavior. Integrated hydroacoustic data with on-board Captain-Operated Data Recording Systems (CODRS) and length-based spawning potential ratio (SPR) assessments to formulate policy briefs on voluntary FAD management guidelines and harvest strategy compliance in Indonesian tuna fisheries.
 
 ### 29. Marine Mammal Monitoring and Mitigation Plan for 3D Marine Seismic Acquisition in Mentawai Block
 - **Client / Partner**: Total E&P Indonesie Mentawai B.V. / PPLH IPB
 - **Period**: December 2015 - January 2016
 - **Category / Focus**: Marine Environmental Assessment & Safeguards
-- **Technical Scope & Output**: undefined
+- **Technical Scope & Output**: Led technical health, safety, and environmental (HSE) protocols and JNCC-compliant Marine Mammal Observation (MMO) with dedicated visual observation during the deep-water 3D marine seismic survey using airgun arrays in the Total E&P Indonesie Mentawai B.V. Block (Indian Ocean). Executed 360-degree pre-shooting visual scans, enforced safety exclusion zones, managed soft-start ramp-up procedures to prevent acoustic trauma to marine mammals, and delivered daily environmental compliance reports to the Party Chief and international operators.
 
 ---
 
 ## Peer-Reviewed Scientific Publications & Technical Papers (Total: 5)
 
 ### 1. Marine Mammals Interactions with Tuna Fishing Activities in Indonesian Seas
-- **Authors**: undefined
 - **Year**: 2019
 - **Publisher / Conference**: International Seminar on Natural Resources and Environmental Management
 - **DOI / Link**: [https://doi.org/10.1088/1755-1315/399/1/012128](https://doi.org/10.1088/1755-1315/399/1/012128)
+- **Scope / Summary**: Research paper assessing spatial interactions and mitigation strategies between marine mammal populations and industrial tuna longline fisheries across Indonesian fishing zones.
 
 ### 2. Observations on Australian Humpback Dolphins (Sousa sahulensis) in Waters of the Pacific Islands and New Guinea
-- **Authors**: undefined
 - **Year**: 2016
 - **Publisher / Conference**: Current Status and Conservation, Part 2, Vol 73, AMB, UK: Academic Press, pp. 219-271
 - **DOI / Link**: [https://doi.org/10.1016/bs.amb.2015.08.003](https://doi.org/10.1016/bs.amb.2015.08.003)
+- **Scope / Summary**: Comprehensive peer-reviewed book chapter and field study documenting the distribution, ecology, and conservation status of Australian humpback dolphins in the Pacific and New Guinea.
 
 ### 3. Application of Radon Transform Method for 2D Seismic Multiple Wave Reduction in West Sumatra Waters
-- **Authors**: undefined
 - **Year**: 2013
 - **Publisher / Conference**: IPB University Scientific Repository - Undergraduate Thesis (Advisor: Prof. Dr. Henry M. Manik)
 - **DOI / Link**: [https://repository.ipb.ac.id/handle/123456789/63281](https://repository.ipb.ac.id/handle/123456789/63281)
+- **Scope / Summary**: Undergraduate research in marine geophysics and seismic data processing applying Radon Transform (Tau-P Analysis) to attenuate surface multiples on 2D marine seismic line SUME23.31 in West Sumatra waters.
 
 ### 4. Sound of Fish Affects Fish Productivity
-- **Authors**: undefined
 - **Year**: 2012
 - **Publisher / Conference**: Research Innovation Award - Business Innovation Center (BIC), Indonesia
 - **DOI / Link**: [https://www.antaranews.com/berita/342159/mahasiswa-ipb-temukan-cara-deteksi-produktivitas-ikan](https://www.antaranews.com/berita/342159/mahasiswa-ipb-temukan-cara-deteksi-produktivitas-ikan)
+- **Scope / Summary**: National award-winning research innovation on passive acoustic detection and bioacoustic monitoring for fish productivity.
 
 ### 5. Investigation on Salinity, Turbidity, and Total Suspended Solid (TSS) in Cimandiri River and Its Impact on Marine Environment
-- **Authors**: undefined
 - **Year**: 2012
 - **Publisher / Conference**: Marine Science and Technology Dept., Bogor Agriculture University Journal
 - **DOI / Link**: [https://repository.ipb.ac.id](https://repository.ipb.ac.id)
+- **Scope / Summary**: Estuarine and coastal water quality assessment analyzing terrestrial sediment runoff, salinity gradients, and environmental impacts on coastal ecosystems.
 
 ---
 
@@ -664,63 +666,64 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 
 ## Honors & National Innovation Awards
 
-### 1. undefined
+### 1. Key Essentials: The Global Biodiversity Framework, Sustainable Development and the Law
 - **Issuer / Organization**: Democratising Education for Global Sustainability and Justice (DemEd Global) / University of Cambridge
 - **Year**: 2026
-- **Scope / Significance**: undefined
+- **Scope / Significance**: Selected again through a highly competitive global selection process to receive a donor-funded scholarship, and successfully completed the executive short course on the Kunming-Montreal Global Biodiversity Framework (GBF), Sustainable Development and the Law, delivered by Lucy Cavendish College and Hughes Hall, University of Cambridge.
 
-### 2. undefined
+### 2. Key Essentials: The Sustainable Development Goals and the Law
 - **Issuer / Organization**: Democratising Education for Global Sustainability and Justice (DemEd Global) / University of Cambridge
 - **Year**: 2026
-- **Scope / Significance**: undefined
+- **Scope / Significance**: Selected among 4,800+ global applicants across 150+ countries to receive a donor-funded scholarship for the intensive short course on Sustainable Development Goals and the Law, delivered by Lucy Cavendish College and Hughes Hall, University of Cambridge.
 
-### 3. undefined
+### 3. UNITAR Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance
 - **Issuer / Organization**: United Nations Institute for Training and Research (UNITAR) and UN CC:Learn
 - **Year**: 2026
-- **Scope / Significance**: undefined
+- **Scope / Significance**: Selected through a competitive selection process among applicants across the ASEAN region for the Japan-ASEAN strategic initiative delivered by UNITAR. The program focuses on sustainable green finance mechanisms, bankable green project design, and regional policies driving the green economic transition.
 
-### 4. undefined
+### 4. The 114th Prospective Innovation Award of Indonesia - 2022 Indonesia Scientist Award
 - **Issuer / Organization**: Business Innovation Center (BIC) & Ministry of Research and Technology (Kemenristek/BRIN)
 - **Year**: 2022
-- **Scope / Significance**: undefined
+- **Scope / Significance**: National innovation recognition awarded for applied marine technology and sustainable fisheries innovation.
 
-### 5. undefined
+### 5. Candidate in Youth Economic Leadership Program (YELP)
 - **Issuer / Organization**: Bank Indonesia Institute
 - **Year**: 2022
-- **Scope / Significance**: undefined
+- **Scope / Significance**: Selected candidate for the national economic and leadership acceleration initiative by Bank Indonesia Institute.
 
-### 6. undefined
+### 6. Featured Speaker at DigiFish Incubating Ecosystem of Digital Innovation
 - **Issuer / Organization**: DigiFish Network & Ministry of Marine Affairs and Fisheries (KKP)
 - **Year**: 2019
-- **Scope / Significance**: undefined
+- **Scope / Significance**: Invited keynote and expert speaker on digital transformation, satellite VMS, and IoT smart aquaculture platforms.
 
-### 7. undefined
+### 7. Indonesian Young Innovator Award
 - **Issuer / Organization**: Inovasia Indonesia & Kemenpora RI
 - **Year**: 2014
-- **Scope / Significance**: undefined
+- **Scope / Significance**: Recognized among top national youth innovators for applied environmental and acoustic research.
 
-### 8. undefined
+### 8. Indonesian Youth Parliament Delegate for North Maluku
 - **Issuer / Organization**: Indonesian Youth Parliament
 - **Year**: 2013
-- **Scope / Significance**: undefined
+- **Scope / Significance**: Selected youth parliamentary representative advocating coastal governance, archipelagic policy, and marine conservation.
 
-### 9. undefined
+### 9. The 104th Prospective Innovation Award of Indonesia - 2012 Indonesia Scientist Award
 - **Issuer / Organization**: Business Innovation Center (BIC)
 - **Year**: 2012
-- **Scope / Significance**: undefined
+- **Scope / Significance**: Awarded for pioneering undergraduate research on bioacoustics and acoustic fish behavior.
 
-### 10. undefined
+### 10. Candidate in Indonesian Leadership Camp
 - **Issuer / Organization**: IPB University
 - **Year**: 2012
-- **Scope / Significance**: undefined
+- **Scope / Significance**: Selected participant for intensive student leadership and governance camp.
 
 ---
 
 ## Professional Memberships & Scientific Societies
 
-### 1. undefined
+### 1. Asian Fisheries Acoustics Society (AFAS)
 - **Role / Status**: Member
-- **Scope / Contribution**: undefined
+- **Period**: 2012 - Present
+- **Scope / Contribution**: Active member contributing to regional advancements in underwater bioacoustics, fisheries acoustic survey technologies, optical-acoustic integration, and marine ecosystem monitoring.
 
 ---
 

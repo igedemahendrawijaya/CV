@@ -52,7 +52,6 @@ export function generateMasterMarkdown() {
   const pubs = cvData.en.publications;
 
   const yearsExp = stats.find(s => s.label.includes('Experience'))?.value || '13+';
-  const projExp = stats.find(s => s.label.includes('Projects'))?.value || `${projects.length}`;
   const pubsExp = stats.find(s => s.label.includes('Publications'))?.value || `${pubs.length}`;
 
   let md = `# ${p.name.toUpperCase()}\n`;
@@ -77,9 +76,14 @@ export function generateMasterMarkdown() {
   educations.forEach((edu, idx) => {
     md += `${idx + 1}. **${edu.degree}**\n`;
     md += `   - **Institution**: ${edu.institution || edu.school}\n`;
-    md += `   - **Faculty / Program**: ${edu.faculty || edu.field}\n`;
+    if (edu.faculty || edu.field) {
+      md += `   - **Faculty / Program**: ${edu.faculty || edu.field}\n`;
+    }
     md += `   - **Period**: ${edu.period}\n`;
-    md += `   - **Focus / Details**: ${edu.details}\n\n`;
+    if (edu.details) {
+      md += `   - **Focus / Details**: ${edu.details}\n`;
+    }
+    md += `\n`;
   });
   md += `---\n\n`;
 
@@ -92,26 +96,29 @@ export function generateMasterMarkdown() {
   md += `---\n\n`;
 
   md += `## Key Projects & Technical Deliverables (Total: ${projects.length} Projects)\n\n`;
+  md += `Over the past 13+ years, I Gede Mahendra Wijaya has directed, managed, and contributed to ${projects.length} high-impact multidisciplinary projects spanning marine environmental assessments, nature-based climate solutions, sustainable fisheries governance, and environmental and social compliance across the Indonesian archipelago. His technical involvement encompasses leading international financial institution (IFI) and UN-backed programs (World Bank, ADB, AFD, FAO, UNDP), directing large-scale AFOLU carbon feasibility and ecosystem restoration concessions (>200,000 ha), conducting ecological baselines, formulating ESMP/ESIA safeguards, and deploying digital marine monitoring technologies. Below is the detailed catalog of key project assignments, technical scopes, and deliverables.\n\n`;
   projects.forEach((proj, idx) => {
     md += `### ${idx + 1}. ${proj.title}\n`;
     md += `- **Client / Partner**: ${proj.client}\n`;
     md += `- **Period**: ${proj.period}\n`;
     md += `- **Category / Focus**: ${proj.category || proj.focus || 'GENERAL'}\n`;
-    md += `- **Technical Scope & Output**: ${proj.desc}\n\n`;
+    md += `- **Technical Scope & Output**: ${proj.description || proj.desc}\n\n`;
   });
   md += `---\n\n`;
 
   md += `## Peer-Reviewed Scientific Publications & Technical Papers (Total: ${pubs.length})\n\n`;
   pubs.forEach((pub, idx) => {
     md += `### ${idx + 1}. ${pub.title}\n`;
-    md += `- **Authors**: ${pub.authors}\n`;
+    if (pub.authors) {
+      md += `- **Authors**: ${pub.authors}\n`;
+    }
     md += `- **Year**: ${pub.year}\n`;
     md += `- **Publisher / Conference**: ${pub.publisher || pub.journal}\n`;
     if (pub.link) {
       md += `- **DOI / Link**: [${pub.link}](${pub.link})\n`;
     }
-    if (pub.metrics) {
-      md += `- **Metrics / Citations**: ${pub.metrics}\n`;
+    if (pub.description) {
+      md += `- **Scope / Summary**: ${pub.description}\n`;
     }
     md += `\n`;
   });
@@ -136,19 +143,32 @@ export function generateMasterMarkdown() {
   md += `## Honors & National Innovation Awards\n\n`;
   const awards = cvData.en.awards || [];
   awards.forEach((aw, idx) => {
-    md += `### ${idx + 1}. ${aw.title}\n`;
+    const awName = aw.name || aw.title;
+    const awDesc = aw.description || aw.desc;
+    md += `### ${idx + 1}. ${awName}\n`;
     md += `- **Issuer / Organization**: ${aw.issuer}\n`;
-    md += `- **Year**: ${aw.year}\n`;
-    md += `- **Scope / Significance**: ${aw.desc}\n\n`;
+    md += `- **Year**: ${aw.year || aw.date}\n`;
+    if (awDesc) {
+      md += `- **Scope / Significance**: ${awDesc}\n`;
+    }
+    md += `\n`;
   });
   md += `---\n\n`;
 
   md += `## Professional Memberships & Scientific Societies\n\n`;
   const memberships = cvData.en.memberships || [];
   memberships.forEach((m, idx) => {
-    md += `### ${idx + 1}. ${m.title}\n`;
+    const mName = m.name || m.title;
+    const mDesc = m.description || m.desc;
+    md += `### ${idx + 1}. ${mName}\n`;
     md += `- **Role / Status**: ${m.role}\n`;
-    md += `- **Scope / Contribution**: ${m.desc}\n\n`;
+    if (m.period) {
+      md += `- **Period**: ${m.period}\n`;
+    }
+    if (mDesc) {
+      md += `- **Scope / Contribution**: ${mDesc}\n`;
+    }
+    md += `\n`;
   });
   md += `---\n\n`;
 
@@ -158,7 +178,7 @@ export function generateMasterMarkdown() {
     md += `${idx + 1}. **${ref.name}**\n`;
     md += `   - **Position**: ${ref.role}\n`;
     md += `   - **Affiliation**: ${ref.company}\n`;
-    md += `   - **Contact / Relationship**: ${ref.contact}${ref.relation ? ` (${ref.relation})` : ""}\n\n`;
+    md += `   - **Contact / Relationship**: ${ref.contact}${ref.relation ? ` (${ref.relation})` : ''}\n\n`;
   });
 
   fs.writeFileSync(MD_FILE, md, 'utf8');
@@ -311,16 +331,21 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
           new TextRun({ text: `Institution: `, bold: true, size: 19, color: TEXT_MUTED, font: 'Arial' }),
           new TextRun({ text: `${edu.institution || edu.school} (${edu.period})`, size: 19, color: TEXT_DARK, font: 'Arial' })
         ]
-      }),
-      new Paragraph({
-        spacing: { before: 20, after: 60 },
-        indent: { left: 360 },
-        children: [
-          new TextRun({ text: `Curriculum Scope: `, bold: true, size: 19, color: TEXT_MUTED, font: 'Arial' }),
-          new TextRun({ text: `${edu.details}`, size: 19, color: TEXT_DARK, font: 'Arial' })
-        ]
       })
     );
+    if (edu.details) {
+      docChildren.push(
+        new Paragraph({
+          spacing: { before: 20, after: 60 },
+          indent: { left: 360 },
+          alignment: AlignmentType.JUSTIFY,
+          children: [
+            new TextRun({ text: `Curriculum Scope: `, bold: true, size: 19, color: TEXT_MUTED, font: 'Arial' }),
+            new TextRun({ text: `${edu.details}`, size: 19, color: TEXT_DARK, font: 'Arial' })
+          ]
+        })
+      );
+    }
   });
 
   // 4. Professional Experience
@@ -331,13 +356,13 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
         spacing: { before: 100, after: 30 },
         children: [
           new TextRun({ text: `${idx + 1}. ${exp.role}`, bold: true, size: 21, color: PRIMARY_COLOR, font: 'Arial' }),
-          new TextRun({ text: `  |  ${exp.company}`, bold: true, size: 20, color: SECONDARY_COLOR, font: 'Arial' })
+          new TextRun({ text: ` | ${exp.company}`, bold: true, size: 20, color: SECONDARY_COLOR, font: 'Arial' })
         ]
       }),
       new Paragraph({
         spacing: { before: 20, after: 40 },
         children: [
-          new TextRun({ text: `${exp.location}  |  ${exp.period}`, italics: true, size: 18, color: TEXT_MUTED, font: 'Arial' })
+          new TextRun({ text: `${exp.location} | ${exp.period}`, italics: true, size: 18, color: TEXT_MUTED, font: 'Arial' })
         ]
       }),
       new Paragraph({
@@ -352,7 +377,25 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
 
   // 5. Key Projects
   docChildren.push(...createSectionHeading(`Key Projects & Technical Deliverables (${projs.length} Projects)`));
+  
+  // Introductory Summary of Project Involvement
+  docChildren.push(
+    new Paragraph({
+      spacing: { before: 60, after: 120 },
+      alignment: AlignmentType.JUSTIFY,
+      children: [
+        new TextRun({
+          text: `Over the past 13+ years, I Gede Mahendra Wijaya has directed, managed, and contributed to ${projs.length} high-impact multidisciplinary projects spanning marine environmental assessments, nature-based climate solutions, sustainable fisheries governance, and environmental and social compliance across the Indonesian archipelago. His technical involvement encompasses leading international financial institution (IFI) and UN-backed programs (World Bank, ADB, AFD, FAO, UNDP), directing large-scale AFOLU carbon feasibility and ecosystem restoration concessions (>200,000 ha), conducting ecological baselines, formulating ESMP/ESIA safeguards, and deploying digital marine monitoring technologies. Below is the detailed catalog of key project assignments, technical scopes, and deliverables.`,
+          size: 19,
+          color: TEXT_DARK,
+          font: 'Arial'
+        })
+      ]
+    })
+  );
+
   projs.forEach((proj, idx) => {
+    const projDesc = proj.description || proj.desc || '';
     docChildren.push(
       new Paragraph({
         spacing: { before: 80, after: 20 },
@@ -364,9 +407,9 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
         spacing: { before: 10, after: 30 },
         children: [
           new TextRun({ text: `Client: `, bold: true, size: 18, color: TEXT_MUTED, font: 'Arial' }),
-          new TextRun({ text: `${proj.client}  |  `, size: 18, color: TEXT_DARK, font: 'Arial' }),
+          new TextRun({ text: `${proj.client} | `, size: 18, color: TEXT_DARK, font: 'Arial' }),
           new TextRun({ text: `Period: `, bold: true, size: 18, color: TEXT_MUTED, font: 'Arial' }),
-          new TextRun({ text: `${proj.period}  |  `, size: 18, color: TEXT_DARK, font: 'Arial' }),
+          new TextRun({ text: `${proj.period} | `, size: 18, color: TEXT_DARK, font: 'Arial' }),
           new TextRun({ text: `Focus: `, bold: true, size: 18, color: TEXT_MUTED, font: 'Arial' }),
           new TextRun({ text: `${proj.category || proj.focus || 'GENERAL'}`, size: 18, color: SECONDARY_COLOR, font: 'Arial' })
         ]
@@ -375,7 +418,7 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
         spacing: { before: 20, after: 70 },
         alignment: AlignmentType.JUSTIFY,
         children: [
-          new TextRun({ text: proj.desc, size: 19, color: TEXT_DARK, font: 'Arial' })
+          new TextRun({ text: projDesc, size: 19, color: TEXT_DARK, font: 'Arial' })
         ]
       })
     );
@@ -384,6 +427,10 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
   // 6. Publications
   docChildren.push(...createSectionHeading(`Peer-Reviewed Publications & Papers (${pubs.length} Publications)`));
   pubs.forEach((pub, idx) => {
+    const pubAuthors = pub.authors ? `${pub.authors} (${pub.year}). ` : `(${pub.year}). `;
+    const pubPub = pub.publisher || pub.journal ? `${pub.publisher || pub.journal}. ` : '';
+    const pubLink = pub.link ? `DOI/Link: ${pub.link}` : '';
+
     docChildren.push(
       new Paragraph({
         spacing: { before: 70, after: 20 },
@@ -392,26 +439,38 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
         ]
       }),
       new Paragraph({
-        spacing: { before: 10, after: 60 },
+        spacing: { before: 10, after: pub.description ? 30 : 60 },
         children: [
-          new TextRun({ text: `${pub.authors} (${pub.year}). `, size: 18, color: TEXT_DARK, font: 'Arial' }),
-          new TextRun({ text: `${pub.publisher || pub.journal}. `, italics: true, size: 18, color: TEXT_MUTED, font: 'Arial' }),
-          new TextRun({ text: pub.link ? `DOI/Link: ${pub.link}` : '', size: 18, color: SECONDARY_COLOR, font: 'Arial' })
+          new TextRun({ text: pubAuthors, size: 18, color: TEXT_DARK, font: 'Arial' }),
+          new TextRun({ text: pubPub, italics: true, size: 18, color: TEXT_MUTED, font: 'Arial' }),
+          new TextRun({ text: pubLink, size: 18, color: SECONDARY_COLOR, font: 'Arial' })
         ]
       })
     );
+
+    if (pub.description) {
+      docChildren.push(
+        new Paragraph({
+          spacing: { before: 10, after: 60 },
+          alignment: AlignmentType.JUSTIFY,
+          children: [
+            new TextRun({ text: pub.description, size: 18, color: TEXT_DARK, font: 'Arial' })
+          ]
+        })
+      );
+    }
   });
 
   // 7. Certifications
   docChildren.push(...createSectionHeading(`Professional Certifications & Specialized Training (${certs.length} Credentials)`));
-  certs.forEach((cert, idx) => {
+  certs.forEach((cert) => {
     docChildren.push(
       new Paragraph({
         spacing: { before: 40, after: 20 },
         bullet: { level: 0 },
         children: [
           new TextRun({ text: `${cert.name} `, bold: true, size: 19, color: PRIMARY_COLOR, font: 'Arial' }),
-          new TextRun({ text: `— ${cert.issuer} (${cert.date})`, size: 18, color: TEXT_MUTED, font: 'Arial' }),
+          new TextRun({ text: ` | ${cert.issuer} (${cert.date})`, size: 18, color: TEXT_MUTED, font: 'Arial' }),
           new TextRun({ text: cert.credentialId ? ` [ID: ${cert.credentialId}]` : '', size: 17, color: SECONDARY_COLOR, font: 'Arial' })
         ]
       })
@@ -419,45 +478,59 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
   });
 
   // 8. Awards
-  docChildren.push(...createSectionHeading('Honors & National Innovation Awards'));
   const awards = cvData.en.awards || [];
+  docChildren.push(...createSectionHeading(`Honors & National Innovation Awards (${awards.length} Honors)`));
   awards.forEach((aw, idx) => {
+    const awName = aw.name || aw.title || '';
+    const awDesc = aw.description || aw.desc || '';
     docChildren.push(
       new Paragraph({
         spacing: { before: 60, after: 20 },
         children: [
-          new TextRun({ text: `${idx + 1}. ${aw.title}`, bold: true, size: 20, color: PRIMARY_COLOR, font: 'Arial' }),
-          new TextRun({ text: ` — ${aw.issuer} (${aw.year})`, size: 18, color: SECONDARY_COLOR, font: 'Arial' })
-        ]
-      }),
-      new Paragraph({
-        spacing: { before: 10, after: 50 },
-        children: [
-          new TextRun({ text: aw.desc, size: 18, color: TEXT_DARK, font: 'Arial' })
+          new TextRun({ text: `${idx + 1}. ${awName}`, bold: true, size: 20, color: PRIMARY_COLOR, font: 'Arial' }),
+          new TextRun({ text: ` | ${aw.issuer} (${aw.year || aw.date})`, size: 18, color: SECONDARY_COLOR, font: 'Arial' })
         ]
       })
     );
+    if (awDesc) {
+      docChildren.push(
+        new Paragraph({
+          spacing: { before: 10, after: 50 },
+          alignment: AlignmentType.JUSTIFY,
+          children: [
+            new TextRun({ text: awDesc, size: 18, color: TEXT_DARK, font: 'Arial' })
+          ]
+        })
+      );
+    }
   });
 
   // 9. Memberships
-  docChildren.push(...createSectionHeading('Professional Memberships & Scientific Societies'));
   const memberships = cvData.en.memberships || [];
+  docChildren.push(...createSectionHeading('Professional Memberships & Scientific Societies'));
   memberships.forEach((m, idx) => {
+    const mName = m.name || m.title || '';
+    const mDesc = m.description || m.desc || '';
     docChildren.push(
       new Paragraph({
         spacing: { before: 60, after: 20 },
         children: [
-          new TextRun({ text: `${idx + 1}. ${m.title}`, bold: true, size: 20, color: PRIMARY_COLOR, font: 'Arial' }),
-          new TextRun({ text: ` — ${m.role}`, size: 18, color: SECONDARY_COLOR, font: 'Arial' })
-        ]
-      }),
-      new Paragraph({
-        spacing: { before: 10, after: 50 },
-        children: [
-          new TextRun({ text: m.desc, size: 18, color: TEXT_DARK, font: 'Arial' })
+          new TextRun({ text: `${idx + 1}. ${mName}`, bold: true, size: 20, color: PRIMARY_COLOR, font: 'Arial' }),
+          new TextRun({ text: ` | ${m.role}${m.period ? ` (${m.period})` : ''}`, size: 18, color: SECONDARY_COLOR, font: 'Arial' })
         ]
       })
     );
+    if (mDesc) {
+      docChildren.push(
+        new Paragraph({
+          spacing: { before: 10, after: 50 },
+          alignment: AlignmentType.JUSTIFY,
+          children: [
+            new TextRun({ text: mDesc, size: 18, color: TEXT_DARK, font: 'Arial' })
+          ]
+        })
+      );
+    }
   });
 
   // 10. References
@@ -469,13 +542,13 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
         spacing: { before: 60, after: 20 },
         children: [
           new TextRun({ text: `${idx + 1}. ${ref.name}`, bold: true, size: 20, color: PRIMARY_COLOR, font: 'Arial' }),
-          new TextRun({ text: ` — ${ref.role}, ${ref.company}`, size: 18, color: SECONDARY_COLOR, font: 'Arial' })
+          new TextRun({ text: ` | ${ref.role}, ${ref.company}`, size: 18, color: SECONDARY_COLOR, font: 'Arial' })
         ]
       }),
       new Paragraph({
         spacing: { before: 10, after: 50 },
         children: [
-          new TextRun({ text: `Contact / Context: ${ref.contact}${ref.relation ? ` (${ref.relation})` : ""}`, size: 18, color: TEXT_MUTED, font: 'Arial' })
+          new TextRun({ text: `Contact / Context: ${ref.contact}${ref.relation ? ` (${ref.relation})` : ''}`, size: 18, color: TEXT_MUTED, font: 'Arial' })
         ]
       })
     );
@@ -502,14 +575,14 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
   const buffer = await Packer.toBuffer(doc);
   try {
     fs.writeFileSync(outputFile, buffer);
+    console.log(`[Docx] Master Word CV generated successfully: ${outputFile} (${buffer.length} bytes)`);
   } catch (err) {
     if (err.code === 'EBUSY') {
-      console.warn('[Docx Warning] File ' + outputFile + ' sedang dibuka di Microsoft Word. Harap tutup Word agar berkas ini dapat diperbarui.');
+      console.warn(`[Docx Warning] File ${outputFile} sedang dibuka di Microsoft Word. Harap tutup Word agar berkas ini dapat diperbarui.`);
     } else {
       throw err;
     }
   }
-  console.log(`[Docx] Master Word CV generated successfully: ${outputFile} (${buffer.length} bytes)`);
 }
 
 // Run if called directly
