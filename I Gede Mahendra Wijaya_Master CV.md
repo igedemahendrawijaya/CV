@@ -13,7 +13,7 @@ Senior Marine Environmental Specialist and Climate Mitigation Technical Lead wit
 
 ## Key Core Metrics & Statistics
 - **13+** Years Professional Experience
-- **29** Completed High-Impact Projects & Technical Reports
+- **31** Completed High-Impact Projects & Technical Reports
 - **72+** Professional Certifications & Specialized Training Programs
 - **5** Peer-Reviewed Scientific Publications & Conference Papers
 
@@ -86,9 +86,9 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 
 ---
 
-## Key Projects & Technical Deliverables (Total: 29 Projects)
+## Key Projects & Technical Deliverables (Total: 31 Projects)
 
-Over the past 13+ years, I Gede Mahendra Wijaya has directed, managed, and contributed to 29 high-impact multidisciplinary projects spanning marine environmental assessments, nature-based climate solutions, sustainable fisheries governance, and environmental and social compliance across the Indonesian archipelago. His technical involvement encompasses leading international financial institution (IFI) and UN-backed programs (World Bank, ADB, AFD, FAO, UNDP), directing large-scale AFOLU carbon feasibility and ecosystem restoration concessions (>200,000 ha), conducting ecological baselines, formulating ESMP/ESIA safeguards, and deploying digital marine monitoring technologies. Below is the detailed catalog of key project assignments, technical scopes, and deliverables.
+Over the past 13+ years, I Gede Mahendra Wijaya has directed, managed, and contributed to 31 high-impact multidisciplinary projects spanning marine environmental assessments, nature-based climate solutions, sustainable fisheries governance, and environmental and social compliance across the Indonesian archipelago. His technical involvement encompasses leading international financial institution (IFI) and UN-backed programs (World Bank, ADB, AFD, FAO, UNDP), directing large-scale AFOLU carbon feasibility and ecosystem restoration concessions (>200,000 ha), conducting ecological baselines, formulating ESMP/ESIA safeguards, and deploying digital marine monitoring technologies. Below is the detailed catalog of key project assignments, technical scopes, and deliverables.
 
 ### 1. Pre-Socialization Report & Stakeholder Analysis for Forest Carbon Licensing
 - **Client / Partner**: PT Salawati Hijau Lestari (SHL)
@@ -252,13 +252,25 @@ Over the past 13+ years, I Gede Mahendra Wijaya has directed, managed, and contr
 - **Category / Focus**: marine
 - **Technical Scope & Output**: Formulated the comprehensive technical zoning document and 20-year spatial management plan for the 356,000-hectare Kolepom Island MPA in South Papua, integrating core conservation zones, limited utilization zones for indigenous artisanal fisheries, and other sustainable use sub-zones.
 
-### 28. Sustainable Tuna Fisheries Management Based on Acoustic Measurement, Length-Based Assessment, and FAD Management
+### 28. Independent Evaluation of WWF Malaysia Marine Conservation Programme
+- **Client / Partner**: World Wildlife Fund for Nature (WWF) Malaysia / PT Hatfield Indonesia
+- **Period**: 2020 - 2021
+- **Category / Focus**: marine
+- **Technical Scope & Output**: Provided evaluative research and analytical support for the independent evaluation of WWF Malaysia's Marine Conservation Programme. Supported criteria-based assessments evaluating conservation effectiveness, strategic relevance, stakeholder engagement, and marine protected area governance across priority seascapes in Peninsular Malaysia and Sabah.
+
+### 29. Institutional Advisory & Multi-Stakeholder Facilitation for the Indonesian National Tuna Management Commission
+- **Client / Partner**: The David and Lucile Packard Foundation / PT Hatfield Indonesia
+- **Period**: 2019 - 2020
+- **Category / Focus**: Marine & Fisheries Governance
+- **Technical Scope & Output**: Provided technical and coordination support in facilitating the foundational dialogue and operational setup for the Indonesian National Tuna Management Commission (Komisi Nasional Pengelolaan Perikanan Tuna). Contributed to institutional stakeholder mapping, synthesis of fisheries policy inputs, and preparation of procedural materials to advance multi-stakeholder governance across Indonesia's tuna sector.
+
+### 30. Sustainable Tuna Fisheries Management Based on Acoustic Measurement, Length-Based Assessment, and FAD Management
 - **Client / Partner**: The Nature Conservancy (TNC)
 - **Period**: January - December 2017
 - **Category / Focus**: Marine & Fisheries Governance
 - **Technical Scope & Output**: Led the technical implementation of low-cost marine bioacoustic surveys and hydroacoustic telemetry beneath Fish Aggregating Devices (FADs / Rumpon) to quantify juvenile tuna biomass and deep-water pelagic schooling behavior. Integrated hydroacoustic data with on-board Captain-Operated Data Recording Systems (CODRS) and length-based spawning potential ratio (SPR) assessments to formulate policy briefs on voluntary FAD management guidelines and harvest strategy compliance in Indonesian tuna fisheries.
 
-### 29. Marine Mammal Monitoring and Mitigation Plan for 3D Marine Seismic Acquisition in Mentawai Block
+### 31. Marine Mammal Monitoring and Mitigation Plan for 3D Marine Seismic Acquisition in Mentawai Block
 - **Client / Partner**: Total E&P Indonesie Mentawai B.V. / PPLH IPB
 - **Period**: December 2015 - January 2016
 - **Category / Focus**: Marine Environmental Assessment & Safeguards

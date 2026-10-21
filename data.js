@@ -18,7 +18,7 @@ export const cvData = {
         "label": "Years Experience"
       },
       {
-        "value": "29",
+        "value": "31",
         "label": "Projects Completed"
       },
       {
@@ -500,6 +500,34 @@ export const cvData = {
         "description": "Formulated the comprehensive technical zoning document and 20-year spatial management plan for the 356,000-hectare Kolepom Island MPA in South Papua, integrating core conservation zones, limited utilization zones for indigenous artisanal fisheries, and other sustainable use sub-zones.",
         "image": "images/mangrove.jpg",
         "restricted": true
+      },
+      {
+        "title": "Independent Evaluation of WWF Malaysia Marine Conservation Programme",
+        "client": "World Wildlife Fund for Nature (WWF) Malaysia / PT Hatfield Indonesia",
+        "period": "2020 - 2021",
+        "category": "marine",
+        "tags": [
+          "Marine Conservation",
+          "Programme Evaluation",
+          "WWF Malaysia",
+          "Ecosystem Impact"
+        ],
+        "description": "Provided evaluative research and analytical support for the independent evaluation of WWF Malaysia's Marine Conservation Programme. Supported criteria-based assessments evaluating conservation effectiveness, strategic relevance, stakeholder engagement, and marine protected area governance across priority seascapes in Peninsular Malaysia and Sabah.",
+        "image": "images/coral_reef.jpg"
+      },
+      {
+        "title": "Institutional Advisory & Multi-Stakeholder Facilitation for the Indonesian National Tuna Management Commission",
+        "client": "The David and Lucile Packard Foundation / PT Hatfield Indonesia",
+        "period": "2019 - 2020",
+        "category": "Marine & Fisheries Governance",
+        "tags": [
+          "Tuna Governance",
+          "Policy Advisory",
+          "Packard Foundation",
+          "Institutional Setup"
+        ],
+        "description": "Provided technical and coordination support in facilitating the foundational dialogue and operational setup for the Indonesian National Tuna Management Commission (Komisi Nasional Pengelolaan Perikanan Tuna). Contributed to institutional stakeholder mapping, synthesis of fisheries policy inputs, and preparation of procedural materials to advance multi-stakeholder governance across Indonesia's tuna sector.",
+        "image": "images/tongkol.jpg"
       },
       {
         "title": "Sustainable Tuna Fisheries Management Based on Acoustic Measurement, Length-Based Assessment, and FAD Management",
@@ -2444,7 +2472,7 @@ export const cvData = {
         "label": "Tahun Pengalaman"
       },
       {
-        "value": "29",
+        "value": "31",
         "label": "Proyek Selesai"
       },
       {
@@ -2926,6 +2954,34 @@ export const cvData = {
         "description": "Menyusun dokumen teknis rencana zonasi spasial dan rencana pengelolaan jangka panjang 20 tahun untuk KKP Pulau Kolepom seluas 356.000 hektar di Papua Selatan, mengintegrasikan zona inti konservasi, zona pemanfaatan terbatas untuk perikanan tradisional adat, serta zona lainnya.",
         "image": "images/mangrove.jpg",
         "restricted": true
+      },
+      {
+        "title": "Evaluasi Independen Program Konservasi Laut WWF Malaysia",
+        "client": "World Wildlife Fund for Nature (WWF) Malaysia / PT Hatfield Indonesia",
+        "period": "2020 - 2021",
+        "category": "marine",
+        "tags": [
+          "Konservasi Laut",
+          "Evaluasi Program",
+          "WWF Malaysia",
+          "Dampak Ekosistem"
+        ],
+        "description": "Memberikan dukungan riset evaluatif dan analisis teknis dalam evaluasi independen Program Konservasi Laut WWF Malaysia. Mendukung penilaian berbasis kriteria terkait efektivitas konservasi, relevansi strategis, keterlibatan pemangku kepentingan, serta tata kelola kawasan konservasi perairan di bentang laut prioritas Semenanjung Malaysia dan Sabah.",
+        "image": "images/coral_reef.jpg"
+      },
+      {
+        "title": "Advetorial Kelembagaan & Fasilitasi Multipihak untuk Komisi Nasional Pengelolaan Perikanan Tuna",
+        "client": "The David and Lucile Packard Foundation / PT Hatfield Indonesia",
+        "period": "2019 - 2020",
+        "category": "Tata Kelola Kelautan & Perikanan",
+        "tags": [
+          "Tata Kelola Tuna",
+          "Kebijakan Perikanan",
+          "Packard Foundation",
+          "Kelembagaan Nasional"
+        ],
+        "description": "Memberikan dukungan teknis dan koordinasi dalam memfasilitasi dialog pendirian dan persiapan operasional Komisi Nasional Pengelolaan Perikanan Tuna. Berkontribusi dalam pemetaan pemangku kepentingan kelembagaan, sintesis masukan kebijakan perikanan, serta penyiapan materi prosedural guna memajukan tata kelola multipihak di sektor perikanan tuna nasional.",
+        "image": "images/tongkol.jpg"
       },
       {
         "title": "Pengelolaan Perikanan Tuna Berkelanjutan Berbasis Pengukuran Akustik, Penilaian Ukuran Panjang, dan Tata Kelola Rumpon",
