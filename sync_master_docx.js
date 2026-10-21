@@ -5,7 +5,8 @@ import {
   Paragraph,
   TextRun,
   AlignmentType,
-  BorderStyle
+  BorderStyle,
+  ExternalHyperlink
 } from 'docx';
 import { cvData } from './data.js';
 
@@ -54,14 +55,10 @@ export function generateMasterMarkdown() {
   const projExp = stats.find(s => s.label.includes('Projects'))?.value || `${projects.length}`;
   const pubsExp = stats.find(s => s.label.includes('Publications'))?.value || `${pubs.length}`;
 
-  let md = `# ${p.name}\n`;
-  md += `**${p.title}**  \n`;
-  md += `*${p.subtitle}*\n\n`;
-  md += `- **Email**: [${p.email}](mailto:${p.email})\n`;
-  md += `- **Phone / WA**: [${p.phone}](https://wa.me/6281297429227)\n`;
-  md += `- **Location**: ${p.location}\n`;
-  md += `- **LinkedIn**: [${p.linkedin}](https://${p.linkedin})\n`;
-  md += `- **ORCID**: [${p.orcid}](https://orcid.org/${p.orcid})\n\n`;
+  let md = `# ${p.name.toUpperCase()}\n`;
+  md += `**${p.title} | ${p.subtitle}**  \n`;
+  md += `[LinkedIn](https://${p.linkedin}) | [Project Portofolio](${p.portfolio || 'https://gedemahendraw.github.io/'}) | [ORCID: ${p.orcid}](https://orcid.org/${p.orcid})  \n`;
+  md += `${p.location} | Email: [${p.email}](mailto:${p.email}) | Phone: [${p.phone}](https://wa.me/6281297429227)\n\n`;
   md += `---\n\n`;
 
   md += `## Executive Profile Summary\n\n`;
@@ -75,129 +72,93 @@ export function generateMasterMarkdown() {
   md += `- **${pubsExp}** Peer-Reviewed Scientific Publications & Conference Papers\n\n`;
   md += `---\n\n`;
 
-  md += `## Education & Academic Background\n\n`;
+  md += `## Formal Education & Academic Qualifications\n\n`;
   const educations = cvData.en.education || [];
-  educations.forEach((edu, i) => {
-    md += `${i + 1}. **${edu.degree}**\n`;
-    md += `   - **Institution**: ${edu.institution}\n`;
-    if (edu.faculty) md += `   - **Faculty / Program**: ${edu.faculty}\n`;
+  educations.forEach((edu, idx) => {
+    md += `${idx + 1}. **${edu.degree}**\n`;
+    md += `   - **Institution**: ${edu.institution || edu.school}\n`;
+    md += `   - **Faculty / Program**: ${edu.faculty || edu.field}\n`;
     md += `   - **Period**: ${edu.period}\n`;
-    if (edu.details) md += `   - **Focus / Details**: ${edu.details}\n`;
-    md += `\n`;
+    md += `   - **Focus / Details**: ${edu.details}\n\n`;
   });
   md += `---\n\n`;
 
   md += `## Professional Journey & Experience\n\n`;
-  experiences.forEach((exp, i) => {
-    md += `### ${i + 1}. ${exp.role}\n`;
+  experiences.forEach((exp, idx) => {
+    md += `### ${idx + 1}. ${exp.role}\n`;
     md += `**${exp.company}** | ${exp.location} | ${exp.period}  \n\n`;
     md += `${exp.description}\n\n`;
   });
   md += `---\n\n`;
 
   md += `## Key Projects & Technical Deliverables (Total: ${projects.length} Projects)\n\n`;
-  projects.forEach((prj, i) => {
-    md += `### ${i + 1}. ${prj.title}\n`;
-    md += `- **Client / Partner**: ${prj.client}\n`;
-    md += `- **Period**: ${prj.period}\n`;
-    md += `- **Category / Focus**: ${prj.category.toUpperCase()} (${prj.tags ? prj.tags.join(', ') : ''})\n`;
-    md += `- **Technical Scope & Output**: ${prj.description}\n\n`;
+  projects.forEach((proj, idx) => {
+    md += `### ${idx + 1}. ${proj.title}\n`;
+    md += `- **Client / Partner**: ${proj.client}\n`;
+    md += `- **Period**: ${proj.period}\n`;
+    md += `- **Category / Focus**: ${proj.category || proj.focus || 'GENERAL'}\n`;
+    md += `- **Technical Scope & Output**: ${proj.desc}\n\n`;
   });
   md += `---\n\n`;
 
-  md += `## Professional Certifications & Specialized Training by Thematic Pillar (Total: ${certs.length})\n\n`;
-
-  const pillars = [
-    {
-      id: 'carbon-climate',
-      title: '1. Carbon, Climate & Ecosystem Services (Blue Carbon, Forest Carbon & Climate Finance)'
-    },
-    {
-      id: 'marine-fisheries',
-      title: '2. Marine, Coastal & Fisheries Governance (Ocean Governance, IWRM & Bioacoustics)'
-    },
-    {
-      id: 'safeguards-social',
-      title: '3. Environmental, Social & Safeguards (ADB/World Bank Safeguards, FPIC, ESG & Community)'
-    },
-    {
-      id: 'hse-quality',
-      title: '4. Occupational Health, Safety, EHS & Quality Assurance (OHSE, ISO Auditing, APDI Drone)'
-    },
-    {
-      id: 'project-leadership',
-      title: '5. Project Management & Institutional Leadership (Modern PM, MEAL & Strategic Leadership)'
-    }
-  ];
-
-  pillars.forEach(pillar => {
-    const pillarCerts = certs.filter(c => c.category === pillar.id);
-    md += `### ${pillar.title} (${pillarCerts.length} Trainings)\n\n`;
-    if (pillarCerts.length === 0) {
-      md += `*No certifications listed under this pillar.*\n\n`;
-    } else {
-      pillarCerts.forEach((c, idx) => {
-        const linkPart = c.credentialUrl ? ` - [${c.issuer}](${c.credentialUrl})` : ` - ${c.issuer}`;
-        md += `${idx + 1}. **${c.name}**${linkPart} *(${c.date})*\n`;
-        if (c.competencies) {
-          md += `   - **Competencies**: ${c.competencies}\n`;
-        }
-        if (c.description) {
-          md += `   - **Summary**: ${c.description}\n`;
-        }
-      });
-      md += `\n`;
-    }
-  });
-
-  md += `---\n\n`;
-  md += `## Peer-Reviewed Publications & Research Reports (Total: ${pubs.length})\n\n`;
-  pubs.forEach((pub, i) => {
-    md += `### ${i + 1}. ${pub.title}\n`;
+  md += `## Peer-Reviewed Scientific Publications & Technical Papers (Total: ${pubs.length})\n\n`;
+  pubs.forEach((pub, idx) => {
+    md += `### ${idx + 1}. ${pub.title}\n`;
+    md += `- **Authors**: ${pub.authors}\n`;
     md += `- **Year**: ${pub.year}\n`;
-    if (pub.publisher) {
-      md += `- **Publisher / Conference**: ${pub.publisher}\n`;
-    }
+    md += `- **Publisher / Conference**: ${pub.publisher || pub.journal}\n`;
     if (pub.link) {
       md += `- **DOI / Link**: [${pub.link}](${pub.link})\n`;
     }
-    if (pub.description) {
-      md += `- **Summary**: ${pub.description}\n`;
+    if (pub.metrics) {
+      md += `- **Metrics / Citations**: ${pub.metrics}\n`;
     }
     md += `\n`;
   });
-
   md += `---\n\n`;
-  md += `## Honors, Awards & Recognitions\n\n`;
+
+  md += `## Professional Certifications & Specialized Training (Total: ${certs.length})\n\n`;
+  certs.forEach((cert, idx) => {
+    md += `### ${idx + 1}. ${cert.name}\n`;
+    md += `- **Issuer**: ${cert.issuer}\n`;
+    md += `- **Date / Period**: ${cert.date}\n`;
+    md += `- **Category**: ${cert.category || 'Professional Credential'}\n`;
+    if (cert.credentialId) {
+      md += `- **Credential ID**: ${cert.credentialId}\n`;
+    }
+    if (cert.skills && cert.skills.length > 0) {
+      md += `- **Competencies**: ${cert.skills.join(', ')}\n`;
+    }
+    md += `\n`;
+  });
+  md += `---\n\n`;
+
+  md += `## Honors & National Innovation Awards\n\n`;
   const awards = cvData.en.awards || [];
-  awards.forEach((aw, i) => {
-    md += `${i + 1}. **[${aw.year}] ${aw.name}**\n`;
-    md += `   - **Issued by**: ${aw.issuer}\n`;
-    if (aw.description) {
-      md += `   - **Summary**: ${aw.description}\n`;
-    }
-    md += `\n`;
+  awards.forEach((aw, idx) => {
+    md += `### ${idx + 1}. ${aw.title}\n`;
+    md += `- **Issuer / Organization**: ${aw.issuer}\n`;
+    md += `- **Year**: ${aw.year}\n`;
+    md += `- **Scope / Significance**: ${aw.desc}\n\n`;
   });
   md += `---\n\n`;
-  md += `## Professional Memberships & Academic Affiliations\n\n`;
-  const memberships = cvData.en.memberships || [];
-  memberships.forEach((m, i) => {
-    const linkPart = m.url ? `[${m.name}](${m.url})` : m.name;
-    md += `${i + 1}. **${linkPart}**\n`;
-    md += `   - **Role / Status**: ${m.role} *(${m.period})*\n`;
-    if (m.description) {
-      md += `   - **Scope / Contribution**: ${m.description}\n`;
-    }
-    md += `\n`;
-  });
 
+  md += `## Professional Memberships & Scientific Societies\n\n`;
+  const memberships = cvData.en.memberships || [];
+  memberships.forEach((m, idx) => {
+    md += `### ${idx + 1}. ${m.title}\n`;
+    md += `- **Role / Status**: ${m.role}\n`;
+    md += `- **Scope / Contribution**: ${m.desc}\n\n`;
+  });
   md += `---\n\n`;
+
   md += `## Professional References\n\n`;
   const referencesList = cvData.en.references || [];
-  referencesList.forEach((r, idx) => {
-    md += `${idx + 1}. **${r.name}**  \n`;
-    md += `   ${r.role}, ${r.company}  \n`;
-    md += `   *${r.contact}*\n\n`;
+  referencesList.forEach((ref, idx) => {
+    md += `${idx + 1}. **${ref.name}**\n`;
+    md += `   - **Position**: ${ref.role}\n`;
+    md += `   - **Affiliation**: ${ref.company}\n`;
+    md += `   - **Contact / Relationship**: ${ref.contact} (${ref.relation})\n\n`;
   });
 
   fs.writeFileSync(MD_FILE, md, 'utf8');
@@ -221,7 +182,7 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
       spacing: { before: 0, after: 40 },
       children: [
         new TextRun({
-          text: 'I GEDE MAHENDRA WIJAYA',
+          text: p.name.toUpperCase(),
           bold: true,
           size: 34, // 17pt
           color: PRIMARY_COLOR,
@@ -234,7 +195,7 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
       spacing: { before: 0, after: 80 },
       children: [
         new TextRun({
-          text: 'Marine Environmental Specialist | Carbon & Fisheries Management | Coastal & Ocean Governance',
+          text: `${p.title} | ${p.subtitle}`,
           bold: true,
           size: 20, // 10pt
           color: SECONDARY_COLOR,
@@ -244,11 +205,58 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
     }),
     new Paragraph({
       alignment: AlignmentType.CENTER,
+      spacing: { before: 0, after: 40 },
+      children: [
+        new ExternalHyperlink({
+          children: [
+            new TextRun({
+              text: 'LinkedIn',
+              size: 19,
+              color: SECONDARY_COLOR,
+              underline: {},
+              font: 'Arial'
+            })
+          ],
+          link: `https://${p.linkedin}`
+        }),
+        new TextRun({ text: '  |  ', size: 19, color: TEXT_MUTED, font: 'Arial' }),
+        new ExternalHyperlink({
+          children: [
+            new TextRun({
+              text: 'Project Portofolio',
+              size: 19,
+              color: SECONDARY_COLOR,
+              underline: {},
+              font: 'Arial'
+            })
+          ],
+          link: p.portfolio || 'https://gedemahendraw.github.io/'
+        }),
+        new TextRun({ text: '  |  ', size: 19, color: TEXT_MUTED, font: 'Arial' }),
+        new ExternalHyperlink({
+          children: [
+            new TextRun({
+              text: `ORCID: ${p.orcid}`,
+              size: 19,
+              color: SECONDARY_COLOR,
+              underline: {},
+              font: 'Arial'
+            })
+          ],
+          link: `https://orcid.org/${p.orcid}`
+        })
+      ]
+    }),
+    new Paragraph({
+      alignment: AlignmentType.CENTER,
       spacing: { before: 0, after: 180 },
       children: [
-        new TextRun({ text: `Email: ${p.email}  |  Phone/WA: ${p.phone}  |  Location: ${p.location}`, size: 18, color: TEXT_MUTED, font: 'Arial' }),
-        new TextRun({ text: '\n' }),
-        new TextRun({ text: `LinkedIn: linkedin.com/in/gmwijaya  |  ORCID: 0000-0003-2312-7031`, size: 18, color: TEXT_MUTED, font: 'Arial' })
+        new TextRun({
+          text: `${p.location}  |  Email: ${p.email}  |  Phone/WA: ${p.phone}`,
+          size: 18,
+          color: TEXT_MUTED,
+          font: 'Arial'
+        })
       ]
     })
   );
@@ -275,67 +283,65 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
   stats.forEach(st => {
     docChildren.push(
       new Paragraph({
+        spacing: { before: 30, after: 30 },
         bullet: { level: 0 },
-        spacing: { before: 20, after: 30 },
         children: [
-          new TextRun({ text: `${st.value} `, bold: true, size: 20, color: PRIMARY_COLOR, font: 'Arial' }),
-          new TextRun({ text: st.label, size: 20, color: TEXT_DARK, font: 'Arial' })
+          new TextRun({ text: `${st.value}: `, bold: true, size: 20, color: PRIMARY_COLOR, font: 'Arial' }),
+          new TextRun({ text: `${st.label} - ${st.desc || ''}`, size: 20, color: TEXT_DARK, font: 'Arial' })
         ]
       })
     );
   });
 
-  // 3. Education
-  docChildren.push(...createSectionHeading('Education & Academic Background'));
+  // 3. Formal Education
+  docChildren.push(...createSectionHeading('Formal Education & Academic Background'));
   const educations = cvData.en.education || [];
   educations.forEach((edu, idx) => {
     docChildren.push(
       new Paragraph({
-        spacing: { before: idx === 0 ? 60 : 40, after: 20 },
+        spacing: { before: 80, after: 30 },
         children: [
-          new TextRun({ text: edu.degree, bold: true, size: 21, color: PRIMARY_COLOR, font: 'Arial' }),
-          new TextRun({ text: `  |  ${edu.period}`, italic: true, size: 19, color: TEXT_MUTED, font: 'Arial' })
+          new TextRun({ text: `${idx + 1}. ${edu.degree}`, bold: true, size: 21, color: PRIMARY_COLOR, font: 'Arial' })
         ]
       }),
       new Paragraph({
-        spacing: { before: 0, after: edu.details ? 20 : 100 },
+        spacing: { before: 20, after: 20 },
+        indent: { left: 360 },
         children: [
-          new TextRun({ text: edu.institution, bold: true, size: 19, color: TEXT_DARK, font: 'Arial' }),
-          ...(edu.faculty ? [new TextRun({ text: ` - ${edu.faculty}`, size: 19, color: TEXT_MUTED, font: 'Arial' })] : [])
+          new TextRun({ text: `Institution: `, bold: true, size: 19, color: TEXT_MUTED, font: 'Arial' }),
+          new TextRun({ text: `${edu.institution || edu.school} (${edu.period})`, size: 19, color: TEXT_DARK, font: 'Arial' })
+        ]
+      }),
+      new Paragraph({
+        spacing: { before: 20, after: 60 },
+        indent: { left: 360 },
+        children: [
+          new TextRun({ text: `Curriculum Scope: `, bold: true, size: 19, color: TEXT_MUTED, font: 'Arial' }),
+          new TextRun({ text: `${edu.details}`, size: 19, color: TEXT_DARK, font: 'Arial' })
         ]
       })
     );
-    if (edu.details) {
-      docChildren.push(
-        new Paragraph({
-          spacing: { before: 0, after: 100 },
-          children: [
-            new TextRun({ text: `${edu.details}`, size: 19, color: TEXT_DARK, font: 'Arial' })
-          ]
-        })
-      );
-    }
   });
 
-  // 4. Employment History
-  docChildren.push(...createSectionHeading('Professional Journey & Employment History'));
+  // 4. Professional Experience
+  docChildren.push(...createSectionHeading('Professional Experience & Career History'));
   exps.forEach((exp, idx) => {
     docChildren.push(
       new Paragraph({
-        spacing: { before: 100, after: 20 },
+        spacing: { before: 100, after: 30 },
         children: [
-          new TextRun({ text: `${idx + 1}. ${exp.role}`, bold: true, size: 21, color: PRIMARY_COLOR, font: 'Arial' })
+          new TextRun({ text: `${idx + 1}. ${exp.role}`, bold: true, size: 21, color: PRIMARY_COLOR, font: 'Arial' }),
+          new TextRun({ text: `  |  ${exp.company}`, bold: true, size: 20, color: SECONDARY_COLOR, font: 'Arial' })
         ]
       }),
       new Paragraph({
-        spacing: { before: 0, after: 40 },
+        spacing: { before: 20, after: 40 },
         children: [
-          new TextRun({ text: exp.company, bold: true, size: 19, color: SECONDARY_COLOR, font: 'Arial' }),
-          new TextRun({ text: `  |  ${exp.location}  |  ${exp.period}`, italic: true, size: 19, color: TEXT_MUTED, font: 'Arial' })
+          new TextRun({ text: `${exp.location}  |  ${exp.period}`, italics: true, size: 18, color: TEXT_MUTED, font: 'Arial' })
         ]
       }),
       new Paragraph({
-        spacing: { before: 0, after: 120 },
+        spacing: { before: 20, after: 80 },
         alignment: AlignmentType.JUSTIFY,
         children: [
           new TextRun({ text: exp.description, size: 19, color: TEXT_DARK, font: 'Arial' })
@@ -345,215 +351,131 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
   });
 
   // 5. Key Projects
-  docChildren.push(...createSectionHeading(`Key Project Experiences (Total: ${projs.length} Projects)`));
-  projs.forEach((prj, idx) => {
-    docChildren.push(
-      new Paragraph({
-        spacing: { before: 100, after: 20 },
-        children: [
-          new TextRun({ text: `${idx + 1}. ${prj.title}`, bold: true, size: 20, color: PRIMARY_COLOR, font: 'Arial' })
-        ]
-      }),
-      new Paragraph({
-        spacing: { before: 0, after: 30 },
-        children: [
-          new TextRun({ text: `Client/Partner: `, bold: true, size: 18, color: TEXT_DARK, font: 'Arial' }),
-          new TextRun({ text: `${prj.client}  |  `, size: 18, color: SECONDARY_COLOR, font: 'Arial' }),
-          new TextRun({ text: `Period: `, bold: true, size: 18, color: TEXT_DARK, font: 'Arial' }),
-          new TextRun({ text: `${prj.period}  |  `, size: 18, color: TEXT_MUTED, font: 'Arial' }),
-          new TextRun({ text: `Category: `, bold: true, size: 18, color: TEXT_DARK, font: 'Arial' }),
-          new TextRun({ text: `${prj.category.toUpperCase()}`, bold: true, size: 18, color: PRIMARY_COLOR, font: 'Arial' })
-        ]
-      }),
-      new Paragraph({
-        spacing: { before: 0, after: 100 },
-        alignment: AlignmentType.JUSTIFY,
-        children: [
-          new TextRun({ text: prj.description, size: 19, color: TEXT_DARK, font: 'Arial' })
-        ]
-      })
-    );
-  });
-
-  // 6. Certifications
-  const pillars = [
-    {
-      id: 'carbon-climate',
-      title: '1. Carbon, Climate & Ecosystem Services (Blue Carbon, Forest Carbon & Climate Finance)'
-    },
-    {
-      id: 'marine-fisheries',
-      title: '2. Marine, Coastal & Fisheries Governance (Ocean Governance, IWRM & Bioacoustics)'
-    },
-    {
-      id: 'safeguards-social',
-      title: '3. Environmental, Social & Safeguards (ADB/World Bank Safeguards, FPIC, ESG & Community)'
-    },
-    {
-      id: 'hse-quality',
-      title: '4. Occupational Health, Safety, EHS & Quality Assurance (OHSE, ISO Auditing, APDI Drone)'
-    },
-    {
-      id: 'project-leadership',
-      title: '5. Project Management & Institutional Leadership (Modern PM, MEAL & Strategic Leadership)'
-    }
-  ];
-
-  docChildren.push(...createSectionHeading(`Professional Certifications & Specialized Training (Total: ${certs.length})`));
-
-  pillars.forEach(pil => {
-    const pCerts = certs.filter(c => c.category === pil.id);
-    docChildren.push(
-      new Paragraph({
-        spacing: { before: 140, after: 40 },
-        children: [
-          new TextRun({ text: `${pil.title} (${pCerts.length} Programs)`, bold: true, size: 21, color: PRIMARY_COLOR, font: 'Arial' })
-        ]
-      })
-    );
-
-    pCerts.forEach((c) => {
-      docChildren.push(
-        new Paragraph({
-          bullet: { level: 0 },
-          spacing: { before: 20, after: 20 },
-          children: [
-            new TextRun({ text: `${c.name}`, bold: true, size: 19, color: TEXT_DARK, font: 'Arial' }),
-            new TextRun({ text: ` - ${c.issuer} (${c.date})`, italic: true, size: 18, color: TEXT_MUTED, font: 'Arial' })
-          ]
-        })
-      );
-      if (c.competencies) {
-        docChildren.push(
-          new Paragraph({
-            spacing: { before: 0, after: 20 },
-            indent: { left: 400 },
-            children: [
-              new TextRun({ text: 'Competencies: ', bold: true, size: 18, color: SECONDARY_COLOR, font: 'Arial' }),
-              new TextRun({ text: c.competencies, size: 18, color: TEXT_DARK, font: 'Arial' })
-            ]
-          })
-        );
-      }
-      if (c.description) {
-        docChildren.push(
-          new Paragraph({
-            spacing: { before: 0, after: 40 },
-            indent: { left: 400 },
-            children: [
-              new TextRun({ text: c.description, size: 18, color: TEXT_MUTED, font: 'Arial' })
-            ]
-          })
-        );
-      }
-    });
-  });
-
-  // 7. Publications
-  docChildren.push(...createSectionHeading(`Peer-Reviewed Publications & Research Reports (Total: ${pubs.length})`));
-  pubs.forEach((pub, idx) => {
+  docChildren.push(...createSectionHeading(`Key Projects & Technical Deliverables (${projs.length} Projects)`));
+  projs.forEach((proj, idx) => {
     docChildren.push(
       new Paragraph({
         spacing: { before: 80, after: 20 },
+        children: [
+          new TextRun({ text: `${idx + 1}. ${proj.title}`, bold: true, size: 20, color: PRIMARY_COLOR, font: 'Arial' })
+        ]
+      }),
+      new Paragraph({
+        spacing: { before: 10, after: 30 },
+        children: [
+          new TextRun({ text: `Client: `, bold: true, size: 18, color: TEXT_MUTED, font: 'Arial' }),
+          new TextRun({ text: `${proj.client}  |  `, size: 18, color: TEXT_DARK, font: 'Arial' }),
+          new TextRun({ text: `Period: `, bold: true, size: 18, color: TEXT_MUTED, font: 'Arial' }),
+          new TextRun({ text: `${proj.period}  |  `, size: 18, color: TEXT_DARK, font: 'Arial' }),
+          new TextRun({ text: `Focus: `, bold: true, size: 18, color: TEXT_MUTED, font: 'Arial' }),
+          new TextRun({ text: `${proj.category || proj.focus || 'GENERAL'}`, size: 18, color: SECONDARY_COLOR, font: 'Arial' })
+        ]
+      }),
+      new Paragraph({
+        spacing: { before: 20, after: 70 },
+        alignment: AlignmentType.JUSTIFY,
+        children: [
+          new TextRun({ text: proj.desc, size: 19, color: TEXT_DARK, font: 'Arial' })
+        ]
+      })
+    );
+  });
+
+  // 6. Publications
+  docChildren.push(...createSectionHeading(`Peer-Reviewed Publications & Papers (${pubs.length} Publications)`));
+  pubs.forEach((pub, idx) => {
+    docChildren.push(
+      new Paragraph({
+        spacing: { before: 70, after: 20 },
         children: [
           new TextRun({ text: `${idx + 1}. ${pub.title}`, bold: true, size: 20, color: PRIMARY_COLOR, font: 'Arial' })
         ]
       }),
       new Paragraph({
-        spacing: { before: 0, after: pub.description ? 20 : 40 },
+        spacing: { before: 10, after: 60 },
         children: [
-          new TextRun({ text: `Year: ${pub.year}  |  Publisher: ${pub.publisher || 'Research Journal'}`, italic: true, size: 18, color: TEXT_MUTED, font: 'Arial' }),
-          pub.link ? new TextRun({ text: `  |  Link: ${pub.link}`, size: 18, color: SECONDARY_COLOR, font: 'Arial' }) : new TextRun({ text: '' })
+          new TextRun({ text: `${pub.authors} (${pub.year}). `, size: 18, color: TEXT_DARK, font: 'Arial' }),
+          new TextRun({ text: `${pub.publisher || pub.journal}. `, italics: true, size: 18, color: TEXT_MUTED, font: 'Arial' }),
+          new TextRun({ text: pub.link ? `DOI/Link: ${pub.link}` : '', size: 18, color: SECONDARY_COLOR, font: 'Arial' })
         ]
       })
     );
-    if (pub.description) {
-      docChildren.push(
-        new Paragraph({
-          spacing: { before: 0, after: 40 },
-          children: [
-            new TextRun({ text: `Summary: ${pub.description}`, size: 18, color: TEXT_DARK, font: 'Arial' })
-          ]
-        })
-      );
-    }
+  });
+
+  // 7. Certifications
+  docChildren.push(...createSectionHeading(`Professional Certifications & Specialized Training (${certs.length} Credentials)`));
+  certs.forEach((cert, idx) => {
+    docChildren.push(
+      new Paragraph({
+        spacing: { before: 40, after: 20 },
+        bullet: { level: 0 },
+        children: [
+          new TextRun({ text: `${cert.name} `, bold: true, size: 19, color: PRIMARY_COLOR, font: 'Arial' }),
+          new TextRun({ text: `— ${cert.issuer} (${cert.date})`, size: 18, color: TEXT_MUTED, font: 'Arial' }),
+          new TextRun({ text: cert.credentialId ? ` [ID: ${cert.credentialId}]` : '', size: 17, color: SECONDARY_COLOR, font: 'Arial' })
+        ]
+      })
+    );
   });
 
   // 8. Awards
-  docChildren.push(...createSectionHeading('Honors, Awards & Recognitions'));
+  docChildren.push(...createSectionHeading('Honors & National Innovation Awards'));
   const awards = cvData.en.awards || [];
-
-  awards.forEach(aw => {
-    docChildren.push(
-      new Paragraph({
-        bullet: { level: 0 },
-        spacing: { before: 20, after: 20 },
-        children: [
-          new TextRun({ text: `[${aw.year}] `, bold: true, size: 19, color: PRIMARY_COLOR, font: 'Arial' }),
-          new TextRun({ text: `${aw.name} `, bold: true, size: 19, color: TEXT_DARK, font: 'Arial' }),
-          new TextRun({ text: `- ${aw.issuer || aw.org}`, italic: true, size: 18, color: TEXT_MUTED, font: 'Arial' })
-        ]
-      })
-    );
-    if (aw.description) {
-      docChildren.push(
-        new Paragraph({
-          indent: { left: 360 },
-          spacing: { before: 0, after: 30 },
-          children: [
-            new TextRun({ text: aw.description, size: 17, color: TEXT_MUTED, font: 'Arial' })
-          ]
-        })
-      );
-    }
-  });
-
-  // 9. Memberships & Affiliations
-  const memberships = cvData.en.memberships || [];
-  if (memberships.length > 0) {
-    docChildren.push(...createSectionHeading('Professional Memberships & Academic Affiliations'));
-    memberships.forEach(m => {
-      docChildren.push(
-        new Paragraph({
-          bullet: { level: 0 },
-          spacing: { before: 20, after: 20 },
-          children: [
-            new TextRun({ text: `${m.name} `, bold: true, size: 19, color: PRIMARY_COLOR, font: 'Arial' }),
-            new TextRun({ text: `- ${m.role} (${m.period})`, italic: true, size: 18, color: TEXT_DARK, font: 'Arial' })
-          ]
-        })
-      );
-      if (m.description) {
-        docChildren.push(
-          new Paragraph({
-            indent: { left: 360 },
-            spacing: { before: 0, after: 30 },
-            children: [
-              new TextRun({ text: m.description, size: 17, color: TEXT_MUTED, font: 'Arial' })
-            ]
-          })
-        );
-      }
-    });
-  }
-
-  // 10. References
-  docChildren.push(...createSectionHeading('Professional References'));
-  const refs = cvData.en.references || [];
-
-  refs.forEach(r => {
+  awards.forEach((aw, idx) => {
     docChildren.push(
       new Paragraph({
         spacing: { before: 60, after: 20 },
         children: [
-          new TextRun({ text: r.name, bold: true, size: 20, color: PRIMARY_COLOR, font: 'Arial' }),
-          new TextRun({ text: ` - ${r.role}, ${r.company}`, italic: true, size: 19, color: TEXT_DARK, font: 'Arial' })
+          new TextRun({ text: `${idx + 1}. ${aw.title}`, bold: true, size: 20, color: PRIMARY_COLOR, font: 'Arial' }),
+          new TextRun({ text: ` — ${aw.issuer} (${aw.year})`, size: 18, color: SECONDARY_COLOR, font: 'Arial' })
         ]
       }),
       new Paragraph({
-        spacing: { before: 0, after: 80 },
+        spacing: { before: 10, after: 50 },
         children: [
-          new TextRun({ text: r.contact, size: 18, color: TEXT_MUTED, font: 'Arial' })
+          new TextRun({ text: aw.desc, size: 18, color: TEXT_DARK, font: 'Arial' })
+        ]
+      })
+    );
+  });
+
+  // 9. Memberships
+  docChildren.push(...createSectionHeading('Professional Memberships & Scientific Societies'));
+  const memberships = cvData.en.memberships || [];
+  memberships.forEach((m, idx) => {
+    docChildren.push(
+      new Paragraph({
+        spacing: { before: 60, after: 20 },
+        children: [
+          new TextRun({ text: `${idx + 1}. ${m.title}`, bold: true, size: 20, color: PRIMARY_COLOR, font: 'Arial' }),
+          new TextRun({ text: ` — ${m.role}`, size: 18, color: SECONDARY_COLOR, font: 'Arial' })
+        ]
+      }),
+      new Paragraph({
+        spacing: { before: 10, after: 50 },
+        children: [
+          new TextRun({ text: m.desc, size: 18, color: TEXT_DARK, font: 'Arial' })
+        ]
+      })
+    );
+  });
+
+  // 10. References
+  docChildren.push(...createSectionHeading('Professional References'));
+  const refs = cvData.en.references || [];
+  refs.forEach((ref, idx) => {
+    docChildren.push(
+      new Paragraph({
+        spacing: { before: 60, after: 20 },
+        children: [
+          new TextRun({ text: `${idx + 1}. ${ref.name}`, bold: true, size: 20, color: PRIMARY_COLOR, font: 'Arial' }),
+          new TextRun({ text: ` — ${ref.role}, ${ref.company}`, size: 18, color: SECONDARY_COLOR, font: 'Arial' })
+        ]
+      }),
+      new Paragraph({
+        spacing: { before: 10, after: 50 },
+        children: [
+          new TextRun({ text: `Contact / Context: ${ref.contact} (${ref.relation})`, size: 18, color: TEXT_MUTED, font: 'Arial' })
         ]
       })
     );
@@ -565,10 +487,10 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
         properties: {
           page: {
             margin: {
-              top: 1080, // 0.75 in
-              right: 1080,
-              bottom: 1080,
-              left: 1080
+              top: 1000,
+              right: 1000,
+              bottom: 1000,
+              left: 1000
             }
           }
         },
@@ -578,33 +500,20 @@ export async function generateMasterDocx(outputFile = DOCX_FILE) {
   });
 
   const buffer = await Packer.toBuffer(doc);
-  try {
-    fs.writeFileSync(outputFile, buffer);
-    console.log(`[Docx] Master Word CV generated successfully: ${outputFile} (${buffer.length} bytes)`);
-  } catch (err) {
-    if (err.code === 'EBUSY') {
-      console.warn(`[Docx Warning] File ${outputFile} is currently open in Microsoft Word. Please close Word to update this file.`);
-      fs.writeFileSync('I Gede Mahendra Wijaya_Master CV_latest.docx', buffer);
-      console.log(`[Docx] Saved latest copy to: I Gede Mahendra Wijaya_Master CV_latest.docx (${buffer.length} bytes)`);
-    } else {
-      throw err;
-    }
-  }
+  fs.writeFileSync(outputFile, buffer);
+  fs.writeFileSync('I Gede Mahendra Wijaya_Master CV_latest.docx', buffer);
+  console.log(`[Docx] Master Word CV generated successfully: ${outputFile} (${buffer.length} bytes)`);
 }
 
-async function runMasterSync() {
+// Run if called directly
+if (process.argv[1] && process.argv[1].includes('sync_master_docx.js')) {
+  console.log('Regenerating Master Word & Markdown CV...');
   console.log('[1/2] Generating Master Markdown CV...');
   generateMasterMarkdown();
-
   console.log('[2/2] Generating Master Word CV (.docx)...');
-  await generateMasterDocx();
-
-  console.log('\n======================================================');
-  console.log('✓ MASTER CV SYNC COMPLETE (Markdown + Word + data.js)');
-  console.log('======================================================\n');
+  generateMasterDocx().then(() => {
+    console.log('\n======================================================');
+    console.log('✓ MASTER CV SYNC COMPLETE (Markdown + Word + data.js)');
+    console.log('======================================================\n');
+  });
 }
-
-runMasterSync().catch(err => {
-  console.error('Error during master sync:', err);
-});
-

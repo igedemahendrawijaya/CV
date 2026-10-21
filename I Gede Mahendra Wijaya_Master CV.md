@@ -1,18 +1,13 @@
-# I Gede Mahendra Wijaya
-**Marine Environmental Specialist**  
-*Carbon & Fisheries Management | Coastal & Ocean Governance*
-
-- **Email**: [gedemahendrawijaya@gmail.com](mailto:gedemahendrawijaya@gmail.com)
-- **Phone / WA**: [+62 812 9742 9227](https://wa.me/6281297429227)
-- **Location**: Denpasar, Bali, Indonesia
-- **LinkedIn**: [linkedin.com/in/gmwijaya](https://linkedin.com/in/gmwijaya)
-- **ORCID**: [0000-0003-2312-7031](https://orcid.org/0000-0003-2312-7031)
+# I GEDE MAHENDRA WIJAYA
+**Marine Environmental Specialist | Carbon & Fisheries Management | Coastal & Ocean Governance**  
+[LinkedIn](https://linkedin.com/in/gmwijaya) | [Project Portofolio](https://gedemahendraw.github.io/) | [ORCID: 0000-0003-2312-7031](https://orcid.org/0000-0003-2312-7031)  
+Denpasar, Bali, Indonesia | Email: [gedemahendrawijaya@gmail.com](mailto:gedemahendrawijaya@gmail.com) | Phone: [+62 812 9742 9227](https://wa.me/6281297429227)
 
 ---
 
 ## Executive Profile Summary
 
-Marine environmental specialist with over 13 years of experience delivering high-level technical leadership across marine-based sectors, forest concessions, and industrial waste decarbonization. Formally trained in marine science and acoustics (IPB University), with expertise spanning coastal and ocean governance, sustainable fisheries, forest concession area, and carbon mitigation across AFOLU (>200,000 ha peatland/wetland concessions in Papua) and Waste sectors (Palm Oil Mill Effluent / POME methane capture & biogas-to-energy). Proven track record with major international institutions (World Bank, ADB, FAO, UNDP, TNC) and national innovation award recognition (BIC). Highly skilled in carbon accounting (carbon unit registry system of Indonesia, VCM, Paris Agreement Article 6), MRV, environmental and social compliance (ESIA), and multi-stakeholder engagement.
+Senior Marine Environmental Specialist and Climate Mitigation Technical Lead with over 13 years of multidisciplinary experience pioneering integrated 'source-to-sink' (ridge-to-reef) environmental governance and high-integrity carbon mitigation across Indonesia. Uniquely bridges terrestrial forest concession areas, peatland hydrology, coastal blue carbon wetlands, and offshore marine ecosystems into unified landscape-seascape management frameworks. Formally trained in marine science and acoustics (IPB University), directing technical strategy, greenhouse gas (GHG) accounting, and project validation delivering high-quality, high-integrity carbon credits under the carbon unit registry system of Indonesia and premier international standards (Verra Verified Carbon Standard / VCS, Climate, Community & Biodiversity / CCB Standards, Sustainable Development Verified Impact Standard / SD VISta, and Nature Framework). Technical portfolio encompasses >200,000 hectares of peatland and wetland concessions in Papua, industrial waste decarbonization (Palm Oil Mill Effluent / POME methane capture & biogas-to-energy), and national marine spatial planning. Proven track record managing multi-year programs with International Financial Institutions (IFIs) and United Nations (UN) agencies (World Bank, Asian Development Bank / ADB, Agence Française de Développement / AFD, Food and Agriculture Organization / FAO, and United Nations Development Programme / UNDP), as well as leading philanthropic foundations (Walton Family Foundation). Recognized with a National Innovation Award from the Business Innovation Center (BIC). Expertise spans Nature-based Solutions (NbS), robust Monitoring, Reporting, and Verification (MRV), Environmental and Social Impact Assessment (ESIA), and Free, Prior, and Informed Consent (FPIC) with indigenous customary communities.
 
 ---
 
@@ -24,7 +19,7 @@ Marine environmental specialist with over 13 years of experience delivering high
 
 ---
 
-## Education & Academic Background
+## Formal Education & Academic Qualifications
 
 1. **Bachelor of Marine Science and Technology**
    - **Institution**: Bogor Agricultural University (IPB University), Indonesia
@@ -57,37 +52,37 @@ Marine environmental specialist with over 13 years of experience delivering high
 ### 1. Head of Technical Workstream
 **PT Aksi Mitigasi Iklim (GHG Actions)** | Denpasar (Hybrid Bali & Papua) | June 2026 - Present  
 
-Dedicated to delivering and contributing to high-quality and high-integrity carbon projects based on Nature-based Solutions (NbS), AFOLU ecosystem restoration, and robust MRV frameworks. Directing technical strategy, greenhouse gas accounting, and project validation aligned with Core Carbon Principles (CCPs), ICVCM, and Paris Agreement Article 6 mechanisms. Managing technical compliance across peatland, wetland, and forest concession areas (>200,000 ha) in Papua under the carbon unit registry system of Indonesia, Verra VCS + CCB, SD VISta, and Nature Framework to ensure additionality, permanence, and verifiable ecological integrity.
+Dedicated to delivering and contributing to high-quality and high-integrity carbon credits and nature-based climate solutions based on Nature-based Solutions (NbS), the Agriculture, Forestry, and Other Land Use (AFOLU) ecosystem restoration, and robust Monitoring, Reporting, and Verification (MRV) frameworks. Directing technical strategy, greenhouse gas (GHG) accounting, and project validation aligned with Core Carbon Principles (CCPs) of the Integrity Council for the Voluntary Carbon Market (ICVCM) and Paris Agreement Article 6 mechanisms (Articles 6.2 and 6.4 for Internationally Transferred Mitigation Outcomes / ITMOs and authorized carbon crediting). Managing technical compliance across peatland, wetland, and forest concession areas (>200,000 ha) in Papua under the carbon unit registry system of Indonesia, Verra Verified Carbon Standard (VCS), Climate, Community & Biodiversity (CCB) Standards, Sustainable Development Verified Impact Standard (SD VISta), and Nature Framework to ensure additionality, permanence, and verifiable ecological integrity.
 
 ### 2. Project Manager
 **PT Aksi Mitigasi Iklim (GHG Actions)** | Denpasar (Hybrid Bali & Papua) | February 2023 - June 2026  
 
-Contributed to and managed terrestrial, peatland, and coastal wetland carbon project operations (>200,000 ha) in West Papua and Southwest Papua. Led multidisciplinary field teams executing ecological baselines, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), and ground-based carbon stock accounting (SNI 7724). Designed and facilitated Free, Prior, and Informed Consent (FPIC) with local customary communities to establish inclusive benefit-sharing frameworks. Directed regulatory licensing with the Ministry of Environment and Forestry and Ministry of Marine Affairs and Fisheries, formulating Environmental & Social Management Plans (ESMP) and establishing rigorous MRV systems.
+Contributed to and managed terrestrial, peatland, and coastal wetland carbon project operations (>200,000 ha) in West Papua and Southwest Papua. Led multidisciplinary field teams executing ecological baselines, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), and ground-based carbon stock accounting (SNI 7724). Designed and facilitated Free, Prior, and Informed Consent (FPIC) with local customary communities to establish inclusive benefit-sharing frameworks. Directed regulatory licensing with the Ministry of Environment and Forestry (MoEF) and Ministry of Marine Affairs and Fisheries (MMAF), formulating Environmental and Social Management Plans (ESMP) and establishing rigorous Monitoring, Reporting, and Verification (MRV) systems.
 
 ### 3. Deputy Unit Leader - Marine and Coastal Development Unit
 **PT Hatfield Indonesia** | Bogor / Jakarta | January 2022 - February 2023  
 
-Promoted to Deputy Unit Leader in 2022. Contributed to multi-year marine and coastal projects funded by IFIs and UN agencies including World Bank, ADB, AFD, and FAO, delivering ecological baseline assessments and spatial governance. Co-led the strategic, operational, and financial management of the Business Unit, directing business planning, commercial proposals, and multi-disciplinary teams across marine conservation, fisheries governance, and environmental safeguards.
+Promoted to Deputy Unit Leader in 2022. Contributed to multi-year marine and coastal projects funded by International Financial Institutions (IFIs) and United Nations (UN) agencies including the World Bank, Asian Development Bank (ADB), Agence Française de Développement (AFD), and Food and Agriculture Organization (FAO), delivering ecological baseline assessments and spatial governance. Co-led the strategic, operational, and financial management of the Business Unit, directing business planning, commercial proposals, and multi-disciplinary teams across marine conservation, fisheries governance, and environmental safeguards. Enforced corporate compliance with ISO 9001, ISO 14001, and ISO 45001 standards across all project operations.
 
 ### 4. Marine Environmental Specialist
 **PT Hatfield Indonesia** | Bogor / Jakarta | June 2016 - December 2021  
 
-Served as technical specialist contributing to marine ecology, oceanographic baseline assessments, fisheries resource management, and environmental and social compliance. Contributed to multi-year initiatives including fisheries and aquaculture programs supported by the Walton Family Foundation. Designed and executed comprehensive marine surveys (water quality, benthic communities, coral reef health, pelagic fish acoustics), formulated Environmental and Social Management Plans (ESMP), and advanced digital fisheries monitoring (satellite VMS with Inmarsat and UK Space Agency). Delivered high-impact technical reports and policy recommendations for the World Bank, ADB, AFD, FAO, and MMAF.
+Served as technical specialist contributing to marine ecology, oceanographic baseline assessments, fisheries resource management, and environmental and social compliance (ESIA). Contributed to multi-year initiatives including fisheries and aquaculture programs supported by the Walton Family Foundation. Designed and executed comprehensive marine surveys (water quality, benthic communities, coral reef health, pelagic fish acoustics), formulated Environmental and Social Management Plans (ESMP), and advanced digital fisheries monitoring (satellite Vessel Monitoring Systems / VMS with Inmarsat and UK Space Agency). Delivered high-impact technical reports and policy recommendations for the World Bank, Asian Development Bank (ADB), Agence Française de Développement (AFD), Food and Agriculture Organization (FAO), and Ministry of Marine Affairs and Fisheries (MMAF).
 
 ### 5. Assistant Project Director
 **Nusa Dua Reef Foundation** | Bali, Indonesia | April 2016 - June 2016  
 
-Assisted executive directors in coordinating coastal conservation, artificial reef deployment, coral reef restoration, and community-based marine ecotourism in Nusa Dua, Bali. Facilitated multi-stakeholder partnerships between government bodies (MMAF / KKP, Bali Marine Affairs Agency), tourism operators (Bali Tourism Development Corporation / ITDC), local customary villages (Desa Adat), and dive operators. Managed educational outreach, conservation awareness campaigns, and community stewardship programs for coastal sustainability.
+Assisted executive directors in coordinating coastal conservation, artificial reef deployment, coral reef restoration, and community-based marine ecotourism in Nusa Dua, Bali. Facilitated multi-stakeholder partnerships between government bodies (Ministry of Marine Affairs and Fisheries / MMAF, Bali Marine Affairs Agency), tourism operators (Indonesia Tourism Development Corporation / ITDC), local customary villages (Desa Adat), and dive operators. Managed educational outreach, conservation awareness campaigns, and community stewardship programs for coastal sustainability.
 
 ### 6. Marine Mammal Observer
 **PT Quest Geophysical Asia - West Papua Project** | Arguni Bay, West Papua | January 2015 - August 2015  
 
-Led health, safety, and environmental (HSE) protocols and JNCC-compliant marine mammal observation (MMO) with dedicated visual observation during 2D and Transition Zone (TZ) marine seismic surveys for KrisEnergy (Udan Emas) BV in Arguni Bay, West Papua. Enforced pre-shooting visual scans, exclusion zone protocols, and soft-start ramp-up procedures to safeguard cetaceans, dugongs, and coastal fish stocks. Conducted socio-fisheries impact assessments, underwater acoustic propagation analyses, and community consultation with indigenous artisanal fishers.
+Led Health, Safety, and Environment (HSE) protocols and Joint Nature Conservation Committee (JNCC)-compliant Marine Mammal Observation (MMO) with dedicated visual observation during 2D and Transition Zone (TZ) marine seismic surveys for KrisEnergy (Udan Emas) BV in Arguni Bay, West Papua. Enforced pre-shooting visual scans, exclusion zone protocols, and soft-start ramp-up procedures to safeguard cetaceans, dugongs, and coastal fish stocks. Conducted socio-fisheries impact assessments, underwater acoustic propagation analyses, and community consultation with indigenous artisanal fishers.
 
 ### 7. Marine Research Assistant
 **Marine Science & Technology Dept, IPB University** | Bogor, Indonesia | 2012 - 2014  
 
-Conducted academic and applied research in underwater bioacoustics, marine acoustic telemetry, satellite remote sensing, GIS spatial modeling, and physical oceanography. Operated scientific echo sounders, hydrophones, and oceanographic CTD probes. Supported national research grants funded by the Ministry of Education and Culture (Kemendikbud), co-authoring peer-reviewed scientific publications on marine bioacoustics, oil spill detection using ALOS PALSAR satellite imagery, and autonomous surface vessels for maritime surveillance.
+Conducted academic and applied research in underwater bioacoustics, marine acoustic telemetry, satellite remote sensing, Geographic Information Systems (GIS) spatial modeling, and physical oceanography. Operated scientific echo sounders, hydrophones, and Conductivity, Temperature, and Depth (CTD) oceanographic probes. Supported national research grants funded by the Ministry of Education and Culture (Kemendikbud), co-authoring peer-reviewed scientific publications on marine bioacoustics, oil spill detection using Advanced Land Observing Satellite Phased Array type L-band Synthetic Aperture Radar (ALOS PALSAR) imagery, and autonomous surface vessels for maritime surveillance.
 
 ---
 
@@ -96,409 +91,663 @@ Conducted academic and applied research in underwater bioacoustics, marine acous
 ### 1. Pre-Socialization Report & Stakeholder Analysis for Forest Carbon Licensing
 - **Client / Partner**: PT Salawati Hijau Lestari (SHL)
 - **Period**: June - August 2023
-- **Category / Focus**: CARBON (Forest Carbon, Stakeholder Mapping, FPIC, Papua)
-- **Technical Scope & Output**: Conducted comprehensive pre-socialization assessments, institutional mapping, and multi-tier stakeholder analysis across district and provincial levels in Southwest Papua. Designed the initial stakeholder engagement strategy and Free, Prior, and Informed Consent (FPIC) framework required for forest concession ecosystem restoration and carbon project licensing, ensuring full alignment with local customary land rights.
+- **Category / Focus**: carbon
+- **Technical Scope & Output**: undefined
 
 ### 2. Carbon Scoping Study & Feasibility Assessment for Forest Concessions
 - **Client / Partner**: PT SHL & PT Sorong Hijau Ekosistem (SHE)
 - **Period**: March - June 2023
-- **Category / Focus**: CARBON (Carbon Scoping, Feasibility Study, Carbon Accounting, Papua Barat)
-- **Technical Scope & Output**: Delivered a high-level feasibility study and carbon scoping assessment across >200,000 hectares of wetland and peatland forest concessions in Southwest Papua and West Papua Provinces. Synthesized remote sensing GIS analysis, forest carbon stock estimates, baseline deforestation drivers, regulatory compliance pathways (carbon unit registry system of Indonesia, Verra VCS + CCB, SD VISta, and Nature Framework), and socio-economic risk evaluations to establish project viability for carbon credit generation and biodiversity conservation.
+- **Category / Focus**: carbon
+- **Technical Scope & Output**: undefined
 
 ### 3. High Carbon Stock Approach (HCSA) & High Conservation Value (HCV) Assessments
 - **Client / Partner**: APRIL Group
 - **Period**: September 2022 - January 2023
-- **Category / Focus**: CARBON (HCSA, HCV, Social Expert, Forest Governance)
-- **Technical Scope & Output**: Served as Social Expert for integrated HCV-HCSA full assessments covering three supply partner concessions in Northern Sumatra. Conducted field participatory mapping, customary land tenure analyses, community livelihood assessments, and FPIC verification to delineate High Carbon Stock forest patches and High Conservation Value areas for sustainable landscape management and zero-deforestation compliance.
+- **Category / Focus**: carbon
+- **Technical Scope & Output**: undefined
 
 ### 4. Strategic Environmental and Social Assessment (SESA) for Energy Transition Mechanism (ETM)
 - **Client / Partner**: Asian Development Bank (ADB)
 - **Period**: August 2022 - January 2023
-- **Category / Focus**: CARBON (SESA, Energy Transition, ADB Safeguards, Climate Policy)
-- **Technical Scope & Output**: Delivered high-level scoping, environmental and social baseline evaluations, and regulatory framework analysis for the ADB Energy Transition Mechanism (ETM) in Indonesia. Facilitated national multi-stakeholder SESA consultation workshops involving central ministries (ESDM, MoEF, Bappenas), PLN, IPPs, CSOs, and academic experts to ensure social equity and environmental safeguards during the early retirement and repurposing of coal-fired power plants.
+- **Category / Focus**: carbon
+- **Technical Scope & Output**: undefined
 
 ### 5. Establishment of Marine Protected Area (MPA) in Kolepom Island
 - **Client / Partner**: UNDP / ATSEA-2 Program
 - **Period**: November 2021 - September 2022
-- **Category / Focus**: MARINE (MPA, UNDP, Kolepom Island, Customary Governance)
-- **Technical Scope & Output**: Supported technical facilitation and Working Group (POKJA) coordination for the formal establishment of the 356,000-hectare Kolepom Island Marine Protected Area in Merauke District, South Papua. Authored technical resource potential reports, facilitated public consultations with indigenous coastal tribes, and drafted the MPA management and spatial zoning plan formally gazetted by the Ministry of Marine Affairs and Fisheries (KKP).
+- **Category / Focus**: marine
+- **Technical Scope & Output**: undefined
 
 ### 6. Fisheries Management & Coastal Community Livelihoods (LAUTRA Phase 1)
 - **Client / Partner**: World Bank Group
 - **Period**: September 2020 - September 2022
-- **Category / Focus**: MARINE (LAUTRA, World Bank, Fisheries Governance, Blue Economy)
-- **Technical Scope & Output**: Prepared foundational analytical studies and project design components for the World Bank Oceans for Prosperity Program (LAUTRA - USD 210M). Addressed fisheries governance reforms, coastal poverty alleviation, marine spatial planning, and sustainable value chain investments across Fisheries Management Areas (WPPNRI 715, 718, and 573).
+- **Category / Focus**: marine
+- **Technical Scope & Output**: undefined
 
 ### 7. Pre-Feasibility Study on Management and Retrieval of ALDFG and Aquaculture Plastics
 - **Client / Partner**: World Bank Group / Poseidon Aquatic Resource Management
 - **Period**: August 2020 - August 2022
-- **Category / Focus**: MARINE (ALDFG, Ghost Gear, Marine Plastics, World Bank)
-- **Technical Scope & Output**: Conducted a nationwide pre-feasibility assessment on the retrieval, circular recycling, and port reception facilities for Abandoned, Lost, and Discarded Fishing Gear (ALDFG) and plastic waste generated by intensive shrimp and fish aquaculture. Formulated actionable policy roadmaps and circular economy interventions for the Ministry of Marine Affairs and Fisheries and donor agencies.
+- **Category / Focus**: marine
+- **Technical Scope & Output**: undefined
 
 ### 8. Coastal Fisheries Initiative Challenge Fund (CFI-CF) Business Incubation
 - **Client / Partner**: World Bank Group / GEF
 - **Period**: June 2020 - September 2022
-- **Category / Focus**: MARINE (CFI-CF, Sustainable Fisheries, Blended Finance, GEF)
-- **Technical Scope & Output**: Supported business incubation, investment pitch development, and environmental-social due diligence for sustainable coastal fisheries enterprises under the GEF-World Bank CFI Challenge Fund. Evaluated SME business models in sustainable tuna, mud crab, and seaweed sectors to unlock private capital and impact investment.
+- **Category / Focus**: marine
+- **Technical Scope & Output**: undefined
 
 ### 9. Transboundary Diagnostic Analysis for Indonesian Seas Large Marine Ecosystem (TDA ISLME)
 - **Client / Partner**: Food and Agriculture Organization (FAO)
 - **Period**: June 2020 - March 2022
-- **Category / Focus**: MARINE (FAO, TDA, ISLME, Transboundary Governance)
-- **Technical Scope & Output**: Authored specialized thematic diagnostic chapters on oceanographic baseline conditions, fisheries resources, marine environmental degradation, and governance frameworks for the Indonesian Seas Large Marine Ecosystem (ISLME) spanning Indonesia and Timor-Leste, establishing the scientific baseline for the regional Strategic Action Programme (SAP).
+- **Category / Focus**: marine
+- **Technical Scope & Output**: undefined
 
 ### 10. Outer Ring Fishing Ports Development Project (Eco-Fishing Ports) ESIA
 - **Client / Partner**: Agence Française de Développement (AFD)
 - **Period**: March 2021 - October 2022
-- **Category / Focus**: MARINE (Eco-Fishing Ports, AFD, ESIA, Infrastructure Safeguards)
-- **Technical Scope & Output**: Served as National Focal Point, led environmental, social, climate resilience, and gender safeguard preparation studies for the USD 111M AFD-funded Eco-Fishing Ports Modernization Project across four strategic national fishing ports (PPS Kendari, PPS Cilacap, PPN Belawan, and PPN Sibolga). Formulated ESIA terms of reference, climate vulnerability profiles, and port decarbonization action plans.
+- **Category / Focus**: marine
+- **Technical Scope & Output**: undefined
 
 ### 11. Benefit Story Development for IPP Low-Cost Technology Pilot Project
 - **Client / Partner**: Inmarsat (UK) / MMAF
 - **Period**: December 2021 - March 2022
-- **Category / Focus**: DIGITAL (VMS, Inmarsat, MMAF, Fisher Safety)
-- **Technical Scope & Output**: Developed impact evaluation benefit stories, socio-economic surveys, and case studies demonstrating the tangible safety-at-sea, operational efficiency, and catch reporting benefits of low-cost satellite Vessel Monitoring Systems (VMS) deployed on small-scale fishing vessels (<30 GT) across Indonesian coastal communities.
+- **Category / Focus**: digital
+- **Technical Scope & Output**: undefined
 
 ### 12. Satellite Vessel Monitoring System (VMS) Implementation & Migration Program
 - **Client / Partner**: Inmarsat (UK) / UK Space Agency
 - **Period**: August 2018 - October 2019
-- **Category / Focus**: DIGITAL (VMS Implementation, UK Space Agency, Fisheries Monitoring, IUU Fishing)
-- **Technical Scope & Output**: Coordinated technical deployment, transceiver installation, API data pipeline integration, and user capacity building for advanced satellite VMS terminals across 400 commercial fishing vessels (20-30 GT and >30 GT) to strengthen national fisheries surveillance and combat Illegal, Unreported, and Unregulated (IUU) fishing.
+- **Category / Focus**: digital
+- **Technical Scope & Output**: undefined
 
 ### 13. Web-Based Geofencing Application Development for Marine Protected Areas
 - **Client / Partner**: Inmarsat (UK)
 - **Period**: October 2017 - October 2019
-- **Category / Focus**: DIGITAL (Geofencing, Web Application, Spatial Surveillance, MPA Compliance)
-- **Technical Scope & Output**: Designed spatial specifications and user workflows for an automated web-based geofencing application integrating satellite VMS vessel telemetry with national Marine Protected Area boundaries, enabling real-time alerting for unauthorized incursions and spatial fisheries compliance.
+- **Category / Focus**: digital
+- **Technical Scope & Output**: undefined
 
 ### 14. Independent Environmental & Social Due Diligence (Block 3 CCPP Tambak Lorok)
 - **Client / Partner**: PT Indonesia Power
 - **Period**: January - November 2022
-- **Category / Focus**: ENVIRONMENT (ESAP Compliance, Combined Cycle Power Plant, Due Diligence)
-- **Technical Scope & Output**: Executed independent monitoring and technical compliance verification against the Environmental and Social Action Plan (ESAP) for the 780 MW Block 3 Combined Cycle Power Plant (CCPP) project in Tambak Lorok, Semarang, ensuring compliance with international lender standards (World Bank/IFC Performance Standards).
+- **Category / Focus**: environment
+- **Technical Scope & Output**: undefined
 
 ### 15. Operational and Scientific Monitoring Plan (OSMP) for Offshore Drilling Campaign
 - **Client / Partner**: MCC Environmental (Australia)
 - **Period**: October 2021 - January 2022
-- **Category / Focus**: ENVIRONMENT (OSMP, Offshore Drilling, Marine Fauna, SCAT)
-- **Technical Scope & Output**: Provided marine ecology expertise for the Buffalo-10 Offshore Drilling Campaign in the Timor Sea. Formulated Shoreline Cleanup Assessment Technique (SCAT) protocols and marine fauna sensitivity baseline profiles (cetaceans, marine turtles, and seabirds) for cross-border environmental risk preparedness in Indonesia and Timor-Leste waters.
+- **Category / Focus**: environment
+- **Technical Scope & Output**: undefined
 
 ### 16. Patimban Deep-Sea Port Construction Marine Environmental Monitoring Program
 - **Client / Partner**: Penta Ocean Construction
 - **Period**: July 2018 - August 2019
-- **Category / Focus**: ENVIRONMENT (Patimban Port, Marine Water Quality, Benthos & Sediment, EIA Monitoring)
-- **Technical Scope & Output**: Managed and executed monthly marine environmental compliance monitoring during the Phase 1 construction of Patimban Deep-Sea Port in Subang, West Java. Led offshore sampling and laboratory analysis of seawater physicochemical quality, heavy metal sediment chemistry, benthic infauna diversity, and nekton community dynamics.
+- **Category / Focus**: environment
+- **Technical Scope & Output**: undefined
 
 ### 17. Vocational Shrimp Aquaculture Curriculum & Digital Quality Control Solution
 - **Client / Partner**: Walton Family Foundation
 - **Period**: August 2019 - January 2022
-- **Category / Focus**: AQUACULTURE (Aquaculture Curriculum, Human-Centered Design, Quality Control, Shrimp Farming)
-- **Technical Scope & Output**: Developed an accredited blended-learning vocational curriculum and digital standard operating procedure (SOP) quality control platform for commercial shrimp aquaculture, applying Human-Centered Design (HCD) methodologies with over 30 shrimp farm operators across Java and Bali.
+- **Category / Focus**: aquaculture
+- **Technical Scope & Output**: undefined
 
 ### 18. Human-Centered Design (HCD) for Smart Aquaculture 4.0 IoT Platform
 - **Client / Partner**: Walton Family Foundation
 - **Period**: August 2018 - January 2021
-- **Category / Focus**: AQUACULTURE (Smart Farming, IoT Sensors, Mobile Application, Aquaculture 4.0)
-- **Technical Scope & Output**: Spearheaded user research, product prototyping, and field testing for an IoT-enabled aquaculture farm management platform combining real-time water quality sensors (DO, pH, salinity, temperature) with a farmer-facing mobile app for predictive disease prevention and feed optimization.
+- **Category / Focus**: aquaculture
+- **Technical Scope & Output**: undefined
 
 ### 19. Comprehensive Assessment of Octopus Fishery, Supply Chain & International Trade Flow
 - **Client / Partner**: PT Hatfield Indonesia / Marine & Fisheries Partners
 - **Period**: 2021 - 2022
-- **Category / Focus**: MARINE (Octopus Fishery, Supply Chain Analysis, Trade Dynamics, Restricted Access)
-- **Technical Scope & Output**: Authored an in-depth technical report analyzing the biology, stock status, artisanal catch dynamics, cold chain infrastructure, and international export trade routes of Indonesian octopus fisheries (Octopus cyanea and Octopus vulgaris), identifying key pathways for MSC certification and Fisheries Improvement Projects (FIP).
+- **Category / Focus**: marine
+- **Technical Scope & Output**: undefined
 
 ### 20. Tongkol (Eastern Little Tuna) Supply Chain, Market Dynamics & Post-Harvest Losses
 - **Client / Partner**: PT Hatfield Indonesia / Marine & Fisheries Partners
 - **Period**: 2020 - 2022
-- **Category / Focus**: MARINE (Tongkol Supply Chain, Tuna Fishery, Post-Harvest Losses, Restricted Access)
-- **Technical Scope & Output**: Conducted field supply chain mapping and market flow analysis for Eastern Little Tuna (Euthynnus affinis) across major landing sites in Indonesia. Evaluated cold chain bottlenecks, post-harvest quality degradation, pricing asymmetries, and socio-economic welfare of coastal smallholder fishing households.
+- **Category / Focus**: marine
+- **Technical Scope & Output**: undefined
 
 ### 21. Scientific Assessment of Marine Mammal Interactions with Commercial Fisheries
 - **Client / Partner**: PT Hatfield Indonesia / Conservation Partners
 - **Period**: 2019 - 2021
-- **Category / Focus**: MARINE (Marine Mammals, Bioacoustics, Bycatch Mitigation, Restricted Access)
-- **Technical Scope & Output**: Conducted scientific risk modeling and field investigations on acoustic disturbance, vessel strike vulnerability, and bycatch entanglement risks for cetaceans and dugongs interacting with commercial purse seine, longline, and artisanal fisheries in Indonesian seas, developing practical mitigation strategies to minimize fishery-mammal interactions.
+- **Category / Focus**: marine
+- **Technical Scope & Output**: undefined
 
 ### 22. Strategic Tuna Fisheries Investment Roadmap for Walton Family Foundation (WFF)
 - **Client / Partner**: Walton Family Foundation / PT Hatfield Indonesia
 - **Period**: 2020 - 2022
-- **Category / Focus**: MARINE (Tuna Investment, Philanthropic Strategy, Fisheries Reform, Restricted Access)
-- **Technical Scope & Output**: Formulated a multi-year philanthropic investment strategy and intervention roadmap for WFF's marine portfolio, targeting rights-based fisheries management, harvest control rules, digital traceability, and coastal community empowerment in Indonesian tuna fisheries.
+- **Category / Focus**: marine
+- **Technical Scope & Output**: undefined
 
 ### 23. Rapid Scoping Study on High-Growth Investment Opportunities in Indonesian Aquaculture
 - **Client / Partner**: PT Hatfield Indonesia / Aquaculture Development Partners
 - **Period**: 2020 - 2021
-- **Category / Focus**: AQUACULTURE (Aquaculture Scoping, Investment Due Diligence, Sustainable Growth, Restricted Access)
-- **Technical Scope & Output**: Delivered a strategic scoping assessment analyzing bankable investment opportunities, technological scalability, biosecurity risks, and environmental sustainability in Indonesia's brackish water shrimp, marine finfish, and seaweed aquaculture sectors.
+- **Category / Focus**: aquaculture
+- **Technical Scope & Output**: undefined
 
 ### 24. Sectoral Review of Indonesian Tuna Purse Seine Fisheries for FIP & MSC Readiness
 - **Client / Partner**: PT Hatfield Indonesia / FIP Partners
 - **Period**: 2020 - 2022
-- **Category / Focus**: MARINE (Purse Seine, Tuna FIP, MSC Pre-Assessment, Restricted Access)
-- **Technical Scope & Output**: Conducted a detailed technical review and Marine Stewardship Council (MSC) pre-assessment of Indonesia's industrial and semi-industrial tuna purse seine fleet, developing time-bound Action Plans for harvest strategy compliance, FAD management, and bycatch reduction.
+- **Category / Focus**: marine
+- **Technical Scope & Output**: undefined
 
 ### 25. Environmental and Social Impact Assessment (ESIA) for Kendari Eco-Fishing Port Modernization
 - **Client / Partner**: Agence Française de Développement (AFD) / PT Hatfield Indonesia
 - **Period**: 2021 - 2022
-- **Category / Focus**: ENVIRONMENT (ESIA, Eco-Fishing Port, Kendari, AFD Safeguards, Restricted Access)
-- **Technical Scope & Output**: Authored the full Environmental and Social Impact Assessment (ESIA), Environmental and Social Management Plan (ESMP), and Stakeholder Engagement Plan (SEP) for the major modernization and infrastructure expansion of PPS Kendari funded by AFD.
+- **Category / Focus**: environment
+- **Technical Scope & Output**: undefined
 
 ### 26. Socio-Economic Baseline, Gender Action Plan & Stakeholder Impact Analysis for PPS Cilacap
 - **Client / Partner**: AFD / PT Hatfield Indonesia
 - **Period**: 2021 - 2022
-- **Category / Focus**: ENVIRONMENT (PPS Cilacap, Socio-Economic Baseline, Gender Action Plan, AFD, Restricted Access)
-- **Technical Scope & Output**: Executed extensive socio-economic field surveys, gender vulnerability analyses, and stakeholder consultation matrices for the modernization of Cilacap Oceanic Fishing Port (PPS Cilacap), formulating inclusive resettlement frameworks and women-empowerment livelihood strategies.
+- **Category / Focus**: environment
+- **Technical Scope & Output**: undefined
 
 ### 27. Zoning Document and Spatial Management Plan for Kolepom Island Marine Protected Area
 - **Client / Partner**: UNDP / PT Hatfield Indonesia
 - **Period**: 2021 - 2022
-- **Category / Focus**: MARINE (Kolepom MPA, Spatial Zoning, Conservation Plan, Papua, Restricted Access)
-- **Technical Scope & Output**: Formulated the comprehensive technical zoning document and 20-year spatial management plan for the 356,000-hectare Kolepom Island MPA in South Papua, integrating core conservation zones, limited utilization zones for indigenous artisanal fisheries, and other sustainable use sub-zones.
+- **Category / Focus**: marine
+- **Technical Scope & Output**: undefined
 
 ### 28. Sustainable Tuna Fisheries Management Based on Acoustic Measurement, Length-Based Assessment, and FAD Management
 - **Client / Partner**: The Nature Conservancy (TNC)
 - **Period**: January - December 2017
-- **Category / Focus**: MARINE & FISHERIES GOVERNANCE (Bioacoustics, FAD Management, Tuna Fisheries, CODRS, The Nature Conservancy)
-- **Technical Scope & Output**: Led the technical implementation of low-cost marine bioacoustic surveys and hydroacoustic telemetry beneath Fish Aggregating Devices (FADs / Rumpon) to quantify juvenile tuna biomass and deep-water pelagic schooling behavior. Integrated hydroacoustic data with on-board Captain-Operated Data Recording Systems (CODRS) and length-based spawning potential ratio (SPR) assessments to formulate policy briefs on voluntary FAD management guidelines and harvest strategy compliance in Indonesian tuna fisheries.
+- **Category / Focus**: Marine & Fisheries Governance
+- **Technical Scope & Output**: undefined
 
 ### 29. Marine Mammal Monitoring and Mitigation Plan for 3D Marine Seismic Acquisition in Mentawai Block
 - **Client / Partner**: Total E&P Indonesie Mentawai B.V. / PPLH IPB
 - **Period**: December 2015 - January 2016
-- **Category / Focus**: MARINE ENVIRONMENTAL ASSESSMENT & SAFEGUARDS (Marine Mammals, 3D Seismic, Bioacoustics, Total E&P, Offshore Mitigation)
-- **Technical Scope & Output**: Led technical health, safety, and environmental (HSE) protocols and JNCC-compliant Marine Mammal Observation (MMO) with dedicated visual observation during the deep-water 3D marine seismic survey using airgun arrays in the Total E&P Indonesie Mentawai B.V. Block (Indian Ocean). Executed 360-degree pre-shooting visual scans, enforced safety exclusion zones, managed soft-start ramp-up procedures to prevent acoustic trauma to marine mammals, and delivered daily environmental compliance reports to the Party Chief and international operators.
+- **Category / Focus**: Marine Environmental Assessment & Safeguards
+- **Technical Scope & Output**: undefined
 
 ---
 
-## Professional Certifications & Specialized Training by Thematic Pillar (Total: 72)
-
-### 1. Carbon, Climate & Ecosystem Services (Blue Carbon, Forest Carbon & Climate Finance) (22 Trainings)
-
-1. **Operationalizing Article 6.2 of the Paris Agreement: Achieving Ambitious Climate Action Through Cooperative Approaches** - [United Nations Development Programme (UNDP), UNFCCC & Learning for Nature](https://www.learningfornature.org/en/courses/operationalizing-article-6-2-of-the-paris-agreement-achieving-ambitious-climate-action-through-cooperative-approaches/) *(Oct 2026)*
-   - **Competencies**: Paris Agreement Article 6.2 Governance, Internationally Transferred Mitigation Outcomes (ITMOs), Bilateral Cooperative Approaches, Corresponding Adjustments & NDC Accounting, National Registry & Tracking, Authorization Frameworks
-   - **Summary**: Specialized training certification developed by UNDP in partnership with the UNFCCC and delivered via Learning for Nature / UN CC:Learn. Covers key requirements and national building blocks for operationalizing Article 6.2 cooperative approaches, including bilateral trading of Internationally Transferred Mitigation Outcomes (ITMOs), robust NDC accounting, avoiding double-counting with corresponding adjustments, and institutional arrangements.
-2. **Introduction to Biodiversity Credits (Learning Journey)** - [Biodiversity Credit Alliance (BCA), Nature for Life Hub & University of Nottingham](https://natureforlifehub.org) *(Sep 2026)*
-   - **Competencies**: Biodiversity Credits Framework, High-Integrity Nature Credits, Biodiversity Credit Alliance (BCA) Principles, Nature-Positive Market Mechanisms, Indigenous & Community Rights (IPLC Safeguards), Biodiversity Metrics & Monitoring
-   - **Summary**: Specialized learning journey certification on biodiversity credits awarded by the Biodiversity Credit Alliance (BCA) and Nature for Life Hub in collaboration with the University of Nottingham. Comprehensive training on high-integrity biodiversity credit markets, nature-positive crediting mechanisms, biodiversity metrics, integrity governance, and community benefit-sharing models.
-3. **Climate Finance Transparency** - [Initiative for Climate Action Transparency (ICAT) & Learning for Nature](https://www.learningfornature.org/en/courses/climate-finance-transparency/) *(Sep 2026)*
-   - **Competencies**: Climate Finance Tracking, Enhanced Transparency Framework (ETF), Article 9 & 13 Paris Agreement, Climate Finance Needs Assessment, Climate Finance Mobilization, Transparency Metrics & MRV
-   - **Summary**: Professional certification developed by the Initiative for Climate Action Transparency (ICAT) on Learning for Nature. Comprehensive training on establishing national climate finance tracking frameworks, assessing financial needs for mitigation and adaptation, mapping climate finance flows, and aligning with the Paris Agreement's Enhanced Transparency Framework (ETF).
-4. **Biodiversity Finance: Designing and Implementing Finance Plans for Nature** - [UNDP Biodiversity Finance Initiative (BIOFIN) & Learning for Nature](https://www.learningfornature.org/en/courses/biodiversity-finance-designing-and-implementing-finance-plans-for-nature-self-paced/) *(Sep 2026)*
-   - **Competencies**: BIOFIN Methodology, Biodiversity Expenditure Review (BER), Financial Needs Assessment (FNA), Biodiversity Finance Plan (BFP), Nature-Positive Finance Mechanisms, Sustainable Blended Finance & Impact Investment
-   - **Summary**: Comprehensive 12-hour specialized professional course developed by the UNDP Biodiversity Finance Initiative (BIOFIN) on Learning for Nature, based on the BIOFIN Workbook 2024. Covers the complete BIOFIN national methodology: Policy and Institutional Review (PIR), Biodiversity Expenditure Review (BER), Financial Needs Assessment (FNA), and designing and mobilizing high-impact national Biodiversity Finance Plans (BFP) to close global biodiversity financing gaps.
-5. **ICAT Training on the Use of the IPCC Inventory Software** - [Initiative for Climate Action Transparency (ICAT), IPCC TSU & UNDP Learning for Nature](https://www.learningfornature.org/en/courses/icat-training-on-the-use-of-the-ipcc-inventory-software/) *(Sep 2026)*
-   - **Competencies**: IPCC Inventory Software, 2006 IPCC Guidelines for National GHG Inventories, Enhanced Transparency Framework (ETF), LULUCF & AFOLU Emission Estimation, UNFCCC ETF Reporting Tool Interoperability, Activity Data & Emission Factor Management
-   - **Summary**: Specialized technical training program developed by the Initiative for Climate Action Transparency (ICAT) and the IPCC Task Force on National Greenhouse Gas Inventories Technical Support Unit (IPCC TSU) on UNDP Learning for Nature. Comprehensive operational training covering all IPCC sectors (Energy, IPPU, Agriculture, LULUCF/Forestry, and Waste) to calculate national GHG emissions and removals, apply 2006 IPCC Guidelines, and ensure interoperability with the UNFCCC ETF reporting tool under the Paris Agreement.
-6. **REDD+ Academy: Forest Carbon & National Strategy Capacity Building** - [UN-REDD Programme (FAO, UNDP, UNEP)](https://reddacademy.in.howspace.com/welcome) *(Sep 2026)*
-   - **Competencies**: REDD+ Architecture & National Strategy, National Forest Monitoring Systems (NFMS), Forest Reference Emission Levels (FREL/FRL), Safeguard Information Systems (SIS), Results-Based Finance & Carbon Markets
-   - **Summary**: Flagship capacity-building training program by the UN-REDD Programme (FAO, UNDP, UNEP), covering national REDD+ architecture, Forest Reference Emission Levels (FREL), National Forest Monitoring Systems (NFMS), Safeguards & Safeguard Information Systems (SIS), and results-based climate finance.
-7. **Article 6 Decision-Making: Training for Practitioners** - [Paris Agreement Article 6 Implementation Partnership (A6IP) Center, Perspectives Climate Research & GHGMI](https://a6partnership.org/article-6-decision-making-training-for-practitioners) *(Sep 2026)*
-   - **Competencies**: Paris Agreement Article 6.2 & 6.4, Internationally Transferred Mitigation Outcomes (ITMOs), Carbon Market Decision-Making, Corresponding Adjustments, GHG Accounting & MRV, Carbon Crediting Mechanisms, Institutional Arrangements
-   - **Summary**: Advanced professional training for carbon market practitioners developed by Perspectives Climate Research and the Greenhouse Gas Management Institute (GHGMI), supported by the Paris Agreement Article 6 Implementation Partnership (A6IP) Center, Ministry of the Environment Japan (MOEJ), and BMWK Germany. Rigorous curriculum covering strategic evaluation of Article 6 mechanisms (6.2 cooperative approaches and 6.4 crediting mechanism), international carbon market dynamics, project-level GHG accounting, corresponding adjustments, and national institutional readiness for market-based mitigation.
-8. **201 Basics of Organizational GHG Accounting (Certificate of Proficiency)** - [The Greenhouse Gas Management Institute (GHGMI)](https://ghginstitute.org) *(Aug 2026)*
-   - **Competencies**: Organizational GHG Accounting, GHG Protocol Corporate Standard, ISO 14064-1, Scope 1, Scope 2 & Scope 3 Emissions, Inventory Quality Management, Baseline Recalculation
-   - **Summary**: Formal professional certificate of proficiency issued by the Greenhouse Gas Management Institute (GHGMI) under Dean Michael Gillenwater (Credential Code: 201EX2046 / BOGAEX2046). Rigorous curriculum covering organizational carbon accounting principles, organizational and operational boundary setting, Scope 1, 2, and 3 emission quantification methodologies, activity data collection, emission factor selection, and uncertainty management aligned with the GHG Protocol and ISO 14064.
-9. **The German Supply Chain Due Diligence Act (LkSG / SCDDA)** - [Import Promotion Desk (IPD Germany)](https://www.importpromotiondesk.com/exporters/en/market-information/e-learning) *(Aug 2026)*
-   - **Competencies**: Supply Chain Due Diligence (LkSG / SCDDA), Human Rights & Environmental Risk Analysis, EU Market Compliance, Sustainable Sourcing
-   - **Summary**: Comprehensive e-learning program on complying with the German Supply Chain Due Diligence Act (Lieferkettensorgfaltspflichtengesetz - LkSG), addressing human rights and environmental risk analysis, grievance mechanisms, and sustainable supply chain governance for international exporters.
-10. **EU Deforestation Regulation (EUDR) Compliance & Due Diligence** - [Import Promotion Desk (IPD Germany)](https://www.importpromotiondesk.com/exporters/en/market-information/e-learning) *(Aug 2026)*
-   - **Competencies**: EU Deforestation Regulation (EUDR) Compliance, Supply Chain Geolocation & Traceability, Deforestation-Free Commodity Due Diligence, Legality & Risk Assessment
-   - **Summary**: Specialized training on the EU Deforestation Regulation (EUDR), addressing regulatory compliance, supply chain due diligence, geolocation traceability, and legality verification for deforestation-free commodities entering the EU market (palm oil, wood, rubber, cocoa, coffee, soy, cattle).
-11. **Blue Carbon Fundamentals** - World Bank Group *(Jul 2026)*
-12. **Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance** - United Nations Institute for Training and Research (UNITAR) *(Jul 2026)*
-13. **Blue Carbon Project Development & MRV Specialist Training** - [Fair Carbon (Blue Carbon Academy)](https://faircarbon.mykajabi.com/library) *(May 2026)*
-   - **Competencies**: Blue Carbon Project Development, Feasibility & PIN Assessment, Project Design Document (PDD), Investment Due Diligence, MRV Design & Verification
-   - **Summary**: Comprehensive training covering the full project development lifecycle for coastal blue carbon (mangroves and seagrass), from baseline feasibility & Project Idea Note (PIN), standardized PDD design, investment due diligence, to scientific Monitoring, Reporting & Verification (MRV) systems and carbon credit integrity.
-14. **Carbon Credits Project Fundamentals** - Blooms Academy *(Apr 2026)*
-15. **Global Carbon Summit Indonesia 2025** - Global Carbon Summit *(Nov 2025)*
-16. **Human Dimensions of Forest and Landscape Restoration** - Society for Ecological Restoration (SER) *(Jul 2024)*
-17. **Climate Action Now Program** - Pachamama Alliance *(Jun 2024)*
-18. **Ground-Based Forest Carbon Stock Accounting (SNI 7724)** - Generasi Biologi Indonesia *(Jun 2024)*
-19. **Introduction to Forest and Landscape Restoration** - Food and Agriculture Organization (FAO) *(Apr 2024)*
-20. **Sustainable Financing of Forest and Landscape Restoration** - Food and Agriculture Organization (FAO) *(Apr 2024)*
-21. **Climate Change and Sovereign Risk** - [Asian Development Bank Institute (ADBI)](https://elearning-adbi.org/certificate-verifier/?&code=98936-170-081-2015) *(Nov 2023)*
-22. **B20 Side Event: Technology & Market Innovation for Decarbonization** - B20 Indonesia / KADIN *(Aug 2022)*
-
-### 2. Marine, Coastal & Fisheries Governance (Ocean Governance, IWRM & Bioacoustics) (18 Trainings)
-
-1. **Building Skills for Coastal Restoration with Nature and People** - [UNESCO/IOC OceanTeacher Global Academy (OTGA) & A-AAGORA Project](https://classroom.oceanteacher.org) *(Sep 2026)*
-   - **Competencies**: Coastal Ecosystem Restoration, Nature-based Solutions (NbS), Community-Led Marine Stewardship, Marine Spatial Planning, Biodiversity Enhancement, Ecosystem Resilience
-   - **Summary**: Specialized 25-hour professional MOOC certification delivered by the UNESCO/IOC OceanTeacher Global Academy (OTGA) in partnership with the EU A-AAGORA project. Comprehensive training on designing and scaling real-world Nature-based Solutions (NbS) for coastal restoration, engaging local coastal communities, marine biodiversity protection, and climate resilience.
-2. **Source-to-Sea (S2S) Management Course** - [Cap-Net UNDP, SIWI & Action Platform for Source-to-Sea Management](https://cap-net.org) *(Sep 2026)*
-   - **Competencies**: Source-to-Sea (S2S) Governance, Integrated Water Resources Management (IWRM), Land-Sea Interaction Modeling, Freshwater & Coastal Linkages, Upstream Pollution Abatement, Marine Spatial Governance
-   - **Summary**: Specialized international certification on holistic Source-to-Sea (S2S) management issued by Cap-Net UNDP, Stockholm International Water Institute (SIWI), and the Action Platform for Source-to-Sea Management. Comprehensive curriculum addressing transboundary river-coastal linkages, upstream land-based pollution mitigation, sediment and nutrient flow governance, and integrated watershed-to-marine ecosystem planning.
-3. **IWRM for Climate Resilience (20-Hour Training Course)** - [Cap-Net UNDP & UNEP-DHI Centre](https://campus.cap-net.org/certificates/fd36a0339b364500a601922c8fd08ba9) *(Aug 2026)*
-   - **Competencies**: Integrated Water Resources Management (IWRM), Climate Change Adaptation, Watershed & Coastal Hydrology, Disaster Risk Reduction, Water Governance
-   - **Summary**: 20-hour intensive training on Integrated Water Resources Management (IWRM) for Climate Resilience accredited by Cap-Net UNDP and UNEP-DHI Centre, addressing climate change adaptation in water resources, basin management, and resilient water governance frameworks.
-4. **Ocean Governance Capacity Building Training Program (Elective Modules)** - World Bank Group *(Jul 2026)*
-5. **Acoustic Analysis in Kaleidoscope (Part 2): Batch Processing** - Wildlife Acoustics *(Feb 2026)*
-6. **Introduction to Kaleidoscope for Bat Sound Analysis (Beginner Batch 2)** - Wildlife Acoustics *(Feb 2026)*
-7. **How to Use Bat Auto-ID in Kaleidoscope Pro (Advanced)** - Wildlife Acoustics *(Feb 2026)*
-8. **How to Start a General Survey with Kaleidoscope Pro (Advanced)** - Wildlife Acoustics *(Feb 2026)*
-9. **Intro to Acoustic Indices for Biodiversity Monitoring (Intermediate)** - Wildlife Acoustics *(Feb 2026)*
-10. **How to Perform a Targeted Search with Kaleidoscope Pro (Advanced)** - Wildlife Acoustics *(Feb 2026)*
-11. **Introduction to Kaleidoscope for Bat Sound Analysis (Beginner)** - Wildlife Acoustics *(Feb 2026)*
-12. **Kaleidoscope Lite for Bat Analysis** - Wildlife Acoustics *(Feb 2026)*
-13. **Social Network Analysis for Environmental Governance** - International Network for Social Network Analysis (INSNA) *(Feb 2024)*
-14. **Acoustic Analysis in Kaleidoscope (Part 1): Getting Started** - Wildlife Acoustics *(Dec 2023)*
-15. **Ecosystem Approach to Fisheries Management (EAFM) Planning** - Food and Agriculture Organization (FAO) *(Oct 2023)*
-16. **Training of Trainers (ToT) for ASC and IndoGAP Sustainable Aquaculture Standards** - Politeknik AUP & Kementerian Kelautan dan Perikanan (KKP) *(Sep 2023)*
-17. **Evaluating Fisheries Co-Management Effectiveness** - Food and Agriculture Organization (FAO) *(Sep 2023)*
-18. **Assessing Marine Ecosystem Health with Copernicus Marine Data** - Copernicus Marine Service *(Jul 2023)*
-
-### 3. Environmental, Social & Safeguards (ADB/World Bank Safeguards, FPIC, ESG & Community) (20 Trainings)
-
-1. **BSAFE Security & Safety Certificate** - United Nations (UNDSS) *(Feb 2026)*
-2. **Preparing and Responding to Active Shooter Incidents** - United Nations (UNDSS) *(Feb 2026)*
-3. **Prevention of Sexual Exploitation and Abuse (PSEA)** - United Nations *(Feb 2026)*
-4. **Protected Area Technician Training Course - Infrastructure Fundamentals** - Connected Conservation *(Jan 2026)*
-5. **Protected Area Technician Training Course - Tools for Informed Decision Making** - Connected Conservation *(Jan 2026)*
-6. **Corporate Social Responsibility (CSR) Development Specialist** - Corporate Forum for Community Development (CFCD) *(Feb 2025)*
-7. **ADB’s Environment Safeguard Requirements** - Asian Development Bank (ADB) *(Sep 2024)*
-8. **ADB’s Indigenous Peoples Safeguard Requirements** - Asian Development Bank (ADB) *(Sep 2024)*
-9. **Practical Guidance: Respecting Free, Prior and Informed Consent (FPIC)** - Food and Agriculture Organization (FAO) *(Apr 2024)*
-10. **ESG Job Simulation: Sustainable Strategy & Stakeholder Advisory** - Forage *(Feb 2024)*
-11. **Community Development Job Simulation** - Moreton Bay Regional Council / Forage *(Feb 2024)*
-12. **Navigating Data Privacy and Cybersecurity Risks: Insight for Investors** - BrightTALK *(Nov 2023)*
-13. **Training on Monitoring and Evaluation for EnABLE Projects** - World Bank Group *(Nov 2023)*
-14. **Conflict of Interest Risk Management for Your Project** - World Bank Group *(Nov 2023)*
-15. **Sustainability Training and E-Learning Program (STEP)** - World Bank Group *(Nov 2023)*
-16. **Measuring the Role of Forests and Trees in Household Welfare and Livelihoods** - Food and Agriculture Organization (FAO) *(Nov 2023)*
-17. **Free, Prior, and Informed Consent (FPIC) in Practice** - Proforest Academy *(Oct 2023)*
-18. **Free, Prior, and Informed Consent (FPIC) - International Standards** - Proforest Academy *(Oct 2023)*
-19. **Introduction to the Global Environment Facility (GEF)** - World Bank Group & GEF *(Oct 2023)*
-20. **Institutionalization of Forest Data and National Forest Monitoring** - Food and Agriculture Organization (FAO) *(Aug 2023)*
-
-### 4. Occupational Health, Safety, EHS & Quality Assurance (OHSE, ISO Auditing, APDI Drone) (7 Trainings)
-
-1. **Diploma in Occupational Health, Safety and Environment (OHSE)** - [Alison](https://alison.com/course/diploma-in-occupational-health-safety-and-environment-ohse) *(Sep 2026)*
-   - **Competencies**: Occupational Health & Safety (OHS), Environmental Management Systems (EMS), Workplace Hazard & Risk Assessment, Emergency Preparedness, Incident Investigation, HSE Compliance
-   - **Summary**: Comprehensive diploma program in Occupational Health, Safety, and Environment (OHSE) from Alison, covering hazard identification, workplace risk assessments, incident prevention & root cause analysis, environmental protection protocols, emergency response planning, and international HSE management standards.
-2. **Diploma in Environmental Management** - [Alison](https://alison.com/verify/5b82d8b9ba) *(Sep 2026)*
-   - **Competencies**: Environmental Management Systems (EMS / ISO 14001), Environmental Impact Assessment (EIA / ESIA), Environmental Auditing & Compliance, Pollution Prevention & Control, Ecological Sustainability & Resource Efficiency
-   - **Summary**: Comprehensive professional diploma in Environmental Management accredited by Alison (Credential ID: 1917-10374639), covering environmental management systems (ISO 14001), EIA/ESIA screening and scoping, environmental auditing and compliance standards, waste and water resource governance, pollution abatement protocols, and strategic ecological sustainability.
-3. **Network Security Fundamentals** - Palo Alto Networks *(Sep 2025)*
-4. **Certified Remote Pilot (UAV / Drone Operator)** - Asosiasi Pilot Drone Indonesia (APDI) *(Dec 2020)*
-5. **Internal Quality Auditor ISO 9001:2015, ISO 14001:2015 & ISO 45001:2018** - Worldwide Quality Assurance (WQA) *(Dec 2018)*
-6. **Basic First Aid (BFA) Training** - Barron International *(Aug 2014)*
-7. **Basic Sea Survival (BSS) Training** - Barron International *(Aug 2014)*
-
-### 5. Project Management & Institutional Leadership (Modern PM, MEAL & Strategic Leadership) (5 Trainings)
-
-1. **Financial Management Essentials Certificate** - DisasterReady / Cornerstone OnDemand *(Jul 2026)*
-2. **Introduction to Modern Project Management Theory and Practice** - [Alison](https://alison.com/course/introduction-to-modern-project-management-theory-and-practice) *(Jul 2026)*
-   - **Competencies**: Modern Project Management, Project Lifecycle Planning, Agile & Waterfall Methodologies, Work Breakdown Structure (WBS), Risk & Stakeholder Management, Resource Scheduling
-   - **Summary**: CPD-certified professional course on modern project management methodologies from Alison, covering project lifecycle phases, project charter & WBS development, risk management frameworks, Agile & predictive delivery, and stakeholder engagement.
-3. **Project Management Essentials Certificate** - DisasterReady / Cornerstone OnDemand *(Feb 2024)*
-4. **D3: Define, Develop, Deliver Leadership Framework** - Professional Institution *(Nov 2023)*
-5. **Youth Economic Leadership Program (YELP Batch VI)** - Bank Indonesia Institute *(Jul 2022)*
-
----
-
-## Peer-Reviewed Publications & Research Reports (Total: 5)
+## Peer-Reviewed Scientific Publications & Technical Papers (Total: 5)
 
 ### 1. Marine Mammals Interactions with Tuna Fishing Activities in Indonesian Seas
+- **Authors**: undefined
 - **Year**: 2019
 - **Publisher / Conference**: International Seminar on Natural Resources and Environmental Management
 - **DOI / Link**: [https://doi.org/10.1088/1755-1315/399/1/012128](https://doi.org/10.1088/1755-1315/399/1/012128)
-- **Summary**: Research paper assessing spatial interactions and mitigation strategies between marine mammal populations and industrial tuna longline fisheries across Indonesian fishing zones.
 
 ### 2. Observations on Australian Humpback Dolphins (Sousa sahulensis) in Waters of the Pacific Islands and New Guinea
+- **Authors**: undefined
 - **Year**: 2016
 - **Publisher / Conference**: Current Status and Conservation, Part 2, Vol 73, AMB, UK: Academic Press, pp. 219-271
 - **DOI / Link**: [https://doi.org/10.1016/bs.amb.2015.08.003](https://doi.org/10.1016/bs.amb.2015.08.003)
-- **Summary**: Comprehensive peer-reviewed book chapter and field study documenting the distribution, ecology, and conservation status of Australian humpback dolphins in the Pacific and New Guinea.
 
 ### 3. Application of Radon Transform Method for 2D Seismic Multiple Wave Reduction in West Sumatra Waters
+- **Authors**: undefined
 - **Year**: 2013
 - **Publisher / Conference**: IPB University Scientific Repository - Undergraduate Thesis (Advisor: Prof. Dr. Henry M. Manik)
 - **DOI / Link**: [https://repository.ipb.ac.id/handle/123456789/63281](https://repository.ipb.ac.id/handle/123456789/63281)
-- **Summary**: Undergraduate research in marine geophysics and seismic data processing applying Radon Transform (Tau-P Analysis) to attenuate surface multiples on 2D marine seismic line SUME23.31 in West Sumatra waters.
 
 ### 4. Sound of Fish Affects Fish Productivity
+- **Authors**: undefined
 - **Year**: 2012
 - **Publisher / Conference**: Research Innovation Award - Business Innovation Center (BIC), Indonesia
 - **DOI / Link**: [https://www.antaranews.com/berita/342159/mahasiswa-ipb-temukan-cara-deteksi-produktivitas-ikan](https://www.antaranews.com/berita/342159/mahasiswa-ipb-temukan-cara-deteksi-produktivitas-ikan)
-- **Summary**: National award-winning research innovation on passive acoustic detection and bioacoustic monitoring for fish productivity.
 
 ### 5. Investigation on Salinity, Turbidity, and Total Suspended Solid (TSS) in Cimandiri River and Its Impact on Marine Environment
+- **Authors**: undefined
 - **Year**: 2012
 - **Publisher / Conference**: Marine Science and Technology Dept., Bogor Agriculture University Journal
 - **DOI / Link**: [https://repository.ipb.ac.id](https://repository.ipb.ac.id)
-- **Summary**: Estuarine and coastal water quality assessment analyzing terrestrial sediment runoff, salinity gradients, and environmental impacts on coastal ecosystems.
 
 ---
 
-## Honors, Awards & Recognitions
+## Professional Certifications & Specialized Training (Total: 72)
 
-1. **[2026] Key Essentials: The Global Biodiversity Framework, Sustainable Development and the Law**
-   - **Issued by**: Democratising Education for Global Sustainability and Justice (DemEd Global) / University of Cambridge
-   - **Summary**: Selected again through a highly competitive global selection process to receive a donor-funded scholarship, and successfully completed the executive short course on the Kunming-Montreal Global Biodiversity Framework (GBF), Sustainable Development and the Law, delivered by Lucy Cavendish College and Hughes Hall, University of Cambridge.
+### 1. Operationalizing Article 6.2 of the Paris Agreement: Achieving Ambitious Climate Action Through Cooperative Approaches
+- **Issuer**: United Nations Development Programme (UNDP), UNFCCC & Learning for Nature
+- **Date / Period**: Oct 2026
+- **Category**: carbon-climate
 
-2. **[2026] Key Essentials: The Sustainable Development Goals and the Law**
-   - **Issued by**: Democratising Education for Global Sustainability and Justice (DemEd Global) / University of Cambridge
-   - **Summary**: Selected among 4,800+ global applicants across 150+ countries to receive a donor-funded scholarship for the intensive short course on Sustainable Development Goals and the Law, delivered by Lucy Cavendish College and Hughes Hall, University of Cambridge.
+### 2. Building Skills for Coastal Restoration with Nature and People
+- **Issuer**: UNESCO/IOC OceanTeacher Global Academy (OTGA) & A-AAGORA Project
+- **Date / Period**: Sep 2026
+- **Category**: marine-fisheries
 
-3. **[2026] UNITAR Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance**
-   - **Issued by**: United Nations Institute for Training and Research (UNITAR) and UN CC:Learn
-   - **Summary**: Selected through a competitive selection process among applicants across the ASEAN region for the Japan-ASEAN strategic initiative delivered by UNITAR. The program focuses on sustainable green finance mechanisms, bankable green project design, and regional policies driving the green economic transition.
+### 3. Introduction to Biodiversity Credits (Learning Journey)
+- **Issuer**: Biodiversity Credit Alliance (BCA), Nature for Life Hub & University of Nottingham
+- **Date / Period**: Sep 2026
+- **Category**: carbon-climate
 
-4. **[2022] The 114th Prospective Innovation Award of Indonesia - 2022 Indonesia Scientist Award**
-   - **Issued by**: Business Innovation Center (BIC) & Ministry of Research and Technology (Kemenristek/BRIN)
-   - **Summary**: National innovation recognition awarded for applied marine technology and sustainable fisheries innovation.
+### 4. Climate Finance Transparency
+- **Issuer**: Initiative for Climate Action Transparency (ICAT) & Learning for Nature
+- **Date / Period**: Sep 2026
+- **Category**: carbon-climate
 
-5. **[2022] Candidate in Youth Economic Leadership Program (YELP)**
-   - **Issued by**: Bank Indonesia Institute
-   - **Summary**: Selected candidate for the national economic and leadership acceleration initiative by Bank Indonesia Institute.
+### 5. Biodiversity Finance: Designing and Implementing Finance Plans for Nature
+- **Issuer**: UNDP Biodiversity Finance Initiative (BIOFIN) & Learning for Nature
+- **Date / Period**: Sep 2026
+- **Category**: carbon-climate
 
-6. **[2019] Featured Speaker at DigiFish Incubating Ecosystem of Digital Innovation**
-   - **Issued by**: DigiFish Network & Ministry of Marine Affairs and Fisheries (KKP)
-   - **Summary**: Invited keynote and expert speaker on digital transformation, satellite VMS, and IoT smart aquaculture platforms.
+### 6. ICAT Training on the Use of the IPCC Inventory Software
+- **Issuer**: Initiative for Climate Action Transparency (ICAT), IPCC TSU & UNDP Learning for Nature
+- **Date / Period**: Sep 2026
+- **Category**: carbon-climate
 
-7. **[2014] Indonesian Young Innovator Award**
-   - **Issued by**: Inovasia Indonesia & Kemenpora RI
-   - **Summary**: Recognized among top national youth innovators for applied environmental and acoustic research.
+### 7. Source-to-Sea (S2S) Management Course
+- **Issuer**: Cap-Net UNDP, SIWI & Action Platform for Source-to-Sea Management
+- **Date / Period**: Sep 2026
+- **Category**: marine-fisheries
 
-8. **[2013] Indonesian Youth Parliament Delegate for North Maluku**
-   - **Issued by**: Indonesian Youth Parliament
-   - **Summary**: Selected youth parliamentary representative advocating coastal governance, archipelagic policy, and marine conservation.
+### 8. REDD+ Academy: Forest Carbon & National Strategy Capacity Building
+- **Issuer**: UN-REDD Programme (FAO, UNDP, UNEP)
+- **Date / Period**: Sep 2026
+- **Category**: carbon-climate
 
-9. **[2012] The 104th Prospective Innovation Award of Indonesia - 2012 Indonesia Scientist Award**
-   - **Issued by**: Business Innovation Center (BIC)
-   - **Summary**: Awarded for pioneering undergraduate research on bioacoustics and acoustic fish behavior.
+### 9. Diploma in Occupational Health, Safety and Environment (OHSE)
+- **Issuer**: Alison
+- **Date / Period**: Sep 2026
+- **Category**: hse-quality
 
-10. **[2012] Candidate in Indonesian Leadership Camp**
-   - **Issued by**: IPB University
-   - **Summary**: Selected participant for intensive student leadership and governance camp.
+### 10. Diploma in Environmental Management
+- **Issuer**: Alison
+- **Date / Period**: Sep 2026
+- **Category**: hse-quality
+
+### 11. Article 6 Decision-Making: Training for Practitioners
+- **Issuer**: Paris Agreement Article 6 Implementation Partnership (A6IP) Center, Perspectives Climate Research & GHGMI
+- **Date / Period**: Sep 2026
+- **Category**: carbon-climate
+
+### 12. 201 Basics of Organizational GHG Accounting (Certificate of Proficiency)
+- **Issuer**: The Greenhouse Gas Management Institute (GHGMI)
+- **Date / Period**: Aug 2026
+- **Category**: carbon-climate
+
+### 13. IWRM for Climate Resilience (20-Hour Training Course)
+- **Issuer**: Cap-Net UNDP & UNEP-DHI Centre
+- **Date / Period**: Aug 2026
+- **Category**: marine-fisheries
+
+### 14. The German Supply Chain Due Diligence Act (LkSG / SCDDA)
+- **Issuer**: Import Promotion Desk (IPD Germany)
+- **Date / Period**: Aug 2026
+- **Category**: carbon-climate
+
+### 15. EU Deforestation Regulation (EUDR) Compliance & Due Diligence
+- **Issuer**: Import Promotion Desk (IPD Germany)
+- **Date / Period**: Aug 2026
+- **Category**: carbon-climate
+
+### 16. Blue Carbon Fundamentals
+- **Issuer**: World Bank Group
+- **Date / Period**: Jul 2026
+- **Category**: carbon-climate
+
+### 17. Ocean Governance Capacity Building Training Program (Elective Modules)
+- **Issuer**: World Bank Group
+- **Date / Period**: Jul 2026
+- **Category**: marine-fisheries
+
+### 18. Financial Management Essentials Certificate
+- **Issuer**: DisasterReady / Cornerstone OnDemand
+- **Date / Period**: Jul 2026
+- **Category**: project-leadership
+
+### 19. Introduction to Modern Project Management Theory and Practice
+- **Issuer**: Alison
+- **Date / Period**: Jul 2026
+- **Category**: project-leadership
+
+### 20. Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance
+- **Issuer**: United Nations Institute for Training and Research (UNITAR)
+- **Date / Period**: Jul 2026
+- **Category**: carbon-climate
+
+### 21. Blue Carbon Project Development & MRV Specialist Training
+- **Issuer**: Fair Carbon (Blue Carbon Academy)
+- **Date / Period**: May 2026
+- **Category**: carbon-climate
+
+### 22. Carbon Credits Project Fundamentals
+- **Issuer**: Blooms Academy
+- **Date / Period**: Apr 2026
+- **Category**: carbon-climate
+
+### 23. BSAFE Security & Safety Certificate
+- **Issuer**: United Nations (UNDSS)
+- **Date / Period**: Feb 2026
+- **Category**: safeguards-social
+
+### 24. Acoustic Analysis in Kaleidoscope (Part 2): Batch Processing
+- **Issuer**: Wildlife Acoustics
+- **Date / Period**: Feb 2026
+- **Category**: marine-fisheries
+
+### 25. Introduction to Kaleidoscope for Bat Sound Analysis (Beginner Batch 2)
+- **Issuer**: Wildlife Acoustics
+- **Date / Period**: Feb 2026
+- **Category**: marine-fisheries
+
+### 26. How to Use Bat Auto-ID in Kaleidoscope Pro (Advanced)
+- **Issuer**: Wildlife Acoustics
+- **Date / Period**: Feb 2026
+- **Category**: marine-fisheries
+
+### 27. How to Start a General Survey with Kaleidoscope Pro (Advanced)
+- **Issuer**: Wildlife Acoustics
+- **Date / Period**: Feb 2026
+- **Category**: marine-fisheries
+
+### 28. Intro to Acoustic Indices for Biodiversity Monitoring (Intermediate)
+- **Issuer**: Wildlife Acoustics
+- **Date / Period**: Feb 2026
+- **Category**: marine-fisheries
+
+### 29. How to Perform a Targeted Search with Kaleidoscope Pro (Advanced)
+- **Issuer**: Wildlife Acoustics
+- **Date / Period**: Feb 2026
+- **Category**: marine-fisheries
+
+### 30. Introduction to Kaleidoscope for Bat Sound Analysis (Beginner)
+- **Issuer**: Wildlife Acoustics
+- **Date / Period**: Feb 2026
+- **Category**: marine-fisheries
+
+### 31. Kaleidoscope Lite for Bat Analysis
+- **Issuer**: Wildlife Acoustics
+- **Date / Period**: Feb 2026
+- **Category**: marine-fisheries
+
+### 32. Preparing and Responding to Active Shooter Incidents
+- **Issuer**: United Nations (UNDSS)
+- **Date / Period**: Feb 2026
+- **Category**: safeguards-social
+
+### 33. Prevention of Sexual Exploitation and Abuse (PSEA)
+- **Issuer**: United Nations
+- **Date / Period**: Feb 2026
+- **Category**: safeguards-social
+
+### 34. Protected Area Technician Training Course - Infrastructure Fundamentals
+- **Issuer**: Connected Conservation
+- **Date / Period**: Jan 2026
+- **Category**: safeguards-social
+
+### 35. Protected Area Technician Training Course - Tools for Informed Decision Making
+- **Issuer**: Connected Conservation
+- **Date / Period**: Jan 2026
+- **Category**: safeguards-social
+
+### 36. Global Carbon Summit Indonesia 2025
+- **Issuer**: Global Carbon Summit
+- **Date / Period**: Nov 2025
+- **Category**: carbon-climate
+
+### 37. Network Security Fundamentals
+- **Issuer**: Palo Alto Networks
+- **Date / Period**: Sep 2025
+- **Category**: hse-quality
+
+### 38. Corporate Social Responsibility (CSR) Development Specialist
+- **Issuer**: Corporate Forum for Community Development (CFCD)
+- **Date / Period**: Feb 2025
+- **Category**: safeguards-social
+
+### 39. ADB’s Environment Safeguard Requirements
+- **Issuer**: Asian Development Bank (ADB)
+- **Date / Period**: Sep 2024
+- **Category**: safeguards-social
+
+### 40. ADB’s Indigenous Peoples Safeguard Requirements
+- **Issuer**: Asian Development Bank (ADB)
+- **Date / Period**: Sep 2024
+- **Category**: safeguards-social
+
+### 41. Human Dimensions of Forest and Landscape Restoration
+- **Issuer**: Society for Ecological Restoration (SER)
+- **Date / Period**: Jul 2024
+- **Category**: carbon-climate
+
+### 42. Climate Action Now Program
+- **Issuer**: Pachamama Alliance
+- **Date / Period**: Jun 2024
+- **Category**: carbon-climate
+
+### 43. Ground-Based Forest Carbon Stock Accounting (SNI 7724)
+- **Issuer**: Generasi Biologi Indonesia
+- **Date / Period**: Jun 2024
+- **Category**: carbon-climate
+
+### 44. Introduction to Forest and Landscape Restoration
+- **Issuer**: Food and Agriculture Organization (FAO)
+- **Date / Period**: Apr 2024
+- **Category**: carbon-climate
+
+### 45. Sustainable Financing of Forest and Landscape Restoration
+- **Issuer**: Food and Agriculture Organization (FAO)
+- **Date / Period**: Apr 2024
+- **Category**: carbon-climate
+
+### 46. Practical Guidance: Respecting Free, Prior and Informed Consent (FPIC)
+- **Issuer**: Food and Agriculture Organization (FAO)
+- **Date / Period**: Apr 2024
+- **Category**: safeguards-social
+
+### 47. ESG Job Simulation: Sustainable Strategy & Stakeholder Advisory
+- **Issuer**: Forage
+- **Date / Period**: Feb 2024
+- **Category**: safeguards-social
+
+### 48. Community Development Job Simulation
+- **Issuer**: Moreton Bay Regional Council / Forage
+- **Date / Period**: Feb 2024
+- **Category**: safeguards-social
+
+### 49. Project Management Essentials Certificate
+- **Issuer**: DisasterReady / Cornerstone OnDemand
+- **Date / Period**: Feb 2024
+- **Category**: project-leadership
+
+### 50. Social Network Analysis for Environmental Governance
+- **Issuer**: International Network for Social Network Analysis (INSNA)
+- **Date / Period**: Feb 2024
+- **Category**: marine-fisheries
+
+### 51. Acoustic Analysis in Kaleidoscope (Part 1): Getting Started
+- **Issuer**: Wildlife Acoustics
+- **Date / Period**: Dec 2023
+- **Category**: marine-fisheries
+
+### 52. Navigating Data Privacy and Cybersecurity Risks: Insight for Investors
+- **Issuer**: BrightTALK
+- **Date / Period**: Nov 2023
+- **Category**: safeguards-social
+
+### 53. Training on Monitoring and Evaluation for EnABLE Projects
+- **Issuer**: World Bank Group
+- **Date / Period**: Nov 2023
+- **Category**: safeguards-social
+
+### 54. Conflict of Interest Risk Management for Your Project
+- **Issuer**: World Bank Group
+- **Date / Period**: Nov 2023
+- **Category**: safeguards-social
+
+### 55. Sustainability Training and E-Learning Program (STEP)
+- **Issuer**: World Bank Group
+- **Date / Period**: Nov 2023
+- **Category**: safeguards-social
+
+### 56. D3: Define, Develop, Deliver Leadership Framework
+- **Issuer**: Professional Institution
+- **Date / Period**: Nov 2023
+- **Category**: project-leadership
+
+### 57. Climate Change and Sovereign Risk
+- **Issuer**: Asian Development Bank Institute (ADBI)
+- **Date / Period**: Nov 2023
+- **Category**: carbon-climate
+
+### 58. Measuring the Role of Forests and Trees in Household Welfare and Livelihoods
+- **Issuer**: Food and Agriculture Organization (FAO)
+- **Date / Period**: Nov 2023
+- **Category**: safeguards-social
+
+### 59. Free, Prior, and Informed Consent (FPIC) in Practice
+- **Issuer**: Proforest Academy
+- **Date / Period**: Oct 2023
+- **Category**: safeguards-social
+
+### 60. Free, Prior, and Informed Consent (FPIC) - International Standards
+- **Issuer**: Proforest Academy
+- **Date / Period**: Oct 2023
+- **Category**: safeguards-social
+
+### 61. Introduction to the Global Environment Facility (GEF)
+- **Issuer**: World Bank Group & GEF
+- **Date / Period**: Oct 2023
+- **Category**: safeguards-social
+
+### 62. Ecosystem Approach to Fisheries Management (EAFM) Planning
+- **Issuer**: Food and Agriculture Organization (FAO)
+- **Date / Period**: Oct 2023
+- **Category**: marine-fisheries
+
+### 63. Training of Trainers (ToT) for ASC and IndoGAP Sustainable Aquaculture Standards
+- **Issuer**: Politeknik AUP & Kementerian Kelautan dan Perikanan (KKP)
+- **Date / Period**: Sep 2023
+- **Category**: marine-fisheries
+
+### 64. Evaluating Fisheries Co-Management Effectiveness
+- **Issuer**: Food and Agriculture Organization (FAO)
+- **Date / Period**: Sep 2023
+- **Category**: marine-fisheries
+
+### 65. Institutionalization of Forest Data and National Forest Monitoring
+- **Issuer**: Food and Agriculture Organization (FAO)
+- **Date / Period**: Aug 2023
+- **Category**: safeguards-social
+
+### 66. Assessing Marine Ecosystem Health with Copernicus Marine Data
+- **Issuer**: Copernicus Marine Service
+- **Date / Period**: Jul 2023
+- **Category**: marine-fisheries
+
+### 67. B20 Side Event: Technology & Market Innovation for Decarbonization
+- **Issuer**: B20 Indonesia / KADIN
+- **Date / Period**: Aug 2022
+- **Category**: carbon-climate
+
+### 68. Youth Economic Leadership Program (YELP Batch VI)
+- **Issuer**: Bank Indonesia Institute
+- **Date / Period**: Jul 2022
+- **Category**: project-leadership
+
+### 69. Certified Remote Pilot (UAV / Drone Operator)
+- **Issuer**: Asosiasi Pilot Drone Indonesia (APDI)
+- **Date / Period**: Dec 2020
+- **Category**: hse-quality
+
+### 70. Internal Quality Auditor ISO 9001:2015, ISO 14001:2015 & ISO 45001:2018
+- **Issuer**: Worldwide Quality Assurance (WQA)
+- **Date / Period**: Dec 2018
+- **Category**: hse-quality
+
+### 71. Basic First Aid (BFA) Training
+- **Issuer**: Barron International
+- **Date / Period**: Aug 2014
+- **Category**: hse-quality
+
+### 72. Basic Sea Survival (BSS) Training
+- **Issuer**: Barron International
+- **Date / Period**: Aug 2014
+- **Category**: hse-quality
 
 ---
 
-## Professional Memberships & Academic Affiliations
+## Honors & National Innovation Awards
 
-1. **[Asian Fisheries Acoustics Society (AFAS)](https://www.afas-acoustic.org/)**
-   - **Role / Status**: Member *(2012 - Present)*
-   - **Scope / Contribution**: Active member contributing to regional advancements in underwater bioacoustics, fisheries acoustic survey technologies, optical-acoustic integration, and marine ecosystem monitoring.
+### 1. undefined
+- **Issuer / Organization**: Democratising Education for Global Sustainability and Justice (DemEd Global) / University of Cambridge
+- **Year**: 2026
+- **Scope / Significance**: undefined
+
+### 2. undefined
+- **Issuer / Organization**: Democratising Education for Global Sustainability and Justice (DemEd Global) / University of Cambridge
+- **Year**: 2026
+- **Scope / Significance**: undefined
+
+### 3. undefined
+- **Issuer / Organization**: United Nations Institute for Training and Research (UNITAR) and UN CC:Learn
+- **Year**: 2026
+- **Scope / Significance**: undefined
+
+### 4. undefined
+- **Issuer / Organization**: Business Innovation Center (BIC) & Ministry of Research and Technology (Kemenristek/BRIN)
+- **Year**: 2022
+- **Scope / Significance**: undefined
+
+### 5. undefined
+- **Issuer / Organization**: Bank Indonesia Institute
+- **Year**: 2022
+- **Scope / Significance**: undefined
+
+### 6. undefined
+- **Issuer / Organization**: DigiFish Network & Ministry of Marine Affairs and Fisheries (KKP)
+- **Year**: 2019
+- **Scope / Significance**: undefined
+
+### 7. undefined
+- **Issuer / Organization**: Inovasia Indonesia & Kemenpora RI
+- **Year**: 2014
+- **Scope / Significance**: undefined
+
+### 8. undefined
+- **Issuer / Organization**: Indonesian Youth Parliament
+- **Year**: 2013
+- **Scope / Significance**: undefined
+
+### 9. undefined
+- **Issuer / Organization**: Business Innovation Center (BIC)
+- **Year**: 2012
+- **Scope / Significance**: undefined
+
+### 10. undefined
+- **Issuer / Organization**: IPB University
+- **Year**: 2012
+- **Scope / Significance**: undefined
+
+---
+
+## Professional Memberships & Scientific Societies
+
+### 1. undefined
+- **Role / Status**: Member
+- **Scope / Contribution**: undefined
 
 ---
 
 ## Professional References
 
-1. **Dr. Lida Pet-Soede**  
-   Director of Marine Unit Service, Hatfield Group  
-   *Contact available upon request*
+1. **Dr. Lida Pet-Soede**
+   - **Position**: Director of Marine Unit Service
+   - **Affiliation**: Hatfield Group
+   - **Contact / Relationship**: Contact available upon request (undefined)
 
-2. **Dr. I Wayan Nurjaya**  
-   Head of Department of Marine Science and Technology, Bogor Agricultural University (IPB University)  
-   *Contact available upon request*
+2. **Dr. I Wayan Nurjaya**
+   - **Position**: Head of Department of Marine Science and Technology
+   - **Affiliation**: Bogor Agricultural University (IPB University)
+   - **Contact / Relationship**: Contact available upon request (undefined)
 
-3. **Prof. Henry M. Manik, S.Pi., M.T., Ph.D.**  
-   Professor of Ocean Acoustics and Instrumentation, Department of Marine Science and Technology, IPB University  
-   *Contact available upon request*
+3. **Prof. Henry M. Manik, S.Pi., M.T., Ph.D.**
+   - **Position**: Professor of Ocean Acoustics and Instrumentation
+   - **Affiliation**: Department of Marine Science and Technology, IPB University
+   - **Contact / Relationship**: Contact available upon request (undefined)
 
-4. **Dr. Windi Al Zahra**  
-   Senior Researcher / Climate & Environmental Specialist, Centre for Climate Risk and Opportunity Management (CCROM SEAP), IPB University  
-   *Contact available upon request*
+4. **Dr. Windi Al Zahra**
+   - **Position**: Senior Researcher / Climate & Environmental Specialist
+   - **Affiliation**: Centre for Climate Risk and Opportunity Management (CCROM SEAP), IPB University
+   - **Contact / Relationship**: Contact available upon request (undefined)
 
-5. **Dias Natasasmita**  
-   Marine Specialist, World Bank Group  
-   *Contact available upon request*
+5. **Dias Natasasmita**
+   - **Position**: Marine Specialist
+   - **Affiliation**: World Bank Group
+   - **Contact / Relationship**: Contact available upon request (undefined)
 
