@@ -15,7 +15,7 @@ Senior Marine Environmental Specialist and Climate Mitigation Technical Lead wit
 - **13+** Years Professional Experience
 - **31** Completed High-Impact Projects & Technical Reports
 - **72+** Professional Certifications & Specialized Training Programs
-- **5** Peer-Reviewed Scientific Publications & Conference Papers
+- **6** Peer-Reviewed Scientific Publications & Conference Papers
 
 ---
 
@@ -278,33 +278,39 @@ Over the past 13+ years, I Gede Mahendra Wijaya has directed, managed, and contr
 
 ---
 
-## Peer-Reviewed Scientific Publications & Technical Papers (Total: 5)
+## Peer-Reviewed Scientific Publications & Technical Papers (Total: 6)
 
-### 1. Marine Mammals Interactions with Tuna Fishing Activities in Indonesian Seas
+### 1. Digital Shrimp Cultivation: SMARTSHRIMPS.ID - Smart Mobile & Web Application for Indonesian Shrimp Farmers (Budidaya Udang Cara Digital)
+- **Year**: 2022
+- **Publisher / Conference**: 114 Inovasi Indonesia 2022 - Business Innovation Center (BIC) & Ministry of Research and Technology (Kemenristek/BRIN)
+- **DOI / Link**: [https://bic.web.id/general/view/Budidaya+Udang+Cara+Digital+](https://bic.web.id/general/view/Budidaya+Udang+Cara+Digital+)
+- **Scope / Summary**: National award-winning digital innovation developing a smart mobile and web application for optimizing daily shrimp farming data, real-time water quality monitoring, and traceability to elevate smallholder aquaculture productivity to international export standards.
+
+### 2. Marine Mammals Interactions with Tuna Fishing Activities in Indonesian Seas
 - **Year**: 2019
 - **Publisher / Conference**: International Seminar on Natural Resources and Environmental Management
 - **DOI / Link**: [https://doi.org/10.1088/1755-1315/399/1/012128](https://doi.org/10.1088/1755-1315/399/1/012128)
 - **Scope / Summary**: Research paper assessing spatial interactions and mitigation strategies between marine mammal populations and industrial tuna longline fisheries across Indonesian fishing zones.
 
-### 2. Observations on Australian Humpback Dolphins (Sousa sahulensis) in Waters of the Pacific Islands and New Guinea
+### 3. Observations on Australian Humpback Dolphins (Sousa sahulensis) in Waters of the Pacific Islands and New Guinea
 - **Year**: 2016
 - **Publisher / Conference**: Current Status and Conservation, Part 2, Vol 73, AMB, UK: Academic Press, pp. 219-271
 - **DOI / Link**: [https://doi.org/10.1016/bs.amb.2015.08.003](https://doi.org/10.1016/bs.amb.2015.08.003)
 - **Scope / Summary**: Comprehensive peer-reviewed book chapter and field study documenting the distribution, ecology, and conservation status of Australian humpback dolphins in the Pacific and New Guinea.
 
-### 3. Application of Radon Transform Method for 2D Seismic Multiple Wave Reduction in West Sumatra Waters
+### 4. Application of Radon Transform Method for 2D Seismic Multiple Wave Reduction in West Sumatra Waters
 - **Year**: 2013
 - **Publisher / Conference**: IPB University Scientific Repository - Undergraduate Thesis (Advisor: Prof. Dr. Henry M. Manik)
 - **DOI / Link**: [https://repository.ipb.ac.id/handle/123456789/63281](https://repository.ipb.ac.id/handle/123456789/63281)
 - **Scope / Summary**: Undergraduate research in marine geophysics and seismic data processing applying Radon Transform (Tau-P Analysis) to attenuate surface multiples on 2D marine seismic line SUME23.31 in West Sumatra waters.
 
-### 4. Sound of Fish Affects Fish Productivity
+### 5. Spionase Bawah Air: Sound of Fish Affects Fish Productivity
 - **Year**: 2012
-- **Publisher / Conference**: Research Innovation Award - Business Innovation Center (BIC), Indonesia
-- **DOI / Link**: [https://www.antaranews.com/berita/342159/mahasiswa-ipb-temukan-cara-deteksi-produktivitas-ikan](https://www.antaranews.com/berita/342159/mahasiswa-ipb-temukan-cara-deteksi-produktivitas-ikan)
-- **Scope / Summary**: National award-winning research innovation on passive acoustic detection and bioacoustic monitoring for fish productivity.
+- **Publisher / Conference**: 104 Inovasi Indonesia 2012 - Business Innovation Center (BIC) & Ministry of Research and Technology
+- **DOI / Link**: [https://bic.web.id/general/view/Spionase+Bawah+Air](https://bic.web.id/general/view/Spionase+Bawah+Air)
+- **Scope / Summary**: National award-winning research innovation on passive acoustic detection, bioacoustic monitoring, and fish behavior analysis to assess aquaculture fish productivity.
 
-### 5. Investigation on Salinity, Turbidity, and Total Suspended Solid (TSS) in Cimandiri River and Its Impact on Marine Environment
+### 6. Investigation on Salinity, Turbidity, and Total Suspended Solid (TSS) in Cimandiri River and Its Impact on Marine Environment
 - **Year**: 2012
 - **Publisher / Conference**: Marine Science and Technology Dept., Bogor Agriculture University Journal
 - **DOI / Link**: [https://repository.ipb.ac.id](https://repository.ipb.ac.id)
@@ -696,7 +702,7 @@ Over the past 13+ years, I Gede Mahendra Wijaya has directed, managed, and contr
 ### 4. The 114th Prospective Innovation Award of Indonesia - 2022 Indonesia Scientist Award
 - **Issuer / Organization**: Business Innovation Center (BIC) & Ministry of Research and Technology (Kemenristek/BRIN)
 - **Year**: 2022
-- **Scope / Significance**: National innovation recognition awarded for applied marine technology and sustainable fisheries innovation.
+- **Scope / Significance**: National innovation recognition awarded for "Budidaya Udang Cara Digital (SMARTSHRIMPS.ID)" - a pioneering smart digital application optimizing real-time monitoring and traceability for Indonesian shrimp farmers.
 
 ### 5. Candidate in Youth Economic Leadership Program (YELP)
 - **Issuer / Organization**: Bank Indonesia Institute
@@ -726,7 +732,7 @@ Over the past 13+ years, I Gede Mahendra Wijaya has directed, managed, and contr
 ### 10. The 104th Prospective Innovation Award of Indonesia - 2012 Indonesia Scientist Award
 - **Issuer / Organization**: Business Innovation Center (BIC)
 - **Year**: 2012
-- **Scope / Significance**: Awarded for pioneering undergraduate research on bioacoustics and acoustic fish behavior.
+- **Scope / Significance**: Awarded for pioneering undergraduate research on "Spionase Bawah Air (Sound of Fish Affects Fish Productivity)" utilizing passive bioacoustic detection to determine fish behavior and productivity.
 
 ### 11. Candidate in Indonesian Leadership Camp
 - **Issuer / Organization**: IPB University

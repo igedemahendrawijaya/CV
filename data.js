@@ -26,7 +26,7 @@ export const cvData = {
         "label": "Certifications"
       },
       {
-        "value": "5",
+        "value": "6",
         "label": "Publications"
       }
     ],
@@ -562,6 +562,13 @@ export const cvData = {
     ],
     "publications": [
       {
+        "year": "2022",
+        "title": "Digital Shrimp Cultivation: SMARTSHRIMPS.ID - Smart Mobile & Web Application for Indonesian Shrimp Farmers (Budidaya Udang Cara Digital)",
+        "publisher": "114 Inovasi Indonesia 2022 - Business Innovation Center (BIC) & Ministry of Research and Technology (Kemenristek/BRIN)",
+        "link": "https://bic.web.id/general/view/Budidaya+Udang+Cara+Digital+",
+        "description": "National award-winning digital innovation developing a smart mobile and web application for optimizing daily shrimp farming data, real-time water quality monitoring, and traceability to elevate smallholder aquaculture productivity to international export standards."
+      },
+      {
         "year": "2019",
         "title": "Marine Mammals Interactions with Tuna Fishing Activities in Indonesian Seas",
         "publisher": "International Seminar on Natural Resources and Environmental Management",
@@ -584,10 +591,10 @@ export const cvData = {
       },
       {
         "year": "2012",
-        "title": "Sound of Fish Affects Fish Productivity",
-        "publisher": "Research Innovation Award - Business Innovation Center (BIC), Indonesia",
-        "link": "https://www.antaranews.com/berita/342159/mahasiswa-ipb-temukan-cara-deteksi-produktivitas-ikan",
-        "description": "National award-winning research innovation on passive acoustic detection and bioacoustic monitoring for fish productivity."
+        "title": "Spionase Bawah Air: Sound of Fish Affects Fish Productivity",
+        "publisher": "104 Inovasi Indonesia 2012 - Business Innovation Center (BIC) & Ministry of Research and Technology",
+        "link": "https://bic.web.id/general/view/Spionase+Bawah+Air",
+        "description": "National award-winning research innovation on passive acoustic detection, bioacoustic monitoring, and fish behavior analysis to assess aquaculture fish productivity."
       },
       {
         "year": "2012",
@@ -1686,7 +1693,7 @@ export const cvData = {
         "name": "The 114th Prospective Innovation Award of Indonesia - 2022 Indonesia Scientist Award",
         "issuer": "Business Innovation Center (BIC) & Ministry of Research and Technology (Kemenristek/BRIN)",
         "date": "2022",
-        "description": "National innovation recognition awarded for applied marine technology and sustainable fisheries innovation."
+        "description": "National innovation recognition awarded for \"Budidaya Udang Cara Digital (SMARTSHRIMPS.ID)\" - a pioneering smart digital application optimizing real-time monitoring and traceability for Indonesian shrimp farmers."
       },
       {
         "year": "2022",
@@ -1728,7 +1735,7 @@ export const cvData = {
         "name": "The 104th Prospective Innovation Award of Indonesia - 2012 Indonesia Scientist Award",
         "issuer": "Business Innovation Center (BIC)",
         "date": "2012",
-        "description": "Awarded for pioneering undergraduate research on bioacoustics and acoustic fish behavior."
+        "description": "Awarded for pioneering undergraduate research on \"Spionase Bawah Air (Sound of Fish Affects Fish Productivity)\" utilizing passive bioacoustic detection to determine fish behavior and productivity."
       },
       {
         "year": "2012",
@@ -2480,7 +2487,7 @@ export const cvData = {
         "label": "Sertifikasi"
       },
       {
-        "value": "5",
+        "value": "6",
         "label": "Publikasi"
       }
     ],
@@ -3016,6 +3023,13 @@ export const cvData = {
     ],
     "publications": [
       {
+        "year": "2022",
+        "title": "Budidaya Udang Cara Digital: SMARTSHRIMPS.ID - Aplikasi Pintar Petambak Udang Indonesia",
+        "publisher": "114 Inovasi Indonesia 2022 - Business Innovation Center (BIC) & Kementerian Riset dan Teknologi (Kemenristek/BRIN)",
+        "link": "https://bic.web.id/general/view/Budidaya+Udang+Cara+Digital+",
+        "description": "Inovasi digital nasional pemenang 114 Inovasi Indonesia yang mengembangkan aplikasi cerdas berbasis mobile & web untuk optimalisasi pendataan harian budidaya udang, pemantauan real-time kualitas air, dan keterlacakan (traceability) guna meningkatkan produktivitas petambak menuju standar ekspor internasional."
+      },
+      {
         "year": "2019",
         "title": "Interaksi Mamalia Laut dengan Aktivitas Perikanan Tuna di Perairan Indonesia",
         "publisher": "Seminar Internasional tentang Pengelolaan Sumber Daya Alam dan Lingkungan",
@@ -3038,10 +3052,10 @@ export const cvData = {
       },
       {
         "year": "2012",
-        "title": "Suara Ikan Memengaruhi Produktivitas Ikan",
-        "publisher": "Penghargaan Inovasi Riset - Business Innovation Center (BIC), Indonesia",
-        "link": "https://www.antaranews.com/berita/342159/mahasiswa-ipb-temukan-cara-deteksi-produktivitas-ikan",
-        "description": "Inovasi riset nasional pemenang penghargaan 104 Inovasi Indonesia mengenai teknologi bioakustik pasif untuk mendeteksi produktivitas dan perilaku ikan."
+        "title": "Spionase Bawah Air: Suara Ikan Menentukan Produktivitas (Sound of Fish Affects Fish Productivity)",
+        "publisher": "104 Inovasi Indonesia 2012 - Business Innovation Center (BIC) & Kementerian Riset dan Teknologi RI",
+        "link": "https://bic.web.id/general/view/Spionase+Bawah+Air",
+        "description": "Inovasi riset nasional pemenang 104 Inovasi Indonesia mengenai teknologi bioakustik pasif untuk mendeteksi produktivitas dan tingkah laku ikan budidaya."
       },
       {
         "year": "2012",
@@ -4140,7 +4154,7 @@ export const cvData = {
         "name": "Penghargaan 114 Inovasi Prospektif Indonesia - Anugerah Ilmuwan Indonesia 2022",
         "issuer": "Business Innovation Center (BIC) & Kementerian Riset dan Teknologi (Kemenristek/BRIN)",
         "date": "2022",
-        "description": "Penghargaan inovasi nasional atas pengembangan teknologi kelautan terapan dan inovasi perikanan berkelanjutan."
+        "description": "Dianugerahkan atas pengembangan karya \"Budidaya Udang Cara Digital (SMARTSHRIMPS.ID)\" - aplikasi cerdas untuk pemantauan real-time dan keterlacakan budidaya udang Indonesia."
       },
       {
         "year": "2022",
@@ -4182,7 +4196,7 @@ export const cvData = {
         "name": "Penghargaan 104 Inovasi Prospektif Indonesia - Anugerah Ilmuwan Indonesia 2012",
         "issuer": "Business Innovation Center (BIC)",
         "date": "2012",
-        "description": "Penghargaan inovasi nasional atas riset pionir bioakustik dan respon tingkah laku ikan terhadap frekuensi suara."
+        "description": "Penghargaan inovasi nasional atas riset pionir \"Spionase Bawah Air (Sound of Fish Affects Fish Productivity)\" mengenai bioakustik pasif dan deteksi perilaku ikan."
       },
       {
         "year": "2012",
