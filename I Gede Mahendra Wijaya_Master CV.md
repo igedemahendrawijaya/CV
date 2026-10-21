@@ -12,7 +12,7 @@
 
 ## Executive Profile Summary
 
-Marine environmental specialist with over 13 years of experience delivering high-level technical leadership across marine-based sectors, forest concessions, and industrial waste decarbonization. Formally trained in marine science and acoustics (IPB University), with expertise spanning coastal and ocean governance, sustainable fisheries, forest concession area, and carbon mitigation across AFOLU (>200,000 ha peatland/wetland concessions in Papua) and Waste sectors (Palm Oil Mill Effluent / POME methane capture & biogas-to-energy). Proven track record with major international institutions (World Bank, ADB, FAO, UNDP, TNC) and national innovation award recognition (BIC). Highly skilled in carbon accounting (carbon unit registry system of Indonesia, VCM, Paris Agreement Article 6), MRV, environmental safeguards (ESIA/AMDAL), and multi-stakeholder engagement.
+Marine environmental specialist with over 13 years of experience delivering high-level technical leadership across marine-based sectors, forest concessions, and industrial waste decarbonization. Formally trained in marine science and acoustics (IPB University), with expertise spanning coastal and ocean governance, sustainable fisheries, forest concession area, and carbon mitigation across AFOLU (>200,000 ha peatland/wetland concessions in Papua) and Waste sectors (Palm Oil Mill Effluent / POME methane capture & biogas-to-energy). Proven track record with major international institutions (World Bank, ADB, FAO, UNDP, TNC) and national innovation award recognition (BIC). Highly skilled in carbon accounting (carbon unit registry system of Indonesia, VCM, Paris Agreement Article 6), MRV, environmental and social compliance (ESIA), and multi-stakeholder engagement.
 
 ---
 
@@ -26,7 +26,7 @@ Marine environmental specialist with over 13 years of experience delivering high
 
 ## Education & Academic Background
 
-1. **Bachelor of Marine Science and Technology (S.Pi.)**
+1. **Bachelor of Marine Science and Technology**
    - **Institution**: Bogor Agricultural University (IPB University), Indonesia
    - **Faculty / Program**: Faculty of Fisheries and Marine Sciences
    - **Period**: June 2008 - April 2013

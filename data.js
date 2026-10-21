@@ -9,7 +9,7 @@ export const cvData = {
       "location": "Denpasar, Bali, Indonesia",
       "linkedin": "linkedin.com/in/gmwijaya",
       "orcid": "0000-0003-2312-7031",
-      "profileSummary": "Marine environmental specialist with over 13 years of experience delivering high-level technical leadership across marine-based sectors, forest concessions, and industrial waste decarbonization. Formally trained in marine science and acoustics (IPB University), with expertise spanning coastal and ocean governance, sustainable fisheries, forest concession area, and carbon mitigation across AFOLU (>200,000 ha peatland/wetland concessions in Papua) and Waste sectors (Palm Oil Mill Effluent / POME methane capture & biogas-to-energy). Proven track record with major international institutions (World Bank, ADB, FAO, UNDP, TNC) and national innovation award recognition (BIC). Highly skilled in carbon accounting (carbon unit registry system of Indonesia, VCM, Paris Agreement Article 6), MRV, environmental safeguards (ESIA/AMDAL), and multi-stakeholder engagement."
+      "profileSummary": "Marine environmental specialist with over 13 years of experience delivering high-level technical leadership across marine-based sectors, forest concessions, and industrial waste decarbonization. Formally trained in marine science and acoustics (IPB University), with expertise spanning coastal and ocean governance, sustainable fisheries, forest concession area, and carbon mitigation across AFOLU (>200,000 ha peatland/wetland concessions in Papua) and Waste sectors (Palm Oil Mill Effluent / POME methane capture & biogas-to-energy). Proven track record with major international institutions (World Bank, ADB, FAO, UNDP, TNC) and national innovation award recognition (BIC). Highly skilled in carbon accounting (carbon unit registry system of Indonesia, VCM, Paris Agreement Article 6), MRV, environmental and social compliance (ESIA), and multi-stakeholder engagement."
     },
     "stats": [
       {
@@ -82,7 +82,7 @@ export const cvData = {
     ],
     "education": [
       {
-        "degree": "Bachelor of Marine Science and Technology (S.Pi.)",
+        "degree": "Bachelor of Marine Science and Technology",
         "institution": "Bogor Agricultural University (IPB University), Indonesia",
         "faculty": "Faculty of Fisheries and Marine Sciences",
         "period": "June 2008 - April 2013",
@@ -2421,7 +2421,7 @@ export const cvData = {
       "location": "Denpasar, Bali, Indonesia",
       "linkedin": "linkedin.com/in/gmwijaya",
       "orcid": "0000-0003-2312-7031",
-      "profileSummary": "Spesialis lingkungan laut dan praktisi mitigasi karbon senior dengan lebih dari 13 tahun pengalaman dalam memimpin kajian teknis strategis di sektor kelautan, perizinan konsesi kehutanan, dan dekarbonisasi limbah industri. Memiliki latar belakang akademis ilmu kelautan dan bioakustik (Institut Pertanian Bogor), dengan keahlian komprehensif mencakup tata kelola pesisir dan laut, perikanan berkelanjutan, area konsesi kehutanan (forest concession area), serta mitigasi karbon pada sektor AFOLU (konsesi lahan gambut dan lahan basah >200.000 ha di Papua) dan sektor Limbah (penangkapan metana dan pemanfaatan biogas dari POME limbah cair pabrik kelapa sawit). Berpengalaman menangani proyek bersama institusi internasional utama (Bank Dunia, ADB, FAO, UNDP, TNC) serta peraih penghargaan inovasi nasional (BIC). Ahli dalam akuntansi karbon (sistem registri unit karbon Indonesia, VCM, Pasal 6 Perjanjian Paris), MRV, safeguards lingkungan (AMDAL/ESIA), dan pelibatan pemangku kepentingan adat serta kementerian terkait."
+      "profileSummary": "Spesialis lingkungan laut dan praktisi mitigasi karbon senior dengan lebih dari 13 tahun pengalaman dalam memimpin kajian teknis strategis di sektor kelautan, perizinan konsesi kehutanan, dan dekarbonisasi limbah industri. Memiliki latar belakang akademis ilmu kelautan dan bioakustik (Institut Pertanian Bogor), dengan keahlian komprehensif mencakup tata kelola pesisir dan laut, perikanan berkelanjutan, area konsesi kehutanan (forest concession area), serta mitigasi karbon pada sektor AFOLU (konsesi lahan gambut dan lahan basah >200.000 ha di Papua) dan sektor Limbah (penangkapan metana dan pemanfaatan biogas dari POME limbah cair pabrik kelapa sawit). Berpengalaman menangani proyek bersama institusi internasional utama (Bank Dunia, ADB, FAO, UNDP, TNC) serta peraih penghargaan inovasi nasional (BIC). Ahli dalam akuntansi karbon (sistem registri unit karbon Indonesia, VCM, Pasal 6 Perjanjian Paris), MRV, safeguards lingkungan dan sosial (ESIA), dan pelibatan pemangku kepentingan adat serta kementerian terkait."
     },
     "stats": [
       {
@@ -2494,7 +2494,7 @@ export const cvData = {
     ],
     "education": [
       {
-        "degree": "Sarjana Ilmu dan Teknologi Kelautan (S.Pi.)",
+        "degree": "Sarjana Ilmu dan Teknologi Kelautan",
         "institution": "Institut Pertanian Bogor (IPB University), Indonesia",
         "faculty": "Fakultas Perikanan dan Ilmu Kelautan",
         "period": "Juni 2008 - April 2013",
@@ -2512,7 +2512,7 @@ export const cvData = {
         "institution": "Alison",
         "faculty": "Program Diploma Profesional",
         "period": "September 2026",
-        "details": "Kurikulum komprehensif Sistem Manajemen Lingkungan (ISO 14001), penapisan AMDAL/ESIA, audit & kepatuhan lingkungan, serta mitigasi pencemaran. (Credential ID: 1917-10374639)"
+        "details": "Kurikulum komprehensif Sistem Manajemen Lingkungan (ISO 14001), penapisan ESIA, audit & kepatuhan lingkungan, serta mitigasi pencemaran. (Credential ID: 1917-10374639)"
       },
       {
         "degree": "Diploma in Occupational Health, Safety and Environment (OHSE)",
@@ -2741,7 +2741,7 @@ export const cvData = {
           "Pelabuhan Patimban",
           "Kualitas Air Laut",
           "Benthos & Sedimen",
-          "Monev AMDAL"
+          "Monev ESIA & Lingkungan"
         ],
         "description": "Mengelola dan melaksanakan pemantauan kepatuhan lingkungan laut bulanan selama konstruksi Fase 1 Pelabuhan Patimban di Subang, Jawa Barat. Memimpin pengambilan sampel oseanografi dan analisis laboratorium mutu air laut, kimia sedimen logam berat, keanekaragaman makrobenthos, dan struktur komunitas nekton.",
         "image": "images/fishing_port.jpg"
@@ -4352,7 +4352,7 @@ export const cvData = {
         "lng": 122.58,
         "name": "PPS Kendari (Sulawesi Tenggara)",
         "sector": "fisheries",
-        "sectorLabel": "Modernisasi Pelabuhan ESIA & Dekarbonisasi",
+        "sectorLabel": "ESIA Pelabuhan Perikanan Samudera & Safeguards",
         "color": "teal",
         "badgeClass": "badge-teal",
         "employer": "AFD (Prancis) / PT Hatfield Indonesia",
@@ -4360,7 +4360,7 @@ export const cvData = {
         "period": "2021 - 2023",
         "landscape": "Teluk Kendari & Kolam Pelabuhan Perikanan Samudera",
         "highlights": [
-          "Memimpin penyusunan AMDAL / ESIA internasional dan ESMP untuk Modernisasi Pelabuhan Perikanan Samudera (PPS) Kendari (Pendanaan AFD USD 111 Juta).",
+          "Memimpin penyusunan ESIA internasional dan ESMP untuk Modernisasi Pelabuhan Perikanan Samudera (PPS) Kendari (Pendanaan AFD USD 111 Juta).",
           "Merumuskan profil ketahanan iklim pelabuhan, audit efisiensi energi cold storage, dan instalasi pengolahan air limbah (IPAL).",
           "Memimpin konsultasi publik multi-stakeholder yang melibatkan 40+ asosiasi nelayan, masyarakat adat, dan dinas teknis."
         ]
@@ -4523,7 +4523,7 @@ export const cvData = {
         "lng": 109.02,
         "name": "PPS Cilacap (Jawa Tengah)",
         "sector": "fisheries",
-        "sectorLabel": "AMDAL Pelabuhan Perikanan Samudera & Sosial",
+        "sectorLabel": "ESIA Pelabuhan Perikanan Samudera & Safeguards",
         "color": "teal",
         "badgeClass": "badge-teal",
         "employer": "AFD / PT Hatfield Indonesia",
