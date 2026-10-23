@@ -22,7 +22,7 @@ export const cvData = {
         "label": "Projects Completed"
       },
       {
-        "value": "72",
+        "value": "73",
         "label": "Certifications"
       },
       {
@@ -619,6 +619,25 @@ export const cvData = {
       }
     ],
     "certificates": [
+      {
+        "name": "202 Basics of Project-Level GHG Accounting (Certificate of Proficiency)",
+        "issuer": "The Greenhouse Gas Management Institute (GHGMI)",
+        "date": "Oct 2026",
+        "category": "carbon-climate",
+        "tags": [
+          "GHGMI",
+          "GHG Accounting",
+          "Project-Level GHG",
+          "Carbon Projects",
+          "Baseline & Additionality",
+          "ISO 14064-2",
+          "MRV"
+        ],
+        "link": "certificates/202_Basics_of_Project-Level_GHG_Accounting.png",
+        "credentialUrl": "https://member.ghginstitute.org/moodle/badges/badge.php?hash=2cd31d35dcbd8708affd2d08738c7c0a10ac4bbc#collapseOtherDetails",
+        "description": "Formal professional certificate of proficiency and digital badge issued by the Greenhouse Gas Management Institute (GHGMI). Rigorous curriculum covering core project-level greenhouse gas (GHG) accounting principles, establishing project boundaries, baseline scenario determination, additionality testing, leakage assessment, quantifying emission reductions and removal enhancements, and designing robust MRV systems aligned with the GHG Protocol for Project Accounting and ISO 14064-2.",
+        "competencies": "Project-Level GHG Accounting, GHG Protocol Project Standard, ISO 14064-2, Baseline Setting, Additionality Assessment, Leakage Quantification, Monitoring & MRV Plan, Carbon Credit Crediting"
+      },
       {
         "name": "Operationalizing Article 6.2 of the Paris Agreement: Achieving Ambitious Climate Action Through Cooperative Approaches",
         "issuer": "United Nations Development Programme (UNDP), UNFCCC & Learning for Nature",
@@ -2504,7 +2523,7 @@ export const cvData = {
         "label": "Proyek Selesai"
       },
       {
-        "value": "72",
+        "value": "73",
         "label": "Sertifikasi"
       },
       {
@@ -3101,6 +3120,25 @@ export const cvData = {
       }
     ],
     "certificates": [
+      {
+        "name": "Dasar-Dasar Akuntansi GRK Tingkat Proyek - 202 Basics of Project-Level GHG Accounting (Sertifikat Profisiensi)",
+        "issuer": "The Greenhouse Gas Management Institute (GHGMI)",
+        "date": "Okt 2026",
+        "category": "carbon-climate",
+        "tags": [
+          "GHGMI",
+          "Akuntansi GRK",
+          "GRK Tingkat Proyek",
+          "Proyek Karbon",
+          "Baseline & Adisionalitas",
+          "ISO 14064-2",
+          "MRV"
+        ],
+        "link": "certificates/202_Basics_of_Project-Level_GHG_Accounting.png",
+        "credentialUrl": "https://member.ghginstitute.org/moodle/badges/badge.php?hash=2cd31d35dcbd8708affd2d08738c7c0a10ac4bbc#collapseOtherDetails",
+        "description": "Sertifikat profisiensi profesional dan lencana digital resmi yang diterbitkan oleh Greenhouse Gas Management Institute (GHGMI). Kurikulum mendalam mencakup prinsip dasar inventarisasi gas rumah kaca (GRK) tingkat proyek mitigasi, penentuan batas proyek (project boundary), penetapan skenario baseline, pengujian adisionalitas (additionality), evaluasi kebocoran (leakage), kuantifikasi pengurangan emisi dan peningkatan serapan, serta penyusunan sistem MRV sesuai standar GHG Protocol for Project Accounting dan ISO 14064-2.",
+        "competencies": "Akuntansi GRK Tingkat Proyek, GHG Protocol Project Standard, ISO 14064-2, Penetapan Baseline, Pengujian Adisionalitas, Kuantifikasi Leakage, Perencanaan Monitoring & MRV, Integritas Kredit Karbon"
+      },
       {
         "name": "Operasionalisasi Pasal 6.2 Perjanjian Paris: Pencapaian Aksi Iklim Ambisius Melalui Pendekatan Kooperatif (Article 6.2 Operationalization)",
         "issuer": "United Nations Development Programme (UNDP), UNFCCC & Learning for Nature",
