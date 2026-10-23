@@ -1761,6 +1761,13 @@ export const cvData = {
     ],
     "memberships": [
       {
+        "name": "A Society of Greenhouse Gas Professionals (GHGMI)",
+        "role": "Professional Member",
+        "period": "2024 - Present",
+        "url": "https://ghginstitute.org/membership/",
+        "description": "Global professional community under the Greenhouse Gas Management Institute (GHGMI), upholding rigorous carbon accounting standards, ethical code of conduct, and robust MRV practices for climate change mitigation."
+      },
+      {
         "name": "Asian Fisheries Acoustics Society (AFAS)",
         "role": "Member",
         "period": "2012 - Present",
@@ -4235,6 +4242,13 @@ export const cvData = {
       }
     ],
     "memberships": [
+      {
+        "name": "A Society of Greenhouse Gas Professionals (GHGMI)",
+        "role": "Anggota Profesional",
+        "period": "2024 - Sekarang",
+        "url": "https://ghginstitute.org/membership/",
+        "description": "Komunitas profesional global yang dinaungi oleh Greenhouse Gas Management Institute (GHGMI), menjunjung tinggi standar inventarisasi gas rumah kaca (GRK), kode etik profesi karbon, serta praktik MRV yang berintegritas tinggi dalam mitigasi perubahan iklim."
+      },
       {
         "name": "Asian Fisheries Acoustics Society (AFAS)",
         "role": "Anggota",
