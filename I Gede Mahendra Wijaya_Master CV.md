@@ -755,10 +755,10 @@ Over the past 13+ years, I Gede Mahendra Wijaya has directed, managed, and contr
 
 ## Professional Memberships & Scientific Societies
 
-### 1. A Society of Greenhouse Gas Professionals (GHGMI)
-- **Role / Status**: Professional Member
+### 1. Greenhouse Gas Management Institute (GHGMI)
+- **Role / Status**: Member
 - **Period**: 2024 - Present
-- **Scope / Contribution**: Global professional community under the Greenhouse Gas Management Institute (GHGMI), upholding rigorous carbon accounting standards, ethical code of conduct, and robust MRV practices for climate change mitigation.
+- **Scope / Contribution**: Professional member of A Society of Greenhouse Gas Professionals under the Greenhouse Gas Management Institute (GHGMI), upholding rigorous carbon accounting standards, ethical code of conduct, and robust MRV practices for climate change mitigation.
 
 ### 2. Asian Fisheries Acoustics Society (AFAS)
 - **Role / Status**: Member
