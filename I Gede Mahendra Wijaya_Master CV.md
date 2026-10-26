@@ -77,7 +77,7 @@ Assisted executive directors in coordinating coastal conservation, artificial re
 ### 6. Marine Mammal Observer
 **PT Quest Geophysical Asia - West Papua Project** | Arguni Bay, West Papua | January 2015 - August 2015  
 
-Led Health, Safety, and Environment (HSE) protocols and Joint Nature Conservation Committee (JNCC)-compliant Marine Mammal Observation (MMO) with dedicated visual observation during 2D and Transition Zone (TZ) marine seismic surveys for KrisEnergy (Udan Emas) BV in Arguni Bay, West Papua. Enforced pre-shooting visual scans, exclusion zone protocols, and soft-start ramp-up procedures to safeguard marine biotas.
+Led Health, Safety, and Environment (HSE) protocols and Joint Nature Conservation Committee (JNCC)-compliant Marine Mammal Observation (MMO) with dedicated visual observation during 2D and Transition Zone (TZ) marine seismic surveys for KrisEnergy (Udan Emas) BV in Arguni Bay, West Papua. Enforced pre-shooting visual scans, exclusion zone protocols, and soft-start ramp-up procedures to safeguard marine biotas. Field observations and technical reporting directly provided the primary scientific evidence officially adopted by the IUCN Joint SSC/WCPA Task Force for the designation of the Kaimana, West Papua Important Marine Mammal Area (IMMA).
 
 ### 7. Marine Research Assistant
 **Marine Science & Technology Dept, IPB University** | Bogor, Indonesia | 2012 - 2014  
@@ -296,7 +296,7 @@ Over the past 13+ years, I Gede Mahendra Wijaya has directed, managed, and contr
 - **Year**: 2016
 - **Publisher / Conference**: Current Status and Conservation, Part 2, Vol 73, AMB, UK: Academic Press, pp. 219-271
 - **DOI / Link**: [https://doi.org/10.1016/bs.amb.2015.08.003](https://doi.org/10.1016/bs.amb.2015.08.003)
-- **Scope / Summary**: Comprehensive peer-reviewed book chapter and field study documenting the distribution, ecology, and conservation status of Australian humpback dolphins in the Pacific and New Guinea.
+- **Scope / Summary**: Comprehensive peer-reviewed book chapter and field study documenting the distribution, ecology, and conservation status of Australian humpback dolphins in the Pacific and New Guinea. Findings from field surveys in Arguni Bay directly served as the primary scientific justification for the IUCN Joint SSC/WCPA Task Force in formally designating the Kaimana, West Papua Important Marine Mammal Area (IMMA).
 
 ### 4. Application of Radon Transform Method for 2D Seismic Multiple Wave Reduction in West Sumatra Waters
 - **Year**: 2013

@@ -71,7 +71,7 @@ export const cvData = {
         "company": "PT Quest Geophysical Asia - West Papua Project",
         "location": "Arguni Bay, West Papua",
         "period": "January 2015 - August 2015",
-        "description": "Led Health, Safety, and Environment (HSE) protocols and Joint Nature Conservation Committee (JNCC)-compliant Marine Mammal Observation (MMO) with dedicated visual observation during 2D and Transition Zone (TZ) marine seismic surveys for KrisEnergy (Udan Emas) BV in Arguni Bay, West Papua. Enforced pre-shooting visual scans, exclusion zone protocols, and soft-start ramp-up procedures to safeguard marine biotas."
+        "description": "Led Health, Safety, and Environment (HSE) protocols and Joint Nature Conservation Committee (JNCC)-compliant Marine Mammal Observation (MMO) with dedicated visual observation during 2D and Transition Zone (TZ) marine seismic surveys for KrisEnergy (Udan Emas) BV in Arguni Bay, West Papua. Enforced pre-shooting visual scans, exclusion zone protocols, and soft-start ramp-up procedures to safeguard marine biotas. Field observations and technical reporting directly provided the primary scientific evidence officially adopted by the IUCN Joint SSC/WCPA Task Force for the designation of the Kaimana, West Papua Important Marine Mammal Area (IMMA)."
       },
       {
         "role": "Marine Research Assistant",
@@ -580,7 +580,7 @@ export const cvData = {
         "title": "Observations on Australian Humpback Dolphins (Sousa sahulensis) in Waters of the Pacific Islands and New Guinea",
         "publisher": "Current Status and Conservation, Part 2, Vol 73, AMB, UK: Academic Press, pp. 219-271",
         "link": "https://doi.org/10.1016/bs.amb.2015.08.003",
-        "description": "Comprehensive peer-reviewed book chapter and field study documenting the distribution, ecology, and conservation status of Australian humpback dolphins in the Pacific and New Guinea."
+        "description": "Comprehensive peer-reviewed book chapter and field study documenting the distribution, ecology, and conservation status of Australian humpback dolphins in the Pacific and New Guinea. Findings from field surveys in Arguni Bay directly served as the primary scientific justification for the IUCN Joint SSC/WCPA Task Force in formally designating the Kaimana, West Papua Important Marine Mammal Area (IMMA)."
       },
       {
         "year": "2013",
@@ -1868,7 +1868,8 @@ export const cvData = {
         "highlights": [
           "Led visual observation protocols and safety exclusion zones during 2D Transition Zone marine seismic survey in Arguni Bay.",
           "Safeguarded cetacean populations, coastal fish stocks, and dugongs through strict soft-start ramp-up procedures.",
-          "Conducted socio-fisheries impact assessments and consultations with indigenous artisanal fishers."
+          "Conducted socio-fisheries impact assessments and consultations with indigenous artisanal fishers.",
+          "Field observation data and technical reporting directly served as foundational evidence cited by the IUCN Joint SSC/WCPA Task Force in designating the Kaimana, West Papua Important Marine Mammal Area (IMMA)."
         ]
       },
       "kolepom": {
@@ -2572,7 +2573,7 @@ export const cvData = {
         "company": "PT Quest Geophysical Asia - West Papua Project",
         "location": "Teluk Arguni, Papua Barat",
         "period": "Januari 2015 - Agustus 2015",
-        "description": "Memimpin protokol K3L (HSE) dan observasi mamalia laut (Marine Mammal Observer / MMO) melalui pengamatan visual (visual observation) berstandar JNCC selama survei seismik 2D dan Transition Zone (TZ) untuk KrisEnergy (Udan Emas) BV di Teluk Arguni, Papua Barat. Menegakkan pemindaian visual pra-penembakan, protokol zona eksklusi, dan prosedur soft-start guna melindungi biota laut (marine biotas)."
+        "description": "Memimpin protokol K3L (HSE) dan observasi mamalia laut (Marine Mammal Observer / MMO) melalui pengamatan visual (visual observation) berstandar JNCC selama survei seismik 2D dan Transition Zone (TZ) untuk KrisEnergy (Udan Emas) BV di Teluk Arguni, Papua Barat. Menegakkan pemindaian visual pra-penembakan, protokol zona eksklusi, dan prosedur soft-start guna melindungi biota laut (marine biotas). Hasil observasi dan laporan lapangan ini secara resmi diadopsi oleh IUCN Joint SSC/WCPA Task Force sebagai bukti ilmiah utama dalam penetapan Kaimana, West Papua Important Marine Mammal Area (IMMA)."
       },
       {
         "role": "Marine Research Assistant",
@@ -3081,7 +3082,7 @@ export const cvData = {
         "title": "Pengamatan Lumba-lumba Punggung Bungkuk Australia (Sousa sahulensis) di Perairan Kepulauan Pasifik dan Papua Nugini",
         "publisher": "Status Terkini dan Konservasi, Bagian 2, Vol 73, AMB, UK: Academic Press, hal. 219-271",
         "link": "https://doi.org/10.1016/bs.amb.2015.08.003",
-        "description": "Bab buku ilmiah internasional dan studi lapangan komprehensif mengenai distribusi, ekologi, dan status konservasi lumba-lumba punggung bungkuk Australia di Pasifik dan Papua Nugini."
+        "description": "Bab buku ilmiah internasional dan studi lapangan komprehensif mengenai distribusi, ekologi, dan status konservasi lumba-lumba sirip bungkuk Australia di Pasifik dan Papua Nugini. Temuan survei lapangan di Teluk Arguni dijadikan dasar ilmiah utama oleh IUCN Joint SSC/WCPA Task Force dalam menetapkan Kaimana, West Papua Important Marine Mammal Area (IMMA)."
       },
       {
         "year": "2013",
@@ -4369,7 +4370,8 @@ export const cvData = {
         "highlights": [
           "Memimpin protokol observasi visual dan penetapan zona eksklusi keselamatan selama survei seismik laut 2D Zona Transisi di Teluk Arguni.",
           "Melindungi populasi cetacea, stok ikan pesisir, dan dugong melalui prosedur ramp-up soft-start yang ketat.",
-          "Melakukan kajian dampak sosial-perikanan dan konsultasi langsung dengan nelayan tradisional lokal."
+          "Melakukan kajian dampak sosial-perikanan dan konsultasi langsung dengan nelayan tradisional lokal.",
+          "Data observasi lapangan dan laporan teknis menjadi rujukan bukti ilmiah utama yang dikutip oleh IUCN Joint SSC/WCPA Task Force dalam penetapan Kaimana, West Papua Important Marine Mammal Area (IMMA)."
         ]
       },
       "kolepom": {
