@@ -43,7 +43,7 @@ export const cvData = {
         "company": "PT Aksi Mitigasi Iklim (GHG Actions)",
         "location": "Denpasar (Hybrid Bali & Papua)",
         "period": "February 2023 - June 2026",
-        "description": "Managed multidisciplinary carbon project operations across terrestrial, peatland, and coastal wetland concession areas (>200,000 ha) in West Papua and Southwest Papua. Directed cross-functional field teams across forestry, biodiversity, and social workstreams to execute rigorous primary data collection, ecological baselines, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), and ground-based carbon stock accounting (SNI 7724). Spearheaded multi-level stakeholder management and Free, Prior, and Informed Consent (FPIC) consultations with local customary communities to secure social license to operate (SLO) and establish equitable benefit-sharing frameworks. Coordinated regulatory compliance and statutory licensing pathways with the Ministry of Forestry and the Ministry of Environment, formulating Environmental and Social Management Plans (ESMP) and robust Monitoring, Reporting, and Verification (MRV) systems."
+        "description": "Managed multidisciplinary carbon project operations across terrestrial, peatland, and coastal wetland concession areas (>200,000 ha) in West Papua and Southwest Papua. Directed cross-functional field teams across forestry, biodiversity, and socio-tenurial workstreams executing rigorous ecological baselines, HCSA, HCV, and ground-based carbon stock accounting (SNI 7724). Spearheaded customary clan and kinship mapping, establishing an integrated tenurial database encompassing 350+ customary clans (marga), 240+ customary dusun boundaries, 11 sub-tribes, and 36 villages across 4 districts for PT SHL and PT SHE. Orchestrated multi-tier stakeholder management, Free, Prior, and Informed Consent (FPIC) consultations, and clan-level equitable benefit-sharing frameworks to secure social license to operate (SLO). Coordinated regulatory licensing and environmental permit pathways with the Ministry of Forestry and the Ministry of Environment, formulating Environmental and Social Management Plans (ESMP) and robust Monitoring, Reporting, and Verification (MRV) systems."
       },
       {
         "role": "Deputy Unit Leader - Marine and Coastal Development Unit",
@@ -123,7 +123,7 @@ export const cvData = {
           "FPIC",
           "Papua"
         ],
-        "description": "Conducted comprehensive pre-socialization assessments, institutional mapping, and multi-tier stakeholder analysis across district and provincial levels in Southwest Papua. Designed the initial stakeholder engagement strategy and Free, Prior, and Informed Consent (FPIC) framework required for forest concession ecosystem restoration and carbon project licensing, ensuring full alignment with local customary land rights.",
+        "description": "Conducted comprehensive pre-socialization assessments, institutional mapping, and customary clan identification across district and provincial levels in Southwest Papua. Established an integrated tenurial database documenting 350+ customary clans (marga) and 240+ customary dusun boundaries, formulating the initial stakeholder engagement strategy, clan-level FPIC protocols, and statutory licensing pathways to secure social license to operate (SLO) and support environmental permit acquisition for forest carbon ecosystem restoration.",
         "image": "images/rainforest.jpg"
       },
       {
@@ -1810,7 +1810,7 @@ export const cvData = {
         "landscape": "Extensive Tropical Peat Swamp Forest & Customary Territories",
         "highlights": [
           "Executing carbon scoping and feasibility assessments across peat swamp forest concession areas in South Sorong regency.",
-          "Leading stakeholder engagement, Free, Prior, and Informed Consent (FPIC), and customary community benefit-sharing models.",
+          "Spearheaded customary clan and kinship mapping, developing a spatial tenurial database of 350+ customary clans (marga) and 240+ customary dusun boundaries to structure FPIC, secure social license to operate (SLO), and support environmental permit acquisition.",
           "Formulating Climate Mitigation Action Plans aligned with the national carbon unit registry system of Indonesia and international standards."
         ]
       },
@@ -2526,7 +2526,7 @@ export const cvData = {
         "company": "PT Aksi Mitigasi Iklim (GHG Actions)",
         "location": "Denpasar (Hybrid Bali & Papua)",
         "period": "Februari 2023 - Juni 2026",
-        "description": "Mengelola operasional proyek karbon terintegrasi di kawasan konsesi terestrial, lahan gambut, dan lahan basah pesisir (>200.000 ha) di Papua Barat dan Papua Barat Daya. Memimpin tim lapangan lintas bidang kehutanan, keanekaragaman hayati (biodiversitas), dan sosial dalam pelaksanaan pengumpulan data primer, kajian rona awal ekologi, High Carbon Stock Approach (HCSA), High Conservation Value (HCV), serta inventarisasi cadangan karbon darat (SNI 7724). Mengarahkan manajemen pemangku kepentingan dan proses Free, Prior, and Informed Consent (FPIC) bersama komunitas adat guna memperoleh social license to operate (SLO) serta membangun kerangka pembagian manfaat yang berkeadilan. Mengoordinasikan kepatuhan dan jalur perizinan regulasi dengan Kementerian Kehutanan dan Kementerian Lingkungan Hidup, menyusun Rencana Pengelolaan Lingkungan dan Sosial (ESMP), serta sistem Monitoring, Reporting, and Verification (MRV) yang kredibel."
+        "description": "Mengelola operasional proyek karbon terintegrasi di kawasan konsesi terestrial, lahan gambut, dan lahan basah pesisir (>200.000 ha) di Papua Barat dan Papua Barat Daya. Memimpin tim lapangan lintas bidang kehutanan, keanekaragaman hayati (biodiversitas), dan sosial-tenurial dalam pelaksanaan pengumpulan data primer, kajian rona awal ekologi, HCSA, HCV, serta inventarisasi cadangan karbon darat (SNI 7724). Mengarahkan pemetaan klan/marga adat (customary clan mapping) serta membangun basis data tenurial komprehensif yang mencakup 356 marga/klan adat, 247 batas dusun ulayat, 11 sub-suku, dan 36 kampung di 4 distrik untuk PT SHL dan PT SHE. Mengorkestrasi manajemen pemangku kepentingan bertingkat, proses Free, Prior, and Informed Consent (FPIC), dan kerangka pembagian manfaat tingkat klan yang berkeadilan guna mengamankan social license to operate (SLO). Mengoordinasikan kepatuhan perizinan dan jalur persetujuan lingkungan (environmental permit) dengan Kementerian Kehutanan dan Kementerian Lingkungan Hidup, menyusun Rencana Pengelolaan Lingkungan dan Sosial (ESMP), serta sistem Monitoring, Reporting, and Verification (MRV) yang kredibel."
       },
       {
         "role": "Deputy Unit Leader - Marine and Coastal Development Unit",
@@ -2606,7 +2606,7 @@ export const cvData = {
           "FPIC",
           "Papua"
         ],
-        "description": "Melaksanakan kajian pra-sosialisasi komprehensif, pemetaan kelembagaan, dan analisis pemangku kepentingan bertingkat di tingkat kabupaten dan provinsi Papua Barat Daya. Merancang strategi pelibatan pemangku kepentingan awal dan kerangka Free, Prior, and Informed Consent (FPIC) yang dipersyaratkan untuk perizinan konsesi kehutanan restorasi ekosistem dan proyek karbon, memastikan penghormatan penuh terhadap hak ulayat adat setempat.",
+        "description": "Melaksanakan kajian pra-sosialisasi komprehensif, pemetaan kelembagaan, dan identifikasi klan/marga adat di tingkat kabupaten dan provinsi Papua Barat Daya. Membangun basis data tenurial terintegrasi yang mendokumentasikan 356 marga/klan adat dan 247 batas dusun ulayat, serta merancang strategi pelibatan pemangku kepentingan awal, protokol FPIC tingkat klan, dan jalur perizinan guna mengamankan social license to operate (SLO) serta mendukung perolehan persetujuan lingkungan (environmental permit) untuk restorasi ekosistem karbon hutan.",
         "image": "images/rainforest.jpg"
       },
       {
@@ -4293,7 +4293,7 @@ export const cvData = {
         "landscape": "Bentang Alam Hutan Rawa Gambut Tropika & Wilayah Adat",
         "highlights": [
           "Melaksanakan studi kelayakan dan carbon scoping di kawasan konsesi hutan rawa gambut Kabupaten Sorong Selatan.",
-          "Memimpin pelibatan pemangku kepentingan, Free Prior Informed Consent (FPIC), dan model pembagian manfaat (benefit-sharing) masyarakat adat.",
+          "Memimpin pemetaan klan dan marga adat (clan mapping) serta membangun basis data spasial tenurial mencakup 356 marga dan 247 dusun ulayat guna memfasilitasi FPIC, mengamankan social license to operate (SLO), dan mendukung persetujuan lingkungan (environmental permit).",
           "Menyusun Dokumen Rencana Aksi Mitigasi Iklim yang selaras dengan sistem registri unit karbon Indonesia dan standar internasional."
         ]
       },
