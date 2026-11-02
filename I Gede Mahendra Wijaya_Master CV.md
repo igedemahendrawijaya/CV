@@ -14,7 +14,7 @@ Senior Marine Environmental Specialist and Climate Mitigation Technical Lead wit
 ## Key Core Metrics & Statistics
 - **13+** Years Professional Experience
 - **31** Completed High-Impact Projects & Technical Reports
-- **72+** Professional Certifications & Specialized Training Programs
+- **73+** Professional Certifications & Specialized Training Programs
 - **8** Peer-Reviewed Scientific Publications & Conference Papers
 
 ---
@@ -330,364 +330,369 @@ Over the past 13+ years, I Gede Mahendra Wijaya has directed, managed, and contr
 
 ---
 
-## Professional Certifications & Specialized Training (Total: 72)
+## Professional Certifications & Specialized Training (Total: 73)
 
-### 1. Operationalizing Article 6.2 of the Paris Agreement: Achieving Ambitious Climate Action Through Cooperative Approaches
+### 1. 202 Basics of Project-Level GHG Accounting (Certificate of Proficiency)
+- **Issuer**: The Greenhouse Gas Management Institute (GHGMI)
+- **Date / Period**: Oct 2026
+- **Category**: carbon-climate
+
+### 2. Operationalizing Article 6.2 of the Paris Agreement: Achieving Ambitious Climate Action Through Cooperative Approaches
 - **Issuer**: United Nations Development Programme (UNDP), UNFCCC & Learning for Nature
 - **Date / Period**: Oct 2026
 - **Category**: carbon-climate
 
-### 2. Building Skills for Coastal Restoration with Nature and People
+### 3. Building Skills for Coastal Restoration with Nature and People
 - **Issuer**: UNESCO/IOC OceanTeacher Global Academy (OTGA) & A-AAGORA Project
 - **Date / Period**: Sep 2026
 - **Category**: marine-fisheries
 
-### 3. Introduction to Biodiversity Credits (Learning Journey)
+### 4. Introduction to Biodiversity Credits (Learning Journey)
 - **Issuer**: Biodiversity Credit Alliance (BCA), Nature for Life Hub & University of Nottingham
 - **Date / Period**: Sep 2026
 - **Category**: carbon-climate
 
-### 4. Climate Finance Transparency
+### 5. Climate Finance Transparency
 - **Issuer**: Initiative for Climate Action Transparency (ICAT) & Learning for Nature
 - **Date / Period**: Sep 2026
 - **Category**: carbon-climate
 
-### 5. Biodiversity Finance: Designing and Implementing Finance Plans for Nature
+### 6. Biodiversity Finance: Designing and Implementing Finance Plans for Nature
 - **Issuer**: UNDP Biodiversity Finance Initiative (BIOFIN) & Learning for Nature
 - **Date / Period**: Sep 2026
 - **Category**: carbon-climate
 
-### 6. ICAT Training on the Use of the IPCC Inventory Software
+### 7. ICAT Training on the Use of the IPCC Inventory Software
 - **Issuer**: Initiative for Climate Action Transparency (ICAT), IPCC TSU & UNDP Learning for Nature
 - **Date / Period**: Sep 2026
 - **Category**: carbon-climate
 
-### 7. Source-to-Sea (S2S) Management Course
+### 8. Source-to-Sea (S2S) Management Course
 - **Issuer**: Cap-Net UNDP, SIWI & Action Platform for Source-to-Sea Management
 - **Date / Period**: Sep 2026
 - **Category**: marine-fisheries
 
-### 8. REDD+ Academy: Forest Carbon & National Strategy Capacity Building
+### 9. REDD+ Academy: Forest Carbon & National Strategy Capacity Building
 - **Issuer**: UN-REDD Programme (FAO, UNDP, UNEP)
 - **Date / Period**: Sep 2026
 - **Category**: carbon-climate
 
-### 9. Diploma in Occupational Health, Safety and Environment (OHSE)
+### 10. Diploma in Occupational Health, Safety and Environment (OHSE)
 - **Issuer**: Alison
 - **Date / Period**: Sep 2026
 - **Category**: hse-quality
 
-### 10. Diploma in Environmental Management
+### 11. Diploma in Environmental Management
 - **Issuer**: Alison
 - **Date / Period**: Sep 2026
 - **Category**: hse-quality
 
-### 11. Article 6 Decision-Making: Training for Practitioners
+### 12. Article 6 Decision-Making: Training for Practitioners
 - **Issuer**: Paris Agreement Article 6 Implementation Partnership (A6IP) Center, Perspectives Climate Research & GHGMI
 - **Date / Period**: Sep 2026
 - **Category**: carbon-climate
 
-### 12. 201 Basics of Organizational GHG Accounting (Certificate of Proficiency)
+### 13. 201 Basics of Organizational GHG Accounting (Certificate of Proficiency)
 - **Issuer**: The Greenhouse Gas Management Institute (GHGMI)
 - **Date / Period**: Aug 2026
 - **Category**: carbon-climate
 
-### 13. IWRM for Climate Resilience (20-Hour Training Course)
+### 14. IWRM for Climate Resilience (20-Hour Training Course)
 - **Issuer**: Cap-Net UNDP & UNEP-DHI Centre
 - **Date / Period**: Aug 2026
 - **Category**: marine-fisheries
 
-### 14. The German Supply Chain Due Diligence Act (LkSG / SCDDA)
+### 15. The German Supply Chain Due Diligence Act (LkSG / SCDDA)
 - **Issuer**: Import Promotion Desk (IPD Germany)
 - **Date / Period**: Aug 2026
 - **Category**: carbon-climate
 
-### 15. EU Deforestation Regulation (EUDR) Compliance & Due Diligence
+### 16. EU Deforestation Regulation (EUDR) Compliance & Due Diligence
 - **Issuer**: Import Promotion Desk (IPD Germany)
 - **Date / Period**: Aug 2026
 - **Category**: carbon-climate
 
-### 16. Blue Carbon Fundamentals
+### 17. Blue Carbon Fundamentals
 - **Issuer**: World Bank Group
 - **Date / Period**: Jul 2026
 - **Category**: carbon-climate
 
-### 17. Ocean Governance Capacity Building Training Program (Elective Modules)
+### 18. Ocean Governance Capacity Building Training Program (Elective Modules)
 - **Issuer**: World Bank Group
 - **Date / Period**: Jul 2026
 - **Category**: marine-fisheries
 
-### 18. Financial Management Essentials Certificate
+### 19. Financial Management Essentials Certificate
 - **Issuer**: DisasterReady / Cornerstone OnDemand
 - **Date / Period**: Jul 2026
 - **Category**: project-leadership
 
-### 19. Introduction to Modern Project Management Theory and Practice
+### 20. Introduction to Modern Project Management Theory and Practice
 - **Issuer**: Alison
 - **Date / Period**: Jul 2026
 - **Category**: project-leadership
 
-### 20. Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance
+### 21. Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance
 - **Issuer**: United Nations Institute for Training and Research (UNITAR)
 - **Date / Period**: Jul 2026
 - **Category**: carbon-climate
 
-### 21. Blue Carbon Project Development & MRV Specialist Training
+### 22. Blue Carbon Project Development & MRV Specialist Training
 - **Issuer**: Fair Carbon (Blue Carbon Academy)
 - **Date / Period**: May 2026
 - **Category**: carbon-climate
 
-### 22. Carbon Credits Project Fundamentals
+### 23. Carbon Credits Project Fundamentals
 - **Issuer**: Blooms Academy
 - **Date / Period**: Apr 2026
 - **Category**: carbon-climate
 
-### 23. BSAFE Security & Safety Certificate
+### 24. BSAFE Security & Safety Certificate
 - **Issuer**: United Nations (UNDSS)
 - **Date / Period**: Feb 2026
 - **Category**: safeguards-social
 
-### 24. Acoustic Analysis in Kaleidoscope (Part 2): Batch Processing
+### 25. Acoustic Analysis in Kaleidoscope (Part 2): Batch Processing
 - **Issuer**: Wildlife Acoustics
 - **Date / Period**: Feb 2026
 - **Category**: marine-fisheries
 
-### 25. Introduction to Kaleidoscope for Bat Sound Analysis (Beginner Batch 2)
+### 26. Introduction to Kaleidoscope for Bat Sound Analysis (Beginner Batch 2)
 - **Issuer**: Wildlife Acoustics
 - **Date / Period**: Feb 2026
 - **Category**: marine-fisheries
 
-### 26. How to Use Bat Auto-ID in Kaleidoscope Pro (Advanced)
+### 27. How to Use Bat Auto-ID in Kaleidoscope Pro (Advanced)
 - **Issuer**: Wildlife Acoustics
 - **Date / Period**: Feb 2026
 - **Category**: marine-fisheries
 
-### 27. How to Start a General Survey with Kaleidoscope Pro (Advanced)
+### 28. How to Start a General Survey with Kaleidoscope Pro (Advanced)
 - **Issuer**: Wildlife Acoustics
 - **Date / Period**: Feb 2026
 - **Category**: marine-fisheries
 
-### 28. Intro to Acoustic Indices for Biodiversity Monitoring (Intermediate)
+### 29. Intro to Acoustic Indices for Biodiversity Monitoring (Intermediate)
 - **Issuer**: Wildlife Acoustics
 - **Date / Period**: Feb 2026
 - **Category**: marine-fisheries
 
-### 29. How to Perform a Targeted Search with Kaleidoscope Pro (Advanced)
+### 30. How to Perform a Targeted Search with Kaleidoscope Pro (Advanced)
 - **Issuer**: Wildlife Acoustics
 - **Date / Period**: Feb 2026
 - **Category**: marine-fisheries
 
-### 30. Introduction to Kaleidoscope for Bat Sound Analysis (Beginner)
+### 31. Introduction to Kaleidoscope for Bat Sound Analysis (Beginner)
 - **Issuer**: Wildlife Acoustics
 - **Date / Period**: Feb 2026
 - **Category**: marine-fisheries
 
-### 31. Kaleidoscope Lite for Bat Analysis
+### 32. Kaleidoscope Lite for Bat Analysis
 - **Issuer**: Wildlife Acoustics
 - **Date / Period**: Feb 2026
 - **Category**: marine-fisheries
 
-### 32. Preparing and Responding to Active Shooter Incidents
+### 33. Preparing and Responding to Active Shooter Incidents
 - **Issuer**: United Nations (UNDSS)
 - **Date / Period**: Feb 2026
 - **Category**: safeguards-social
 
-### 33. Prevention of Sexual Exploitation and Abuse (PSEA)
+### 34. Prevention of Sexual Exploitation and Abuse (PSEA)
 - **Issuer**: United Nations
 - **Date / Period**: Feb 2026
 - **Category**: safeguards-social
 
-### 34. Protected Area Technician Training Course - Infrastructure Fundamentals
+### 35. Protected Area Technician Training Course - Infrastructure Fundamentals
 - **Issuer**: Connected Conservation
 - **Date / Period**: Jan 2026
 - **Category**: safeguards-social
 
-### 35. Protected Area Technician Training Course - Tools for Informed Decision Making
+### 36. Protected Area Technician Training Course - Tools for Informed Decision Making
 - **Issuer**: Connected Conservation
 - **Date / Period**: Jan 2026
 - **Category**: safeguards-social
 
-### 36. Global Carbon Summit Indonesia 2025
+### 37. Global Carbon Summit Indonesia 2025
 - **Issuer**: Global Carbon Summit
 - **Date / Period**: Nov 2025
 - **Category**: carbon-climate
 
-### 37. Network Security Fundamentals
+### 38. Network Security Fundamentals
 - **Issuer**: Palo Alto Networks
 - **Date / Period**: Sep 2025
 - **Category**: hse-quality
 
-### 38. Corporate Social Responsibility (CSR) Development Specialist
+### 39. Corporate Social Responsibility (CSR) Development Specialist
 - **Issuer**: Corporate Forum for Community Development (CFCD)
 - **Date / Period**: Feb 2025
 - **Category**: safeguards-social
 
-### 39. ADB’s Environment Safeguard Requirements
+### 40. ADB’s Environment Safeguard Requirements
 - **Issuer**: Asian Development Bank (ADB)
 - **Date / Period**: Sep 2024
 - **Category**: safeguards-social
 
-### 40. ADB’s Indigenous Peoples Safeguard Requirements
+### 41. ADB’s Indigenous Peoples Safeguard Requirements
 - **Issuer**: Asian Development Bank (ADB)
 - **Date / Period**: Sep 2024
 - **Category**: safeguards-social
 
-### 41. Human Dimensions of Forest and Landscape Restoration
+### 42. Human Dimensions of Forest and Landscape Restoration
 - **Issuer**: Society for Ecological Restoration (SER)
 - **Date / Period**: Jul 2024
 - **Category**: carbon-climate
 
-### 42. Climate Action Now Program
+### 43. Climate Action Now Program
 - **Issuer**: Pachamama Alliance
 - **Date / Period**: Jun 2024
 - **Category**: carbon-climate
 
-### 43. Ground-Based Forest Carbon Stock Accounting (SNI 7724)
+### 44. Ground-Based Forest Carbon Stock Accounting (SNI 7724)
 - **Issuer**: Generasi Biologi Indonesia
 - **Date / Period**: Jun 2024
 - **Category**: carbon-climate
 
-### 44. Introduction to Forest and Landscape Restoration
+### 45. Introduction to Forest and Landscape Restoration
 - **Issuer**: Food and Agriculture Organization (FAO)
 - **Date / Period**: Apr 2024
 - **Category**: carbon-climate
 
-### 45. Sustainable Financing of Forest and Landscape Restoration
+### 46. Sustainable Financing of Forest and Landscape Restoration
 - **Issuer**: Food and Agriculture Organization (FAO)
 - **Date / Period**: Apr 2024
 - **Category**: carbon-climate
 
-### 46. Practical Guidance: Respecting Free, Prior and Informed Consent (FPIC)
+### 47. Practical Guidance: Respecting Free, Prior and Informed Consent (FPIC)
 - **Issuer**: Food and Agriculture Organization (FAO)
 - **Date / Period**: Apr 2024
 - **Category**: safeguards-social
 
-### 47. ESG Job Simulation: Sustainable Strategy & Stakeholder Advisory
+### 48. ESG Job Simulation: Sustainable Strategy & Stakeholder Advisory
 - **Issuer**: Forage
 - **Date / Period**: Feb 2024
 - **Category**: safeguards-social
 
-### 48. Community Development Job Simulation
+### 49. Community Development Job Simulation
 - **Issuer**: Moreton Bay Regional Council / Forage
 - **Date / Period**: Feb 2024
 - **Category**: safeguards-social
 
-### 49. Project Management Essentials Certificate
+### 50. Project Management Essentials Certificate
 - **Issuer**: DisasterReady / Cornerstone OnDemand
 - **Date / Period**: Feb 2024
 - **Category**: project-leadership
 
-### 50. Social Network Analysis for Environmental Governance
+### 51. Social Network Analysis for Environmental Governance
 - **Issuer**: International Network for Social Network Analysis (INSNA)
 - **Date / Period**: Feb 2024
 - **Category**: marine-fisheries
 
-### 51. Acoustic Analysis in Kaleidoscope (Part 1): Getting Started
+### 52. Acoustic Analysis in Kaleidoscope (Part 1): Getting Started
 - **Issuer**: Wildlife Acoustics
 - **Date / Period**: Dec 2023
 - **Category**: marine-fisheries
 
-### 52. Navigating Data Privacy and Cybersecurity Risks: Insight for Investors
+### 53. Navigating Data Privacy and Cybersecurity Risks: Insight for Investors
 - **Issuer**: BrightTALK
 - **Date / Period**: Nov 2023
 - **Category**: safeguards-social
 
-### 53. Training on Monitoring and Evaluation for EnABLE Projects
+### 54. Training on Monitoring and Evaluation for EnABLE Projects
 - **Issuer**: World Bank Group
 - **Date / Period**: Nov 2023
 - **Category**: safeguards-social
 
-### 54. Conflict of Interest Risk Management for Your Project
+### 55. Conflict of Interest Risk Management for Your Project
 - **Issuer**: World Bank Group
 - **Date / Period**: Nov 2023
 - **Category**: safeguards-social
 
-### 55. Sustainability Training and E-Learning Program (STEP)
+### 56. Sustainability Training and E-Learning Program (STEP)
 - **Issuer**: World Bank Group
 - **Date / Period**: Nov 2023
 - **Category**: safeguards-social
 
-### 56. D3: Define, Develop, Deliver Leadership Framework
+### 57. D3: Define, Develop, Deliver Leadership Framework
 - **Issuer**: Professional Institution
 - **Date / Period**: Nov 2023
 - **Category**: project-leadership
 
-### 57. Climate Change and Sovereign Risk
+### 58. Climate Change and Sovereign Risk
 - **Issuer**: Asian Development Bank Institute (ADBI)
 - **Date / Period**: Nov 2023
 - **Category**: carbon-climate
 
-### 58. Measuring the Role of Forests and Trees in Household Welfare and Livelihoods
+### 59. Measuring the Role of Forests and Trees in Household Welfare and Livelihoods
 - **Issuer**: Food and Agriculture Organization (FAO)
 - **Date / Period**: Nov 2023
 - **Category**: safeguards-social
 
-### 59. Free, Prior, and Informed Consent (FPIC) in Practice
+### 60. Free, Prior, and Informed Consent (FPIC) in Practice
 - **Issuer**: Proforest Academy
 - **Date / Period**: Oct 2023
 - **Category**: safeguards-social
 
-### 60. Free, Prior, and Informed Consent (FPIC) - International Standards
+### 61. Free, Prior, and Informed Consent (FPIC) - International Standards
 - **Issuer**: Proforest Academy
 - **Date / Period**: Oct 2023
 - **Category**: safeguards-social
 
-### 61. Introduction to the Global Environment Facility (GEF)
+### 62. Introduction to the Global Environment Facility (GEF)
 - **Issuer**: World Bank Group & GEF
 - **Date / Period**: Oct 2023
 - **Category**: safeguards-social
 
-### 62. Ecosystem Approach to Fisheries Management (EAFM) Planning
+### 63. Ecosystem Approach to Fisheries Management (EAFM) Planning
 - **Issuer**: Food and Agriculture Organization (FAO)
 - **Date / Period**: Oct 2023
 - **Category**: marine-fisheries
 
-### 63. Training of Trainers (ToT) for ASC and IndoGAP Sustainable Aquaculture Standards
+### 64. Training of Trainers (ToT) for ASC and IndoGAP Sustainable Aquaculture Standards
 - **Issuer**: Politeknik AUP & Kementerian Kelautan dan Perikanan (KKP)
 - **Date / Period**: Sep 2023
 - **Category**: marine-fisheries
 
-### 64. Evaluating Fisheries Co-Management Effectiveness
+### 65. Evaluating Fisheries Co-Management Effectiveness
 - **Issuer**: Food and Agriculture Organization (FAO)
 - **Date / Period**: Sep 2023
 - **Category**: marine-fisheries
 
-### 65. Institutionalization of Forest Data and National Forest Monitoring
+### 66. Institutionalization of Forest Data and National Forest Monitoring
 - **Issuer**: Food and Agriculture Organization (FAO)
 - **Date / Period**: Aug 2023
 - **Category**: safeguards-social
 
-### 66. Assessing Marine Ecosystem Health with Copernicus Marine Data
+### 67. Assessing Marine Ecosystem Health with Copernicus Marine Data
 - **Issuer**: Copernicus Marine Service
 - **Date / Period**: Jul 2023
 - **Category**: marine-fisheries
 
-### 67. B20 Side Event: Technology & Market Innovation for Decarbonization
+### 68. B20 Side Event: Technology & Market Innovation for Decarbonization
 - **Issuer**: B20 Indonesia / KADIN
 - **Date / Period**: Aug 2022
 - **Category**: carbon-climate
 
-### 68. Youth Economic Leadership Program (YELP Batch VI)
+### 69. Youth Economic Leadership Program (YELP Batch VI)
 - **Issuer**: Bank Indonesia Institute
 - **Date / Period**: Jul 2022
 - **Category**: project-leadership
 
-### 69. Certified Remote Pilot (UAV / Drone Operator)
+### 70. Certified Remote Pilot (UAV / Drone Operator)
 - **Issuer**: Asosiasi Pilot Drone Indonesia (APDI)
 - **Date / Period**: Dec 2020
 - **Category**: hse-quality
 
-### 70. Internal Quality Auditor ISO 9001:2015, ISO 14001:2015 & ISO 45001:2018
+### 71. Internal Quality Auditor ISO 9001:2015, ISO 14001:2015 & ISO 45001:2018
 - **Issuer**: Worldwide Quality Assurance (WQA)
 - **Date / Period**: Dec 2018
 - **Category**: hse-quality
 
-### 71. Basic First Aid (BFA) Training
+### 72. Basic First Aid (BFA) Training
 - **Issuer**: Barron International
 - **Date / Period**: Aug 2014
 - **Category**: hse-quality
 
-### 72. Basic Sea Survival (BSS) Training
+### 73. Basic Sea Survival (BSS) Training
 - **Issuer**: Barron International
 - **Date / Period**: Aug 2014
 - **Category**: hse-quality
