@@ -44,6 +44,50 @@ console.log(`Found ${files.length} valid certificate files to process.`);
 
 // Comprehensive verified mapping for every certificate file in Certificate/
 const MASTER_MAPPINGS = {
+  'I Gede Mahendra Wijaya - Certificate (Paris Agreement course).pdf': {
+    en: 'Key Essentials: The Paris Agreement, Sustainable Development and the Law',
+    id: 'Prinsip Kunci: Perjanjian Paris, Pembangunan Berkelanjutan dan Hukum (The Paris Agreement, Sustainable Development and the Law)',
+    issuer: 'University of Cambridge, Bennett Institute for Public Policy, CEENRG & CISDL',
+    date: 'Oct 2026',
+    category: 'carbon-climate',
+    tags: ['University of Cambridge', 'Paris Agreement', 'Climate Law', 'Sustainable Development', 'CISDL', 'CEENRG'],
+    credentialUrl: 'https://www.cam.ac.uk/',
+    competencies: 'Paris Agreement Framework, International Climate Law, Sustainable Development Governance, Climate Mitigation Commitments, Treaty Implementation',
+    description: 'Specialized professional certificate of completion on the Paris Agreement, international climate governance, and sustainable development law, delivered by the University of Cambridge, the Bennett Institute for Public Policy, CEENRG, and the Centre for International Sustainable Development Law (CISDL) under Programme Director Prof. Marie-Claire Cordonier Segger.'
+  },
+  'I Gede Mahendra Wijaya - Certificate (Biodiversity course).pdf': {
+    en: 'Key Essentials: The Global Biodiversity Framework, Sustainable Development and the Law',
+    id: 'Prinsip Kunci: Kerangka Keanekaragaman Hayati Global, Pembangunan Berkelanjutan dan Hukum (The Global Biodiversity Framework and the Law)',
+    issuer: 'University of Cambridge, Bennett Institute for Public Policy, CEENRG & CISDL',
+    date: 'Oct 2026',
+    category: 'marine-fisheries',
+    tags: ['University of Cambridge', 'Global Biodiversity Framework', 'KMGBF', 'Biodiversity Law', 'CISDL', 'CEENRG'],
+    credentialUrl: 'https://www.cam.ac.uk/',
+    competencies: 'Kunming-Montreal Global Biodiversity Framework (KMGBF), International Biodiversity Law, Conservation Policy, Ecological Governance, Target Alignment',
+    description: 'Specialized short course certificate of completion on the Kunming-Montreal Global Biodiversity Framework (KMGBF), legal implementation, and sustainable development governance, awarded by the University of Cambridge, Bennett Institute for Public Policy, CEENRG, and CISDL.'
+  },
+  'I Gede Mahendra Wijaya - Certificate (CLGD).pdf': {
+    en: 'Biodiversity Law and Governance Day (Participation Certificate)',
+    id: 'Hari Hukum dan Tata Kelola Keanekaragaman Hayati (Biodiversity Law and Governance Day)',
+    issuer: 'University of Cambridge, CISDL, ADB & IUCN',
+    date: 'Oct 2026',
+    category: 'marine-fisheries',
+    tags: ['University of Cambridge', 'Biodiversity Law', 'Governance', 'IUCN', 'ADB', 'CISDL'],
+    credentialUrl: 'https://www.cam.ac.uk/',
+    competencies: 'Biodiversity Law, Global Biodiversity Framework, Nature Governance, International Environmental Treaties, Multilateral Conservation Mechanisms',
+    description: 'Certificate of participation in Biodiversity Law and Governance Day on 24 October 2026, convened by the University of Cambridge, CISDL, Asian Development Bank (ADB), and IUCN under Chair Prof. Marie-Claire Cordonier Segger.'
+  },
+  'I Gede Mahendra Wijaya - Certificate (SDGs course).pdf': {
+    en: 'Key Essentials: The Sustainable Development Goals and the Law',
+    id: 'Prinsip Kunci: Tujuan Pembangunan Berkelanjutan dan Hukum (The Sustainable Development Goals and the Law)',
+    issuer: 'University of Cambridge, Bennett Institute for Public Policy, CEENRG & CISDL',
+    date: 'Sep 2026',
+    category: 'carbon-climate',
+    tags: ['University of Cambridge', 'SDGs', 'Sustainable Development', 'International Law', 'CISDL', 'CEENRG'],
+    credentialUrl: 'https://www.cam.ac.uk/',
+    competencies: 'UN Sustainable Development Goals (SDGs), International Law for Sustainable Development, Policy Integration, Multilateral Environmental Agreements',
+    description: 'Specialized professional certificate of completion on the legal frameworks and policy implementation of the UN Sustainable Development Goals (SDGs), awarded by the University of Cambridge, Bennett Institute for Public Policy, CEENRG, and CISDL.'
+  },
   '202_Basics_of_Project-Level_GHG_Accounting.png': {
     en: '202 Basics of Project-Level GHG Accounting (Certificate of Proficiency)',
     id: 'Dasar-Dasar Akuntansi GRK Tingkat Proyek - 202 Basics of Project-Level GHG Accounting (Sertifikat Profisiensi)',

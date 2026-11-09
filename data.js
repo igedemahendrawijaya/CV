@@ -22,7 +22,7 @@ export const cvData = {
         "label": "Projects Completed"
       },
       {
-        "value": "73",
+        "value": "77",
         "label": "Certifications"
       },
       {
@@ -639,6 +639,60 @@ export const cvData = {
         "competencies": "Project-Level GHG Accounting, GHG Protocol Project Standard, ISO 14064-2, Baseline Setting, Additionality Assessment, Leakage Quantification, Monitoring & MRV Plan, Carbon Credit Crediting"
       },
       {
+        "name": "Key Essentials: The Global Biodiversity Framework, Sustainable Development and the Law",
+        "issuer": "University of Cambridge, Bennett Institute for Public Policy, CEENRG & CISDL",
+        "date": "Oct 2026",
+        "category": "marine-fisheries",
+        "tags": [
+          "University of Cambridge",
+          "Global Biodiversity Framework",
+          "KMGBF",
+          "Biodiversity Law",
+          "CISDL",
+          "CEENRG"
+        ],
+        "link": "certificates/I_Gede_Mahendra_Wijaya_-_Certificate_Biodiversity_course_.pdf",
+        "credentialUrl": "https://www.cam.ac.uk/",
+        "description": "Specialized short course certificate of completion on the Kunming-Montreal Global Biodiversity Framework (KMGBF), legal implementation, and sustainable development governance, awarded by the University of Cambridge, Bennett Institute for Public Policy, CEENRG, and CISDL.",
+        "competencies": "Kunming-Montreal Global Biodiversity Framework (KMGBF), International Biodiversity Law, Conservation Policy, Ecological Governance, Target Alignment"
+      },
+      {
+        "name": "Biodiversity Law and Governance Day (Participation Certificate)",
+        "issuer": "University of Cambridge, CISDL, ADB & IUCN",
+        "date": "Oct 2026",
+        "category": "marine-fisheries",
+        "tags": [
+          "University of Cambridge",
+          "Biodiversity Law",
+          "Governance",
+          "IUCN",
+          "ADB",
+          "CISDL"
+        ],
+        "link": "certificates/I_Gede_Mahendra_Wijaya_-_Certificate_CLGD_.pdf",
+        "credentialUrl": "https://www.cam.ac.uk/",
+        "description": "Certificate of participation in Biodiversity Law and Governance Day on 24 October 2026, convened by the University of Cambridge, CISDL, Asian Development Bank (ADB), and IUCN under Chair Prof. Marie-Claire Cordonier Segger.",
+        "competencies": "Biodiversity Law, Global Biodiversity Framework, Nature Governance, International Environmental Treaties, Multilateral Conservation Mechanisms"
+      },
+      {
+        "name": "Key Essentials: The Paris Agreement, Sustainable Development and the Law",
+        "issuer": "University of Cambridge, Bennett Institute for Public Policy, CEENRG & CISDL",
+        "date": "Oct 2026",
+        "category": "carbon-climate",
+        "tags": [
+          "University of Cambridge",
+          "Paris Agreement",
+          "Climate Law",
+          "Sustainable Development",
+          "CISDL",
+          "CEENRG"
+        ],
+        "link": "certificates/I_Gede_Mahendra_Wijaya_-_Certificate_Paris_Agreement_course_.pdf",
+        "credentialUrl": "https://www.cam.ac.uk/",
+        "description": "Specialized professional certificate of completion on the Paris Agreement, international climate governance, and sustainable development law, delivered by the University of Cambridge, the Bennett Institute for Public Policy, CEENRG, and the Centre for International Sustainable Development Law (CISDL) under Programme Director Prof. Marie-Claire Cordonier Segger.",
+        "competencies": "Paris Agreement Framework, International Climate Law, Sustainable Development Governance, Climate Mitigation Commitments, Treaty Implementation"
+      },
+      {
         "name": "Operationalizing Article 6.2 of the Paris Agreement: Achieving Ambitious Climate Action Through Cooperative Approaches",
         "issuer": "United Nations Development Programme (UNDP), UNFCCC & Learning for Nature",
         "date": "Oct 2026",
@@ -707,6 +761,24 @@ export const cvData = {
         "credentialUrl": "https://www.learningfornature.org/en/courses/climate-finance-transparency/",
         "description": "Professional certification developed by the Initiative for Climate Action Transparency (ICAT) on Learning for Nature. Comprehensive training on establishing national climate finance tracking frameworks, assessing financial needs for mitigation and adaptation, mapping climate finance flows, and aligning with the Paris Agreement's Enhanced Transparency Framework (ETF).",
         "competencies": "Climate Finance Tracking, Enhanced Transparency Framework (ETF), Article 9 & 13 Paris Agreement, Climate Finance Needs Assessment, Climate Finance Mobilization, Transparency Metrics & MRV"
+      },
+      {
+        "name": "Key Essentials: The Sustainable Development Goals and the Law",
+        "issuer": "University of Cambridge, Bennett Institute for Public Policy, CEENRG & CISDL",
+        "date": "Sep 2026",
+        "category": "carbon-climate",
+        "tags": [
+          "University of Cambridge",
+          "SDGs",
+          "Sustainable Development",
+          "International Law",
+          "CISDL",
+          "CEENRG"
+        ],
+        "link": "certificates/I_Gede_Mahendra_Wijaya_-_Certificate_SDGs_course_.pdf",
+        "credentialUrl": "https://www.cam.ac.uk/",
+        "description": "Specialized professional certificate of completion on the legal frameworks and policy implementation of the UN Sustainable Development Goals (SDGs), awarded by the University of Cambridge, Bennett Institute for Public Policy, CEENRG, and CISDL.",
+        "competencies": "UN Sustainable Development Goals (SDGs), International Law for Sustainable Development, Policy Integration, Multilateral Environmental Agreements"
       },
       {
         "name": "Biodiversity Finance: Designing and Implementing Finance Plans for Nature",
@@ -2524,7 +2596,7 @@ export const cvData = {
         "label": "Proyek Selesai"
       },
       {
-        "value": "73",
+        "value": "77",
         "label": "Sertifikasi"
       },
       {
@@ -3141,6 +3213,60 @@ export const cvData = {
         "competencies": "Project-Level GHG Accounting, GHG Protocol Project Standard, ISO 14064-2, Baseline Setting, Additionality Assessment, Leakage Quantification, Monitoring & MRV Plan, Carbon Credit Crediting"
       },
       {
+        "name": "Prinsip Kunci: Kerangka Keanekaragaman Hayati Global, Pembangunan Berkelanjutan dan Hukum (The Global Biodiversity Framework and the Law)",
+        "issuer": "University of Cambridge, Bennett Institute for Public Policy, CEENRG & CISDL",
+        "date": "Oct 2026",
+        "category": "marine-fisheries",
+        "tags": [
+          "University of Cambridge",
+          "Global Biodiversity Framework",
+          "KMGBF",
+          "Biodiversity Law",
+          "CISDL",
+          "CEENRG"
+        ],
+        "link": "certificates/I_Gede_Mahendra_Wijaya_-_Certificate_Biodiversity_course_.pdf",
+        "credentialUrl": "https://www.cam.ac.uk/",
+        "description": "Specialized short course certificate of completion on the Kunming-Montreal Global Biodiversity Framework (KMGBF), legal implementation, and sustainable development governance, awarded by the University of Cambridge, Bennett Institute for Public Policy, CEENRG, and CISDL.",
+        "competencies": "Kunming-Montreal Global Biodiversity Framework (KMGBF), International Biodiversity Law, Conservation Policy, Ecological Governance, Target Alignment"
+      },
+      {
+        "name": "Hari Hukum dan Tata Kelola Keanekaragaman Hayati (Biodiversity Law and Governance Day)",
+        "issuer": "University of Cambridge, CISDL, ADB & IUCN",
+        "date": "Oct 2026",
+        "category": "marine-fisheries",
+        "tags": [
+          "University of Cambridge",
+          "Biodiversity Law",
+          "Governance",
+          "IUCN",
+          "ADB",
+          "CISDL"
+        ],
+        "link": "certificates/I_Gede_Mahendra_Wijaya_-_Certificate_CLGD_.pdf",
+        "credentialUrl": "https://www.cam.ac.uk/",
+        "description": "Certificate of participation in Biodiversity Law and Governance Day on 24 October 2026, convened by the University of Cambridge, CISDL, Asian Development Bank (ADB), and IUCN under Chair Prof. Marie-Claire Cordonier Segger.",
+        "competencies": "Biodiversity Law, Global Biodiversity Framework, Nature Governance, International Environmental Treaties, Multilateral Conservation Mechanisms"
+      },
+      {
+        "name": "Prinsip Kunci: Perjanjian Paris, Pembangunan Berkelanjutan dan Hukum (The Paris Agreement, Sustainable Development and the Law)",
+        "issuer": "University of Cambridge, Bennett Institute for Public Policy, CEENRG & CISDL",
+        "date": "Oct 2026",
+        "category": "carbon-climate",
+        "tags": [
+          "University of Cambridge",
+          "Paris Agreement",
+          "Climate Law",
+          "Sustainable Development",
+          "CISDL",
+          "CEENRG"
+        ],
+        "link": "certificates/I_Gede_Mahendra_Wijaya_-_Certificate_Paris_Agreement_course_.pdf",
+        "credentialUrl": "https://www.cam.ac.uk/",
+        "description": "Specialized professional certificate of completion on the Paris Agreement, international climate governance, and sustainable development law, delivered by the University of Cambridge, the Bennett Institute for Public Policy, CEENRG, and the Centre for International Sustainable Development Law (CISDL) under Programme Director Prof. Marie-Claire Cordonier Segger.",
+        "competencies": "Paris Agreement Framework, International Climate Law, Sustainable Development Governance, Climate Mitigation Commitments, Treaty Implementation"
+      },
+      {
         "name": "Operasionalisasi Pasal 6.2 Perjanjian Paris: Pencapaian Aksi Iklim Ambisius Melalui Pendekatan Kooperatif (Article 6.2 Operationalization)",
         "issuer": "United Nations Development Programme (UNDP), UNFCCC & Learning for Nature",
         "date": "Oct 2026",
@@ -3209,6 +3335,24 @@ export const cvData = {
         "credentialUrl": "https://www.learningfornature.org/en/courses/climate-finance-transparency/",
         "description": "Professional certification developed by the Initiative for Climate Action Transparency (ICAT) on Learning for Nature. Comprehensive training on establishing national climate finance tracking frameworks, assessing financial needs for mitigation and adaptation, mapping climate finance flows, and aligning with the Paris Agreement's Enhanced Transparency Framework (ETF).",
         "competencies": "Climate Finance Tracking, Enhanced Transparency Framework (ETF), Article 9 & 13 Paris Agreement, Climate Finance Needs Assessment, Climate Finance Mobilization, Transparency Metrics & MRV"
+      },
+      {
+        "name": "Prinsip Kunci: Tujuan Pembangunan Berkelanjutan dan Hukum (The Sustainable Development Goals and the Law)",
+        "issuer": "University of Cambridge, Bennett Institute for Public Policy, CEENRG & CISDL",
+        "date": "Sep 2026",
+        "category": "carbon-climate",
+        "tags": [
+          "University of Cambridge",
+          "SDGs",
+          "Sustainable Development",
+          "International Law",
+          "CISDL",
+          "CEENRG"
+        ],
+        "link": "certificates/I_Gede_Mahendra_Wijaya_-_Certificate_SDGs_course_.pdf",
+        "credentialUrl": "https://www.cam.ac.uk/",
+        "description": "Specialized professional certificate of completion on the legal frameworks and policy implementation of the UN Sustainable Development Goals (SDGs), awarded by the University of Cambridge, Bennett Institute for Public Policy, CEENRG, and CISDL.",
+        "competencies": "UN Sustainable Development Goals (SDGs), International Law for Sustainable Development, Policy Integration, Multilateral Environmental Agreements"
       },
       {
         "name": "Keuangan Keanekaragaman Hayati: Perancangan dan Implementasi Rencana Pembiayaan untuk Alam (Biodiversity Finance)",
