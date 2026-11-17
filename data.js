@@ -22,7 +22,7 @@ export const cvData = {
         "label": "Projects Completed"
       },
       {
-        "value": "77",
+        "value": "78",
         "label": "Certifications"
       },
       {
@@ -620,6 +620,42 @@ export const cvData = {
     ],
     "certificates": [
       {
+        "name": "Plastics Treaty Assist Toolkit: Baselines and Monitoring (Online Course Certificate)",
+        "issuer": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+        "date": "Nov 2026",
+        "category": "marine-fisheries",
+        "tags": [
+          "GIZ",
+          "Plastics Treaty",
+          "Baselines & Monitoring",
+          "Marine Litter",
+          "Pollution Monitoring",
+          "Global Plastics Treaty"
+        ],
+        "link": "certificates/0237482415IW.pdf",
+        "credentialUrl": "https://www.giz.de/",
+        "description": "Specialized online training certification on national plastic pollution baselines, material flow monitoring, and policy assessment tools under the Plastics Treaty Assist Toolkit, issued by the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.",
+        "competencies": "Global Plastics Treaty (INC Process), Plastic Pollution Baselines & Monitoring, Material Flow Analysis, Marine Litter Assessment, Circular Economy Policy"
+      },
+      {
+        "name": "Green Economic Acceleration: A Japan–ASEAN Strategic Programme for Sustainable Green Finance (Phase I)",
+        "issuer": "United Nations Institute for Training and Research (UNITAR)",
+        "date": "Nov 2026",
+        "category": "carbon-climate",
+        "tags": [
+          "UNITAR",
+          "Green Finance",
+          "Climate Policy",
+          "Sustainable Finance",
+          "Japan-ASEAN",
+          "Green Economy"
+        ],
+        "link": "certificates/certificate_2026111253153.pdf",
+        "credentialUrl": "https://unitar.org/",
+        "description": "Advanced executive training certification issued by the United Nations Institute for Training and Research (UNITAR) under UN Assistant Secretary-General Michelle Gyles-McDonnough. Rigorous curriculum covering sustainable green finance frameworks, ESG investment strategies, green economic acceleration, and Japan–ASEAN climate mitigation mechanisms.",
+        "competencies": "Sustainable Green Finance, Green Economic Acceleration, ESG Investment Principles, Japan–ASEAN Climate Mechanisms, Climate Finance Mobilization, Sustainable Transition Policy"
+      },
+      {
         "name": "202 Basics of Project-Level GHG Accounting (Certificate of Proficiency)",
         "issuer": "The Greenhouse Gas Management Institute (GHGMI)",
         "date": "Oct 2026",
@@ -1016,18 +1052,6 @@ export const cvData = {
         "credentialUrl": "https://alison.com/course/introduction-to-modern-project-management-theory-and-practice",
         "description": "CPD-certified professional course on modern project management methodologies from Alison, covering project lifecycle phases, project charter & WBS development, risk management frameworks, Agile & predictive delivery, and stakeholder engagement.",
         "competencies": "Modern Project Management, Project Lifecycle Planning, Agile & Waterfall Methodologies, Work Breakdown Structure (WBS), Risk & Stakeholder Management, Resource Scheduling"
-      },
-      {
-        "name": "Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance",
-        "issuer": "United Nations Institute for Training and Research (UNITAR)",
-        "date": "Jul 2026",
-        "category": "carbon-climate",
-        "tags": [
-          "UNITAR",
-          "Green Finance",
-          "Climate Policy"
-        ],
-        "link": null
       },
       {
         "name": "Blue Carbon Project Development & MRV Specialist Training",
@@ -2596,7 +2620,7 @@ export const cvData = {
         "label": "Proyek Selesai"
       },
       {
-        "value": "77",
+        "value": "78",
         "label": "Sertifikasi"
       },
       {
@@ -3194,6 +3218,42 @@ export const cvData = {
     ],
     "certificates": [
       {
+        "name": "Toolkit Pendukung Perjanjian Plastik: Rona Awal dan Pemantauan (Plastics Treaty Assist Toolkit - Baselines & Monitoring)",
+        "issuer": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+        "date": "Nov 2026",
+        "category": "marine-fisheries",
+        "tags": [
+          "GIZ",
+          "Plastics Treaty",
+          "Baselines & Monitoring",
+          "Marine Litter",
+          "Pollution Monitoring",
+          "Global Plastics Treaty"
+        ],
+        "link": "certificates/0237482415IW.pdf",
+        "credentialUrl": "https://www.giz.de/",
+        "description": "Specialized online training certification on national plastic pollution baselines, material flow monitoring, and policy assessment tools under the Plastics Treaty Assist Toolkit, issued by the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.",
+        "competencies": "Global Plastics Treaty (INC Process), Plastic Pollution Baselines & Monitoring, Material Flow Analysis, Marine Litter Assessment, Circular Economy Policy"
+      },
+      {
+        "name": "Akselerasi Ekonomi Hijau: Program Strategis Jepang–ASEAN untuk Keuangan Hijau Berkelanjutan Tahap I (Green Economic Acceleration)",
+        "issuer": "United Nations Institute for Training and Research (UNITAR)",
+        "date": "Nov 2026",
+        "category": "carbon-climate",
+        "tags": [
+          "UNITAR",
+          "Green Finance",
+          "Climate Policy",
+          "Sustainable Finance",
+          "Japan-ASEAN",
+          "Green Economy"
+        ],
+        "link": "certificates/certificate_2026111253153.pdf",
+        "credentialUrl": "https://unitar.org/",
+        "description": "Advanced executive training certification issued by the United Nations Institute for Training and Research (UNITAR) under UN Assistant Secretary-General Michelle Gyles-McDonnough. Rigorous curriculum covering sustainable green finance frameworks, ESG investment strategies, green economic acceleration, and Japan–ASEAN climate mitigation mechanisms.",
+        "competencies": "Sustainable Green Finance, Green Economic Acceleration, ESG Investment Principles, Japan–ASEAN Climate Mechanisms, Climate Finance Mobilization, Sustainable Transition Policy"
+      },
+      {
         "name": "Dasar-Dasar Akuntansi GRK Tingkat Proyek - 202 Basics of Project-Level GHG Accounting (Sertifikat Profisiensi)",
         "issuer": "The Greenhouse Gas Management Institute (GHGMI)",
         "date": "Oct 2026",
@@ -3590,18 +3650,6 @@ export const cvData = {
         "credentialUrl": "https://alison.com/course/introduction-to-modern-project-management-theory-and-practice",
         "description": "CPD-certified professional course on modern project management methodologies from Alison, covering project lifecycle phases, project charter & WBS development, risk management frameworks, Agile & predictive delivery, and stakeholder engagement.",
         "competencies": "Modern Project Management, Project Lifecycle Planning, Agile & Waterfall Methodologies, Work Breakdown Structure (WBS), Risk & Stakeholder Management, Resource Scheduling"
-      },
-      {
-        "name": "Akselerasi Ekonomi Hijau: Program Strategis Jepang-ASEAN untuk Keuangan Hijau Berkelanjutan",
-        "issuer": "United Nations Institute for Training and Research (UNITAR)",
-        "date": "Jul 2026",
-        "category": "carbon-climate",
-        "tags": [
-          "UNITAR",
-          "Green Finance",
-          "Climate Policy"
-        ],
-        "link": null
       },
       {
         "name": "Pelatihan Spesialis Pengembangan Proyek Karbon Biru & MRV (PDD Module 3)",

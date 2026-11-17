@@ -44,6 +44,28 @@ console.log(`Found ${files.length} valid certificate files to process.`);
 
 // Comprehensive verified mapping for every certificate file in Certificate/
 const MASTER_MAPPINGS = {
+  'certificate_2026111253153.pdf': {
+    en: 'Green Economic Acceleration: A Japan–ASEAN Strategic Programme for Sustainable Green Finance (Phase I)',
+    id: 'Akselerasi Ekonomi Hijau: Program Strategis Jepang–ASEAN untuk Keuangan Hijau Berkelanjutan Tahap I (Green Economic Acceleration)',
+    issuer: 'United Nations Institute for Training and Research (UNITAR)',
+    date: 'Nov 2026',
+    category: 'carbon-climate',
+    tags: ['UNITAR', 'Green Finance', 'Climate Policy', 'Sustainable Finance', 'Japan-ASEAN', 'Green Economy'],
+    credentialUrl: 'https://unitar.org/',
+    competencies: 'Sustainable Green Finance, Green Economic Acceleration, ESG Investment Principles, Japan–ASEAN Climate Mechanisms, Climate Finance Mobilization, Sustainable Transition Policy',
+    description: 'Advanced executive training certification issued by the United Nations Institute for Training and Research (UNITAR) under UN Assistant Secretary-General Michelle Gyles-McDonnough. Rigorous curriculum covering sustainable green finance frameworks, ESG investment strategies, green economic acceleration, and Japan–ASEAN climate mitigation mechanisms.'
+  },
+  '0237482415IW.pdf': {
+    en: 'Plastics Treaty Assist Toolkit: Baselines and Monitoring (Online Course Certificate)',
+    id: 'Toolkit Pendukung Perjanjian Plastik: Rona Awal dan Pemantauan (Plastics Treaty Assist Toolkit - Baselines & Monitoring)',
+    issuer: 'Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH',
+    date: 'Nov 2026',
+    category: 'marine-fisheries',
+    tags: ['GIZ', 'Plastics Treaty', 'Baselines & Monitoring', 'Marine Litter', 'Pollution Monitoring', 'Global Plastics Treaty'],
+    credentialUrl: 'https://www.giz.de/',
+    competencies: 'Global Plastics Treaty (INC Process), Plastic Pollution Baselines & Monitoring, Material Flow Analysis, Marine Litter Assessment, Circular Economy Policy',
+    description: 'Specialized online training certification on national plastic pollution baselines, material flow monitoring, and policy assessment tools under the Plastics Treaty Assist Toolkit, issued by the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH.'
+  },
   'I Gede Mahendra Wijaya - Certificate (Paris Agreement course).pdf': {
     en: 'Key Essentials: The Paris Agreement, Sustainable Development and the Law',
     id: 'Prinsip Kunci: Perjanjian Paris, Pembangunan Berkelanjutan dan Hukum (The Paris Agreement, Sustainable Development and the Law)',
@@ -629,14 +651,6 @@ const ADDITIONAL_MASTER_TRAININGS = [
     credentialUrl: 'https://alison.com/course/introduction-to-modern-project-management-theory-and-practice',
     competencies: 'Modern Project Management, Project Lifecycle Planning, Agile & Waterfall Methodologies, Work Breakdown Structure (WBS), Risk & Stakeholder Management, Resource Scheduling',
     description: 'CPD-certified professional course on modern project management methodologies from Alison, covering project lifecycle phases, project charter & WBS development, risk management frameworks, Agile & predictive delivery, and stakeholder engagement.'
-  },
-  {
-    en: 'Green Economic Acceleration: A Japan-ASEAN Strategic Programme for Sustainable Green Finance',
-    id: 'Akselerasi Ekonomi Hijau: Program Strategis Jepang-ASEAN untuk Keuangan Hijau Berkelanjutan',
-    issuer: 'United Nations Institute for Training and Research (UNITAR)',
-    date: 'Jul 2026',
-    category: 'carbon-climate',
-    tags: ['UNITAR', 'Green Finance', 'Climate Policy']
   },
   {
     en: 'Carbon Credits Project Fundamentals',
