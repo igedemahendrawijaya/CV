@@ -1,6 +1,6 @@
 # I GEDE MAHENDRA WIJAYA
 **Marine Environmental Specialist | Carbon & Fisheries Management | Coastal & Ocean Governance**  
-[LinkedIn](https://linkedin.com/in/gmwijaya) | [Project Portofolio](https://gedemahendraw.github.io/) | [ORCID: 0000-0003-2312-7031](https://orcid.org/0000-0003-2312-7031)  
+[LinkedIn](https://linkedin.com/in/gmwijaya) | [Project Portfolio](https://gedemahendraw.github.io/) | [ORCID: 0000-0003-2312-7031](https://orcid.org/0000-0003-2312-7031)  
 Denpasar, Bali, Indonesia | Email: [gedemahendrawijaya@gmail.com](mailto:gedemahendrawijaya@gmail.com) | Phone: [+62 812 9742 9227](https://wa.me/6281297429227)
 
 ---
